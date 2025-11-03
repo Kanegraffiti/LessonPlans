@@ -6,9 +6,9 @@ WEEKLY OVERVIEW
 
 | CLASS | TOPIC | CONTENT |
 |-------|-------|---------|
-| JSS 1 | Historical Development of Computers | Mechanical counting and calculating devices |
-| JSS 2 | Operating Systems | Definition, examples, and functions of operating systems |
-| JSS 3 | Computer Career Opportunities | Functions of major computer professional bodies |
+| JSS 1 | Historical Development of Computers | Electro-mechanical counting devices |
+| JSS 2 | Number System | Types of number systems used in computing |
+| JSS 3 | Computer Viruses | Meaning and types of computer viruses |
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -18,50 +18,50 @@ DETAILED LESSON PLAN – JSS 1
 - **Duration:** 45 minutes
 - **Period:** First
 - **Topic:** Historical Development of Computers
-- **Subtopic:** Mechanical Counting and Calculating Devices
-- **Reference Materials:** NERDC Information Technology for Junior Secondary Schools; Computer Studies for Nigerian Schools JSS 1; Internet articles on mechanical calculators
-- **Instructional Materials:** Pictures or models of abacus, Napier’s bones, Pascaline, and difference engine; video clips; improvised counting frame
-- **Entry Behaviour:** Pupils have heard of simple counting devices like the abacus.
+- **Subtopic:** Electro-Mechanical Counting Devices
+- **Reference Materials:** NERDC Information Technology for JSS 1; History of Computing Textbook; Encyclopedia of Early Computing Devices
+- **Instructional Materials:** Pictures of early devices (Abacus, Pascaline, Leibniz Wheel), replica of a mechanical calculator, timeline chart, short video on historical devices
+- **Entry Behaviour:** Pupils can name basic modern computing devices like calculators and smartphones.
 - **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
-  1. Describe mechanical counting devices used before electronic computers.
-  2. State the inventors and years of key mechanical devices.
-  3. Explain how the abacus, Napier’s bones, and Pascaline performed calculations.
-  4. Demonstrate simple counting using an abacus or improvised counting frame.
-  5. Discuss how mechanical devices led to more advanced computing machines.
+  1. Define electro-mechanical counting devices.
+  2. Identify at least four historical electro-mechanical devices.
+  3. Describe how each device works to perform calculations.
+  4. Explain the importance of these devices to modern computing development.
+  5. Arrange selected devices on a timeline showing their period of invention.
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays pictures of mechanical devices and asks pupils to identify any they recognise.
+**Step 1 – Introduction:** Teacher displays pictures of old counting devices and asks pupils to compare them with modern calculators.
 
-**Step 2 – Presentation:** Teacher narrates the development of mechanical devices beginning with the abacus, Napier’s bones, Pascaline, and Charles Babbage’s difference engine.
+**Step 2 – Presentation:** Teacher explains that electro-mechanical devices use both mechanical parts and electrical components to perform calculations.
 
-**Step 3 – Explanation:** Teacher explains the working principles of each device, highlighting how they used rods, gears, or wheels to perform addition, subtraction, and multiplication.
+**Step 3 – Explanation:** Teacher discusses devices such as the Abacus, Pascaline, Leibniz Calculator, and Hollerith Tabulating Machine, describing their inventors, features, and operations.
 
-**Step 4 – Application:** Pupils handle an abacus or counting frame to solve simple addition problems; selected pupils demonstrate to the class.
+**Step 4 – Application:** Pupils work in groups to place device cards on a timeline and summarise how each device improved calculation speed and accuracy.
 
-**Step 5 – Evaluation:** Teacher asks pupils to name two mechanical devices, their inventors, and one function each performed.
+**Step 5 – Evaluation:** Teacher asks pupils to define electro-mechanical devices, name examples, and state their contributions to computer history.
 
 ### Content Summary
 
-1. **Mechanical counting devices** such as the **abacus**, **Napier’s bones**, **Pascaline**, and the **difference engine** helped people calculate before electronic computers.
-2. These devices used **beads, rods, gears, and wheels** to carry out arithmetic operations like addition and subtraction.
-3. Inventors like **John Napier**, **Blaise Pascal**, and **Charles Babbage** improved calculation speed and accuracy.
-4. Mechanical devices paved the way for **electromechanical** and **electronic** computers.
+1. **Electro-mechanical counting devices** combine mechanical movements with electrical components to process numbers.
+2. Early devices include the **Abacus**, **Pascaline**, **Leibniz Wheel**, and **Hollerith Tabulating Machine**.
+3. These devices improved **speed**, **accuracy**, and **data handling**, laying foundations for modern computers.
+4. Understanding their evolution helps pupils appreciate how technology has progressed over time.
 
 ### Conclusion
 
-Teacher links mechanical devices to the evolution of modern computers and emphasises their historical importance.
+Teacher emphasises that modern computers owe their development to early inventors of counting devices.
 
 ### Student Lesson Notes
 
-- The **abacus** is a frame with beads used for counting and simple calculations.
-- **Napier’s bones** used numbered rods to multiply and divide quickly.
-- The **Pascaline** had gears that turned to add and subtract numbers.
-- Charles Babbage’s **difference engine** could automatically tabulate numbers, leading to modern computing ideas.
+- Electro-mechanical devices use **mechanical parts** and **electric power** for calculations.
+- Examples are **Abacus**, **Pascaline**, **Leibniz Calculator**, and **Hollerith Tabulating Machine**.
+- They made calculations **faster**, **more accurate**, and **easier** for people and industries.
+- Knowing this history helps us value innovation in technology.
 
 ### Assignment
 
-Draw and label any two mechanical calculating devices and write one use of each.
+Draw a timeline showing four electro-mechanical counting devices, their inventors, and the year they were created.
 
 
 DETAILED LESSON PLAN – JSS 2
@@ -71,102 +71,102 @@ DETAILED LESSON PLAN – JSS 2
 - **Class:** JSS 2
 - **Duration:** 45 minutes
 - **Period:** Second
-- **Topic:** Operating Systems
-- **Subtopic:** Definition, Examples, and Functions of Operating Systems
-- **Reference Materials:** NERDC Information Technology for Junior Secondary Schools JSS 2; Computer Studies for Nigerian Schools; Operating Systems textbooks and manuals
-- **Instructional Materials:** Laptop or desktop computer, projector, charts showing operating system logos, screenshots of operating system interfaces
-- **Entry Behaviour:** Students have used mobile phones or computers and can mention system names like Windows or Android.
+- **Topic:** Number System
+- **Subtopic:** Types of Number Systems Used in Computing
+- **Reference Materials:** NERDC Information Technology for JSS 2; Digital Logic Design Textbook; Computing Fundamentals Workbook
+- **Instructional Materials:** Base conversion charts, number system flashcards, interactive base conversion software, worksheets
+- **Entry Behaviour:** Students can count numbers using the decimal system and have been introduced to binary digits.
 - **Behavioural Objectives:** By the end of the lesson, students should be able to:
-  1. Define an operating system clearly.
-  2. List at least five examples of operating systems across devices.
-  3. Explain three major functions of an operating system.
-  4. Identify operating system interfaces from screenshots or live demonstration.
-  5. Describe how operating systems manage hardware, software, and user interaction.
+  1. Define a number system and identify base values.
+  2. List different number systems relevant to computing.
+  3. Convert numbers between decimal and binary, octal, or hexadecimal bases.
+  4. Explain why computers use binary representation.
+  5. Solve simple class exercises involving mixed base conversions.
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays a powered-on computer and asks students what makes the computer respond to user commands.
+**Step 1 – Introduction:** Teacher writes numbers in decimal, binary, and hexadecimal forms on the board and asks students to spot differences.
 
-**Step 2 – Presentation:** Teacher defines an operating system as the main software that manages computer hardware and software resources.
+**Step 2 – Presentation:** Teacher defines a number system as a set of symbols and rules for representing numbers and explains base values.
 
-**Step 3 – Explanation:** Teacher lists examples of operating systems such as Windows, macOS, Linux, Android, iOS, and Chrome OS, explaining where each is used.
+**Step 3 – Explanation:** Teacher describes decimal (base 10), binary (base 2), octal (base 8), and hexadecimal (base 16) systems, highlighting symbols and place values.
 
-**Step 4 – Application:** Teacher demonstrates how the operating system manages files, runs applications, and handles input/output; students identify the functions being carried out.
+**Step 4 – Application:** Students practise converting numbers between bases using worksheets and digital tools; teacher guides them through worked examples.
 
-**Step 5 – Evaluation:** Teacher asks students to define an operating system, name examples, and state its functions.
+**Step 5 – Evaluation:** Teacher gives quick oral questions on identifying bases and converting simple numbers to check understanding.
 
 ### Content Summary
 
-1. An **operating system (OS)** is software that controls computer hardware, runs applications, and manages user interaction.
-2. Examples include **Windows, macOS, Linux, Android, iOS, and Chrome OS**.
-3. Major functions: **managing hardware resources**, **providing a user interface**, **running and coordinating application software**, and **handling file management and security**.
-4. Without an OS, computer hardware cannot function effectively for users.
+1. A **number system** is a method of representing numbers using symbols and positional values.
+2. Computing uses **decimal**, **binary**, **octal**, and **hexadecimal** systems.
+3. Binary is used by computers because it matches the **two-state (on/off)** nature of electronic circuits.
+4. Conversion between systems follows **place value rules** and **division or multiplication methods**.
 
 ### Conclusion
 
-Teacher summarises that the operating system is the backbone of every computer system and mobile device.
+Teacher stresses that understanding number systems is essential for learning computer programming and data representation.
 
 ### Student Lesson Notes
 
-- An **operating system** makes the computer work by linking hardware with applications.
-- Examples are **Windows**, **macOS**, **Linux**, **Android**, **iOS**, and **Chrome OS**.
-- The OS **manages memory and devices**, **provides menus and icons**, **runs programs**, and **protects files**.
-- Every digital device needs an OS to function properly.
+- A **number system** uses symbols and rules to represent values.
+- Important systems in computing are **decimal**, **binary**, **octal**, and **hexadecimal**.
+- Computers use **binary** because electronic circuits work with two states.
+- We convert numbers by using **division, multiplication, and place values**.
 
 ### Assignment
 
-List five devices you use daily and write the operating system each device uses, if known.
+Convert the following numbers: (a) 45₁₀ to binary, (b) 110101₂ to decimal, (c) 157₈ to decimal, (d) 2F₁₆ to decimal.
 
 
 DETAILED LESSON PLAN – JSS 3
 -----------------------------
 
-- **Date:** Friday, 3rd October 2025
+- **Date:** Thursday, 2nd October 2025
 - **Class:** JSS 3
 - **Duration:** 45 minutes
 - **Period:** Third
-- **Topic:** Computer Career Opportunities
-- **Subtopic:** Functions of Major Computer Professional Bodies
-- **Reference Materials:** NERDC Information Technology for JSS 3; Computer Studies for Junior Secondary Schools; Internet resources on ICT professional bodies
-- **Instructional Materials:** Charts or slides showing logos of professional bodies (NCS, CPN, NITDA, IEEE, ACM); information sheets; short video clips
-- **Entry Behaviour:** Students know some careers in computing like programming and networking.
+- **Topic:** Computer Viruses
+- **Subtopic:** Meaning and Types of Computer Viruses
+- **Reference Materials:** NERDC Information Technology for JSS 3; Computer Security Basics Textbook; Antivirus Software Manuals
+- **Instructional Materials:** Virus classification chart, screenshots of infected systems, antivirus software demo, case study handouts
+- **Entry Behaviour:** Students have used school computers and understand the importance of saving files safely.
 - **Behavioural Objectives:** By the end of the lesson, students should be able to:
-  1. Identify major computer professional bodies in Nigeria and internationally.
-  2. Describe the primary functions of each professional body.
-  3. Explain how professional bodies support computer practitioners and the ICT industry.
-  4. State the benefits of joining professional bodies for career development.
-  5. Appreciate ethical standards promoted by professional bodies.
+  1. Define a computer virus.
+  2. Identify at least five types of computer viruses.
+  3. Explain how each virus type spreads and affects computer systems.
+  4. Suggest preventive measures against virus infections.
+  5. Analyse a case study to recommend solutions for infected systems.
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher shows logos of professional bodies and asks students if they recognise any of them.
+**Step 1 – Introduction:** Teacher narrates a scenario where a school computer lab experiences slow performance and missing files, asking students for possible causes.
 
-**Step 2 – Presentation:** Teacher lists professional bodies such as the Nigeria Computer Society (NCS), Computer Professionals Registration Council of Nigeria (CPN), National Information Technology Development Agency (NITDA), Institute of Electrical and Electronics Engineers (IEEE), and Association for Computing Machinery (ACM).
+**Step 2 – Presentation:** Teacher defines a computer virus as a malicious program that replicates itself and damages or alters computer operations.
 
-**Step 3 – Explanation:** Teacher explains the functions of each body: setting standards, regulating practitioners, promoting research, offering training, and protecting the public.
+**Step 3 – Explanation:** Teacher discusses virus types such as file infector, boot sector, macro, polymorphic, worm, and Trojan horse, outlining their characteristics and effects.
 
-**Step 4 – Application:** Students work in groups to research one assigned professional body using provided information sheets and present the functions to the class.
+**Step 4 – Application:** Students examine case studies of virus attacks, identify virus types, and propose appropriate preventive or corrective actions.
 
-**Step 5 – Evaluation:** Teacher quizzes students on the names and functions of the professional bodies discussed.
+**Step 5 – Evaluation:** Teacher asks students to define viruses, name types, and explain protection methods.
 
 ### Content Summary
 
-1. **Professional bodies** organise people working in computer careers and set standards for practice.
-2. **NCS** promotes IT development in Nigeria; **CPN** regulates computer professionals; **NITDA** formulates IT policies; **IEEE** supports global technology innovations; **ACM** advances computing research and education.
-3. Functions include **certification**, **training**, **research support**, **policy development**, and **ethical guidance**.
-4. Membership benefits practitioners through **networking**, **professional recognition**, and **career growth**.
+1. A **computer virus** is a malicious program that can replicate and spread across computers, causing harm or data loss.
+2. Virus types include **file infector**, **boot sector**, **macro**, **polymorphic**, **worm**, and **Trojan horse** programs.
+3. Viruses spread through **infected files**, **removable media**, **internet downloads**, and **email attachments**.
+4. Prevention methods: **install antivirus software**, **update systems**, **avoid suspicious links**, **scan storage devices**, and **back up data**.
 
 ### Conclusion
 
-Teacher encourages students to aspire to join professional bodies as they pursue ICT careers.
+Teacher highlights that informed users follow safe computing practices to prevent virus attacks.
 
 ### Student Lesson Notes
 
-- Professional bodies guide and control the practice of computer professionals.
-- Examples include **NCS, CPN, NITDA, IEEE, and ACM**.
-- They **set standards**, **provide training**, **support research**, **regulate members**, and **promote ethics**.
-- Belonging to a professional body improves **career opportunities** and **public trust**.
+- A **computer virus** is a harmful program that spreads and damages systems.
+- Types include **file infectors**, **boot sector viruses**, **macro viruses**, **worms**, and **Trojan horses**.
+- Viruses spread through **infected files**, **removable media**, and **unsafe internet activities**.
+- Protection methods include **antivirus software**, **regular updates**, **safe browsing**, and **data backups**.
 
 ### Assignment
 
-Create a chart listing five computer professional bodies, their country or region, and one major function of each.
+Write a report describing three virus incidents you have heard about, the virus types involved, and how each could have been prevented.
