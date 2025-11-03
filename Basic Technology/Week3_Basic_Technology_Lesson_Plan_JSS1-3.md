@@ -6,9 +6,9 @@ WEEKLY OVERVIEW
 
 | CLASS | TOPIC | CONTENT |
 |-------|-------|---------|
-| JSS 1 | Safety Guidelines | Safety guidelines for cyclists and motorcyclists |
-| JSS 2 | Rescue Operations | Securing environment, vehicles, and victims; rescue steps |
-| JSS 3 | Processing of Materials (Metals) | Metal processing methods with advantages and disadvantages |
+| JSS 1 | Safety Guidelines | Safety guidelines for pedestrians |
+| JSS 2 | Rescue Operations | Meaning and different aspects of rescue operations |
+| JSS 3 | Processing of Materials – Timber | Importance, treatment, and proper storage of timber |
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -18,50 +18,50 @@ DETAILED LESSON PLAN – JSS 1
 - **Duration:** 45 minutes
 - **Period:** First
 - **Topic:** Safety Guidelines
-- **Subtopic:** Safety Guidelines for Cyclists and Motorcyclists
-- **Reference Materials:** NERDC Basic Technology for JSS 1; FRSC Road Safety Manual; Nigerian Highway Code for Cyclists and Motorcyclists
-- **Instructional Materials:** Bicycle and motorcycle models, safety gear (helmet, reflective vest, gloves), road sign charts, video clip showing safe riding practices
-- **Entry Behaviour:** Pupils have seen cyclists and motorcyclists in their communities and may have ridden bicycles before.
+- **Subtopic:** Safety Guidelines for Pedestrians
+- **Reference Materials:** NERDC Basic Technology for JSS 1; Federal Road Safety Corps (FRSC) Pedestrian Safety Manual; Community Road Safety Posters
+- **Instructional Materials:** Zebra crossing chart, pedestrian traffic light model, reflective vests, road sign flashcards, short safety video clip
+- **Entry Behaviour:** Pupils have walked along roads to school and can identify basic road signs.
 - **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
-  1. List protective equipment required for safe cycling and motorcycling.
-  2. Explain traffic rules and signals important to riders.
-  3. Describe pre-ride safety checks for bicycles and motorcycles.
-  4. Demonstrate safe riding behaviours such as signalling and lane discipline.
-  5. State consequences of ignoring safety guidelines on the road.
+  1. State the meaning of a pedestrian.
+  2. List at least five safety rules pedestrians must obey.
+  3. Demonstrate how to use a zebra crossing and pedestrian bridge correctly.
+  4. Explain why reflective clothing and attentive behaviour are important for pedestrians.
+  5. Outline steps to take when walking on roads without sidewalks.
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays safety gear and asks pupils why riders need each item.
+**Step 1 – Introduction:** Teacher displays road sign flashcards and asks pupils to share their experiences walking on busy roads.
 
-**Step 2 – Presentation:** Teacher explains that safety guidelines help riders avoid accidents and protect lives.
+**Step 2 – Presentation:** Teacher explains that pedestrians are road users who travel on foot and require specific safety guidelines.
 
-**Step 3 – Explanation:** Teacher outlines key guidelines: wearing helmets and protective clothing, checking brakes, tyres, and lights, obeying traffic signs, avoiding over-speeding, and not carrying excess passengers.
+**Step 3 – Explanation:** Teacher discusses guidelines such as walking on sidewalks, facing oncoming traffic when there is no sidewalk, using pedestrian crossings, obeying traffic lights, avoiding distractions, and wearing reflective materials at night.
 
-**Step 4 – Application:** Pupils work in pairs to inspect a bicycle model, identify safety features, and role-play hand signals for turning and stopping.
+**Step 4 – Application:** Pupils practise crossing a mock zebra crossing in groups, checking both directions, and signalling vehicles to stop before crossing.
 
-**Step 5 – Evaluation:** Teacher questions pupils on safety gear, traffic rules, and pre-ride checks.
+**Step 5 – Evaluation:** Teacher asks pupils to list safety rules, demonstrate correct crossing, and explain why pedestrians must stay alert.
 
 ### Content Summary
 
-1. Cyclists and motorcyclists must wear **helmets**, **gloves**, **knee/elbow pads**, and **reflective vests** for visibility and protection.
-2. Pre-ride checks include **tyre pressure**, **brakes**, **lights**, **horn**, and **fuel level** (for motorcycles).
-3. Riders must **obey traffic signs**, **keep to their lanes**, **use hand or indicator signals**, and **avoid dangerous overtaking**.
-4. Ignoring safety rules can cause **accidents**, **injuries**, **fines**, and **loss of life**.
+1. A **pedestrian** is a person who travels on foot along roads and paths.
+2. Key safety rules include **using sidewalks**, **looking left-right-left before crossing**, **obeying pedestrian signals**, **using bridges**, and **avoiding distractions** like phones or loud music.
+3. Pedestrians should wear **bright or reflective clothing** at night and walk **facing oncoming traffic** where sidewalks are absent.
+4. Following safety guidelines prevents **accidents**, **injuries**, and **loss of life**.
 
 ### Conclusion
 
-Teacher emphasises that disciplined riders keep themselves and other road users safe.
+Teacher reinforces that careful pedestrians protect themselves and other road users.
 
 ### Student Lesson Notes
 
-- Riders wear **helmets**, **reflective vests**, and **gloves** for protection.
-- Check **tyres**, **brakes**, and **lights** before every ride.
-- Always **obey traffic rules**, **use signals**, and **avoid overloading or stunts**.
-- Safe riding prevents accidents and keeps families secure.
+- Pedestrians are **people who walk** on or near the road.
+- Walk on the **sidewalk** or the **left side facing traffic** if there is no sidewalk.
+- Use **zebra crossings**, **pedestrian bridges**, and **traffic lights** correctly.
+- Stay **alert**, avoid distractions, and wear **reflective materials** at night.
 
 ### Assignment
 
-List five safety guidelines for cyclists or motorcyclists and explain how each prevents accidents.
+Write five pedestrian safety rules and explain how each rule prevents accidents.
 
 
 DETAILED LESSON PLAN – JSS 2
@@ -72,50 +72,50 @@ DETAILED LESSON PLAN – JSS 2
 - **Duration:** 45 minutes
 - **Period:** Second
 - **Topic:** Rescue Operations
-- **Subtopic:** Securing the Environment, Vehicles, and Victims
-- **Reference Materials:** NERDC Basic Technology for JSS 2; Red Cross First Aid Manual; Emergency Response Field Guide
-- **Instructional Materials:** Rescue operation flowchart, hazard warning signs, first aid box, role-play props (cones, ropes, blankets)
-- **Entry Behaviour:** Students have knowledge of emergency numbers and basic first aid from previous lessons.
+- **Subtopic:** Meaning of Rescue Operations and Different Aspects of Rescue Operations
+- **Reference Materials:** NERDC Basic Technology for JSS 2; Red Cross First Aid Manual; National Emergency Management Agency (NEMA) Field Guide
+- **Instructional Materials:** Rescue operation flowchart, emergency response posters, first aid box, role-play props (cones, ropes, stretchers)
+- **Entry Behaviour:** Students are familiar with emergency phone numbers and basic first aid procedures from previous lessons.
 - **Behavioural Objectives:** By the end of the lesson, students should be able to:
-  1. Outline steps for securing an accident environment before a rescue.
-  2. Describe procedures for securing vehicles involved in an accident.
-  3. Explain how to stabilise and protect victims during rescue operations.
-  4. Demonstrate coordination of tasks among team members in a rescue scenario.
-  5. Evaluate the importance of safety for rescuers and victims during operations.
+  1. Define rescue operations.
+  2. Identify different aspects or stages of rescue operations.
+  3. Describe the roles of rescue team members in each aspect.
+  4. Outline safety precautions for rescuers and victims during operations.
+  5. Perform a simple role-play illustrating at least two aspects of rescue operations.
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher narrates a road accident scenario and asks students what should be done first before rescuers assist victims.
+**Step 1 – Introduction:** Teacher narrates a scenario of a building collapse and asks students how rescuers save trapped victims.
 
-**Step 2 – Presentation:** Teacher introduces the three areas of rescue security: the environment, the vehicle, and the victim.
+**Step 2 – Presentation:** Teacher defines rescue operations as organised efforts to save people from danger or distress situations.
 
-**Step 3 – Explanation:** Teacher details steps such as placing warning signs, switching off vehicle engines, applying hand brakes, checking for fuel leaks, approaching victims carefully, providing first aid, and calling emergency services.
+**Step 3 – Explanation:** Teacher explains aspects such as assessment of the scene, securing the environment, actual rescue (extrication), first aid and stabilisation, and evacuation or transportation of victims. Teacher also highlights communication and coordination among agencies.
 
-**Step 4 – Application:** Students perform a role-play rescue drill, assigning tasks for securing the scene, stabilising vehicles, and caring for victims, while the teacher provides feedback.
+**Step 4 – Application:** Students perform a role-play rescue drill, assigning teams to assess hazards, secure the area, remove victims safely, and provide basic first aid while communicating effectively.
 
-**Step 5 – Evaluation:** Teacher questions students on the order of actions and the reasons for each step.
+**Step 5 – Evaluation:** Teacher questions students on the meaning of rescue operations, stages involved, and safety measures to observe.
 
 ### Content Summary
 
-1. **Securing the environment** involves **assessing dangers**, **placing warning signs**, **diverting traffic**, and **wearing protective gear**.
-2. **Securing vehicles** means **switching off engines**, **pulling hand brakes**, **checking for leaks**, and **stabilising with wedges or blocks**.
-3. **Securing victims** includes **quick assessment**, **basic first aid**, **keeping victims warm**, and **waiting for professionals**.
-4. Teamwork and communication keep rescuers safe and make operations efficient.
+1. **Rescue operations** are planned actions taken to save lives and prevent further harm during emergencies.
+2. Key aspects include **scene assessment**, **environment security**, **victim extrication**, **first aid/stabilisation**, and **evacuation** to medical facilities.
+3. Effective rescue work requires **teamwork**, **clear communication**, **use of protective equipment**, and **coordination** with emergency agencies.
+4. Safety precautions protect both **rescuers** and **victims** from additional injury.
 
 ### Conclusion
 
-Teacher reminds students that orderliness and safety precautions reduce further injuries during rescues.
+Teacher stresses that well-organised rescue operations reduce casualties and speed up recovery.
 
 ### Student Lesson Notes
 
-- Always **secure the scene** by warning other road users and removing hazards.
-- Turn off the vehicle, apply brakes, and look for **fuel leaks** before touching victims.
-- Give **basic first aid**, keep victims calm, and wait for trained professionals.
-- Teamwork and protective equipment protect both rescuers and victims.
+- Rescue operations are **organised efforts** to save people from danger.
+- Stages include **assessing the scene**, **securing the area**, **rescuing victims**, **giving first aid**, and **evacuating to safety**.
+- Team members must **communicate**, wear **protective gear**, and follow **safety rules**.
+- Quick, coordinated action saves lives and prevents more harm.
 
 ### Assignment
 
-Describe the steps you would take to secure the environment, vehicle, and victims if a minibus has an accident near your school.
+Explain how you would participate in a rescue operation if a flood affects your community. Mention three aspects of the operation and your role.
 
 
 DETAILED LESSON PLAN – JSS 3
@@ -125,48 +125,48 @@ DETAILED LESSON PLAN – JSS 3
 - **Class:** JSS 3
 - **Duration:** 45 minutes
 - **Period:** Third
-- **Topic:** Processing of Materials (Metals)
-- **Subtopic:** Metal Processing Methods and Their Advantages and Disadvantages
-- **Reference Materials:** NERDC Basic Technology for JSS 3; Workshop Technology Textbook; Metalworking Processes Manual
-- **Instructional Materials:** Charts showing metal processing methods, samples of cast and forged objects, videos of metal workshops, comparative analysis worksheets
-- **Entry Behaviour:** Students have seen metal objects such as cooking pots, car parts, and tools.
+- **Topic:** Processing of Materials – Timber
+- **Subtopic:** Importance of Timber, Treatment of Timber, and Importance of Proper Storage
+- **Reference Materials:** NERDC Basic Technology for JSS 3; Woodwork Technology for Junior Secondary Schools; Forestry Commission Pamphlets
+- **Instructional Materials:** Samples of seasoned and unseasoned wood, diagrams of timber storage racks, preservative cans, pictures showing timber defects
+- **Entry Behaviour:** Students can mention common wooden objects used at home and in school.
 - **Behavioural Objectives:** By the end of the lesson, students should be able to:
-  1. Identify major metal processing methods used in industries.
-  2. Describe steps involved in casting, forging, machining, and welding.
-  3. Analyse advantages and disadvantages of each processing method.
-  4. Match common products to appropriate metal processing techniques.
-  5. Suggest safety precautions required during metal processing activities.
+  1. State at least four uses of timber in everyday life.
+  2. Explain reasons for treating timber before use.
+  3. Describe methods of timber treatment.
+  4. Discuss the importance of proper timber storage.
+  5. Differentiate between well-stored and poorly stored timber using given examples.
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher shows samples of cast pots and forged spanners and asks students how the objects were formed.
+**Step 1 – Introduction:** Teacher displays timber samples and asks students to identify items around them made from wood.
 
-**Step 2 – Presentation:** Teacher introduces the main metal processing methods: casting, forging, machining, rolling, and welding.
+**Step 2 – Presentation:** Teacher explains that timber is processed wood used for building, furniture, and other products, and needs proper treatment and storage to remain durable.
 
-**Step 3 – Explanation:** Teacher explains each method, highlighting processes, equipment, advantages, and disadvantages (e.g., casting produces complex shapes but may have porosity).
+**Step 3 – Explanation:** Teacher discusses importance (construction, furniture, flooring, tools), treatment methods (seasoning, chemical preservatives, painting, varnishing), and reasons for treatment (prevent decay, insect attack, warping). Teacher also highlights proper storage practices such as stacking on raised platforms, spacing for air circulation, and protecting from moisture and sunlight.
 
-**Step 4 – Application:** Students complete a worksheet matching products to processing methods and list pros and cons; groups present their findings.
+**Step 4 – Application:** Students examine timber samples to identify signs of good treatment and storage, then create a checklist for proper timber handling in the workshop.
 
-**Step 5 – Evaluation:** Teacher asks students to mention processing methods, describe steps, and discuss pros and cons.
+**Step 5 – Evaluation:** Teacher asks students to list uses of timber, describe treatment methods, and explain why proper storage matters.
 
 ### Content Summary
 
-1. Metal processing methods include **casting**, **forging**, **machining**, **rolling**, and **welding**.
-2. **Casting** forms complex shapes but may have **shrinkage defects**; **forging** improves strength but needs **skilled labour**; **machining** gives precise finish but produces **waste**; **rolling** makes uniform sheets but requires **expensive mills**; **welding** joins metals but joints may **weaken under stress** if poorly done.
-3. Safety precautions: **wear protective gear**, **handle hot metals carefully**, **use proper ventilation**, and **follow workshop rules**.
-4. Choosing the right method depends on **product shape**, **strength requirements**, **cost**, and **production volume**.
+1. **Timber** is processed wood used for **buildings**, **furniture**, **flooring**, **doors**, and **tools**.
+2. Timber is treated through **seasoning**, **chemical preservation**, **painting**, or **varnishing** to prevent **decay**, **insect attack**, and **warping**.
+3. Proper storage involves **stacking on raised supports**, **providing air spaces**, **keeping timber dry**, and **shielding from direct sun or rain**.
+4. Good treatment and storage extend the **life**, **strength**, and **appearance** of timber products.
 
 ### Conclusion
 
-Teacher stresses that understanding metal processes helps students choose suitable methods for manufacturing tasks.
+Teacher concludes that treated and well-stored timber remains strong, safe, and attractive for longer periods.
 
 ### Student Lesson Notes
 
-- Metals can be processed by **casting, forging, machining, rolling, and welding**.
-- Each method has strengths and weaknesses; for example, casting creates complex shapes while forging increases strength.
-- Safety gear like **gloves, goggles, and aprons** protects workers from heat and sparks.
-- Selecting a process depends on the **shape**, **strength**, and **quantity** of the product.
+- **Timber** comes from trees and is used for **houses**, **furniture**, and **wooden tools**.
+- We treat timber by **seasoning**, **painting**, or using **preservatives** to stop insects and rot.
+- Store timber on **raised racks**, keep it **dry**, and allow **air to flow** between planks.
+- Proper treatment and storage make timber **last long** and **look good**.
 
 ### Assignment
 
-Create a table listing five metal products around you. State the likely processing method used for each and one advantage of the chosen method.
+Visit a carpenter’s workshop or timber shed in your area. Note three treatment methods and three storage practices used to keep timber in good condition.
