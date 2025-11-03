@@ -51,6 +51,13 @@ DETAILED LESSON PLAN – JSS 1
 
 The teacher revises key points on sanitation and encourages pupils to practice good cleaning habits at home.
 
+### Student Lesson Notes
+
+- **Sanitation** means keeping our homes, classrooms, and surroundings clean so that germs cannot grow.
+- A **germ** is a tiny living thing that causes sickness; cleaning and washing stop germs from spreading.
+- We clean to **prevent diseases**, make places **comfortable to live in**, and keep everyone **safe and healthy**.
+- Common sanitation methods include **sweeping floors**, **mopping with clean water**, **washing hands with soap**, **packing refuse into covered bins**, and **clearing gutters or drains** so water can flow freely.
+
 ### Assignment
 
 Write in your notebooks five sanitation tools used at home and state one use for each.
@@ -97,6 +104,13 @@ DETAILED LESSON PLAN – JSS 2
 
 Teacher reviews main ideas on habitats and adaptations and urges students to observe living things around their environments.
 
+### Student Lesson Notes
+
+- A **habitat** is the natural home of a plant or animal where it finds food, water, air, and shelter.
+- Examples of habitats are **forest** (many trees and animals), **desert** (hot, dry land with little water), **freshwater** (rivers and ponds), **marine** (seas and oceans), and **arboreal** (tree tops where animals like monkeys live).
+- An **adaptation** is a special body part or behaviour that helps a living thing survive in its habitat, such as **camel humps storing fat**, **duck webbed feet for swimming**, **cactus spines reducing water loss**, or **fish gills for breathing in water**.
+- Living things must match their adaptations to the right habitat so that they can get what they need and stay alive.
+
 ### Assignment
 
 List three organisms that live in each of the following habitats: forest, desert, and freshwater. Describe one adaptation for each organism.
@@ -142,6 +156,14 @@ DETAILED LESSON PLAN – JSS 3
 ### Conclusion
 
 Teacher summarises the meaning of family traits, dominant traits, and recessive traits, encouraging students to discuss their findings with their families.
+
+### Student Lesson Notes
+
+- **Family traits** are physical or behavioural features passed from parents to children, such as eye colour or dimples.
+- A **dominant trait** is a strong trait that shows even if it comes from only one parent. Examples: free earlobes, the ability to roll the tongue, dimples.
+- A **recessive trait** is a hidden trait that shows only when it is received from both parents. Examples: attached earlobes, straight hairline, inability to roll the tongue.
+- **Genes** are tiny instructions inside cells that carry traits from parents to children and decide whether a trait is dominant or recessive.
+- Members of the same family can look alike or different because they receive different combinations of genes from their parents.
 
 ### Assignment
 
