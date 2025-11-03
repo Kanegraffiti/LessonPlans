@@ -6,9 +6,9 @@ WEEKLY OVERVIEW
 
 | CLASS | TOPIC | CONTENT |
 |-------|-------|---------|
-| JSS 1 | Family Health – Balanced Diet | Definition, importance, and components of a balanced diet |
-| JSS 2 | Living Things – Habitat Relationships | Common characteristics of organisms sharing the same habitat |
-| JSS 3 | Family Traits – Genealogy | Importance of family traits and tracing family lineage |
+| JSS 1 | Family Health – Drug Abuse | Definition of drug abuse and its effects on the body |
+| JSS 2 | Living Things – Common Features | Characteristics organisms share in the same habitat |
+| JSS 3 | Environmental Hazards (I) – Erosion | Definition, causes, and control of soil erosion |
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -17,51 +17,51 @@ DETAILED LESSON PLAN – JSS 1
 - **Class:** JSS 1
 - **Duration:** 45 minutes
 - **Period:** First
-- **Topic:** Family Health – Balanced Diet
-- **Subtopic:** Definition, Importance, and Components of a Balanced Diet
-- **Reference Materials:** NERDC Basic Science and Technology for JSS 1; MAN Basic Science Textbook; Family Health for Junior Secondary Schools
-- **Instructional Materials:** Food samples or pictures, balanced diet chart, food pyramid poster, flashcards showing nutrient classes
-- **Entry Behaviour:** Pupils eat meals at home and can mention foods they like.
+- **Topic:** Family Health – Drug Abuse
+- **Subtopic:** Definition of Drug Abuse and Its Effects on the Body
+- **Reference Materials:** NERDC Basic Science and Technology for JSS 1; Family and Personal Health Text for Junior Secondary; WHO Drug Education Pamphlets
+- **Instructional Materials:** Charts showing common drugs, pictures of healthy vs. unhealthy individuals, flashcards with drug abuse terms, short video clip on drug misuse
+- **Entry Behaviour:** Pupils have heard about medicines and painkillers used at home or in the community.
 - **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
-  1. Define a balanced diet clearly.
-  2. State at least four importance of eating a balanced diet.
-  3. List the six main components of a balanced diet with local examples.
-  4. Group sample foods under their correct nutrient classes during class activity.
-  5. Explain briefly how an unbalanced diet affects family health.
+  1. Define the term drug and drug abuse correctly.
+  2. Identify at least four examples of drugs commonly abused by young people.
+  3. Mention five harmful effects of drug abuse on individuals and families.
+  4. Suggest practical ways pupils can avoid drug abuse in their environment.
+  5. Demonstrate refusal skills through role-play scenarios about peer pressure.
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays pictures of different family meals and asks pupils to identify the foods and say whether the meals look complete or incomplete.
+**Step 1 – Introduction:** Teacher displays pictures of medicines and illegal substances, asking pupils to explain the difference between using drugs properly and abusing them.
 
-**Step 2 – Presentation:** Teacher defines a balanced diet as a meal that contains the right amounts of all food nutrient classes needed by the body daily.
+**Step 2 – Presentation:** Teacher defines a drug as any substance that changes how the body works and explains drug abuse as using drugs without medical advice, taking wrong doses, or using banned substances.
 
-**Step 3 – Explanation:** Teacher discusses the components of a balanced diet – carbohydrates, proteins, fats and oils, vitamins, minerals, and water – and highlights examples of local foods that supply each nutrient.
+**Step 3 – Explanation:** Teacher discusses examples of abused drugs (codeine syrups, tramadol, inhalants, cannabis) and explains effects such as addiction, poor school performance, damaged organs, violence, and family breakdown.
 
-**Step 4 – Application:** Pupils, in groups, arrange sample foods or pictures under the correct nutrient headings and explain why each item belongs there.
+**Step 4 – Application:** In groups, pupils role-play peer-pressure situations and practise saying “no” using refusal skills and support from trusted adults.
 
-**Step 5 – Evaluation:** Teacher asks pupils to define a balanced diet, mention four importance of balanced diets, and list the six components.
+**Step 5 – Evaluation:** Teacher asks pupils to define drug abuse, list examples of abused drugs, and state effects on individuals and families.
 
 ### Content Summary
 
-1. A **balanced diet** is a meal that contains the right quantities of all the six classes of food nutrients.
-2. Components of a balanced diet are **carbohydrates**, **proteins**, **fats and oils**, **vitamins**, **minerals**, and **water**.
-3. Importance of balanced diets: **support growth**, **provide energy**, **build and repair tissues**, **protect against diseases**, and **help the body work properly**.
-4. Unbalanced diets can cause **malnutrition**, **weakness**, **slow growth**, and **illnesses** in family members.
+1. A **drug** is any substance that alters how the body works; **drug abuse** means using drugs wrongly or taking illegal substances.
+2. Examples of commonly abused drugs include **codeine cough syrups**, **tramadol**, **glue or inhalants**, and **cannabis**.
+3. Effects of drug abuse: **addiction**, **brain and liver damage**, **poor academic performance**, **violence**, and **broken family relationships**.
+4. Pupils can avoid drug abuse by **following medical instructions**, **staying away from bad company**, **seeking help from trusted adults**, and **joining healthy school clubs**.
 
 ### Conclusion
 
-Teacher emphasises that healthy families plan meals to include all nutrient classes each day.
+Teacher emphasises that a healthy family guides children to use medicines properly and stay away from harmful substances.
 
 ### Student Lesson Notes
 
-- A **balanced diet** means eating the right amounts of every nutrient class each day.
-- The nutrient classes are **carbohydrates, proteins, fats and oils, vitamins, minerals, and water**.
-- Balanced diets keep us **strong**, **active**, **free from disease**, and **able to grow well**.
-- When we skip nutrient classes often, the family may suffer from **malnutrition** or frequent sickness.
+- **Drug abuse** is the wrong or excessive use of drugs and substances that harm the body.
+- Abused drugs include **codeine mixtures**, **tramadol tablets**, **glue**, and **cannabis**.
+- Effects include **addiction**, **weak body organs**, **poor behaviour**, and **family problems**.
+- We should **obey doctors’ instructions**, **avoid bad influence**, and **speak up for help** to prevent drug abuse.
 
 ### Assignment
 
-Write out two examples of balanced meals you can eat in one day and state the main nutrients each meal supplies.
+Write five effects of drug abuse on teenagers and suggest one way each effect can be prevented.
 
 
 DETAILED LESSON PLAN – JSS 2
@@ -71,102 +71,102 @@ DETAILED LESSON PLAN – JSS 2
 - **Class:** JSS 2
 - **Duration:** 45 minutes
 - **Period:** Second
-- **Topic:** Living Things – Habitat Relationships
-- **Subtopic:** Characteristics Organisms Share Within the Same Habitat
-- **Reference Materials:** NERDC Basic Science and Technology for JSS 2; STAN Basic Science Book 2; Illustrated Guide to Ecosystems
-- **Instructional Materials:** Charts of forest, aquatic, and grassland habitats; video clips of organisms in their homes; specimens or models of local plants and animals
-- **Entry Behaviour:** Students know that living things need food, shelter, and water to survive.
+- **Topic:** Living Things – Common Features
+- **Subtopic:** Characteristics Organisms Share in the Same Habitat
+- **Reference Materials:** NERDC Basic Science and Technology for JSS 2; Illustrated Ecology Textbook; Field Study Guide on Habitats
+- **Instructional Materials:** Habitat charts (pond, forest, desert), specimen models or pictures, magnifying glasses, comparison worksheets
+- **Entry Behaviour:** Students can already list some living and non-living things found around their school environment.
 - **Behavioural Objectives:** By the end of the lesson, students should be able to:
-  1. State what a habitat is and give examples.
-  2. Describe three characteristics organisms living in the same habitat often share.
-  3. Explain why organisms in the same habitat may have similar needs and behaviours.
-  4. Compare organisms from different habitats and point out similarities and differences.
-  5. Discuss how shared characteristics promote survival within a habitat.
+  1. Define a habitat and give at least three examples.
+  2. Describe four characteristics organisms in the same habitat share.
+  3. Explain why similar adaptations help organisms survive together.
+  4. Compare two habitats and state similarities and differences among their organisms.
+  5. Summarise findings from a group investigation about habitat adaptations.
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays habitat charts and asks students to identify organisms living in each habitat.
+**Step 1 – Introduction:** Teacher shows habitat charts and asks students to identify the organisms found in each scene.
 
-**Step 2 – Presentation:** Teacher reviews the meaning of habitat as the natural home of an organism and lists examples such as forest, river, desert, and savannah.
+**Step 2 – Presentation:** Teacher reviews the meaning of a habitat as the natural home where an organism finds food, shelter, water, and mates.
 
-**Step 3 – Explanation:** Teacher explains that organisms sharing a habitat often have common characteristics like similar body coverings, feeding styles, reproductive patterns, and responses to environmental conditions.
+**Step 3 – Explanation:** Teacher explains shared characteristics such as body coverings (scales, fur), feeding styles (grazing, filter feeding), breathing methods, and behavioural patterns suited to the habitat.
 
-**Step 4 – Application:** Students work in groups to analyse habitat cards; they list at least three characteristics organisms in that habitat have in common and present findings to the class.
+**Step 4 – Application:** Groups select a habitat card, list four organisms there, and record the common features that help each survive; groups present findings to the class.
 
-**Step 5 – Evaluation:** Teacher asks students to describe characteristics organisms share in the same habitat and why these characteristics are important.
+**Step 5 – Evaluation:** Teacher asks students to describe shared features of organisms in one habitat and explain how the features aid survival.
 
 ### Content Summary
 
-1. A **habitat** is where an organism naturally lives and obtains its food, water, shelter, and mates.
-2. Organisms in the same habitat share characteristics such as **similar body structures** (e.g., fish with fins), **feeding patterns** (e.g., grazing animals in grasslands), and **behavioural responses** (e.g., nocturnal animals in deserts).
-3. Shared characteristics help organisms to **survive**, **reproduce**, and **avoid predators** within their environment.
-4. Differences in habitats result in different adaptations; comparing habitats shows why organisms look and behave differently.
+1. A **habitat** is the natural home of an organism where it gets all it needs to live.
+2. Organisms in the same habitat share features like **body coverings**, **feeding patterns**, **breathing organs**, and **behavioural routines**.
+3. These common characteristics help organisms **survive**, **reproduce**, and **avoid danger** within their environment.
+4. Comparing habitats shows that different environments produce different adaptations.
 
 ### Conclusion
 
-Teacher highlights that a habitat shapes the features and behaviours organisms have in common.
+Teacher highlights that habitats shape the structure and behaviour of organisms living together.
 
 ### Student Lesson Notes
 
-- A **habitat** is the natural home of a living thing.
-- Organisms in the same habitat often have **similar body coverings**, **ways of getting food**, and **behaviours** that suit the environment.
-- These common characteristics help them **survive the weather**, **find food**, and **raise their young** successfully.
-- When the habitat changes, organisms may need to adjust or move to survive.
+- A **habitat** is where an organism naturally lives and finds its needs.
+- Organisms in the same habitat often have similar **body coverings**, **ways of feeding**, and **behaviours**.
+- Shared characteristics help them **cope with weather**, **find food**, and **raise their young**.
+- When a habitat changes, organisms must **adapt, migrate, or may die** if they cannot cope.
 
 ### Assignment
 
-Choose any habitat around you and describe three organisms that live there, mentioning one characteristic they share that helps them survive.
+Choose a habitat near your community and list four organisms found there, stating one common feature they share that suits the habitat.
 
 
 DETAILED LESSON PLAN – JSS 3
 -----------------------------
 
-- **Date:** Friday, 3rd October 2025
+- **Date:** Thursday, 2nd October 2025
 - **Class:** JSS 3
 - **Duration:** 45 minutes
 - **Period:** Third
-- **Topic:** Family Traits – Genealogy
-- **Subtopic:** Importance of Family Traits and Tracing Family Lineage
-- **Reference Materials:** NERDC Basic Science and Technology for JSS 3; Genetics for Junior Secondary Schools; Family Health Education Texts
-- **Instructional Materials:** Family tree chart, photographs of family members, trait survey worksheets, video clip on heredity
-- **Entry Behaviour:** Students know that children often resemble their parents or relatives.
+- **Topic:** Environmental Hazards (I) – Erosion
+- **Subtopic:** Definition, Causes, and Control of Soil Erosion
+- **Reference Materials:** NERDC Basic Science and Technology for JSS 3; Environmental Management Textbook; Ministry of Environment Pamphlets on Soil Conservation
+- **Instructional Materials:** Pictures of eroded land, soil samples, charts showing erosion control methods, short documentary clip on erosion
+- **Entry Behaviour:** Students have seen gullies or washed-out areas after heavy rainfall in their communities.
 - **Behavioural Objectives:** By the end of the lesson, students should be able to:
-  1. Explain the meaning of family traits and genealogy.
-  2. State at least four importance of recognising family traits.
-  3. Draw a simple family tree showing traits passed down generations.
-  4. Discuss how knowledge of family traits aids health and personal decisions.
-  5. Appreciate the role of genealogy in preserving family history and culture.
+  1. Define erosion accurately.
+  2. Identify at least five causes of soil erosion in their locality.
+  3. Describe different types of soil erosion with examples.
+  4. Suggest practical methods of controlling soil erosion at home and in school.
+  5. Evaluate the effectiveness of erosion control measures used in case studies.
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher shows a sample family tree and asks students to identify common physical traits among family members.
+**Step 1 – Introduction:** Teacher displays photographs of eroded farmlands and roads, asking students what they notice and how erosion affects people.
 
-**Step 2 – Presentation:** Teacher defines family traits as inherited features passed from parents to children and explains genealogy as the study of family lineage.
+**Step 2 – Presentation:** Teacher defines soil erosion as the removal and washing away of the topsoil by agents like water, wind, or human activities.
 
-**Step 3 – Explanation:** Teacher discusses the importance of family traits in understanding heredity, detecting hereditary diseases, preserving cultural identity, and strengthening family bonds.
+**Step 3 – Explanation:** Teacher discusses causes including heavy rainfall, deforestation, overgrazing, poor farming methods, construction without drainage, and natural slope of the land.
 
-**Step 4 – Application:** Students use trait survey worksheets to record traits in their families and sketch a simple family tree indicating how traits appear across generations.
+**Step 4 – Application:** Students analyse case studies of eroded sites, identify causes, and propose control measures such as planting cover crops, building terraces, constructing drainage channels, and practising contour ploughing.
 
-**Step 5 – Evaluation:** Teacher asks students to mention the importance of family traits and describe how genealogy helps families.
+**Step 5 – Evaluation:** Teacher asks students to define erosion, state causes, and list control measures for local environments.
 
 ### Content Summary
 
-1. **Family traits** are inherited features such as eye colour, blood group, dimples, or talents passed from parents to children.
-2. **Genealogy** is the study of family history and how different generations are linked.
-3. Importance of knowing family traits includes **predicting hereditary conditions**, **planning for personal health**, **preserving culture**, and **strengthening family identity**.
-4. Drawing a **family tree** helps record how traits and relationships pass from one generation to another.
+1. **Soil erosion** is the wearing away and movement of topsoil by water, wind, or human actions.
+2. Causes include **heavy rainfall**, **deforestation**, **overgrazing**, **poor farming practices**, **construction without drainage**, and **natural slopes**.
+3. Types of erosion include **sheet erosion**, **rill erosion**, and **gully erosion**; each removes soil in different ways.
+4. Control measures: **plant cover crops and trees**, **build terraces**, **construct drainage systems**, **use contour ridges**, and **avoid bush burning**.
 
 ### Conclusion
 
-Teacher encourages students to discuss family traits with parents and keep records of their family histories.
+Teacher stresses that protecting the soil prevents loss of farmland, road damage, and environmental disasters.
 
 ### Student Lesson Notes
 
-- Family traits are features we inherit from our parents and grandparents.
-- Studying **genealogy** helps us trace our family roots and understand how traits are passed down.
-- Knowing family traits is important for **health planning**, **cultural preservation**, **identity**, and **family unity**.
-- Family trees are charts that show who is related and how traits move through generations.
+- **Erosion** means the removal of topsoil by water, wind, or human activities.
+- It is caused by **heavy rainfall**, **tree removal**, **overgrazing**, **poor farming**, and **bad construction practices**.
+- Types of erosion include **sheet**, **rill**, and **gully erosion**.
+- We control erosion by **planting vegetation**, **building terraces or drains**, and **managing land properly**.
 
 ### Assignment
 
-Interview family members to identify five traits that run in your family. Draw a simple family tree showing how two of the traits have been passed down.
+Investigate an eroded area around your community and write a short report describing the type of erosion, its causes, and two control measures that can be applied.
