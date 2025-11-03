@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; National Drug Law Enforcement Agency (NDLEA) Handbook; Family Health Education Textbook
 - **Instructional Materials:** Posters showing common drugs, short video on substance misuse, flashcards with health consequences, role-play scripts
 - **Entry Behaviour:** Pupils can name common medicines used at home and understand that drugs should be taken according to a doctor’s prescription.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Define the term drug abuse.
   2. Identify at least five examples of substances that can be abused.
   3. Explain four harmful effects of drug abuse on individuals and families.
@@ -76,7 +76,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 2; Illustrated Biology of African Habitats; Field Observation Guide
 - **Instructional Materials:** Habitat charts (pond, forest, savannah, desert), organism picture cards, magnifying glasses, comparison worksheets
 - **Entry Behaviour:** Students can describe examples of habitats and name organisms living in their local environment.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. List at least three characteristics shared by organisms living in the same habitat.
   2. Explain how shared features support survival in that habitat.
   3. Compare similarities between organisms from two different habitats.
@@ -130,7 +130,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 3; Environmental Management Textbook; Local Government Soil Conservation Manual
 - **Instructional Materials:** Pictures of eroded sites, soil samples, charts showing erosion control methods, video clip on gully erosion
 - **Entry Behaviour:** Students have seen or heard of erosion affecting roads, farms, or neighbourhoods within their community.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define soil erosion.
   2. State at least four causes of soil erosion.
   3. Describe three types of erosion (sheet, rill, and gully) with examples.

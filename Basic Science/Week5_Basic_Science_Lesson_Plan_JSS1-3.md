@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; Environmental Education Handbook; Federal Ministry of Environment Pollution Control Guide
 - **Instructional Materials:** Charts showing polluted environments, bottles with clean and dirty water, pictures of smoke-emitting factories, waste samples (plastics, papers), short animation on pollution
 - **Entry Behaviour:** Pupils can describe clean and dirty surroundings from previous health education lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Define pollution in their own words.
   2. Identify at least three types of pollutants in air, soil, and water.
   3. Explain causes of air pollution such as smoke from vehicles and burning refuse.
@@ -78,7 +78,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 2; Human Biology for Junior Secondary Schools; UNICEF Child Development Posters
 - **Instructional Materials:** Charts showing human body systems, pictures of human activities (talking, writing, inventing), video clip of human achievements, brain and hand models
 - **Entry Behaviour:** Students can state characteristics of living things and have compared humans to other animals in earlier lessons.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Explain what makes human beings unique among living things.
   2. Describe special human features such as complex brain function, speech, and upright posture.
   3. Identify social and cultural behaviours that reflect human uniqueness.
@@ -133,7 +133,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 3; Nigerian Meteorological Agency Flood Awareness Guide; Local Community Disaster Management Handbook
 - **Instructional Materials:** Flood hazard maps, video clips showing flooding, sandbag samples, drainage model, pictures of flooded farms and houses
 - **Entry Behaviour:** Students have studied environmental hazards such as erosion and know basic weather concepts.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define flooding and identify common flood-prone areas.
   2. Explain natural and human causes of flooding.
   3. Describe preventive measures to reduce flood occurrence and damage.

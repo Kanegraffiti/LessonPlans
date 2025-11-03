@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; Nutrition for Junior Secondary Schools; WHO Food Guide Pamphlet
 - **Instructional Materials:** Food models or real samples (grains, fruits, vegetables, proteins, fats); food chart; flashcards with nutrient names; short video on healthy eating habits
 - **Entry Behaviour:** Pupils can mention common meals eaten at home and understand the idea of food groups from previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Define the term balanced diet correctly.
   2. List the six major classes of food nutrients.
   3. Explain at least four reasons why balanced diets are important to the family.
@@ -76,7 +76,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 2; Illustrated Ecology Textbook; Field Guide on Nigerian Habitats
 - **Instructional Materials:** Habitat charts (pond, forest, savannah); organism picture cards; magnifying glasses; comparison worksheets
 - **Entry Behaviour:** Students are already familiar with the concept of habitats and can name examples of organisms in their environment.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Identify at least three habitats and the organisms found there.
   2. Describe four characteristics organisms share within the same habitat.
   3. Explain how shared characteristics help organisms survive together.
@@ -130,7 +130,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 3; Junior Secondary Genetics Workbook; Family History Charts
 - **Instructional Materials:** Family trait charts, sample pedigree diagrams, photographs showing inherited features, blank genealogy templates
 - **Entry Behaviour:** Students have observed similarities among family members such as facial features, height, or talents.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define family traits and give examples within their families.
   2. State at least four reasons why family traits are important.
   3. Explain the concept of genealogy and how family histories are traced.

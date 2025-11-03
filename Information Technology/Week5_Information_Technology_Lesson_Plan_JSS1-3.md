@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Information and Communication Technology for JSS 1; History of Computers Textbook; Timeline of Computing Devices Chart
 - **Instructional Materials:** Pictures of early electronic counting devices (ENIAC, UNIVAC), abacus model, timeline poster, short documentary clip, flashcards with device names and dates
 - **Entry Behaviour:** Pupils can name simple manual counting devices like abacus and tally sticks from previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. State the meaning of electronic counting devices.
   2. Mention at least four early electronic counting devices and their inventors or developers.
   3. Describe key features of selected electronic counting devices.
@@ -76,7 +76,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Information and Communication Technology for JSS 2; Number Systems Workbook; Digital Electronics Basics Text
 - **Instructional Materials:** Base conversion charts, binary and hexadecimal flashcards, place value tables, calculators, projector for conversion demonstrations
 - **Entry Behaviour:** Students can convert simple numbers between base ten and binary from previous exercises.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Explain the concept of base in number systems.
   2. Identify digits allowed in base two, base eight, base ten, and base sixteen.
   3. Convert numbers from base ten to base two, eight, and sixteen.
@@ -130,7 +130,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Information and Communication Technology for JSS 3; Cybersecurity Awareness Guide; Computer Virus Encyclopedia
 - **Instructional Materials:** Virus profile cards (ILOVEYOU, Melissa, WannaCry, Trojan variants), antivirus software screenshots, projector for short video on malware, chart showing virus categories
 - **Entry Behaviour:** Students understand basic concepts of computer viruses and methods of transmission from previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Identify at least four examples of well-known computer viruses or malware.
   2. Describe how each virus spreads and the type of damage it causes.
   3. Classify viruses into categories such as worms, Trojans, ransomware, and macro viruses.

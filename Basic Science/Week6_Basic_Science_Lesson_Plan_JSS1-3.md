@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; National Environmental Standards and Regulations Enforcement Agency (NESREA) Guidelines; Illustrated Science Dictionary
 - **Instructional Materials:** Charts showing polluted and clean environments, samples of clean and dirty water (in sealed containers), model factory, pictures of waste disposal methods, short video clip on pollution control
 - **Entry Behaviour:** Pupils can identify examples of littering, smoke, and dirty water in their surroundings and understand that pollution is harmful to living things.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Define environmental pollution and distinguish between air, soil, and water pollution.
   2. Describe at least four effects of air, soil, and water pollution on humans, animals, and plants.
   3. Suggest five ways of reducing the risk of pollution at home, school, and in the community.
@@ -76,7 +76,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 2; Science Process Skills Handbook; Observation and Recording Worksheets
 - **Instructional Materials:** Specimens of leaves, shells, and insects (real or models), magnifying glasses, classification charts, puzzle cards, recording sheets
 - **Entry Behaviour:** Students already know the characteristics of living things and have practised simple observation and classification activities.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. List the basic intelligence skills used in studying living things.
   2. Demonstrate accurate observation and comparison skills using provided specimens.
   3. Record data in a neatly organised table showing similarities and differences among living things.
@@ -129,7 +129,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 3; National Fire Service Safety Manual; Environmental Management Act; Local Government Bye-Laws
 - **Instructional Materials:** Pictures of bush burning, case studies of fire outbreaks, posters on fire prevention, fire beaters or sand buckets, news clips on bush fires
 - **Entry Behaviour:** Students are aware of previous discussions on environmental hazards and have seen or heard about bush fires in their community or on the news.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define bush burning and identify common reasons people engage in it.
   2. Explain at least four practices that encourage bush burning in rural and urban communities.
   3. Analyse five negative effects of bush burning on the environment, economy, and health.

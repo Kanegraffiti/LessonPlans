@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Information Technology for Junior Secondary Schools; Computer Studies for Nigerian Schools JSS 1; Internet articles on early computing
 - **Instructional Materials:** Pictures of tally sticks, abacus, pebble counters; improvised counting frame; chart showing population growth
 - **Entry Behaviour:** Pupils have used fingers, sticks, or stones to count small quantities.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Describe how early counting devices were used to solve basic counting problems.
   2. Explain difficulties faced when counting large numbers with devices like fingers, stones, and the abacus.
   3. Give examples of situations where early devices could not keep accurate records.
@@ -76,7 +76,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Information Technology for Junior Secondary Schools; Computer Studies Textbook for JSS 2; Software product brochures
 - **Instructional Materials:** Computer system, projector slides showing software categories, flash cards with software names and icons
 - **Entry Behaviour:** Students have used different programs on the computer during previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Classify software into system software and application software.
   2. Identify utility software and programming language translators as part of system software.
   3. Provide relevant examples of application software for education, business, and entertainment.
@@ -130,7 +130,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Information Technology for Junior Secondary Schools; Computer Studies Textbook for JSS 3; Nigerian Computer Society publications
 - **Instructional Materials:** Chart showing computer careers, profile cards of ICT professionals, logos of computer professional bodies
 - **Entry Behaviour:** Students have explored different computer careers in previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. List personal qualities required of good computer professionals.
   2. Explain why qualities such as discipline, creativity, teamwork, and continuous learning are important in ICT careers.
   3. Identify local and international computer professional bodies.

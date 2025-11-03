@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Information Technology for JSS 1; History of Computing Textbook; Timeline of Computing Devices
 - **Instructional Materials:** Pictures and models of the Jacquard loom, Herman Hollerith’s punched card machine, differential analyzer; timeline chart; short documentary clip
 - **Entry Behaviour:** Pupils can mention mechanical devices such as the Abacus and Pascaline from previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Identify at least three electro-mechanical counting devices.
   2. Describe how electricity and mechanical parts worked together in these devices.
   3. State the contributions of each device to modern computing.
@@ -77,7 +77,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Information Technology for JSS 2; Computer Studies Workbook; Base Conversion Chart
 - **Instructional Materials:** Place-value charts for bases 2, 8, 10, and 16; flashcards with digits; worksheets for conversion exercises; projector for demonstration
 - **Entry Behaviour:** Students can count in base ten and have seen binary digits during introductory lessons.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define a number system and identify bases used in computing.
   2. Distinguish between decimal, binary, octal, and hexadecimal number systems.
   3. Convert numbers from decimal to binary, octal, and hexadecimal.
@@ -135,7 +135,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Information Technology for JSS 3; Cybersecurity Awareness Handbook; Antivirus Software Guides
 - **Instructional Materials:** Slides showing virus symptoms, antivirus software interface, flashcards with virus types, short case study video
 - **Entry Behaviour:** Students have used school computers and know that viruses can cause malfunctioning systems.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define a computer virus.
   2. List at least five types of computer viruses.
   3. Describe how each virus type spreads and affects computer systems.

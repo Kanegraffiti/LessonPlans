@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; MAN Basic Technology Textbook for JSS 1
 - **Instructional Materials:** Charts showing technological tools, pictures of transportation, communication, and construction devices, multimedia presentation
 - **Entry Behaviour:** Pupils have seen tools and machines used at home and in school.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Define technology in simple terms.
   2. State at least three importance of technology in everyday life.
   3. List branches of technology with relevant examples.
@@ -75,7 +75,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 2; STAN Basic Technology Textbook for JSS 2
 - **Instructional Materials:** First aid box, bandages, plasters, antiseptic solution, cotton wool, triangular bandage
 - **Entry Behaviour:** Students have observed teachers or parents attend to minor injuries.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define first aid correctly.
   2. Mention at least five materials found in a standard first aid box.
   3. State the uses of common first aid materials.
@@ -128,7 +128,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 3; Evans Basic Technology Textbook for JSS 3
 - **Instructional Materials:** Samples or pictures of timber defects, seasoning kiln chart, protective coatings, slides showing furniture finishing
 - **Entry Behaviour:** Students have seen wooden furniture and building materials in their surroundings.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Identify common defects found in timber.
   2. Explain causes of defects such as knots, warping, insect attack, and splits.
   3. Describe treatments used to protect timber from defects.

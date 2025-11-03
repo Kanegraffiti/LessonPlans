@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; MAN Basic Technology Textbook for JSS 1; Technology in Our World (Junior Secondary)
 - **Instructional Materials:** Flash cards with technology professions, pictures of simple machines and digital devices, short video clip showing various workplaces
 - **Entry Behaviour:** Pupils have seen different tools and gadgets used by family members and artisans.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Explain technology as the practical use of knowledge, tools, and skills to solve problems.
   2. Identify at least five technology-related professions in their community.
   3. State three reasons why being technologically literate is important in daily life.
@@ -77,7 +77,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 2; STAN Basic Technology Textbook for JSS 2; Red Cross First Aid Manual (Junior Edition)
 - **Instructional Materials:** First aid box with bandages, triangular bandage, gloves, resuscitation chart, posters showing ABC of first aid
 - **Entry Behaviour:** Students have witnessed first aid being given during sports or at home.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. State at least four reasons for administering first aid.
   2. Explain the meaning of the ABC of first aid (Airway, Breathing, Circulation).
   3. Describe how to check and clear the airway of a casualty.
@@ -133,7 +133,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 3; Evans Basic Technology for JSS 3; Wood Technology Handbook (Junior Secondary)
 - **Instructional Materials:** Samples or images of timber defects, preservative chemicals, sandpaper, varnish, charts of seasoning methods
 - **Entry Behaviour:** Students have observed wooden furniture at home, school, or in carpentry workshops.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. List common defects found in timber.
   2. Explain causes of defects such as knots, shakes, warping, insect attack, and rot.
   3. Describe methods used to treat and preserve timber.
