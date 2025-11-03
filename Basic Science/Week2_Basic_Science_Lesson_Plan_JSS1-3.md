@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; MAN Basic Science Textbook for JSS 1; Food and Nutrition for Junior Secondary Schools
 - **Instructional Materials:** Food samples or pictures representing major nutrient classes, food pyramid chart, balanced diet poster
 - **Entry Behaviour:** Pupils eat different meals at home and can mention favourite foods.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Define nutrition and balanced diet correctly.
   2. State at least four reasons why proper nutrition is important for family health.
   3. Identify six classes of food nutrients and give common examples of each.
@@ -76,7 +76,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 2; STAN Basic Science for Junior Secondary Schools Book 2; Illustrated Guide to Ecosystems
 - **Instructional Materials:** Charts of different habitats, video clips of animal and plant adaptations, specimens or models of camel, duck, water lily
 - **Entry Behaviour:** Students know that living things need food, water, and shelter to survive.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define adaptation as a special feature or behaviour that helps an organism survive in its habitat.
   2. Describe adaptive features of selected animals and plants in desert, aquatic, and forest habitats.
   3. Explain how adaptations help organisms obtain food, conserve water, or escape predators.
@@ -130,7 +130,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 3; Spectrum Basic Science for Junior Secondary Schools Book 3; Simple Genetics Charts
 - **Instructional Materials:** Family trait charts, pedigree diagram, flash cards showing dominant and recessive traits, mirrors
 - **Entry Behaviour:** Students can mention physical features shared with parents or siblings.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define dominant trait and recessive trait with clear examples.
   2. Explain how dominant traits mask recessive traits in offspring.
   3. Identify dominant and recessive traits from family trait charts.

@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; MAN Basic Science Textbook for JSS 1
 - **Instructional Materials:** Charts showing clean and dirty environments, broom and dustpan, refuse bin model, pictures of proper waste disposal
 - **Entry Behaviour:** Pupils have observed ways families keep their homes clean.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Define sanitation correctly.
   2. State three importance of sanitation at home and school.
   3. List at least three methods used in sanitation.
@@ -75,7 +75,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 2; STAN Basic Science for Junior Secondary Schools Book 2
 - **Instructional Materials:** Habitat charts (forest, desert, aquatic), specimens of cactus and water lily images, video clip of animal adaptations, globe
 - **Entry Behaviour:** Students have learnt that living things need food, water, and shelter to survive.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define habitat accurately.
   2. Mention at least four examples of habitats.
   3. Describe how selected plants and animals adapt to their habitats.
@@ -128,7 +128,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 3; Spectrum Basic Science for Junior Secondary Schools Book 3
 - **Instructional Materials:** Family trait chart, pictures showing eye colour variations, sample pedigree chart, mirror
 - **Entry Behaviour:** Students can identify simple physical features among family members.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Identify common family traits shared among relatives.
   2. Explain the meaning of dominant traits with examples.
   3. Explain the meaning of recessive traits with examples.

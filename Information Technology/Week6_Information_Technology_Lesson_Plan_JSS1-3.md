@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Information Technology for JSS 1; Computer Studies Textbook; Timeline of Computing Innovations
 - **Instructional Materials:** Generational computer chart, pictures of computers from first to fifth generation, flashcards with key features, projector for timeline presentation
 - **Entry Behaviour:** Pupils can mention early computing devices like abacus and know that computers have evolved over time.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. List the five main generations of computers in the correct order.
   2. Identify major technological features of each computer generation.
   3. Match representative devices to their respective generations.
@@ -75,7 +75,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Information Technology for JSS 2; Digital Literacy Handbook; Data Storage Conversion Chart
 - **Instructional Materials:** Storage unit flashcards, capacity comparison table, memory sticks of different sizes, conversion worksheet
 - **Entry Behaviour:** Students can identify bits and bytes from previous lessons and have used storage devices like flash drives and memory cards.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define data storage units from bit to terabyte.
   2. State the relationship between bits, bytes, kilobytes, megabytes, gigabytes, and terabytes.
   3. Convert data sizes between at least two different storage units accurately.
@@ -127,7 +127,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Information Technology for JSS 3; Cybersecurity Awareness Guide; Antivirus User Manual
 - **Instructional Materials:** Virus infection scenarios, screenshots of warning messages, antivirus software interface, posters on safe computing practices
 - **Entry Behaviour:** Students have used computers in the lab and know that viruses can damage files and systems.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define computer viruses and explain how they spread.
   2. Identify at least five sources of computer viruses in schools and homes.
   3. Recognise common warning signs that indicate virus infection.

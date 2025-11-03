@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Technology for JSS 1; Federal Road Safety Corps (FRSC) Safety Manual; Safe Riding Handbook
 - **Instructional Materials:** Bicycles and helmets, reflective vests, traffic signs, video clip on safe riding, safety checklist cards
 - **Entry Behaviour:** Pupils have seen or used bicycles and motorcycles in their communities and know basic road signs.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. List essential safety equipment for cyclists and motorcyclists.
   2. Explain at least five safety rules for riding on roads.
   3. Demonstrate correct use of helmets and hand signals for turning and stopping.
@@ -76,7 +76,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Technology for JSS 2; Emergency Response Training Manual; Nigerian Red Cross First Aid Guide
 - **Instructional Materials:** Rescue operation flowchart, safety cones, dummy victim, first-aid kit, scenario cards, video clip of rescue scene
 - **Entry Behaviour:** Students have previously discussed the meaning of rescue operations and basic first-aid principles.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Outline steps for securing an accident environment before rescue.
   2. Describe procedures for stabilising vehicles involved in an accident.
   3. State safety precautions when approaching and assessing victims.
@@ -130,7 +130,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Technology for JSS 3; Metalwork Technology Textbook; Manufacturing Processes Handbook
 - **Instructional Materials:** Samples or images of metal products, process diagrams (casting, forging, rolling, welding, machining), comparison chart, short documentary on metal production
 - **Entry Behaviour:** Students have identified common metal products and basic material properties in earlier lessons.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. List major methods of processing metals.
   2. Describe the basic steps involved in casting, forging, rolling, welding, and machining.
   3. Compare advantages and disadvantages of each method.

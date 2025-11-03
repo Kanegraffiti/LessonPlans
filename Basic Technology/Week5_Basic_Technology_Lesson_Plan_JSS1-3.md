@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Technology for JSS 1; Federal Road Safety Corps (FRSC) Driver's Handbook; National Highway Code
 - **Instructional Materials:** Road safety charts, miniature traffic signs, steering wheel model, seat belt sample, projector for short road safety video
 - **Entry Behaviour:** Pupils know basic pedestrian safety rules and have observed motorists on the road.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. State the meaning of a motorist.
   2. List at least six safety guidelines motorists must obey while driving.
   3. Explain why routine vehicle checks are important for safe driving.
@@ -76,7 +76,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Technology for JSS 2; Materials Science for Junior Secondary Schools; Local Craft and Metalwork Manual
 - **Instructional Materials:** Samples of hardwood and softwood, metal objects (aluminium pot, iron rod, copper wire), comparison charts, pictures of wood and metal products
 - **Entry Behaviour:** Students can identify basic material types and have previously discussed sources of materials.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Distinguish between wood and metal materials with examples.
   2. List at least five common uses of wood in everyday life.
   3. State at least five common uses of metals in the home, school, and industry.
@@ -130,7 +130,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Technology for JSS 3; Introduction to Metallurgy for Junior Secondary Schools; Industrial Materials Handbook
 - **Instructional Materials:** Samples or pictures of alloys (steel, brass, bronze, stainless steel, duralumin), alloy composition chart, short video on alloy production, flashcards of properties and uses
 - **Entry Behaviour:** Students understand basic metal processing methods and have identified pure metals in previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define an alloy and explain how it is formed.
   2. Give at least four examples of common metal alloys and their component metals.
   3. Describe key properties of selected alloys such as strength, hardness, corrosion resistance, and lightness.

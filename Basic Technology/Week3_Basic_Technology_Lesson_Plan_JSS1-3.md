@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Technology for JSS 1; Federal Road Safety Corps (FRSC) Pedestrian Safety Manual; Community Road Safety Posters
 - **Instructional Materials:** Zebra crossing chart, pedestrian traffic light model, reflective vests, road sign flashcards, short safety video clip
 - **Entry Behaviour:** Pupils have walked along roads to school and can identify basic road signs.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. State the meaning of a pedestrian.
   2. List at least five safety rules pedestrians must obey.
   3. Demonstrate how to use a zebra crossing and pedestrian bridge correctly.
@@ -76,7 +76,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Technology for JSS 2; Red Cross First Aid Manual; National Emergency Management Agency (NEMA) Field Guide
 - **Instructional Materials:** Rescue operation flowchart, emergency response posters, first aid box, role-play props (cones, ropes, stretchers)
 - **Entry Behaviour:** Students are familiar with emergency phone numbers and basic first aid procedures from previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define rescue operations.
   2. Identify different aspects or stages of rescue operations.
   3. Describe the roles of rescue team members in each aspect.
@@ -130,7 +130,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Technology for JSS 3; Woodwork Technology for Junior Secondary Schools; Forestry Commission Pamphlets
 - **Instructional Materials:** Samples of seasoned and unseasoned wood, diagrams of timber storage racks, preservative cans, pictures showing timber defects
 - **Entry Behaviour:** Students can mention common wooden objects used at home and in school.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. State at least four uses of timber in everyday life.
   2. Explain reasons for treating timber before use.
   3. Describe methods of timber treatment.

@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; NERDC Information Technology for Junior Secondary Schools; Internet resources on early computing devices
 - **Instructional Materials:** Pictures of counting stones, tally sticks, abacus, Napier's bones; actual abacus; timeline chart
 - **Entry Behaviour:** Pupils have used fingers and sticks to count small numbers.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Describe early methods people used for counting.
   2. Identify at least three early counting devices and their uses.
   3. Arrange early counting devices in chronological order.
@@ -77,7 +77,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 2; NERDC Information Technology for Junior Secondary Schools; Computer Studies Textbook for JSS 2
 - **Instructional Materials:** Computer system, projector slides showing software types, flash cards with software names
 - **Entry Behaviour:** Students have used school computers for typing and educational games.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define software correctly.
   2. Differentiate between hardware and software with examples.
   3. Identify system software and application software.
@@ -132,7 +132,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Information Technology for Junior Secondary Schools; Computer Studies Textbook for JSS 3; Career guide brochures
 - **Instructional Materials:** Charts showing ICT professionals, videos of professionals at work, role-play cards
 - **Entry Behaviour:** Students are familiar with different professions in their community.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. List various computer-related careers.
   2. Describe the functions of selected computer professionals.
   3. Match computer professionals to the tools they use.

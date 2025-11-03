@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Basic Technology for JSS 1; Federal Road Safety Corps (FRSC) Road Users Handbook; School Safety Manual
 - **Instructional Materials:** Safety goggles, gloves, reflective vests, road signs, first aid box, safety checklist, cones for practical drills
 - **Entry Behaviour:** Pupils already know basic safety rules for pedestrians, cyclists, and workshop users from previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Identify safety equipment required for different practical scenarios.
   2. Demonstrate correct use of safety gear during simulated activities.
   3. Apply safety guidelines when crossing the road, working in the workshop, and during emergency drills.
@@ -75,7 +75,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Basic Technology for JSS 2; Materials Science for Junior Secondary; Workshop Metalwork Guide
 - **Instructional Materials:** Samples or pictures of brass and bronze objects (musical instruments, door handles, statues), comparison charts, conductivity tester, corrosion test images
 - **Entry Behaviour:** Students have previously studied metal properties and can differentiate between ferrous and non-ferrous metals.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Describe the composition and key properties of brass and bronze.
   2. List at least five common uses of brass in homes, industries, and arts.
   3. State at least five common uses of bronze in sculpture, engineering, and daily life.
@@ -127,7 +127,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Basic Technology for JSS 3; Ceramics and Glass Technology Textbook; Industrial Processing Manual
 - **Instructional Materials:** Samples or pictures of clay, ceramic tiles, glassware; flow charts of processing stages; kiln model or images; safety gloves; worksheet showing process comparison
 - **Entry Behaviour:** Students have previously identified raw and processed materials and know examples of clay, ceramics, and glass products.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Outline the major steps in processing clay, ceramics, and glass from raw materials to finished products.
   2. Describe the tools and equipment used in each processing method.
   3. Analyse the advantages and disadvantages of different processing methods such as moulding, casting, glazing, and annealing.

@@ -22,7 +22,7 @@ DETAILED LESSON PLAN – JSS 1
 - **Reference Materials:** NERDC Information Technology for JSS 1; History of Computing Textbook; Illustrated Timeline of Calculating Devices
 - **Instructional Materials:** Pictures or models of the Abacus, Napier’s Bones, Pascaline, and Difference Engine; timeline chart; short documentary clip
 - **Entry Behaviour:** Pupils can identify modern devices like calculators and computers used for counting.
-- **Behavioural Objectives:** By the end of the lesson, pupils should be able to:
+- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
   1. Mention at least four early mechanical counting devices.
   2. Describe the basic operation of each device.
   3. Explain why mechanical devices were important in the history of computing.
@@ -76,7 +76,7 @@ DETAILED LESSON PLAN – JSS 2
 - **Reference Materials:** NERDC Information Technology for JSS 2; Operating Systems Concepts for Junior Secondary; Computer Laboratory Manual
 - **Instructional Materials:** Computer system with projector, screenshots of OS interfaces (Windows, Linux, macOS, Android), OS function flashcards
 - **Entry Behaviour:** Students can operate basic computer applications and have used at least one operating system.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define an operating system.
   2. Mention at least five examples of operating systems.
   3. Explain four major functions of an operating system.
@@ -130,7 +130,7 @@ DETAILED LESSON PLAN – JSS 3
 - **Reference Materials:** NERDC Information Technology for JSS 3; ICT Careers Handbook; Brochures from Nigerian Computer Society (NCS) and Computer Professionals Registration Council of Nigeria (CPN)
 - **Instructional Materials:** Posters of professional bodies, organisational charts, case studies of ICT professionals, projector slides
 - **Entry Behaviour:** Students can mention some ICT careers such as programmers, network engineers, or web designers.
-- **Behavioural Objectives:** By the end of the lesson, students should be able to:
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Identify major computer professional bodies in Nigeria and globally.
   2. State at least three functions of each professional body discussed.
   3. Explain how professional bodies support ICT practitioners and the public.
