@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Meaning of Workshop; Workshop Safety Rules
 - **Reference Materials:** NERDC Basic Technology for JSS 1; Workshop Safety Handbook; School Laboratory Safety Manual
 - **Instructional Materials:** Pictures of different workshops (wood, metal, auto), safety posters, personal protective equipment (gloves, goggles), safety signage cards, first aid box
-- **Entry Behaviour:** Pupils have visited the school workshop and can identify some tools used there.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students have visited the school workshop and can identify some tools used there.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define workshop and list types of workshops in the school environment.
   2. Identify key areas and facilities found in a standard workshop.
   3. State at least ten safety rules to observe in the workshop.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher leads pupils on a brief walk-around of the workshop (or shows pictures) and asks them to mention activities that take place there.
+**Step 1 – Introduction:** Teacher leads students on a brief walk-around of the workshop (or shows pictures) and asks them to mention activities that take place there.
 
 **Step 2 – Presentation:** Teacher defines a workshop as a place where practical work, repairs, and manufacturing activities occur, describing the types of workshops available in the school.
 
 **Step 3 – Explanation:** Teacher discusses safety rules such as wearing protective gear, keeping the floor dry, handling tools correctly, reporting faults, following instructions, and maintaining cleanliness.
 
-**Step 4 – Application:** Pupils work in groups to match safety rules with corresponding safety signs, practise wearing protective gear correctly, and role-play safe responses to accidents.
+**Step 4 – Application:** Students work in groups to match safety rules with corresponding safety signs, practise wearing protective gear correctly, and role-play safe responses to accidents.
 
-**Step 5 – Evaluation:** Teacher asks pupils to define a workshop, list safety rules, demonstrate how to wear protective equipment, and explain why safety is important.
+**Step 5 – Evaluation:** Teacher asks students to define a workshop, list safety rules, demonstrate how to wear protective equipment, and explain why safety is important.
 
 ### Content Summary
 

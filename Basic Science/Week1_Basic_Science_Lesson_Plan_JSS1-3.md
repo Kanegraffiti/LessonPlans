@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Sanitation
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; MAN Basic Science Textbook for JSS 1
 - **Instructional Materials:** Charts showing clean and dirty environments, broom and dustpan, refuse bin model, pictures of proper waste disposal
-- **Entry Behaviour:** Pupils have observed ways families keep their homes clean.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students have observed ways families keep their homes clean.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define sanitation correctly.
   2. State three importance of sanitation at home and school.
   3. List at least three methods used in sanitation.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** The teacher displays pictures of a tidy and an untidy compound and leads pupils to discuss their differences.
+**Step 1 – Introduction:** The teacher displays pictures of a tidy and an untidy compound and leads students to discuss their differences.
 
-**Step 2 – Presentation:** The teacher explains the concept of sanitation and guides pupils to identify areas in the home that require regular cleaning.
+**Step 2 – Presentation:** The teacher explains the concept of sanitation and guides students to identify areas in the home that require regular cleaning.
 
-**Step 3 – Explanation:** The teacher discusses the importance of sanitation such as disease prevention, neat appearance, and environmental safety, while pupils take notes.
+**Step 3 – Explanation:** The teacher discusses the importance of sanitation such as disease prevention, neat appearance, and environmental safety, while students take notes.
 
-**Step 4 – Application:** In groups, pupils list methods of sanitation practiced in their families and role-play the correct use of sanitation tools.
+**Step 4 – Application:** In groups, students list methods of sanitation practiced in their families and role-play the correct use of sanitation tools.
 
-**Step 5 – Evaluation:** The teacher asks pupils to define sanitation, mention two importance, and outline two methods of sanitation, checking individual responses.
+**Step 5 – Evaluation:** The teacher asks students to define sanitation, mention two importance, and outline two methods of sanitation, checking individual responses.
 
 ### Content Summary
 
@@ -49,7 +49,7 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Conclusion
 
-The teacher revises key points on sanitation and encourages pupils to practice good cleaning habits at home.
+The teacher revises key points on sanitation and encourages students to practice good cleaning habits at home.
 
 ### Student Lesson Notes
 

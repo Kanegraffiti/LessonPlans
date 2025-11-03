@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Meaning, Importance, and Classes of Nutrition
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; MAN Basic Science Textbook for JSS 1; Food and Nutrition for Junior Secondary Schools
 - **Instructional Materials:** Food samples or pictures representing major nutrient classes, food pyramid chart, balanced diet poster
-- **Entry Behaviour:** Pupils eat different meals at home and can mention favourite foods.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students eat different meals at home and can mention favourite foods.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define nutrition and balanced diet correctly.
   2. State at least four reasons why proper nutrition is important for family health.
   3. Identify six classes of food nutrients and give common examples of each.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays pictures of different meals and asks pupils to describe the foods and how they feel after eating balanced meals versus junk food.
+**Step 1 – Introduction:** Teacher displays pictures of different meals and asks students to describe the foods and how they feel after eating balanced meals versus junk food.
 
 **Step 2 – Presentation:** Teacher defines nutrition as the process of taking in food and using it for growth, energy, and repair; introduces the concept of balanced diet.
 
 **Step 3 – Explanation:** Teacher discusses the importance of nutrition in promoting growth, providing energy, protecting against diseases, and supporting healthy body functions.
 
-**Step 4 – Application:** Pupils work in groups to classify food samples into carbohydrates, proteins, fats and oils, vitamins, minerals, and water; each group explains their choices.
+**Step 4 – Application:** Students work in groups to classify food samples into carbohydrates, proteins, fats and oils, vitamins, minerals, and water; each group explains their choices.
 
-**Step 5 – Evaluation:** Teacher asks pupils to define nutrition, list the classes of food nutrients, and mention two reasons why good nutrition is vital.
+**Step 5 – Evaluation:** Teacher asks students to define nutrition, list the classes of food nutrients, and mention two reasons why good nutrition is vital.
 
 ### Content Summary
 
@@ -50,7 +50,7 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Conclusion
 
-Teacher emphasises that eating a balanced diet daily keeps the family strong and healthy and advises pupils to include different nutrients in their meals.
+Teacher emphasises that eating a balanced diet daily keeps the family strong and healthy and advises students to include different nutrients in their meals.
 
 ### Student Lesson Notes
 

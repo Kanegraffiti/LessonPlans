@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Meaning, Professions, and Importance of Technology
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; MAN Basic Technology Textbook for JSS 1; Technology in Our World (Junior Secondary)
 - **Instructional Materials:** Flash cards with technology professions, pictures of simple machines and digital devices, short video clip showing various workplaces
-- **Entry Behaviour:** Pupils have seen different tools and gadgets used by family members and artisans.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students have seen different tools and gadgets used by family members and artisans.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Explain technology as the practical use of knowledge, tools, and skills to solve problems.
   2. Identify at least five technology-related professions in their community.
   3. State three reasons why being technologically literate is important in daily life.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays different tools (hammer, mobile phone, thermometer) and asks pupils how each tool helps people to work faster.
+**Step 1 – Introduction:** Teacher displays different tools (hammer, mobile phone, thermometer) and asks students how each tool helps people to work faster.
 
 **Step 2 – Presentation:** Teacher defines technology and highlights professions such as engineers, technicians, ICT specialists, architects, and medical laboratory scientists.
 
 **Step 3 – Explanation:** Teacher explains technological literacy as the ability to understand and use technology responsibly and outlines its importance in education, health, communication, and future careers.
 
-**Step 4 – Application:** In groups, pupils receive picture cards of professionals and match them with tools or gadgets; each group explains how the tool supports the job.
+**Step 4 – Application:** In groups, students receive picture cards of professionals and match them with tools or gadgets; each group explains how the tool supports the job.
 
-**Step 5 – Evaluation:** Teacher asks pupils to state the meaning of technology, name two professions, and give one reason why technological literacy is important.
+**Step 5 – Evaluation:** Teacher asks students to state the meaning of technology, name two professions, and give one reason why technological literacy is important.
 
 ### Content Summary
 
@@ -50,7 +50,7 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Conclusion
 
-Teacher reviews the meaning of technology, related professions, and the importance of technological literacy, encouraging pupils to observe how technology is used around them.
+Teacher reviews the meaning of technology, related professions, and the importance of technological literacy, encouraging students to observe how technology is used around them.
 
 ### Student Lesson Notes
 

@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Problems in Counting Large Numbers with Early Counting Devices
 - **Reference Materials:** NERDC Information Technology for Junior Secondary Schools; Computer Studies for Nigerian Schools JSS 1; Internet articles on early computing
 - **Instructional Materials:** Pictures of tally sticks, abacus, pebble counters; improvised counting frame; chart showing population growth
-- **Entry Behaviour:** Pupils have used fingers, sticks, or stones to count small quantities.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students have used fingers, sticks, or stones to count small quantities.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Describe how early counting devices were used to solve basic counting problems.
   2. Explain difficulties faced when counting large numbers with devices like fingers, stones, and the abacus.
   3. Give examples of situations where early devices could not keep accurate records.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher asks pupils to count a large pile of bottle tops with their fingers and note the time taken and errors observed.
+**Step 1 – Introduction:** Teacher asks students to count a large pile of bottle tops with their fingers and note the time taken and errors observed.
 
 **Step 2 – Presentation:** Teacher reviews early devices such as tally sticks, pebbles, and abacus, highlighting how they were used for trade and tax collection.
 
 **Step 3 – Explanation:** Teacher explains the challenges of using these devices for large numbers: time-consuming, easy to misplace items, limited memory, and difficulty performing complex calculations.
 
-**Step 4 – Application:** Pupils work in groups to attempt counting tasks using pebbles and an abacus; they record difficulties encountered and share findings.
+**Step 4 – Application:** Students work in groups to attempt counting tasks using pebbles and an abacus; they record difficulties encountered and share findings.
 
-**Step 5 – Evaluation:** Teacher asks pupils to describe two problems faced when using early devices for large numbers and suggest why better machines were needed.
+**Step 5 – Evaluation:** Teacher asks students to describe two problems faced when using early devices for large numbers and suggest why better machines were needed.
 
 ### Content Summary
 

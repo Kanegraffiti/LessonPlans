@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Meaning, Importance, and Branches of Technology
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; MAN Basic Technology Textbook for JSS 1
 - **Instructional Materials:** Charts showing technological tools, pictures of transportation, communication, and construction devices, multimedia presentation
-- **Entry Behaviour:** Pupils have seen tools and machines used at home and in school.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students have seen tools and machines used at home and in school.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define technology in simple terms.
   2. State at least three importance of technology in everyday life.
   3. List branches of technology with relevant examples.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays different technological tools (phone, hoe, ruler) and asks pupils to describe how they are used.
+**Step 1 – Introduction:** Teacher displays different technological tools (phone, hoe, ruler) and asks students to describe how they are used.
 
 **Step 2 – Presentation:** Teacher defines technology as the use of knowledge, tools, and skills to solve problems and make life easier.
 
 **Step 3 – Explanation:** Teacher explains the importance of technology in communication, health, agriculture, transportation, and housing with simple case studies.
 
-**Step 4 – Application:** Pupils work in groups to sort pictures of tools under branches of technology such as communication, construction, production, transportation, and information technology.
+**Step 4 – Application:** Students work in groups to sort pictures of tools under branches of technology such as communication, construction, production, transportation, and information technology.
 
-**Step 5 – Evaluation:** Teacher asks pupils to define technology, mention two importance, and list three branches of technology, ensuring individual participation.
+**Step 5 – Evaluation:** Teacher asks students to define technology, mention two importance, and list three branches of technology, ensuring individual participation.
 
 ### Content Summary
 
@@ -49,7 +49,7 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Conclusion
 
-Teacher highlights the meaning, importance, and branches of technology and encourages pupils to observe technology in their homes and neighbourhood.
+Teacher highlights the meaning, importance, and branches of technology and encourages students to observe technology in their homes and neighbourhood.
 
 ### Student Lesson Notes
 
@@ -86,7 +86,7 @@ DETAILED LESSON PLAN – JSS 2
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher narrates a brief scenario of a pupil who sprained an ankle during sports and asks students what should be done immediately.
+**Step 1 – Introduction:** Teacher narrates a brief scenario of a student who sprained an ankle during sports and asks students what should be done immediately.
 
 **Step 2 – Presentation:** Teacher defines first aid as the immediate and temporary care given to a sick or injured person before full medical treatment is available.
 

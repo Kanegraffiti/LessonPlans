@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Safety Guidelines for Pedestrians
 - **Reference Materials:** NERDC Basic Technology for JSS 1; Federal Road Safety Corps (FRSC) Pedestrian Safety Manual; Community Road Safety Posters
 - **Instructional Materials:** Zebra crossing chart, pedestrian traffic light model, reflective vests, road sign flashcards, short safety video clip
-- **Entry Behaviour:** Pupils have walked along roads to school and can identify basic road signs.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students have walked along roads to school and can identify basic road signs.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. State the meaning of a pedestrian.
   2. List at least five safety rules pedestrians must obey.
   3. Demonstrate how to use a zebra crossing and pedestrian bridge correctly.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays road sign flashcards and asks pupils to share their experiences walking on busy roads.
+**Step 1 – Introduction:** Teacher displays road sign flashcards and asks students to share their experiences walking on busy roads.
 
 **Step 2 – Presentation:** Teacher explains that pedestrians are road users who travel on foot and require specific safety guidelines.
 
 **Step 3 – Explanation:** Teacher discusses guidelines such as walking on sidewalks, facing oncoming traffic when there is no sidewalk, using pedestrian crossings, obeying traffic lights, avoiding distractions, and wearing reflective materials at night.
 
-**Step 4 – Application:** Pupils practise crossing a mock zebra crossing in groups, checking both directions, and signalling vehicles to stop before crossing.
+**Step 4 – Application:** Students practise crossing a mock zebra crossing in groups, checking both directions, and signalling vehicles to stop before crossing.
 
-**Step 5 – Evaluation:** Teacher asks pupils to list safety rules, demonstrate correct crossing, and explain why pedestrians must stay alert.
+**Step 5 – Evaluation:** Teacher asks students to list safety rules, demonstrate correct crossing, and explain why pedestrians must stay alert.
 
 ### Content Summary
 

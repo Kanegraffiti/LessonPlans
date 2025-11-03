@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Electro-Mechanical Counting Devices
 - **Reference Materials:** NERDC Information Technology for JSS 1; History of Computing Textbook; Timeline of Computing Devices
 - **Instructional Materials:** Pictures and models of the Jacquard loom, Herman Hollerith’s punched card machine, differential analyzer; timeline chart; short documentary clip
-- **Entry Behaviour:** Pupils can mention mechanical devices such as the Abacus and Pascaline from previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students can mention mechanical devices such as the Abacus and Pascaline from previous lessons.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Identify at least three electro-mechanical counting devices.
   2. Describe how electricity and mechanical parts worked together in these devices.
   3. State the contributions of each device to modern computing.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays a timeline with blank spaces for electro-mechanical devices and asks pupils to recall earlier mechanical inventions.
+**Step 1 – Introduction:** Teacher displays a timeline with blank spaces for electro-mechanical devices and asks students to recall earlier mechanical inventions.
 
 **Step 2 – Presentation:** Teacher explains that electro-mechanical devices combined electrical power with mechanical parts to improve speed and accuracy.
 
 **Step 3 – Explanation:** Teacher describes the **Jacquard loom** (1801) using punched cards to control weaving patterns, **Hollerith’s punched card tabulator** (1890) for census data, and the **differential analyzer** (1930s) for complex calculations.
 
-**Step 4 – Application:** Pupils rotate through stations examining device pictures and noting key features, then place device cards correctly on the timeline.
+**Step 4 – Application:** Students rotate through stations examining device pictures and noting key features, then place device cards correctly on the timeline.
 
-**Step 5 – Evaluation:** Teacher asks pupils to name devices, explain how they worked, and state their impact on modern computing.
+**Step 5 – Evaluation:** Teacher asks students to name devices, explain how they worked, and state their impact on modern computing.
 
 ### Content Summary
 

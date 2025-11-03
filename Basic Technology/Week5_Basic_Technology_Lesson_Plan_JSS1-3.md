@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Safety Guidelines for Motorists
 - **Reference Materials:** NERDC Basic Technology for JSS 1; Federal Road Safety Corps (FRSC) Driver's Handbook; National Highway Code
 - **Instructional Materials:** Road safety charts, miniature traffic signs, steering wheel model, seat belt sample, projector for short road safety video
-- **Entry Behaviour:** Pupils know basic pedestrian safety rules and have observed motorists on the road.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students know basic pedestrian safety rules and have observed motorists on the road.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. State the meaning of a motorist.
   2. List at least six safety guidelines motorists must obey while driving.
   3. Explain why routine vehicle checks are important for safe driving.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher asks pupils to recall times they rode in vehicles and identify safety behaviours they noticed from drivers.
+**Step 1 – Introduction:** Teacher asks students to recall times they rode in vehicles and identify safety behaviours they noticed from drivers.
 
 **Step 2 – Presentation:** Teacher defines a motorist as a person who drives a motor vehicle and is responsible for obeying road rules to protect lives and property.
 
 **Step 3 – Explanation:** Teacher explains safety guidelines such as regular vehicle maintenance, observing speed limits, wearing seat belts, avoiding distractions (phones, eating), obeying traffic signs and lights, not driving under the influence, using mirrors correctly, and yielding to pedestrians.
 
-**Step 4 – Application:** Pupils work in groups to role-play a driver performing pre-trip checks, fastening seat belts, adjusting mirrors, and responding to an unexpected hazard while following safety rules.
+**Step 4 – Application:** Students work in groups to role-play a driver performing pre-trip checks, fastening seat belts, adjusting mirrors, and responding to an unexpected hazard while following safety rules.
 
-**Step 5 – Evaluation:** Teacher asks pupils to define a motorist, list safety guidelines, and explain the importance of each rule.
+**Step 5 – Evaluation:** Teacher asks students to define a motorist, list safety guidelines, and explain the importance of each rule.
 
 ### Content Summary
 

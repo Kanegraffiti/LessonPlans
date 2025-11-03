@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Definition of Drug Abuse and its Effects
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; National Drug Law Enforcement Agency (NDLEA) Handbook; Family Health Education Textbook
 - **Instructional Materials:** Posters showing common drugs, short video on substance misuse, flashcards with health consequences, role-play scripts
-- **Entry Behaviour:** Pupils can name common medicines used at home and understand that drugs should be taken according to a doctor’s prescription.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students can name common medicines used at home and understand that drugs should be taken according to a doctor’s prescription.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define the term drug abuse.
   2. Identify at least five examples of substances that can be abused.
   3. Explain four harmful effects of drug abuse on individuals and families.
@@ -31,7 +31,7 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher shows pictures of medicines and illegal substances and asks pupils to share how drugs should be used correctly.
+**Step 1 – Introduction:** Teacher shows pictures of medicines and illegal substances and asks students to share how drugs should be used correctly.
 
 **Step 2 – Presentation:** Teacher defines drug abuse as the wrong or harmful use of drugs or substances without medical advice.
 
@@ -39,7 +39,7 @@ DETAILED LESSON PLAN – JSS 1
 
 **Step 4 – Application:** Groups perform short role-plays showing peer pressure situations and how to refuse drugs politely and firmly.
 
-**Step 5 – Evaluation:** Teacher asks pupils to define drug abuse, list abused substances, and state effects on individuals and families.
+**Step 5 – Evaluation:** Teacher asks students to define drug abuse, list abused substances, and state effects on individuals and families.
 
 ### Content Summary
 

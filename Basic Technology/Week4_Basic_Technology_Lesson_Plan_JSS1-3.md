@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Safety Guidelines for Cyclists and Motorcyclists
 - **Reference Materials:** NERDC Basic Technology for JSS 1; Federal Road Safety Corps (FRSC) Safety Manual; Safe Riding Handbook
 - **Instructional Materials:** Bicycles and helmets, reflective vests, traffic signs, video clip on safe riding, safety checklist cards
-- **Entry Behaviour:** Pupils have seen or used bicycles and motorcycles in their communities and know basic road signs.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students have seen or used bicycles and motorcycles in their communities and know basic road signs.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. List essential safety equipment for cyclists and motorcyclists.
   2. Explain at least five safety rules for riding on roads.
   3. Demonstrate correct use of helmets and hand signals for turning and stopping.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays helmets and reflective clothing and asks pupils why protective gear is important.
+**Step 1 – Introduction:** Teacher displays helmets and reflective clothing and asks students why protective gear is important.
 
 **Step 2 – Presentation:** Teacher explains the need for safety equipment such as helmets, gloves, reflective vests, and proper footwear.
 
 **Step 3 – Explanation:** Teacher discusses safety rules including obeying traffic signs, using hand signals, checking brakes and tyres, avoiding overloading, and riding on the correct side of the road.
 
-**Step 4 – Application:** Pupils practise hand signals and proper helmet fitting using provided equipment and safety checklist cards.
+**Step 4 – Application:** Students practise hand signals and proper helmet fitting using provided equipment and safety checklist cards.
 
-**Step 5 – Evaluation:** Teacher asks pupils to list safety equipment, demonstrate signals, and explain why each rule is important.
+**Step 5 – Evaluation:** Teacher asks students to list safety equipment, demonstrate signals, and explain why each rule is important.
 
 ### Content Summary
 

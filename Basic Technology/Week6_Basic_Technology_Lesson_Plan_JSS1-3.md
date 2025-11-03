@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Practical Application of Safety Guidelines
 - **Reference Materials:** NERDC Basic Technology for JSS 1; Federal Road Safety Corps (FRSC) Road Users Handbook; School Safety Manual
 - **Instructional Materials:** Safety goggles, gloves, reflective vests, road signs, first aid box, safety checklist, cones for practical drills
-- **Entry Behaviour:** Pupils already know basic safety rules for pedestrians, cyclists, and workshop users from previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students already know basic safety rules for pedestrians, cyclists, and workshop users from previous lessons.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Identify safety equipment required for different practical scenarios.
   2. Demonstrate correct use of safety gear during simulated activities.
   3. Apply safety guidelines when crossing the road, working in the workshop, and during emergency drills.
@@ -31,21 +31,21 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays various safety gadgets and asks pupils to recall their uses.
+**Step 1 – Introduction:** Teacher displays various safety gadgets and asks students to recall their uses.
 
 **Step 2 – Presentation:** Teacher explains how safety guidelines protect individuals during road use, workshop tasks, and emergencies.
 
 **Step 3 – Explanation:** Teacher demonstrates proper wearing of safety gear and highlights common mistakes to avoid during practical activities.
 
-**Step 4 – Application:** Pupils participate in rotating stations: road crossing drill using cones and traffic signs, workshop tool-handling practice with protective gear, and emergency response simulation involving first aid basics.
+**Step 4 – Application:** Students participate in rotating stations: road crossing drill using cones and traffic signs, workshop tool-handling practice with protective gear, and emergency response simulation involving first aid basics.
 
-**Step 5 – Evaluation:** Teacher reviews each station, asks pupils to outline the steps taken, and checks completed safety checklists for accuracy.
+**Step 5 – Evaluation:** Teacher reviews each station, asks students to outline the steps taken, and checks completed safety checklists for accuracy.
 
 ### Content Summary
 
 1. Safety guidelines involve **using protective gear**, **following instructions**, and **staying alert** during activities.
 2. Correct use of safety equipment prevents **injuries**, **accidents**, and **property damage**.
-3. Practical drills help pupils **apply safety rules** in real-life situations at school and in the community.
+3. Practical drills help students **apply safety rules** in real-life situations at school and in the community.
 
 ### Conclusion
 
