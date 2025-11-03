@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Definition, Importance, and Components of a Balanced Diet
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; Nutrition for Junior Secondary Schools; WHO Food Guide Pamphlet
 - **Instructional Materials:** Food models or real samples (grains, fruits, vegetables, proteins, fats); food chart; flashcards with nutrient names; short video on healthy eating habits
-- **Entry Behaviour:** Pupils can mention common meals eaten at home and understand the idea of food groups from previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students can mention common meals eaten at home and understand the idea of food groups from previous lessons.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define the term balanced diet correctly.
   2. List the six major classes of food nutrients.
   3. Explain at least four reasons why balanced diets are important to the family.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays assorted food items and asks pupils to identify the food groups each belongs to.
+**Step 1 – Introduction:** Teacher displays assorted food items and asks students to identify the food groups each belongs to.
 
 **Step 2 – Presentation:** Teacher defines a balanced diet as a meal containing all food nutrients in the right quantities for the body.
 
 **Step 3 – Explanation:** Teacher discusses each nutrient class (carbohydrates, proteins, fats and oils, vitamins, minerals, water) and explains how balanced diets support growth, energy, disease resistance, and proper body functions.
 
-**Step 4 – Application:** In groups, pupils arrange given food cards to form balanced meals for breakfast, lunch, and dinner, then present reasons for their selections.
+**Step 4 – Application:** In groups, students arrange given food cards to form balanced meals for breakfast, lunch, and dinner, then present reasons for their selections.
 
-**Step 5 – Evaluation:** Teacher asks pupils to define balanced diet, list nutrient classes, and state the importance of eating balanced meals.
+**Step 5 – Evaluation:** Teacher asks students to define balanced diet, list nutrient classes, and state the importance of eating balanced meals.
 
 ### Content Summary
 
@@ -50,7 +50,7 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Conclusion
 
-Teacher reminds pupils that healthy families choose meals that supply all nutrients for body health.
+Teacher reminds students that healthy families choose meals that supply all nutrients for body health.
 
 ### Student Lesson Notes
 

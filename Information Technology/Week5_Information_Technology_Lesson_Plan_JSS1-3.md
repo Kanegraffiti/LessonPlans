@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Electronic Counting Devices
 - **Reference Materials:** NERDC Information and Communication Technology for JSS 1; History of Computers Textbook; Timeline of Computing Devices Chart
 - **Instructional Materials:** Pictures of early electronic counting devices (ENIAC, UNIVAC), abacus model, timeline poster, short documentary clip, flashcards with device names and dates
-- **Entry Behaviour:** Pupils can name simple manual counting devices like abacus and tally sticks from previous lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students can name simple manual counting devices like abacus and tally sticks from previous lessons.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. State the meaning of electronic counting devices.
   2. Mention at least four early electronic counting devices and their inventors or developers.
   3. Describe key features of selected electronic counting devices.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays pictures of early computers and asks pupils to identify which devices are electronic.
+**Step 1 – Introduction:** Teacher displays pictures of early computers and asks students to identify which devices are electronic.
 
 **Step 2 – Presentation:** Teacher defines electronic counting devices as machines that use electronic components to perform calculations and data processing.
 
 **Step 3 – Explanation:** Teacher explains notable devices such as **ENIAC**, **EDSAC**, **UNIVAC I**, and **IBM 650**, highlighting their inventors, dates, and contributions to computing history.
 
-**Step 4 – Application:** Pupils work in groups to arrange flashcards of devices on a timeline, noting the year and key features of each machine.
+**Step 4 – Application:** Students work in groups to arrange flashcards of devices on a timeline, noting the year and key features of each machine.
 
-**Step 5 – Evaluation:** Teacher asks pupils to name devices, state who developed them, and explain how they differ from earlier manual counting tools.
+**Step 5 – Evaluation:** Teacher asks students to name devices, state who developed them, and explain how they differ from earlier manual counting tools.
 
 ### Content Summary
 
@@ -50,7 +50,7 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Conclusion
 
-Teacher emphasises that understanding early electronic devices helps pupils appreciate the evolution of modern computers.
+Teacher emphasises that understanding early electronic devices helps students appreciate the evolution of modern computers.
 
 ### Student Lesson Notes
 

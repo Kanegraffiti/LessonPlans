@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Generations of Computers
 - **Reference Materials:** NERDC Information and Communication Technology for JSS 1; Computer Studies Textbook; Timeline of Computing Developments
 - **Instructional Materials:** Charts showing first to fifth generation computers, flashcards with key technologies (vacuum tubes, transistors, integrated circuits, microprocessors, artificial intelligence), projector with slide presentation, worksheet on generation features
-- **Entry Behaviour:** Pupils know that computers have evolved over time and can name basic computer devices.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students know that computers have evolved over time and can name basic computer devices.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. List the five generations of computers in chronological order.
   2. Identify the major technological component that defines each generation.
   3. Describe improvements in speed, size, storage, and reliability across generations.
@@ -31,26 +31,26 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays images of an early vacuum-tube computer and a modern AI-enabled device, prompting pupils to comment on differences in size and capabilities.
+**Step 1 – Introduction:** Teacher displays images of an early vacuum-tube computer and a modern AI-enabled device, prompting students to comment on differences in size and capabilities.
 
 **Step 2 – Presentation:** Teacher reviews the concept of computer generations and briefly introduces the timeline from first to fifth generation.
 
 **Step 3 – Explanation:** Teacher explains the defining technologies of each generation—vacuum tubes, transistors, integrated circuits, microprocessors, and artificial intelligence—highlighting advantages and limitations.
 
-**Step 4 – Application:** Pupils work in groups to arrange flashcards showing technologies, years, and sample devices on a timeline worksheet, then complete a table describing key features (speed, size, storage, reliability) of each generation.
+**Step 4 – Application:** Students work in groups to arrange flashcards showing technologies, years, and sample devices on a timeline worksheet, then complete a table describing key features (speed, size, storage, reliability) of each generation.
 
-**Step 5 – Evaluation:** Teacher asks pupils to identify the generation for specific devices, describe the technology that powered it, and explain how computer performance improved over time.
+**Step 5 – Evaluation:** Teacher asks students to identify the generation for specific devices, describe the technology that powered it, and explain how computer performance improved over time.
 
 ### Content Summary
 
 1. Computer generations show how technology has progressed from **vacuum tubes** (first generation) to **artificial intelligence** (fifth generation).
 2. Each generation brought improvements in **speed**, **size**, **storage**, **energy use**, and **reliability**.
 3. Examples: ENIAC (first generation), IBM 1401 (second generation), IBM System/360 (third generation), personal computers (fourth generation), AI-enabled systems (fifth generation).
-4. Understanding generations helps pupils appreciate how technology evolves and influences everyday life.
+4. Understanding generations helps students appreciate how technology evolves and influences everyday life.
 
 ### Conclusion
 
-Teacher emphasises that computer development continues, and pupils can contribute to future innovations by understanding past technologies.
+Teacher emphasises that computer development continues, and students can contribute to future innovations by understanding past technologies.
 
 ### Student Lesson Notes
 

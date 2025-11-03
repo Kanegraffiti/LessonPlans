@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Meanings of Matter; States of Matter; Meaning and Characteristics of Living and Non-living Things; Examples
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; Illustrated Junior Science Dictionary; Teacher-prepared charts on matter and living things
 - **Instructional Materials:** Samples of solids, liquids, and gases (e.g., stone, water in a sealed jar, inflated balloon), pictures of plants, animals, rocks, and machines, sorting cards, multimedia slide showing characteristics of living things
-- **Entry Behaviour:** Pupils can name common objects around them and have previously heard about matter in basic science lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students can name common objects around them and have previously heard about matter in basic science lessons.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define matter and identify its three common states with examples.
   2. Explain the meaning of living and non-living things in their own words.
   3. List at least seven characteristics of living things and contrast them with features of non-living things.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays samples of solid, liquid, and gas and asks pupils to describe what is common to all the samples (they all occupy space and have mass).
+**Step 1 – Introduction:** Teacher displays samples of solid, liquid, and gas and asks students to describe what is common to all the samples (they all occupy space and have mass).
 
 **Step 2 – Presentation:** Teacher defines matter and explains that matter exists in three main states—solid, liquid, and gas—giving familiar examples for each state.
 
 **Step 3 – Explanation:** Teacher introduces living and non-living things, describes characteristics of living things (movement, respiration, sensitivity, growth, reproduction, excretion, nutrition), and contrasts them with features of non-living things.
 
-**Step 4 – Application:** Pupils work in groups to sort picture cards into living and non-living categories, then state whether each example is solid, liquid, or gas, and justify their answers using characteristics of living things.
+**Step 4 – Application:** Students work in groups to sort picture cards into living and non-living categories, then state whether each example is solid, liquid, or gas, and justify their answers using characteristics of living things.
 
-**Step 5 – Evaluation:** Teacher asks pupils to explain the difference between matter and living things, list characteristics of living things, and give examples of non-living things that are solids, liquids, or gases.
+**Step 5 – Evaluation:** Teacher asks students to explain the difference between matter and living things, list characteristics of living things, and give examples of non-living things that are solids, liquids, or gases.
 
 ### Content Summary
 

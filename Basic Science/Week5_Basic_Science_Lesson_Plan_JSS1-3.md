@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Definition of Pollution, Types of Pollutants, and Causes of Air, Soil, and Water Pollution
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; Environmental Education Handbook; Federal Ministry of Environment Pollution Control Guide
 - **Instructional Materials:** Charts showing polluted environments, bottles with clean and dirty water, pictures of smoke-emitting factories, waste samples (plastics, papers), short animation on pollution
-- **Entry Behaviour:** Pupils can describe clean and dirty surroundings from previous health education lessons.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students can describe clean and dirty surroundings from previous health education lessons.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define pollution in their own words.
   2. Identify at least three types of pollutants in air, soil, and water.
   3. Explain causes of air pollution such as smoke from vehicles and burning refuse.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher shows contrasting pictures of clean and polluted environments and asks pupils to describe what they see.
+**Step 1 – Introduction:** Teacher shows contrasting pictures of clean and polluted environments and asks students to describe what they see.
 
 **Step 2 – Presentation:** Teacher defines pollution as the introduction of harmful substances into the environment, making it unsafe for living things.
 
 **Step 3 – Explanation:** Teacher explains types of pollutants such as smoke, dust, chemicals, sewage, plastics, and oil. Causes of air pollution include vehicle exhaust, industrial fumes, burning of waste, and bush burning. Causes of soil pollution include dumping refuse, leaking chemicals, and use of harmful pesticides. Causes of water pollution include sewage discharge, oil spills, and washing waste into rivers.
 
-**Step 4 – Application:** Pupils work in groups to categorise provided pollutant pictures into air, soil, or water pollution and report their findings.
+**Step 4 – Application:** Students work in groups to categorise provided pollutant pictures into air, soil, or water pollution and report their findings.
 
-**Step 5 – Evaluation:** Teacher asks pupils to define pollution, list pollutants, and explain causes for each environmental medium.
+**Step 5 – Evaluation:** Teacher asks students to define pollution, list pollutants, and explain causes for each environmental medium.
 
 ### Content Summary
 

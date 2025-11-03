@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Generations of Computers
 - **Reference Materials:** NERDC Information Technology for JSS 1; Computer Studies Textbook; Timeline of Computing Innovations
 - **Instructional Materials:** Generational computer chart, pictures of computers from first to fifth generation, flashcards with key features, projector for timeline presentation
-- **Entry Behaviour:** Pupils can mention early computing devices like abacus and know that computers have evolved over time.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students can mention early computing devices like abacus and know that computers have evolved over time.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. List the five main generations of computers in the correct order.
   2. Identify major technological features of each computer generation.
   3. Match representative devices to their respective generations.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays pictures of old and modern computers and asks pupils to describe differences in size and performance.
+**Step 1 – Introduction:** Teacher displays pictures of old and modern computers and asks students to describe differences in size and performance.
 
 **Step 2 – Presentation:** Teacher outlines the five generations of computers, highlighting vacuum tubes, transistors, integrated circuits, microprocessors, and artificial intelligence.
 
 **Step 3 – Explanation:** Teacher explains key features such as storage type, processing speed, heat generation, and user interface for each generation.
 
-**Step 4 – Application:** Pupils work in groups to arrange flashcards showing generation names, years, technologies, and sample devices on a timeline poster.
+**Step 4 – Application:** Students work in groups to arrange flashcards showing generation names, years, technologies, and sample devices on a timeline poster.
 
-**Step 5 – Evaluation:** Teacher quizzes pupils on generation order and features, and asks each group to present their timeline poster.
+**Step 5 – Evaluation:** Teacher quizzes students on generation order and features, and asks each group to present their timeline poster.
 
 ### Content Summary
 
@@ -49,7 +49,7 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Conclusion
 
-Teacher emphasises that understanding computer generations helps pupils appreciate modern technology and anticipate future changes.
+Teacher emphasises that understanding computer generations helps students appreciate modern technology and anticipate future changes.
 
 ### Student Lesson Notes
 

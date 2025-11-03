@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Mechanical Counting and Calculating Devices
 - **Reference Materials:** NERDC Information Technology for JSS 1; History of Computing Textbook; Illustrated Timeline of Calculating Devices
 - **Instructional Materials:** Pictures or models of the Abacus, Napier’s Bones, Pascaline, and Difference Engine; timeline chart; short documentary clip
-- **Entry Behaviour:** Pupils can identify modern devices like calculators and computers used for counting.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students can identify modern devices like calculators and computers used for counting.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Mention at least four early mechanical counting devices.
   2. Describe the basic operation of each device.
   3. Explain why mechanical devices were important in the history of computing.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays pictures of ancient counting devices and asks pupils how people counted before electronic calculators.
+**Step 1 – Introduction:** Teacher displays pictures of ancient counting devices and asks students how people counted before electronic calculators.
 
 **Step 2 – Presentation:** Teacher explains that mechanical devices were invented to make counting faster and more accurate.
 
 **Step 3 – Explanation:** Teacher describes devices such as the **Abacus** (sliding beads for arithmetic), **Napier’s Bones** (rods for multiplication and division), **Pascaline** (gear-based adding machine), and **Charles Babbage’s Difference Engine** (automatic calculation using mechanical parts).
 
-**Step 4 – Application:** Pupils rotate through stations demonstrating how each device works, then place cards on a timeline showing the order of invention.
+**Step 4 – Application:** Students rotate through stations demonstrating how each device works, then place cards on a timeline showing the order of invention.
 
-**Step 5 – Evaluation:** Teacher asks pupils to name the devices, explain how they operate, and state their contributions to modern computing.
+**Step 5 – Evaluation:** Teacher asks students to name the devices, explain how they operate, and state their contributions to modern computing.
 
 ### Content Summary
 

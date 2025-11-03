@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Effects of Air, Soil, and Water Pollution; Ways of Reducing the Risk of Pollution; Pollution Control Measures
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; National Environmental Standards and Regulations Enforcement Agency (NESREA) Guidelines; Illustrated Science Dictionary
 - **Instructional Materials:** Charts showing polluted and clean environments, samples of clean and dirty water (in sealed containers), model factory, pictures of waste disposal methods, short video clip on pollution control
-- **Entry Behaviour:** Pupils can identify examples of littering, smoke, and dirty water in their surroundings and understand that pollution is harmful to living things.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students can identify examples of littering, smoke, and dirty water in their surroundings and understand that pollution is harmful to living things.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Define environmental pollution and distinguish between air, soil, and water pollution.
   2. Describe at least four effects of air, soil, and water pollution on humans, animals, and plants.
   3. Suggest five ways of reducing the risk of pollution at home, school, and in the community.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher displays images of polluted and unpolluted environments and asks pupils to share how pollution affects daily life.
+**Step 1 – Introduction:** Teacher displays images of polluted and unpolluted environments and asks students to share how pollution affects daily life.
 
 **Step 2 – Presentation:** Teacher defines environmental pollution and differentiates among air, soil, and water pollution with real-life examples.
 
 **Step 3 – Explanation:** Teacher discusses the effects of pollution on health, crops, animals, climate, and infrastructure, highlighting issues such as respiratory diseases, reduced soil fertility, and contaminated water sources.
 
-**Step 4 – Application:** In groups, pupils list ways to reduce pollution (e.g., planting trees, proper waste disposal, using cleaner fuels) and match them to pollution control measures like recycling programmes, emission standards, and sanitation laws.
+**Step 4 – Application:** In groups, students list ways to reduce pollution (e.g., planting trees, proper waste disposal, using cleaner fuels) and match them to pollution control measures like recycling programmes, emission standards, and sanitation laws.
 
-**Step 5 – Evaluation:** Teacher asks pupils to name types of pollution, outline their effects, and describe specific actions individuals and government agencies can take to control pollution.
+**Step 5 – Evaluation:** Teacher asks students to name types of pollution, outline their effects, and describe specific actions individuals and government agencies can take to control pollution.
 
 ### Content Summary
 

@@ -21,8 +21,8 @@ DETAILED LESSON PLAN – JSS 1
 - **Subtopic:** Early Counting Devices
 - **Reference Materials:** NERDC Basic Science and Technology for JSS 1; NERDC Information Technology for Junior Secondary Schools; Internet resources on early computing devices
 - **Instructional Materials:** Pictures of counting stones, tally sticks, abacus, Napier's bones; actual abacus; timeline chart
-- **Entry Behaviour:** Pupils have used fingers and sticks to count small numbers.
-- **Behavioural Objectives:** By the end of the lesson, pupils will be able to:
+- **Entry Behaviour:** Students have used fingers and sticks to count small numbers.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
   1. Describe early methods people used for counting.
   2. Identify at least three early counting devices and their uses.
   3. Arrange early counting devices in chronological order.
@@ -31,15 +31,15 @@ DETAILED LESSON PLAN – JSS 1
 
 ### Lesson Presentation
 
-**Step 1 – Introduction:** Teacher asks pupils to share how they count objects at home (fingers, stones, sticks) and writes responses on the board.
+**Step 1 – Introduction:** Teacher asks students to share how they count objects at home (fingers, stones, sticks) and writes responses on the board.
 
 **Step 2 – Presentation:** Teacher introduces early counting devices such as tally sticks, counting stones, cowrie shells, and the abacus.
 
 **Step 3 – Explanation:** Teacher describes each device, its origin, and how it was used for counting and record keeping, using a timeline chart.
 
-**Step 4 – Application:** Pupils handle an abacus or improvised counting frame to practise counting and simple addition in groups.
+**Step 4 – Application:** Students handle an abacus or improvised counting frame to practise counting and simple addition in groups.
 
-**Step 5 – Evaluation:** Teacher asks pupils to name early counting devices, arrange them in order, and demonstrate counting with the abacus.
+**Step 5 – Evaluation:** Teacher asks students to name early counting devices, arrange them in order, and demonstrate counting with the abacus.
 
 ### Content Summary
 
