@@ -58,6 +58,8 @@ Teacher emphasises that all living things are matter, but not all matter is livi
 - Living things show life processes like **movement**, **breathing**, **response to stimuli**, **growth**, **reproduction**, **excretion**, and **feeding**.
 - Non-living things do not perform life processes. Examples are **stones**, **water**, **air**, and **machines**.
 - We classify objects by checking for life characteristics and by identifying their state of matter.
+- Practise by **sorting household items** into living and non-living groups and explaining your reasons to a friend or family member.
+- Draw diagrams of **solid, liquid, and gas particles** to remember how matter behaves differently in each state.
 
 ### Assignment
 
@@ -112,6 +114,8 @@ Teacher reinforces that observing indices of change helps individuals and health
 - Humans develop through **infancy**, **childhood**, **adolescence**, **adulthood**, and **old age**, each with special features.
 - Good nutrition, exercise, sleep, and hygiene help us grow healthily during every stage.
 - Keeping records of growth helps doctors and families ensure proper development.
+- Use a personal health journal to **track height, weight, and habits**, noting how changes make you feel.
+- Talk about **emotional and social changes** during each stage with trusted adults to learn healthy ways to manage them.
 
 ### Assignment
 
@@ -167,6 +171,8 @@ Teacher concludes that sustainable management of forests is essential for enviro
 - It leads to **climate change**, **loss of animals and plants**, **soil erosion**, and **reduced rainfall**.
 - Governments regulate deforestation through **laws, permits, forest reserves, and reforestation projects**.
 - Everyone can help by **planting trees**, **using alternative energy**, and **reporting illegal logging**.
+- Support tree-planting clubs, community nurseries, or environmental campaigns that **replace harvested trees with new seedlings**.
+- Learn about **sustainable products** such as certified timber or recycled paper to reduce pressure on natural forests.
 
 ### Assignment
 

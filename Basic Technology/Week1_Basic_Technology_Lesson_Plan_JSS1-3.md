@@ -57,6 +57,8 @@ Teacher highlights the meaning, importance, and branches of technology and encou
 - We need technology to **communicate quickly**, **transport goods and people**, **produce food and goods**, **build safe houses**, and **care for our health**.
 - Branches of technology include **communication technology** (phones, radio), **construction technology** (building tools), **production technology** (machines in factories), **transportation technology** (cars, bicycles), and **information technology** (computers, internet).
 - Technology keeps changing and improving, so we should learn how to use it responsibly.
+- Draw a mind map linking **branches of technology** to tools you see at home or school to make the connections clearer.
+- Discuss with classmates how technology can solve **local problems** like water supply or waste disposal to see its real-life impact.
 
 ### Assignment
 
@@ -110,6 +112,8 @@ Teacher reminds students that prompt first aid can save lives and encourages the
 - A **first aid box** keeps important materials such as **bandages**, **plasters**, **cotton wool**, **antiseptic**, **scissors**, **gloves**, **safety pins**, and **thermometer**.
 - We use these materials to **clean wounds**, **cover and protect injuries**, **stop bleeding**, and **prevent infection** until a medical expert arrives.
 - Everyone should stay calm, protect themselves with gloves, and call for help while giving first aid.
+- Remember to **check expiry dates** of medicines and replace used items so the first aid box stays ready for emergencies.
+- Practise simple first aid steps like **applying pressure to stop bleeding** or **supporting a sprained joint** under adult supervision.
 
 ### Assignment
 
@@ -164,6 +168,8 @@ Teacher summarises timber defects, their causes, and treatments, stressing the i
 - Defects come from **improper felling**, **poor drying**, **attack by insects or fungi**, and **bad storage conditions**.
 - To treat timber, we **season** it to remove moisture, **apply preservatives** to stop insects and fungi, and **finish** the surface with **paint, varnish, or polish**.
 - Proper **presentation of timber** means selecting good wood, drying it correctly, treating it, and finishing it so it is strong, durable, and attractive for construction or furniture.
+- Keep a notebook where you **sketch each defect** and write the best treatment beside it to help you revise quickly.
+- Visit a carpentry workshop or watch instructional videos to observe **seasoning, preservation, and finishing** techniques in action.
 
 ### Assignment
 

@@ -58,6 +58,8 @@ Teacher emphasises that healthy families use drugs responsibly and seek medical 
 - Abused substances like **alcohol, tobacco, tramadol, and cough syrups** can harm the body and mind.
 - Drug abuse leads to **sickness**, **addiction**, **poor behaviour**, and **family quarrels**.
 - Say **no** to drugs, follow doctors’ instructions, and report suspicious drug activities.
+- Learn to **read medicine labels carefully** and only take doses given by a trusted adult or health worker.
+- Build strong friendships that **support healthy choices** and practise what to say when someone offers you harmful substances.
 
 ### Assignment
 
@@ -112,6 +114,8 @@ Teacher stresses that organisms sharing a habitat often look or behave alike bec
 - Shared characteristics include **protective coverings**, **special feeding structures**, and **movement styles** suited to the habitat.
 - These features help organisms **survive dangers** and **raise their young**.
 - When habitats change, organisms may **adapt**, **migrate**, or **die** if they cannot cope.
+- Keep a simple table showing **organism, shared feature, and survival advantage** to organise your observations.
+- Compare two habitats in your notes to explain why animals or plants in each place need similar body parts or behaviours.
 
 ### Assignment
 
@@ -166,6 +170,8 @@ Teacher reminds students that preventing erosion protects soil fertility, roads,
 - Human actions like **cutting trees** and **bad farming** increase erosion.
 - Erosion types are **sheet**, **rill**, and **gully**.
 - Control erosion by **planting vegetation**, **building terraces and drains**, and **handling land carefully**.
+- Planting **trees and cover crops** holds soil with roots, while mulching protects the ground from direct rainfall impact.
+- Communities can **work together to clear blocked drainage and avoid bush burning**, which keeps the soil safe and fertile.
 
 ### Assignment
 

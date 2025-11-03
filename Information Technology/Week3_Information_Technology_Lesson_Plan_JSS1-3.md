@@ -58,6 +58,9 @@ Teacher emphasises that understanding early devices shows how technology evolved
 - The **Abacus** uses beads, **Napier’s Bones** uses rods, **Pascaline** uses gears, and the **Difference Engine** uses wheels and cogs.
 - These inventions inspired **modern computing machines**.
 - Knowing the history helps us appreciate today’s **digital tools**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -112,6 +115,9 @@ Teacher highlights that without operating systems, computers cannot function eff
 - Examples are **Windows**, **macOS**, **Linux**, **Android**, and **iOS**.
 - Functions include **starting the computer**, **managing files**, **sharing memory**, and **controlling devices**.
 - The OS provides the **screen interface** and keeps the system **secure and organised**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -166,6 +172,9 @@ Teacher concludes that joining professional bodies helps ICT experts remain comp
 - International bodies such as **IEEE Computer Society** and **ACM** support research and professional learning.
 - They set **standards**, offer **training**, organise **conferences**, and ensure **ethical practice**.
 - Membership boosts **career opportunities** and keeps professionals updated on new technologies.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 

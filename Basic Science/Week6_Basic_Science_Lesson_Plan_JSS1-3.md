@@ -58,6 +58,8 @@ Teacher emphasises that everyone shares the responsibility of keeping the enviro
 - Pollution causes **diseases**, **poor crop growth**, **dirty water**, and **damage to living things and property**.
 - We reduce pollution by **proper waste disposal**, **recycling**, **planting trees**, **maintaining vehicles**, and **avoiding open burning**.
 - Pollution control measures include **environmental laws**, **emission testing**, **wastewater treatment**, and **community clean-up programmes**.
+- Always check how your family handles waste and suggest **simple improvements like sorting recyclables or composting organic matter**.
+- Keep notes on **community sanitation days or government regulations** so you understand how rules protect the environment.
 
 ### Assignment
 
@@ -111,6 +113,8 @@ Teacher reinforces that using intelligence skills makes the study of living thin
 - Careful observation and recording help us **notice similarities and differences** among organisms.
 - Classification and reasoning lead to **better understanding of habitats and adaptations**.
 - Sharing findings through tables and presentations is part of **communicating scientific results**.
+- Practise these skills at home by **observing household plants or pets**, recording features, and explaining your conclusions to family members.
+- Using charts, diagrams, or digital tools to present data makes your explanations clearer and strengthens communication skills.
 
 ### Assignment
 
@@ -165,6 +169,8 @@ Teacher stresses that preventing bush burning protects the environment, supports
 - Practices such as **land clearing with fire**, **hunting with fire**, and **burning refuse** lead to bush burning.
 - Bush burning causes **soil infertility**, **loss of wildlife**, **air pollution**, and **damage to farms and homes**.
 - Regulations and community actions like **fire bans**, **permits**, **public education**, and **reporting offenders** help reduce bush burning.
+- Encourage neighbours to **clear dry leaves without fire** and create fire belts that stop flames from spreading quickly.
+- Support local authorities by **sharing early warnings, joining awareness campaigns, and practising safe fire use** during the dry season.
 
 ### Assignment
 

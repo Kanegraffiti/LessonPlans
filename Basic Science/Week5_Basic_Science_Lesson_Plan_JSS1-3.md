@@ -60,6 +60,8 @@ Teacher emphasises that reducing pollution keeps the environment safe for plants
 - Air pollution is caused by **smoke from vehicles and factories** and **burning refuse**.
 - Soil pollution is caused by **dumping waste and chemicals**; water pollution by **sewage and oil spills**.
 - Everyone should **dispose waste properly** and **avoid burning harmful materials**.
+- Reduce pollution by **recycling plastics**, **using cleaner fuels**, and **planting trees** that purify the air.
+- Keep a personal checklist noting **air, soil, and water pollutants** you observe in your area and suggest safe ways to control them.
 
 ### Assignment
 
@@ -115,6 +117,8 @@ Teacher highlights that human uniqueness should lead to responsible behaviour an
 - **Opposable thumbs and upright posture** help humans make tools and perform delicate tasks.
 - Human societies develop **culture, technology, and moral values** to guide behaviour.
 - Being human means **caring for others** and **protecting the environment**.
+- Humans can **invent solutions** like machines, medicines, and digital tools to solve problems when they cooperate.
+- Practise empathy by **respecting different cultures and helping people in need**, showing that human uniqueness includes kindness.
 
 ### Assignment
 
@@ -170,6 +174,8 @@ Teacher concludes that proactive planning reduces the dangers of flooding and pr
 - Human actions like **dumping waste in gutters** and **building on waterways** make flooding worse.
 - Prevention includes **clearing drains**, **planting trees**, **building embankments**, and **following weather alerts**.
 - Flooding damages **homes, farms, roads, and health**, so communities must **prepare and respond quickly**.
+- Keep emergency contacts and supplies ready, such as **clean water, first-aid kits, and dry food**, to stay safe during heavy rains.
+- Support community projects that **desilt gutters, protect wetlands, and enforce proper building plans** to reduce future floods.
 
 ### Assignment
 

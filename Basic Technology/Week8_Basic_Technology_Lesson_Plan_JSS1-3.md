@@ -57,6 +57,9 @@ Teacher emphasises that observing safety rules prevents accidents and keeps the 
 - A workshop is a **practical room** where we make, repair, or test things.
 - We must follow safety rules: **wear goggles**, **keep floors dry**, **store tools properly**, **report accidents**, and **obey instructions**.
 - Safety equipment such as **gloves**, **helmets**, and **first aid kits** protect us from injuries.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -111,6 +114,9 @@ Teacher concludes that understanding material properties helps in selecting the 
 - Materials have special properties that determine their uses.
 - Rubber is **elastic**, plastics are **light and mouldable**, ceramics are **hard and heat-resistant**, and glass is **transparent**.
 - We choose materials by considering the job the product will do and the environment where it will be used.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -166,6 +172,9 @@ Teacher stresses that processing raw materials into useful products requires kno
 - Glass is produced by **melting silica sand with additives** and shaping it before cooling slowly.
 - Ceramics and glass are used in **buildings**, **kitchens**, **laboratories**, and **artworks**.
 - Safety is important because production involves **high temperatures** and **fragile materials**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 

@@ -58,6 +58,8 @@ Teacher reinforces that careful pedestrians protect themselves and other road us
 - Walk on the **sidewalk** or the **left side facing traffic** if there is no sidewalk.
 - Use **zebra crossings**, **pedestrian bridges**, and **traffic lights** correctly.
 - Stay **alert**, avoid distractions, and wear **reflective materials** at night.
+- Practise the **stop, look, listen, think** routine every time you cross to build safe habits.
+- Share safety tips with younger siblings or neighbours so everyone in your community walks more safely.
 
 ### Assignment
 
@@ -112,6 +114,8 @@ Teacher stresses that well-organised rescue operations reduce casualties and spe
 - Stages include **assessing the scene**, **securing the area**, **rescuing victims**, **giving first aid**, and **evacuating to safety**.
 - Team members must **communicate**, wear **protective gear**, and follow **safety rules**.
 - Quick, coordinated action saves lives and prevents more harm.
+- Learn local emergency numbers and practise saying **clear information** (who, what, where) when calling for help.
+- Keep a simple list of **rescue roles**—such as leader, first aider, communicator—to understand how teams work together.
 
 ### Assignment
 
@@ -166,6 +170,8 @@ Teacher concludes that treated and well-stored timber remains strong, safe, and 
 - We treat timber by **seasoning**, **painting**, or using **preservatives** to stop insects and rot.
 - Store timber on **raised racks**, keep it **dry**, and allow **air to flow** between planks.
 - Proper treatment and storage make timber **last long** and **look good**.
+- Compare pictures of **good and bad storage** and note the differences to avoid costly mistakes in real projects.
+- Record community examples of timber use, such as furniture makers or builders, and observe how they protect wood from moisture and pests.
 
 ### Assignment
 

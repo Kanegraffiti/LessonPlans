@@ -58,6 +58,9 @@ Teacher emphasises that understanding early electronic devices helps pupils appr
 - Early examples include **ENIAC, EDSAC, UNIVAC I, and IBM 650** with pioneers such as **John Mauchly, J. Presper Eckert, and Maurice Wilkes**.
 - These machines were **large**, **powerful**, and **faster** than manual counting devices.
 - They paved the way for today's **compact and efficient computers**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -112,6 +115,9 @@ Teacher notes that mastering different bases prepares students for advanced comp
 - To convert from decimal to another base, **divide by the base and record remainders**.
 - To convert to decimal, **multiply each digit by its place value** and add the results.
 - Knowing different bases helps in **programming, digital circuits, and data representation**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -166,6 +172,9 @@ Teacher concludes that recognising virus examples and behaviours helps students 
 - They spread via **emails, networks, removable drives, and malicious downloads**.
 - Effects range from **deleting files** to **stealing information** or **locking data for ransom**.
 - Prevent infection by **updating security software**, **scanning devices**, and **avoiding suspicious files**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 

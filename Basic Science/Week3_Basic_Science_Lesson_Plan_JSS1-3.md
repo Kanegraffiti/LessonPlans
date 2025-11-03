@@ -58,6 +58,8 @@ Teacher reminds pupils that healthy families choose meals that supply all nutrie
 - The classes are **carbohydrates**, **proteins**, **fats and oils**, **vitamins**, **minerals**, and **water**.
 - Balanced meals help the body **grow**, **stay strong**, and **fight diseases**.
 - Families can combine local foods like **beans, vegetables, fish, fruits, grains, and water** to make balanced diets daily.
+- Try to **balance portion sizes** by filling half the plate with fruits and vegetables, a quarter with proteins, and a quarter with energy foods like grains or tubers.
+- Remember to **limit sugary drinks and fried snacks** because they add calories without the nutrients needed for a balanced diet.
 
 ### Assignment
 
@@ -112,6 +114,8 @@ Teacher emphasises that similar conditions in a habitat lead to similar features
 - Organisms living together may share **body coverings**, **ways of feeding**, **movement styles**, and **behavioural habits**.
 - These shared features help them **survive** and **raise their young** successfully.
 - When a habitat changes, organisms may **adapt, migrate, or die** if they cannot cope.
+- Create a comparison chart showing **habitat, shared characteristic, and survival benefit** to connect each idea clearly.
+- Notice that even small differences—like the shape of a beak or type of leaves—tell us how organisms meet their needs in the same environment.
 
 ### Assignment
 
@@ -166,6 +170,8 @@ Teacher concludes that understanding family traits and genealogy helps individua
 - They help families **identify one another**, **predict health issues**, and **understand talents**.
 - **Genealogy** is the record of family history shown through **family trees** or **pedigree charts**.
 - Keeping family records helps preserve **culture**, **values**, and **medical information** for future generations.
+- You can start a **family trait journal** noting the year, the relative, and the trait you observed to track how features change over time.
+- Understanding patterns of traits can help families **plan for healthy lifestyles** and celebrate special talents passed down the generations.
 
 ### Assignment
 

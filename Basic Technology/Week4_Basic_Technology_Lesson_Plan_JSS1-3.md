@@ -58,6 +58,8 @@ Teacher emphasises that responsible riders protect themselves and other road use
 - Check **brakes, tyres, and lights** before riding.
 - Use **hand signals** and obey road signs to communicate with other road users.
 - Avoid **over-speeding** and **carrying more than one passenger** on a motorcycle.
+- Keep a riding log to note **safety checks, weather conditions, and routes** so you can plan safer journeys.
+- Practise signalling and emergency stopping in a safe area before riding on busy roads to build confidence.
 
 ### Assignment
 
@@ -112,6 +114,8 @@ Teacher reiterates that organised rescue operations protect rescuers, victims, a
 - Use **warning devices** and control traffic to protect the area.
 - Stabilise vehicles to stop further accidents.
 - Assess victims gently, call for medical help, and provide basic first aid.
+- Assign roles such as **traffic controller, first aider, and communicator** during drills so everyone knows their responsibility.
+- After each practice, review what went well and what to improve to strengthen your rescue teamwork skills.
 
 ### Assignment
 
@@ -167,6 +171,8 @@ Teacher notes that understanding processing methods helps students choose the be
 - Each method has **strengths** and **limitations** affecting cost, quality, and safety.
 - Choosing the right method depends on the **product shape**, **strength needed**, and **production volume**.
 - Safety gear like **gloves, goggles, and aprons** is essential in metal workshops.
+- Create a comparison table listing **method, ideal products, advantages, disadvantages, and safety needs** to support quick revision.
+- Watch demonstration videos or visit a metal workshop to observe how technicians **apply safety rules while processing metals**.
 
 ### Assignment
 
