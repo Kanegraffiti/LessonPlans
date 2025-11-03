@@ -59,6 +59,9 @@ Teacher highlights that electro-mechanical devices were important steps toward t
 - Examples include the **Jacquard loom**, **Hollerith tabulator**, and **differential analyzer**.
 - They performed tasks faster and more accurately than earlier mechanical devices.
 - Their punched-card control inspired later **programming methods**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -114,6 +117,9 @@ Teacher reminds students that digital devices rely on binary, so learning number
 - Converting between bases involves **division**, **multiplication**, and **grouping binary digits**.
 - Hexadecimal digits A–F represent decimal numbers **10–15**.
 - Mastering conversions supports skills in **coding** and **computer hardware**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -172,6 +178,9 @@ Teacher stresses that understanding virus types helps students protect personal 
 - Types include **file infectors**, **macro viruses**, **worms**, **Trojans**, and **ransomware**.
 - Viruses spread through **infected media and the internet**.
 - Protect computers by **installing antivirus software**, **updating systems**, and **being careful online**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 

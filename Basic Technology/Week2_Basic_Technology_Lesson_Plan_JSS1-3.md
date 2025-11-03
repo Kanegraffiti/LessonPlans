@@ -59,6 +59,8 @@ Teacher reviews the meaning of technology, related professions, and the importan
 - Being **technologically literate** means knowing how to use tools, machines, and digital devices correctly and safely.
 - We need technology to **communicate**, **learn in school**, **treat sickness**, **build houses**, **produce goods**, and **travel**.
 - We should use technology wisely, care for the devices we have, and keep learning about new inventions.
+- Interview family members about **how technology has changed their jobs** and record the tools they now use compared to the past.
+- Practise safe use of gadgets by **following manufacturer instructions, updating software**, and setting healthy screen-time limits.
 
 ### Assignment
 
@@ -115,6 +117,8 @@ Teacher reminds students that first aiders must stay calm, protect themselves wi
 - **B – Breathing:** Check if the person is breathing by looking at the chest, listening for air, and feeling breath on your cheek.
 - **C – Circulation:** Look for signs of movement or pulse and control bleeding or start chest compressions if trained.
 - Always call for help, use protective gloves, and keep the casualty comfortable while help is on the way.
+- Create a quick reference card that lists the **ABC steps and emergency phone numbers** to keep in your bag or classroom.
+- Practise staying calm by **role-playing emergency scenes** with classmates so the ABC procedure becomes familiar.
 
 ### Assignment
 
@@ -170,6 +174,8 @@ Teacher summarises common timber defects, their causes, and treatments, stressin
 - Timber is treated by **seasoning**, **chemical preservatives**, **fumigation**, **painting**, or **varnishing** to make it strong and durable.
 - Presenting timber for use involves **selecting good wood**, **seasoning it**, **treating it**, **smoothing the surface**, and **finishing** with paint, polish, or varnish.
 - Proper processing ensures timber lasts longer and looks attractive in furniture and buildings.
+- Make flashcards with **defect names on one side and treatments on the other** to test your memory with friends.
+- Pay attention to furniture at home or school and note **signs of defects or good finishing** to connect the lesson with real objects.
 
 ### Assignment
 

@@ -57,6 +57,9 @@ Teacher emphasises that practising safety guidelines daily builds confidence and
 - We must wear **helmets**, **goggles**, **gloves**, and **reflective vests** correctly.
 - Practical drills teach us to **observe traffic rules**, **handle tools safely**, and **respond to emergencies**.
 - Safety checklists help us **confirm** that all precautions have been taken.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -109,6 +112,9 @@ Teacher highlights that understanding material properties helps engineers and ar
 - Brass (copper + zinc) is used for **trumpets**, **door knobs**, **water taps**, **decorative plates**, and **electrical connectors**.
 - Bronze (copper + tin) is used for **statues**, **ship propellers**, **bearings**, **coins**, and **art medals**.
 - We choose brass or bronze by considering **corrosion resistance**, **strength**, and **appearance**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -161,6 +167,9 @@ Teacher concludes that understanding processing methods helps students appreciat
 - Clay and ceramic processing steps include **clay preparation**, **shaping**, **drying**, **firing**, and **glazing**.
 - Glass processing steps include **mixing raw materials**, **melting**, **forming**, and **annealing**.
 - Advantages of processing methods include **durable products**, **mass production**, and **beautiful finishes**; disadvantages include **high energy cost**, **risk of breakage**, and **need for safety gear**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 

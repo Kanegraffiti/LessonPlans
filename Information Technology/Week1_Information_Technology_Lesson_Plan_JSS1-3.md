@@ -59,6 +59,9 @@ Teacher emphasises that modern computers developed from simple counting tools cr
 - The **abacus** is a frame with beads used for counting and performing simple arithmetic.
 - **Napier's bones** were rods with multiplication tables that made calculation faster.
 - These early devices were the foundation for the computers we use today.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -114,6 +117,9 @@ Teacher restates that computers cannot work without software and encourages stud
 - System software includes **operating systems** (Windows, Linux, Android) and **utility programs** (antivirus, disk cleanup).
 - Application software includes **word processors**, **spreadsheets**, **games**, **web browsers**, and **media players**.
 - Hardware is the body of the computer, while software is the mind that gives instructions.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -170,6 +176,9 @@ Teacher emphasises that ICT careers are diverse and encourages students to explo
 - **Network engineers** connect computers so they can share information; **cybersecurity specialists** protect data from attacks.
 - **Database administrators** store and secure data, while **web designers** create attractive and user-friendly websites.
 - ICT careers require good communication, teamwork, creativity, and continuous learning.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 

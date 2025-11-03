@@ -58,6 +58,8 @@ Teacher emphasises that eating a balanced diet daily keeps the family strong and
 - We need good nutrition to **grow well**, **fight diseases**, **repair worn-out tissues**, and **stay active**.
 - Food nutrients include **carbohydrates** (rice, yam), **proteins** (beans, eggs, fish), **fats and oils** (groundnut oil, butter), **vitamins** (fruits, vegetables), **minerals** (milk, liver), and **water**.
 - A **balanced diet** has the right amount of each nutrient class; skipping any class can make us weak or sick.
+- Eat a colourful plate by combining **carbohydrate staples with vegetables, fruits, and protein-rich foods** to keep meals balanced.
+- Drink plenty of **clean water** every day because it helps nutrients move around the body and removes waste.
 
 ### Assignment
 
@@ -112,6 +114,8 @@ Teacher summarises key adaptations discussed and encourages students to observe 
 - Examples: **Camels** have humps to store fat and long eyelashes to keep out sand; **ducks** have webbed feet for swimming; **fish** have gills to breathe in water; **cacti** have spines that reduce water loss.
 - Adaptations allow living things to get food, stay safe, and cope with heat, cold, or water.
 - If the habitat changes too much, living things must move, adapt more, or they may die.
+- Some adaptations are **behavioural**, like birds migrating when seasons change, while others are **structural**, like thick fur for warmth.
+- Sketch or label pictures of organisms showing their adaptations to remember how each feature helps them survive.
 
 ### Assignment
 
@@ -166,6 +170,8 @@ Teacher recaps the meaning of dominant and recessive traits and encourages stude
 - **Recessive traits** (like attached earlobes, straight hairline, inability to roll the tongue) appear only when both parents pass the recessive gene.
 - A dominant gene written with a capital letter hides a recessive gene written with a small letter when they are together.
 - Using simple **Punnett squares** helps us see the chances of children inheriting certain traits from their parents.
+- When reading family charts, note that **dominant traits do not disappear**; they may skip appearing if paired with another dominant gene but can reappear in later generations.
+- Observe members of your family and record which traits are dominant or recessive to practise explaining inheritance in real life.
 
 ### Assignment
 

@@ -58,6 +58,9 @@ Teacher emphasises that disciplined motorists reduce accidents and keep roads sa
 - Safe motorists **inspect their vehicles**, **obey traffic signs**, **maintain safe speed**, and **avoid distractions**.
 - Seat belts, mirrors, and signals help motorists **control the vehicle** and **communicate with other road users**.
 - Motorists must **remain sober**, **patient**, and **ready for emergencies** to prevent accidents.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -112,6 +115,9 @@ Teacher highlights that understanding material properties helps in selecting the
 - Metals include **iron, aluminium, copper, steel, and brass**, used for **machines, vehicles, cooking utensils, roofing, and wires**.
 - Material properties like **strength, durability, conductivity, and flexibility** determine their uses.
 - Selecting the right material ensures **safety**, **functionality**, and **cost-effectiveness**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -166,6 +172,9 @@ Teacher concludes that alloying expands the usefulness of metals for modern engi
 - Examples are **steel, stainless steel, brass, bronze, and duralumin**.
 - Alloy properties include **strength, corrosion resistance, hardness, and lightness**.
 - Industries use alloys for **buildings, tools, machines, vehicles, and household items**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 

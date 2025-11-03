@@ -57,6 +57,9 @@ Teacher emphasises that understanding computer generations helps pupils apprecia
 - First generation used **vacuum tubes** and was **large and slow**; second used **transistors** which were **smaller and faster**.
 - Third generation used **integrated circuits**, fourth introduced **microprocessors**, and fifth focuses on **artificial intelligence** and **advanced software**.
 - Each generation makes computers **smaller**, **faster**, **more reliable**, and **easier to use**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -109,6 +112,9 @@ Teacher explains that understanding storage units supports efficient computer us
 - Data is measured using **bits and bytes** and larger units like **KB, MB, GB, and TB**.
 - **8 bits make 1 byte**, and each higher unit is **1024 times** the previous one.
 - Understanding units helps us **select the right storage device** and **manage files wisely**.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -163,6 +169,9 @@ Teacher concludes that awareness of virus sources and warning signs empowers stu
 - Warning signs include **slow systems**, **frequent pop-ups**, **files changing or disappearing**, and **antivirus warnings**.
 - Prevent viruses by **updating antivirus software**, **scanning drives**, and **avoiding suspicious links**.
 - Report virus alerts to a **teacher or technician** immediately for help.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 

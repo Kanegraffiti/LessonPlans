@@ -57,6 +57,9 @@ Teacher emphasises that computer development continues, and pupils can contribut
 - There are **five main generations of computers**, each with a new technology: **vacuum tubes**, **transistors**, **integrated circuits**, **microprocessors**, and **artificial intelligence**.
 - Computers have become **smaller, faster, and more reliable** with each generation.
 - Knowing the features of each generation helps us identify old and modern devices and their uses.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -110,6 +113,9 @@ Teacher reminds students that careful planning before coding leads to efficient 
 - Computer programmes are **instructions** written to solve a problem or perform a task.
 - We solve problems by **defining the problem**, **planning a solution**, **writing the instructions**, and **testing** the programme.
 - Flowcharts and pseudocode help us organise our ideas before writing the final programme.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -163,6 +169,9 @@ Teacher highlights that proactive virus detection protects data, hardware, and u
 - Antivirus software uses **updates and scans** to identify and remove viruses from computers.
 - We should **update antivirus definitions**, **run regular scans**, and **check scan reports** to keep systems safe.
 - Safe computing habits like **avoiding unknown downloads** and **backing up files** help prevent infections.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 

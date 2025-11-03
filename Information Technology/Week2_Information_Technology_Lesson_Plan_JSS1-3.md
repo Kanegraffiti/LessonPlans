@@ -58,6 +58,9 @@ Teacher summarises the limitations of early counting devices and links them to t
 - People could easily **lose stones or tally marks**, making records incorrect.
 - The **abacus** was faster but still required skilled users and could not store information for long periods.
 - Because of these problems, inventors created better machines that could count and calculate accurately.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -112,6 +115,9 @@ Teacher reinforces that system software prepares the computer for use while appl
 - Examples include **operating systems**, **utility programs**, and **language translators** such as compilers and interpreters.
 - **Application software** helps users perform jobs like typing documents, calculating results, browsing the internet, designing posters, and playing educational games.
 - Without system software, application programs cannot run; without application software, users cannot do meaningful work on the computer.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 
@@ -166,6 +172,9 @@ Teacher emphasises that personal qualities and membership of professional bodies
 - Other important qualities are **team spirit**, **good communication**, **problem-solving**, and **time management**.
 - Computer professional bodies include **NCS**, **CPN**, **IEEE**, and **ACM**; they organise exams, conferences, and training.
 - Being part of a professional body helps members follow rules, learn new technologies, and grow in their careers.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
+- Teach a friend or family member what you learned to check your understanding and build confidence.
+
 
 ### Assignment
 

@@ -57,6 +57,8 @@ The teacher revises key points on sanitation and encourages pupils to practice g
 - A **germ** is a tiny living thing that causes sickness; cleaning and washing stop germs from spreading.
 - We clean to **prevent diseases**, make places **comfortable to live in**, and keep everyone **safe and healthy**.
 - Common sanitation methods include **sweeping floors**, **mopping with clean water**, **washing hands with soap**, **packing refuse into covered bins**, and **clearing gutters or drains** so water can flow freely.
+- Keeping **gutters and drains clear** stops stagnant water from collecting and prevents mosquitoes and other pests from spreading diseases like malaria.
+- Practise sanitation every day by **wiping surfaces, washing clothes and dishes regularly, storing food properly**, and reminding family members to clean shared spaces.
 
 ### Assignment
 
@@ -110,6 +112,8 @@ Teacher reviews main ideas on habitats and adaptations and urges students to obs
 - Examples of habitats are **forest** (many trees and animals), **desert** (hot, dry land with little water), **freshwater** (rivers and ponds), **marine** (seas and oceans), and **arboreal** (tree tops where animals like monkeys live).
 - An **adaptation** is a special body part or behaviour that helps a living thing survive in its habitat, such as **camel humps storing fat**, **duck webbed feet for swimming**, **cactus spines reducing water loss**, or **fish gills for breathing in water**.
 - Living things must match their adaptations to the right habitat so that they can get what they need and stay alive.
+- When habitats change, organisms may **migrate, adapt further, or risk dying out**, so protecting habitats keeps living things safe.
+- Draw a table in your notebook listing **organism, habitat, and adaptation** to help you remember how each example survives.
 
 ### Assignment
 
@@ -164,6 +168,8 @@ Teacher summarises the meaning of family traits, dominant traits, and recessive 
 - A **recessive trait** is a hidden trait that shows only when it is received from both parents. Examples: attached earlobes, straight hairline, inability to roll the tongue.
 - **Genes** are tiny instructions inside cells that carry traits from parents to children and decide whether a trait is dominant or recessive.
 - Members of the same family can look alike or different because they receive different combinations of genes from their parents.
+- Keep a **simple family trait chart** where you record relatives who show dominant or recessive traits to see patterns more clearly.
+- Remember that **environmental factors** like nutrition and exercise can influence how traits appear, even when genes stay the same.
 
 ### Assignment
 
