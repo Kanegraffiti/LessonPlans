@@ -4,11 +4,10 @@ WEEK 1 BASIC TECHNOLOGY LESSON PLAN (15TH – 19TH SEPTEMBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Introduction to Technology | Meaning of technology; Importance of technology; Branches of technology |
-| JSS 2 | First Aid | Meaning of first aid; Materials in a first aid box or kit |
-| JSS 3 | Processing of Materials (Timber) | Common timber defects; Treatments; Timber presentation |
+- **JSS 1 – Introduction to Technology:** Meaning of technology; Importance of technology; Branches of technology.
+- **JSS 2 – First Aid:** Meaning of first aid; Materials in a first aid box or kit.
+- **JSS 3 – Processing of Materials (Timber):** Common timber defects; Treatments; Timber presentation.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -59,6 +58,10 @@ Teacher highlights the meaning, importance, and branches of technology and encou
 - Technology keeps changing and improving, so we should learn how to use it responsibly.
 - Draw a mind map linking **branches of technology** to tools you see at home or school to make the connections clearer.
 - Discuss with classmates how technology can solve **local problems** like water supply or waste disposal to see its real-life impact.
+
+
+- Create a study box in your notebook for **Technology** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Technology** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -114,6 +117,10 @@ Teacher reminds students that prompt first aid can save lives and encourages the
 - Everyone should stay calm, protect themselves with gloves, and call for help while giving first aid.
 - Remember to **check expiry dates** of medicines and replace used items so the first aid box stays ready for emergencies.
 - Practise simple first aid steps like **applying pressure to stop bleeding** or **supporting a sprained joint** under adult supervision.
+
+
+- Create a study box in your notebook for **First aid** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **First aid** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -171,6 +178,10 @@ Teacher summarises timber defects, their causes, and treatments, stressing the i
 - Keep a notebook where you **sketch each defect** and write the best treatment beside it to help you revise quickly.
 - Visit a carpentry workshop or watch instructional videos to observe **seasoning, preservation, and finishing** techniques in action.
 
+
+- Create a study box in your notebook for **Timber defects** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Timber defects** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Explain five timber defects and describe one treatment method for each defect.
@@ -182,11 +193,10 @@ WEEK 2 BASIC TECHNOLOGY LESSON PLAN (22ND – 26TH SEPTEMBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Understanding Technology | Meaning of technology; Technology-related professions; Importance of being technologically literate |
-| JSS 2 | First Aid | Reasons for administering first aid; ABC of first aid; Application of ABC |
-| JSS 3 | Processing of Materials (Timber) | Common timber defects; Treatment of timber; Timber presentation |
+- **JSS 1 – Understanding Technology:** Meaning of technology; Technology-related professions; Importance of being technologically literate.
+- **JSS 2 – First Aid:** Reasons for administering first aid; ABC of first aid; Application of ABC.
+- **JSS 3 – Processing of Materials (Timber):** Common timber defects; Treatment of timber; Timber presentation.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -239,6 +249,10 @@ Teacher reviews the meaning of technology, related professions, and the importan
 - We should use technology wisely, care for the devices we have, and keep learning about new inventions.
 - Interview family members about **how technology has changed their jobs** and record the tools they now use compared to the past.
 - Practise safe use of gadgets by **following manufacturer instructions, updating software**, and setting healthy screen-time limits.
+
+
+- Create a study box in your notebook for **Technology** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Technology** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -298,6 +312,10 @@ Teacher reminds students that first aiders must stay calm, protect themselves wi
 - Create a quick reference card that lists the **ABC steps and emergency phone numbers** to keep in your bag or classroom.
 - Practise staying calm by **role-playing emergency scenes** with classmates so the ABC procedure becomes familiar.
 
+
+- Create a study box in your notebook for **first aid** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **first aid** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Write a short procedure showing how you would apply the ABC of first aid to a classmate who collapsed during sports.
@@ -355,6 +373,10 @@ Teacher summarises common timber defects, their causes, and treatments, stressin
 - Make flashcards with **defect names on one side and treatments on the other** to test your memory with friends.
 - Pay attention to furniture at home or school and note **signs of defects or good finishing** to connect the lesson with real objects.
 
+
+- Create a study box in your notebook for **knots** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **knots** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Visit a nearby carpentry workshop or observe wooden furniture at home. List three defects you notice and suggest suitable treatments for each.
@@ -366,11 +388,10 @@ WEEK 3 BASIC TECHNOLOGY LESSON PLAN (29TH SEPTEMBER – 3RD OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Safety Guidelines | Safety guidelines for pedestrians |
-| JSS 2 | Rescue Operations | Meaning and different aspects of rescue operations |
-| JSS 3 | Processing of Materials – Timber | Importance, treatment, and proper storage of timber |
+- **JSS 1 – Safety Guidelines:** Safety guidelines for pedestrians.
+- **JSS 2 – Rescue Operations:** Meaning and different aspects of rescue operations.
+- **JSS 3 – Processing of Materials – Timber:** Importance, treatment, and proper storage of timber.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -422,6 +443,10 @@ Teacher reinforces that careful pedestrians protect themselves and other road us
 - Stay **alert**, avoid distractions, and wear **reflective materials** at night.
 - Practise the **stop, look, listen, think** routine every time you cross to build safe habits.
 - Share safety tips with younger siblings or neighbours so everyone in your community walks more safely.
+
+
+- Create a study box in your notebook for **people who walk** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **people who walk** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -479,6 +504,10 @@ Teacher stresses that well-organised rescue operations reduce casualties and spe
 - Learn local emergency numbers and practise saying **clear information** (who, what, where) when calling for help.
 - Keep a simple list of **rescue roles**—such as leader, first aider, communicator—to understand how teams work together.
 
+
+- Create a study box in your notebook for **organised efforts** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **organised efforts** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Explain how you would participate in a rescue operation if a flood affects your community. Mention three aspects of the operation and your role.
@@ -535,6 +564,10 @@ Teacher concludes that treated and well-stored timber remains strong, safe, and 
 - Compare pictures of **good and bad storage** and note the differences to avoid costly mistakes in real projects.
 - Record community examples of timber use, such as furniture makers or builders, and observe how they protect wood from moisture and pests.
 
+
+- Create a study box in your notebook for **Timber** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Timber** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Visit a carpenter’s workshop or timber shed in your area. Note three treatment methods and three storage practices used to keep timber in good condition.
@@ -546,11 +579,10 @@ WEEK 4 BASIC TECHNOLOGY LESSON PLAN (6TH – 10TH OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Safety Guidelines | Safety guidelines for cyclists and motorcyclists |
-| JSS 2 | Rescue Operations | Securing the environment, vehicles, and victims with steps in each aspect |
-| JSS 3 | Processing of Materials – Metals | Metal processing methods with advantages and disadvantages |
+- **JSS 1 – Safety Guidelines:** Safety guidelines for cyclists and motorcyclists.
+- **JSS 2 – Rescue Operations:** Securing the environment, vehicles, and victims with steps in each aspect.
+- **JSS 3 – Processing of Materials – Metals:** Metal processing methods with advantages and disadvantages.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -602,6 +634,10 @@ Teacher emphasises that responsible riders protect themselves and other road use
 - Avoid **over-speeding** and **carrying more than one passenger** on a motorcycle.
 - Keep a riding log to note **safety checks, weather conditions, and routes** so you can plan safer journeys.
 - Practise signalling and emergency stopping in a safe area before riding on busy roads to build confidence.
+
+
+- Create a study box in your notebook for **protective gear** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **protective gear** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -658,6 +694,10 @@ Teacher reiterates that organised rescue operations protect rescuers, victims, a
 - Assess victims gently, call for medical help, and provide basic first aid.
 - Assign roles such as **traffic controller, first aider, and communicator** during drills so everyone knows their responsibility.
 - After each practice, review what went well and what to improve to strengthen your rescue teamwork skills.
+
+
+- Create a study box in your notebook for **scene safety** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **scene safety** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -716,6 +756,10 @@ Teacher notes that understanding processing methods helps students choose the be
 - Create a comparison table listing **method, ideal products, advantages, disadvantages, and safety needs** to support quick revision.
 - Watch demonstration videos or visit a metal workshop to observe how technicians **apply safety rules while processing metals**.
 
+
+- Create a study box in your notebook for **casting, forging, rolling, welding, and machining** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **casting, forging, rolling, welding, and machining** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Choose any metal household item. Identify the processing method likely used to make it and write two advantages and two disadvantages of that method.
@@ -727,11 +771,10 @@ WEEK 5 BASIC TECHNOLOGY LESSON PLAN (13TH – 17TH OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Safety Guidelines | Safety guidelines for motorists |
-| JSS 2 | Materials and Their Common Uses | Common uses of wood and metals |
-| JSS 3 | Processing of Materials – Metals | Metal alloys: examples, properties, and uses |
+- **JSS 1 – Safety Guidelines:** Safety guidelines for motorists.
+- **JSS 2 – Materials and Their Common Uses:** Common uses of wood and metals.
+- **JSS 3 – Processing of Materials – Metals:** Metal alloys: examples, properties, and uses.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -784,6 +827,9 @@ Teacher emphasises that disciplined motorists reduce accidents and keep roads sa
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **anyone driving a motor vehicle** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **anyone driving a motor vehicle** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -842,6 +888,9 @@ Teacher highlights that understanding material properties helps in selecting the
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **trees** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **trees** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Draw a table showing five wood products and five metal products. State one property that makes each product suitable for its use.
@@ -899,6 +948,9 @@ Teacher concludes that alloying expands the usefulness of metals for modern engi
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **mixtures of metals** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **mixtures of metals** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Create a poster illustrating three metal alloys. For each alloy, show its composition, one key property, and a common use.
@@ -910,11 +962,10 @@ WEEK 6 BASIC TECHNOLOGY LESSON PLAN (20TH – 24TH OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Safety Guidelines | Practical activities on safety guidelines |
-| JSS 2 | Materials and Their Common Uses | Common uses of brass; Common uses of bronze |
-| JSS 3 | Processing of Materials – Clay, Ceramics, and Glass | Methods of processing; Advantages and disadvantages of various processing methods |
+- **JSS 1 – Safety Guidelines:** Practical activities on safety guidelines.
+- **JSS 2 – Materials and Their Common Uses:** Common uses of brass; Common uses of bronze.
+- **JSS 3 – Processing of Materials – Clay, Ceramics, and Glass:** Methods of processing; Advantages and disadvantages of various processing methods.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -966,6 +1017,9 @@ Teacher emphasises that practising safety guidelines daily builds confidence and
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **road use** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **road use** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -1022,6 +1076,9 @@ Teacher highlights that understanding material properties helps engineers and ar
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **trumpets** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **trumpets** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Prepare a chart with two columns listing five brass products and five bronze products found in your community, stating one reason each material is suitable.
@@ -1077,6 +1134,9 @@ Teacher concludes that understanding processing methods helps students appreciat
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **clay preparation** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **clay preparation** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Create a flow chart showing the processing steps for either a ceramic tile or a glass cup, and list two advantages and two disadvantages of the chosen method.
@@ -1089,11 +1149,10 @@ WEEK 8 BASIC TECHNOLOGY LESSON PLAN (3RD – 7TH NOVEMBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Workshop Safety | Meaning of workshop; Workshop safety rules |
-| JSS 2 | Materials and Their Common Uses | Common uses of rubber, plastics, ceramics, and glass |
-| JSS 3 | Processing of Materials – Clay, Ceramics, and Glass | Production and uses of clay, ceramics, and glass |
+- **JSS 1 – Workshop Safety:** Meaning of workshop; Workshop safety rules.
+- **JSS 2 – Materials and Their Common Uses:** Common uses of rubber, plastics, ceramics, and glass.
+- **JSS 3 – Processing of Materials – Clay, Ceramics, and Glass:** Production and uses of clay, ceramics, and glass.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -1146,6 +1205,9 @@ Teacher emphasises that observing safety rules prevents accidents and keeps the 
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **practical room** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **practical room** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Design a colourful safety poster showing five workshop safety rules and the protective equipment needed for each rule.
@@ -1196,12 +1258,14 @@ Teacher concludes that understanding material properties helps in selecting the 
 
 ### Student Lesson Notes
 
-- Materials have special properties that determine their uses.
-- Rubber is **elastic**, plastics are **light and mouldable**, ceramics are **hard and heat-resistant**, and glass is **transparent**.
-- We choose materials by considering the job the product will do and the environment where it will be used.
-- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
-- Teach a friend or family member what you learned to check your understanding and build confidence.
+- **Material properties** determine how and why we select a substance for a particular job or product.
+- Rubber is **elastic**, plastics are **light and mouldable**, ceramics are **hard and heat-resistant**, and glass is **transparent**, so each material solves different design problems.
+- We choose materials by considering the job the product will do and the environment where it will be used, such as heat, moisture, or heavy loads.
+- Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson so you can revisit them when designing or repairing objects.
+- Teach a friend or family member what you learned to check your understanding and build confidence, using simple household examples to make the ideas clear.
 
+- Create a study box in your notebook for **Material properties** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Material properties** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -1261,8 +1325,9 @@ Teacher stresses that processing raw materials into useful products requires kno
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **moulding** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **moulding** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Explain in a half-page write-up how clay bricks are produced from raw clay, including at least five key steps and two safety precautions.
-
-
