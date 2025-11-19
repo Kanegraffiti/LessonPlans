@@ -1,13 +1,3 @@
-## BECE Standards Compliance (Weeks 1–8)
-
-- **Curriculum Alignment:** Topics, behavioural objectives, and activities are mapped to the NERDC Basic Science and Technology Curriculum for JSS 1–3 and the NECO BECE scheme of work for Terms 1–3.
-- **SMART Objectives:** Each lesson lists measurable knowledge, skill, and attitude outcomes using action verbs required for BECE readiness.
-- **Inclusive & Differentiated Instruction:** Tasks include paired/group work, visual aids, bilingual keywords where helpful, and extra scaffolds or extension questions to support mixed-ability, SEN, and gifted learners without bias.
-- **Literacy, Numeracy & Process Skills:** Notes, tables, charts, and short computations (e.g., counting adaptations, food classes) are embedded to build scientific process skills, vocabulary, and numeracy demanded in BECE papers.
-- **Assessment Plan:** Every period contains entry behaviour review, formative questioning, practice tasks, and end-of-lesson evaluations tied to objectives. Weekly homework and classwork should be recorded as part of continuous assessment, with at least one BECE-style objective/structured item per lesson.
-- **Practical & Safety Assurance:** Suggested demonstrations (waste disposal, habitat observations, family traits survey) must follow safety, hygiene, and child-protection guidelines—use PPE where needed and secure tools before and after class.
-- **Values & Cross-Cutting Issues:** Emphasise environmental stewardship, personal health, teamwork, and ethics while discouraging discrimination when discussing family traits or community practices.
-
 WEEK 1 BASIC SCIENCE LESSON PLAN (15TH – 19TH SEPTEMBER 2025)
 =================================================================
 
