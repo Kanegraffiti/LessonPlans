@@ -4,11 +4,10 @@ WEEK 1 INFORMATION TECHNOLOGY LESSON PLAN (15TH – 19TH SEPTEMBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Historical Development of Computers | Early counting devices |
-| JSS 2 | Computer Software | Introduction; Definition of software |
-| JSS 3 | Computer Career Opportunities | Computer professionals; Functions of each professional |
+- **JSS 1 – Historical Development of Computers:** Early counting devices.
+- **JSS 2 – Computer Software:** Introduction; Definition of software.
+- **JSS 3 – Computer Career Opportunities:** Computer professionals; Functions of each professional.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -62,6 +61,9 @@ Teacher emphasises that modern computers developed from simple counting tools cr
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **fingers, stones, and sticks** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **fingers, stones, and sticks** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -120,6 +122,9 @@ Teacher restates that computers cannot work without software and encourages stud
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **Software** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Software** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -180,6 +185,9 @@ Teacher emphasises that ICT careers are diverse and encourages students to explo
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **programmers** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **programmers** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Identify five computer professionals in your community or online and describe the type of work each person does.
@@ -191,11 +199,10 @@ WEEK 2 INFORMATION TECHNOLOGY LESSON PLAN (22ND – 26TH SEPTEMBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Historical Development of Computers | Problems of counting large numbers with early counting devices |
-| JSS 2 | Computer Software | Types of software; Examples of software |
-| JSS 3 | Computer Career Opportunities | Qualities of a good computer professional; Computer bodies |
+- **JSS 1 – Historical Development of Computers:** Problems of counting large numbers with early counting devices.
+- **JSS 2 – Computer Software:** Types of software; Examples of software.
+- **JSS 3 – Computer Career Opportunities:** Qualities of a good computer professional; Computer bodies.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -248,6 +255,9 @@ Teacher summarises the limitations of early counting devices and links them to t
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **slow and confusing** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **slow and confusing** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -306,6 +316,9 @@ Teacher reinforces that system software prepares the computer for use while appl
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **System software** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **System software** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Create a two-column table listing ten software programs you know. Indicate whether each one is system or application software and state its main function.
@@ -363,6 +376,9 @@ Teacher emphasises that personal qualities and membership of professional bodies
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **honest** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **honest** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Write a short report describing one Nigerian and one international computer professional body. State their full names, goals, and benefits to members.
@@ -374,11 +390,10 @@ WEEK 3 INFORMATION TECHNOLOGY LESSON PLAN (29TH SEPTEMBER – 3RD OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Historical Development of Computers | Mechanical counting and calculating devices |
-| JSS 2 | Operating Systems | Definition, examples, and functions of operating systems |
-| JSS 3 | Computer Career Opportunities | Functions of major computer professional bodies |
+- **JSS 1 – Historical Development of Computers:** Mechanical counting and calculating devices.
+- **JSS 2 – Operating Systems:** Definition, examples, and functions of operating systems.
+- **JSS 3 – Computer Career Opportunities:** Functions of major computer professional bodies.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -431,6 +446,9 @@ Teacher emphasises that understanding early devices shows how technology evolved
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **improve counting speed and accuracy** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **improve counting speed and accuracy** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -489,6 +507,9 @@ Teacher highlights that without operating systems, computers cannot function eff
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **operating system** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **operating system** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 List five devices you use at home or in school and state the operating system each device uses. Mention one function of the OS on each device.
@@ -546,6 +567,9 @@ Teacher concludes that joining professional bodies helps ICT experts remain comp
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **CPN** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **CPN** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Pick one computer professional body and write a short report on its history, membership levels, and two major programmes it offers to members.
@@ -557,11 +581,10 @@ WEEK 4 INFORMATION TECHNOLOGY LESSON PLAN (6TH – 10TH OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Historical Development of Computers | Electro-mechanical counting devices |
-| JSS 2 | Number System | Concept of number systems and base conversions |
-| JSS 3 | Computer Viruses | Meaning and types of computer viruses |
+- **JSS 1 – Historical Development of Computers:** Electro-mechanical counting devices.
+- **JSS 2 – Number System:** Concept of number systems and base conversions.
+- **JSS 3 – Computer Viruses:** Meaning and types of computer viruses.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -615,6 +638,9 @@ Teacher highlights that electro-mechanical devices were important steps toward t
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **electric power** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **electric power** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -673,6 +699,9 @@ Teacher reminds students that digital devices rely on binary, so learning number
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **bases** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **bases** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -735,6 +764,9 @@ Teacher stresses that understanding virus types helps students protect personal 
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **harmful program** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **harmful program** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Create a safety checklist for your school’s computer lab with five rules to prevent virus infections and two actions to take if a virus is suspected.
@@ -746,11 +778,10 @@ WEEK 5 INFORMATION TECHNOLOGY LESSON PLAN (13TH – 17TH OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Historical Development of Computers | Electronic counting devices |
-| JSS 2 | Number System | Numbers in different bases |
-| JSS 3 | Computer Viruses | Examples of computer viruses |
+- **JSS 1 – Historical Development of Computers:** Electronic counting devices.
+- **JSS 2 – Number System:** Numbers in different bases.
+- **JSS 3 – Computer Viruses:** Examples of computer viruses.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -803,6 +834,9 @@ Teacher emphasises that understanding early electronic devices helps students ap
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **use electricity to process numbers automatically** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **use electricity to process numbers automatically** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -861,6 +895,9 @@ Teacher notes that mastering different bases prepares students for advanced comp
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **base** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **base** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Convert the decimal numbers 45 and 156 to binary, octal, and hexadecimal. Then convert the binary number 101101 back to decimal.
@@ -918,6 +955,9 @@ Teacher concludes that recognising virus examples and behaviours helps students 
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **ILOVEYOU, Melissa, WannaCry, Stuxnet, and Zeus** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **ILOVEYOU, Melissa, WannaCry, Stuxnet, and Zeus** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Create a comparison table for three computer viruses. Include their category, mode of spread, effect on computers, and one prevention method.
@@ -929,11 +969,10 @@ WEEK 6 INFORMATION TECHNOLOGY LESSON PLAN (20TH – 24TH OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Historical Development of Computers | Generations of computers |
-| JSS 2 | Units of Storage in Computers | Units of storage |
-| JSS 3 | Computer Viruses | Sources of viruses; Virus warning signs |
+- **JSS 1 – Historical Development of Computers:** Generations of computers.
+- **JSS 2 – Units of Storage in Computers:** Units of storage.
+- **JSS 3 – Computer Viruses:** Sources of viruses; Virus warning signs.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -985,6 +1024,9 @@ Teacher emphasises that understanding computer generations helps students apprec
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **five generations** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **five generations** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -1040,6 +1082,9 @@ Teacher explains that understanding storage units supports efficient computer us
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **bits and bytes** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **bits and bytes** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -1098,6 +1143,9 @@ Teacher concludes that awareness of virus sources and warning signs empowers stu
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **infected devices** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **infected devices** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Write a safety guide for your classmates outlining five sources of computer viruses and five warning signs to watch for, with suggested preventive actions.
@@ -1110,11 +1158,10 @@ WEEK 8 INFORMATION TECHNOLOGY LESSON PLAN (3RD – 7TH NOVEMBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Features of Each Generation of Computers | Generations of computers; Distinctive features of each generation |
-| JSS 2 | Computer Problem-Solving Skills | Computer programmes |
-| JSS 3 | Computer Viruses | Virus detection (antivirus) |
+- **JSS 1 – Features of Each Generation of Computers:** Generations of computers; Distinctive features of each generation.
+- **JSS 2 – Computer Problem-Solving Skills:** Computer programmes.
+- **JSS 3 – Computer Viruses:** Virus detection (antivirus).
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -1166,6 +1213,9 @@ Teacher emphasises that computer development continues, and students can contrib
 - Create a quick summary in your notebook highlighting the key terms, diagrams, and examples from this lesson.
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
+
+- Create a study box in your notebook for **five main generations of computers** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **five main generations of computers** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -1223,6 +1273,9 @@ Teacher reminds students that careful planning before coding leads to efficient 
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **instructions** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **instructions** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Write pseudocode for a programme that finds the largest of three numbers entered by a user. Include steps for input, comparison, and output.
@@ -1279,8 +1332,9 @@ Teacher highlights that proactive virus detection protects data, hardware, and u
 - Teach a friend or family member what you learned to check your understanding and build confidence.
 
 
+- Create a study box in your notebook for **updates and scans** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **updates and scans** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Create a weekly antivirus maintenance schedule that includes update times, scan types, and safety checks for a school computer laboratory.
-
-

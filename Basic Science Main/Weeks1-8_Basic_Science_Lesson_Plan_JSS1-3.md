@@ -4,11 +4,10 @@ WEEK 1 BASIC SCIENCE LESSON PLAN (15TH – 19TH SEPTEMBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Family Health | Definition of sanitation; Importance of sanitation; Methods used in sanitation |
-| JSS 2 | Living Things | Meaning of habitat; Examples of habitats; Adaptation of living things in their habitats |
-| JSS 3 | Family Traits | Family traits; Meaning of dominant and recessive traits |
+- **JSS 1 – Family Health:** Definition of sanitation; Importance of sanitation; Methods used in sanitation.
+- **JSS 2 – Living Things:** Meaning of habitat; Examples of habitats; Adaptation of living things in their habitats.
+- **JSS 3 – Family Traits:** Family traits; Meaning of dominant and recessive traits.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -59,6 +58,10 @@ The teacher revises key points on sanitation and encourages students to practice
 - Common sanitation methods include **sweeping floors**, **mopping with clean water**, **washing hands with soap**, **packing refuse into covered bins**, and **clearing gutters or drains** so water can flow freely.
 - Keeping **gutters and drains clear** stops stagnant water from collecting and prevents mosquitoes and other pests from spreading diseases like malaria.
 - Practise sanitation every day by **wiping surfaces, washing clothes and dishes regularly, storing food properly**, and reminding family members to clean shared spaces.
+
+
+- Create a study box in your notebook for **Sanitation** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Sanitation** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -114,6 +117,10 @@ Teacher reviews main ideas on habitats and adaptations and urges students to obs
 - Living things must match their adaptations to the right habitat so that they can get what they need and stay alive.
 - When habitats change, organisms may **migrate, adapt further, or risk dying out**, so protecting habitats keeps living things safe.
 - Draw a table in your notebook listing **organism, habitat, and adaptation** to help you remember how each example survives.
+
+
+- Create a study box in your notebook for **habitat** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **habitat** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -171,6 +178,10 @@ Teacher summarises the meaning of family traits, dominant traits, and recessive 
 - Keep a **simple family trait chart** where you record relatives who show dominant or recessive traits to see patterns more clearly.
 - Remember that **environmental factors** like nutrition and exercise can influence how traits appear, even when genes stay the same.
 
+
+- Create a study box in your notebook for **Family traits** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Family traits** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Interview two family members to list five family traits in your family. Indicate which ones are dominant and which are recessive.
@@ -183,11 +194,10 @@ WEEK 2 BASIC SCIENCE LESSON PLAN (22ND – 26TH SEPTEMBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Family Health – Nutrition | Meaning of nutrition; Importance of nutrition; Classes of food nutrients |
-| JSS 2 | Living Things – Habitats | Adaptations of living things in their habitats |
-| JSS 3 | Family Traits | Meaning of dominance and recessive traits |
+- **JSS 1 – Family Health – Nutrition:** Meaning of nutrition; Importance of nutrition; Classes of food nutrients.
+- **JSS 2 – Living Things – Habitats:** Adaptations of living things in their habitats.
+- **JSS 3 – Family Traits:** Meaning of dominance and recessive traits.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -239,6 +249,10 @@ Teacher emphasises that eating a balanced diet daily keeps the family strong and
 - A **balanced diet** has the right amount of each nutrient class; skipping any class can make us weak or sick.
 - Eat a colourful plate by combining **carbohydrate staples with vegetables, fruits, and protein-rich foods** to keep meals balanced.
 - Drink plenty of **clean water** every day because it helps nutrients move around the body and removes waste.
+
+
+- Create a study box in your notebook for **Nutrition** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Nutrition** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -296,6 +310,10 @@ Teacher summarises key adaptations discussed and encourages students to observe 
 - Some adaptations are **behavioural**, like birds migrating when seasons change, while others are **structural**, like thick fur for warmth.
 - Sketch or label pictures of organisms showing their adaptations to remember how each feature helps them survive.
 
+
+- Create a study box in your notebook for **adaptation** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **adaptation** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Choose one habitat (desert, aquatic, forest, or grassland) and describe three organisms that live there, explaining one adaptation for each.
@@ -352,6 +370,10 @@ Teacher recaps the meaning of dominant and recessive traits and encourages stude
 - When reading family charts, note that **dominant traits do not disappear**; they may skip appearing if paired with another dominant gene but can reappear in later generations.
 - Observe members of your family and record which traits are dominant or recessive to practise explaining inheritance in real life.
 
+
+- Create a study box in your notebook for **Dominant traits** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Dominant traits** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Draw two Punnett squares to show how dominant and recessive traits are inherited for dimples (D) and no dimples (d). Explain the outcome of each cross.
@@ -363,11 +385,10 @@ WEEK 3 BASIC SCIENCE LESSON PLAN (29TH SEPTEMBER – 3RD OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Family Health – Balanced Diets | Meaning, importance, and components of a balanced diet |
-| JSS 2 | Living Things – Common Characteristics | Shared features of organisms in the same habitat |
-| JSS 3 | Family Traits | Importance of family traits and tracing family genealogy |
+- **JSS 1 – Family Health – Balanced Diets:** Meaning, importance, and components of a balanced diet.
+- **JSS 2 – Living Things – Common Characteristics:** Shared features of organisms in the same habitat.
+- **JSS 3 – Family Traits:** Importance of family traits and tracing family genealogy.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -419,6 +440,10 @@ Teacher reminds students that healthy families choose meals that supply all nutr
 - Families can combine local foods like **beans, vegetables, fish, fruits, grains, and water** to make balanced diets daily.
 - Try to **balance portion sizes** by filling half the plate with fruits and vegetables, a quarter with proteins, and a quarter with energy foods like grains or tubers.
 - Remember to **limit sugary drinks and fried snacks** because they add calories without the nutrients needed for a balanced diet.
+
+
+- Create a study box in your notebook for **balanced diet** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **balanced diet** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -476,6 +501,10 @@ Teacher emphasises that similar conditions in a habitat lead to similar features
 - Create a comparison chart showing **habitat, shared characteristic, and survival benefit** to connect each idea clearly.
 - Notice that even small differences—like the shape of a beak or type of leaves—tell us how organisms meet their needs in the same environment.
 
+
+- Create a study box in your notebook for **habitat** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **habitat** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Choose one habitat near your home, list four organisms that live there, and describe one shared characteristic that helps them survive in that habitat.
@@ -532,6 +561,10 @@ Teacher concludes that understanding family traits and genealogy helps individua
 - You can start a **family trait journal** noting the year, the relative, and the trait you observed to track how features change over time.
 - Understanding patterns of traits can help families **plan for healthy lifestyles** and celebrate special talents passed down the generations.
 
+
+- Create a study box in your notebook for **Family traits** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **Family traits** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Interview your parents or guardians to list five family traits you share with relatives. Draw a simple family tree showing how two of these traits appear across three generations.
@@ -543,11 +576,10 @@ WEEK 4 BASIC SCIENCE LESSON PLAN (6TH – 10TH OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Family Health – Drug Abuse | Definition of drug abuse and its effects |
-| JSS 2 | Living Things – Habitat Similarities | Characteristics of organisms in the same habitat and shared features |
-| JSS 3 | Environmental Hazards – Erosion | Definition, causes, and control of soil erosion |
+- **JSS 1 – Family Health – Drug Abuse:** Definition of drug abuse and its effects.
+- **JSS 2 – Living Things – Habitat Similarities:** Characteristics of organisms in the same habitat and shared features.
+- **JSS 3 – Environmental Hazards – Erosion:** Definition, causes, and control of soil erosion.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -599,6 +631,10 @@ Teacher emphasises that healthy families use drugs responsibly and seek medical 
 - Say **no** to drugs, follow doctors’ instructions, and report suspicious drug activities.
 - Learn to **read medicine labels carefully** and only take doses given by a trusted adult or health worker.
 - Build strong friendships that **support healthy choices** and practise what to say when someone offers you harmful substances.
+
+
+- Create a study box in your notebook for **wrong way** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **wrong way** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -656,6 +692,10 @@ Teacher stresses that organisms sharing a habitat often look or behave alike bec
 - Keep a simple table showing **organism, shared feature, and survival advantage** to organise your observations.
 - Compare two habitats in your notes to explain why animals or plants in each place need similar body parts or behaviours.
 
+
+- Create a study box in your notebook for **live and reproduce** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **live and reproduce** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Observe a nearby habitat (pond, garden, refuse dump, etc.). List four organisms you find there and describe one characteristic they share that helps them survive.
@@ -712,6 +752,10 @@ Teacher reminds students that preventing erosion protects soil fertility, roads,
 - Planting **trees and cover crops** holds soil with roots, while mulching protects the ground from direct rainfall impact.
 - Communities can **work together to clear blocked drainage and avoid bush burning**, which keeps the soil safe and fertile.
 
+
+- Create a study box in your notebook for **topsoil is washed or blown away** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **topsoil is washed or blown away** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Design a poster advising your community on three ways to prevent soil erosion and explain one benefit of each method.
@@ -723,11 +767,10 @@ WEEK 5 BASIC SCIENCE LESSON PLAN (13TH – 17TH OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Environmental Pollution | Definition of pollution; types of pollutants; causes of air, soil, and water pollution |
-| JSS 2 | Living Things | Uniqueness of human beings |
-| JSS 3 | Environmental Hazards | Flooding: causes, prevention, and effects on communities and farmland |
+- **JSS 1 – Environmental Pollution:** Definition of pollution; types of pollutants; causes of air, soil, and water pollution.
+- **JSS 2 – Living Things:** Uniqueness of human beings.
+- **JSS 3 – Environmental Hazards:** Flooding: causes, prevention, and effects on communities and farmland.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -781,6 +824,10 @@ Teacher emphasises that reducing pollution keeps the environment safe for plants
 - Everyone should **dispose waste properly** and **avoid burning harmful materials**.
 - Reduce pollution by **recycling plastics**, **using cleaner fuels**, and **planting trees** that purify the air.
 - Keep a personal checklist noting **air, soil, and water pollutants** you observe in your area and suggest safe ways to control them.
+
+
+- Create a study box in your notebook for **harmful substances enter the environment** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **harmful substances enter the environment** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -839,6 +886,10 @@ Teacher highlights that human uniqueness should lead to responsible behaviour an
 - Humans can **invent solutions** like machines, medicines, and digital tools to solve problems when they cooperate.
 - Practise empathy by **respecting different cultures and helping people in need**, showing that human uniqueness includes kindness.
 
+
+- Create a study box in your notebook for **well-developed brain** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **well-developed brain** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Write a short paragraph explaining one human ability you appreciate most and how it helps your community.
@@ -896,6 +947,10 @@ Teacher concludes that proactive planning reduces the dangers of flooding and pr
 - Keep emergency contacts and supplies ready, such as **clean water, first-aid kits, and dry food**, to stay safe during heavy rains.
 - Support community projects that **desilt gutters, protect wetlands, and enforce proper building plans** to reduce future floods.
 
+
+- Create a study box in your notebook for **water covering normally dry land** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **water covering normally dry land** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Interview an adult in your community about a past flood experience. Record the causes, effects, and lessons learnt to share in class.
@@ -907,11 +962,10 @@ WEEK 6 BASIC SCIENCE LESSON PLAN (20TH – 24TH OCTOBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Environmental Pollution | Effects of air, soil, and water pollution; Ways of reducing the risk of pollution; Pollution control measures |
-| JSS 2 | Living Things | Application of basic intelligence skills |
-| JSS 3 | Environmental Hazards – Bush Burning | Bush burning; Practices that influence bush burning; Effects of bush burning; Regulations against bush burning |
+- **JSS 1 – Environmental Pollution:** Effects of air, soil, and water pollution; Ways of reducing the risk of pollution; Pollution control measures.
+- **JSS 2 – Living Things:** Application of basic intelligence skills.
+- **JSS 3 – Environmental Hazards – Bush Burning:** Bush burning; Practices that influence bush burning; Effects of bush burning; Regulations against bush burning.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -963,6 +1017,10 @@ Teacher emphasises that everyone shares the responsibility of keeping the enviro
 - Pollution control measures include **environmental laws**, **emission testing**, **wastewater treatment**, and **community clean-up programmes**.
 - Always check how your family handles waste and suggest **simple improvements like sorting recyclables or composting organic matter**.
 - Keep notes on **community sanitation days or government regulations** so you understand how rules protect the environment.
+
+
+- Create a study box in your notebook for **air, soil, or water** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **air, soil, or water** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -1018,6 +1076,10 @@ Teacher reinforces that using intelligence skills makes the study of living thin
 - Sharing findings through tables and presentations is part of **communicating scientific results**.
 - Practise these skills at home by **observing household plants or pets**, recording features, and explaining your conclusions to family members.
 - Using charts, diagrams, or digital tools to present data makes your explanations clearer and strengthens communication skills.
+
+
+- Create a study box in your notebook for **observation** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **observation** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -1075,6 +1137,10 @@ Teacher stresses that preventing bush burning protects the environment, supports
 - Encourage neighbours to **clear dry leaves without fire** and create fire belts that stop flames from spreading quickly.
 - Support local authorities by **sharing early warnings, joining awareness campaigns, and practising safe fire use** during the dry season.
 
+
+- Create a study box in your notebook for **setting vegetation on fire** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **setting vegetation on fire** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Write a short essay explaining five effects of bush burning on your community and suggest four ways to prevent future bush fires.
@@ -1087,11 +1153,10 @@ WEEK 8 BASIC SCIENCE LESSON PLAN (3RD – 7TH NOVEMBER 2025)
 WEEKLY OVERVIEW
 ----------------
 
-| CLASS | TOPIC | CONTENT |
-|-------|-------|---------|
-| JSS 1 | Living and Non-living Things | Meanings of matter; States of matter; Meaning and characteristics of living and non-living things; Examples |
-| JSS 2 | Living Things | Indices of current changes in living things; Stages in the development of humans |
-| JSS 3 | Environmental Hazards (IV) – Deforestation | Deforestation; Reasons for deforestation; Effects of deforestation; Regulation of deforestation |
+- **JSS 1 – Living and Non-living Things:** Meanings of matter; States of matter; Meaning and characteristics of living and non-living things; Examples.
+- **JSS 2 – Living Things:** Indices of current changes in living things; Stages in the development of humans.
+- **JSS 3 – Environmental Hazards (IV) – Deforestation:** Deforestation; Reasons for deforestation; Effects of deforestation; Regulation of deforestation.
+
 
 DETAILED LESSON PLAN – JSS 1
 -----------------------------
@@ -1143,6 +1208,10 @@ Teacher emphasises that all living things are matter, but not all matter is livi
 - We classify objects by checking for life characteristics and by identifying their state of matter.
 - Practise by **sorting household items** into living and non-living groups and explaining your reasons to a friend or family member.
 - Draw diagrams of **solid, liquid, and gas particles** to remember how matter behaves differently in each state.
+
+
+- Create a study box in your notebook for **has mass and occupies space** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **has mass and occupies space** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -1199,6 +1268,10 @@ Teacher reinforces that observing indices of change helps individuals and health
 - Keeping records of growth helps doctors and families ensure proper development.
 - Use a personal health journal to **track height, weight, and habits**, noting how changes make you feel.
 - Talk about **emotional and social changes** during each stage with trusted adults to learn healthy ways to manage them.
+
+
+- Create a study box in your notebook for **increase in height and weight** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **increase in height and weight** in class activities, projects, or safety routines, noting common mistakes to avoid.
 
 ### Assignment
 
@@ -1257,8 +1330,10 @@ Teacher concludes that sustainable management of forests is essential for enviro
 - Support tree-planting clubs, community nurseries, or environmental campaigns that **replace harvested trees with new seedlings**.
 - Learn about **sustainable products** such as certified timber or recycled paper to reduce pressure on natural forests.
 
+
+- Create a study box in your notebook for **remove trees and forest cover** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **remove trees and forest cover** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
 ### Assignment
 
 Write a short essay (one page) explaining the effects of deforestation on your community and suggest four ways to reduce it.
-
-
