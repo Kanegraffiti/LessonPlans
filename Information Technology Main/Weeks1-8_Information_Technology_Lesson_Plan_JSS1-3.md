@@ -1,3 +1,13 @@
+## BECE Standards Compliance (Weeks 1–8)
+
+- **Curriculum & Scheme Alignment:** Lessons follow the NERDC Information Technology/Basic Science and Technology curriculum and NECO BECE scheme of work for JSS 1–3, covering computing history, software, hardware maintenance, data handling, and careers.
+- **SMART Outcomes:** Behavioural objectives use action verbs (describe, identify, arrange, differentiate, demonstrate) and address knowledge, skills, and attitudes expected in BECE examinations.
+- **Inclusion & Differentiation:** Activities blend teacher-led modelling with peer practice, bilingual key terms where useful, scaffolded worksheets for learners needing support, and extension challenges for fast learners without gender or disability bias.
+- **Digital Safety & Ethics:** Reinforce responsible use of devices, cyber-safety, and data privacy during all practical demonstrations and internet references.
+- **Literacy, Numeracy & Computational Thinking:** Emphasise note-taking with labelled diagrams, timelines, flowcharts, and basic counting or ordering tasks that mirror BECE paper demands.
+- **Assessment & Continuous Evaluation:** Each lesson includes entry behaviour checks, formative questioning, guided practice, and end-of-lesson evaluations. Teachers should record classwork/homework for continuous assessment and insert at least one BECE-style objective/structured item per lesson.
+- **Resource & Equipment Management:** Verify availability of functional ICT tools or improvised alternatives; ensure power safety, secure cables, and provide backups for demonstrations to avoid lesson interruptions.
+
 WEEK 1 INFORMATION TECHNOLOGY LESSON PLAN (15TH – 19TH SEPTEMBER 2025)
 =======================================================================
 
