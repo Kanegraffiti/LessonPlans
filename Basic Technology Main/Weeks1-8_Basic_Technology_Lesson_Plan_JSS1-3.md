@@ -1,3 +1,13 @@
+## BECE Standards Compliance (Weeks 1–8)
+
+- **Curriculum Alignment:** Content follows the NERDC Basic Technology curriculum and NECO BECE scheme of work for JSS 1–3, ensuring coverage of required themes (technology, safety, materials processing, drawing, energy, and maintenance).
+- **SMART Lesson Objectives:** Objectives specify observable actions (define, list, draw, classify, demonstrate) that match BECE cognitive levels and skills.
+- **Inclusive & Differentiated Pedagogy:** Group tasks, peer tutoring, and scaffolded notes support mixed-ability learners, including SEN students, while extension challenges stretch high achievers without gender or cultural bias.
+- **Literacy, Numeracy & Graphic Skills:** Activities include labelled diagrams, scale awareness, measurement, and technical vocabulary practice to reinforce BECE paper requirements.
+- **Assessment & Continuous Evaluation:** Each lesson embeds entry behaviour checks, formative questioning, classwork/practical tasks, and end-of-lesson evaluations. Teachers should document scores for continuous assessment and set at least one BECE-style objective/structured item per lesson.
+- **Workshop Safety & Ethics:** All practicals (first aid, timber treatment, tools handling) must enforce safety rules, PPE use, tool accountability, and first-aid readiness while modelling environmental responsibility and anti-bullying norms.
+- **ICT & 21st-Century Skills:** Encourage appropriate use of digital simulations or videos, collaboration, creativity, and problem-solving linked to local community technology needs.
+
 WEEK 1 BASIC TECHNOLOGY LESSON PLAN (15TH – 19TH SEPTEMBER 2025)
 =================================================================
 
