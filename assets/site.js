@@ -59,6 +59,16 @@ const revisionMarkdownLink = document.querySelector("#revision-markdown-link");
 const studentTableBody = document.querySelector("#student-table-body");
 const saveScoresBtn = document.querySelector("#save-scores");
 const clearScoresBtn = document.querySelector("#clear-scores");
+const floatingMenu = document.querySelector(".floating-menu");
+const floatingMenuItems = document.querySelector(".floating-menu__items");
+const floatingMenuToggle = document.querySelector(".floating-menu__toggle");
+
+const navTargets = [
+  { id: "viewer", label: "Lesson plans" },
+  { id: "exam-panel", label: "Exams" },
+  { id: "revision-panel", label: "Revision" },
+  { id: "dashboard-panel", label: "Scores dashboard" }
+];
 
 const students = [
   { id: "jss1-adeola", name: "Adeola Bello", classLevel: "JSS1" },
@@ -235,7 +245,7 @@ function handleDownload(subjectName) {
     jsPDF: { unit: "in", format: "letter", orientation: "portrait" }
   };
 
-  html2pdf().set(opt).from(target).save();
+  withPdfStyles(() => html2pdf().set(opt).from(target).save());
 }
 
 function downloadSectionAsPdf(elementId, filename) {
@@ -250,7 +260,54 @@ function downloadSectionAsPdf(elementId, filename) {
     jsPDF: { unit: "in", format: "letter", orientation: "portrait" }
   };
 
-  html2pdf().set(opt).from(target).save();
+  withPdfStyles(() => html2pdf().set(opt).from(target).save());
+}
+
+function withPdfStyles(action) {
+  document.body.classList.add("print-mode");
+
+  const finalize = () => document.body.classList.remove("print-mode");
+  const result = action();
+
+  if (result && typeof result.then === "function") {
+    result.then(finalize).catch(finalize);
+  } else {
+    finalize();
+  }
+}
+
+function initFloatingMenu() {
+  if (!floatingMenu || !floatingMenuItems || !floatingMenuToggle) return;
+
+  navTargets.forEach((entry) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "floating-menu__item";
+    button.textContent = entry.label;
+    button.addEventListener("click", () => {
+      const target = document.getElementById(entry.id);
+      if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+      closeFloatingMenu();
+    });
+    floatingMenuItems.appendChild(button);
+  });
+
+  floatingMenuToggle.addEventListener("click", () => {
+    const isExpanded = floatingMenuToggle.getAttribute("aria-expanded") === "true";
+    floatingMenuToggle.setAttribute("aria-expanded", String(!isExpanded));
+    floatingMenuItems.hidden = isExpanded;
+  });
+
+  document.addEventListener("click", (event) => {
+    if (!floatingMenu.contains(event.target)) {
+      closeFloatingMenu();
+    }
+  });
+}
+
+function closeFloatingMenu() {
+  floatingMenuToggle.setAttribute("aria-expanded", "false");
+  floatingMenuItems.hidden = true;
 }
 
 function getStoredScores() {
@@ -337,6 +394,7 @@ function init() {
   loadExam("jss1");
   loadRevision("jss1");
   renderDashboard();
+  initFloatingMenu();
 
   if (saveScoresBtn) saveScoresBtn.addEventListener("click", saveScores);
   if (clearScoresBtn) clearScoresBtn.addEventListener("click", clearScores);
