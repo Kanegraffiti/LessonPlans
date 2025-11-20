@@ -7,6 +7,8 @@ A static, inspector-ready viewer for JSS 1-3 lesson plans. Use the included land
 1. Open `index.html` in your browser to preview the site locally.
 2. Select **Basic Science**, **Basic Technology**, or **Information Technology** to load the full weekly plan pulled from the Markdown source files.
 3. Expand any week block to review details. Click **Download PDF** to export the displayed content in a single document.
+4. Use the **Exams** section on the landing page to load and download class-specific combined papers (Basic Science, Basic Technology, Information Technology, and PHE) as PDF or markdown.
+5. Use the **Revision** section to download condensed study notes for each class, and the **Student dashboard** to record scores locally for four JSS1, six JSS2, and three JSS3 learners.
 
 ## Deploying to GitHub Pages
 

@@ -36,10 +36,10 @@
         <p class="badge" style="background: rgba(34, 197, 94, 0.12); color: #22c55e">
           Curriculum-aligned | Downloadable
         </p>
-        <h2 class="hero__headline">Combined week-by-week plans for every subject</h2>
+        <h2 class="hero__headline">Combined week-by-week plans and exams for every subject</h2>
         <p class="hero__subhead">
-          Share this GitHub Pages link with inspectors to preview the full run of JSS 1-3 lesson plans
-          (Weeks 1-10). Select a subject, expand any week, and export a polished PDF copy instantly.
+          Share this GitHub Pages link with inspectors to preview the full run of JSS 1-3 lesson plans (Weeks 1-10), download
+          midterm exams by class, and access condensed revision notes for quick study.
         </p>
         <div class="hero__actions">
           <button class="btn btn--accent" id="download-btn">Download PDF</button>
@@ -70,6 +70,80 @@
           <div id="viewer"></div>
         </section>
       </main>
+
+      <section class="resource-grid" aria-labelledby="exam-heading">
+        <section class="panel" id="exam-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="badge" id="exam-badge">Exams by class</p>
+              <h3 id="exam-heading" class="section-title">Download midterm exam questions</h3>
+              <p class="muted">
+                Choose a class to load the combined Basic Science, Basic Technology, Information Technology, and PHE exam. Use
+                the buttons below to save a PDF or grab the markdown copy for GitHub Pages handover.
+              </p>
+            </div>
+            <div class="pill-row" id="exam-class-buttons"></div>
+            <div class="resource-actions">
+              <button class="btn btn--accent" id="exam-download">Download JSS1 Exam PDF</button>
+              <a class="btn" id="exam-markdown-link" href="Exams/Jss1_Exam.md" download>Download markdown</a>
+            </div>
+          </div>
+          <div id="exam-viewer" class="markdown-content resource-viewer" aria-live="polite"></div>
+        </section>
+
+        <section class="panel" id="revision-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="badge" id="revision-badge">Revision by class</p>
+              <h3 class="section-title">Inspector-ready revision summaries</h3>
+              <p class="muted">
+                Quick bullet notes aligned to the new exam coverage. Load any class, review the highlights, and export a PDF for
+                printing or circulation.
+              </p>
+            </div>
+            <div class="pill-row" id="revision-class-buttons"></div>
+            <div class="resource-actions">
+              <button class="btn" id="revision-download">Download JSS1 Revision PDF</button>
+              <a class="btn" id="revision-markdown-link" href="Revision/Jss1_Revision.md" download>Download markdown</a>
+            </div>
+          </div>
+          <div id="revision-viewer" class="markdown-content resource-viewer" aria-live="polite"></div>
+        </section>
+      </section>
+
+      <section class="panel" id="dashboard-panel" aria-labelledby="dashboard-heading">
+        <div class="panel-heading">
+          <div>
+            <p class="badge">Student dashboard</p>
+            <h3 id="dashboard-heading" class="section-title">Track scores across JSS1, JSS2, and JSS3</h3>
+            <p class="muted">
+              Thirteen-slot tracker with four JSS1 learners, six JSS2 learners, and three JSS3 learners. Enter subject scores
+              and save locally; totals update automatically.
+            </p>
+          </div>
+          <div class="resource-actions">
+            <button class="btn btn--accent" id="save-scores">Save scores</button>
+            <button class="btn" id="clear-scores">Clear saved scores</button>
+          </div>
+        </div>
+
+        <div class="table-wrapper">
+          <table class="score-table">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Class</th>
+                <th>Basic Science</th>
+                <th>Basic Technology</th>
+                <th>Information Technology</th>
+                <th>PHE</th>
+                <th>Total</th>
+              </tr>
+            </thead>
+            <tbody id="student-table-body"></tbody>
+          </table>
+        </div>
+      </section>
     </div>
 
     <footer>
