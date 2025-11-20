@@ -1337,3 +1337,373 @@ Teacher concludes that sustainable management of forests is essential for enviro
 ### Assignment
 
 Write a short essay (one page) explaining the effects of deforestation on your community and suggest four ways to reduce it.
+
+WEEK 9 BASIC SCIENCE LESSON PLAN (10TH – 14TH NOVEMBER 2025)
+==========================================================
+
+WEEKLY OVERVIEW
+----------------
+
+- **JSS 1 – Living and Non-living Things (I):** Meaning of matter; States of matter; Introduction to living and non-living things and their types.
+- **JSS 2 – Chemicals (I):** Meaning of chemicals; Classes of chemicals based on use; Classes of chemicals based on hazardous nature.
+- **JSS 3 – Environmental Hazards III:** Ozone layer depletion; Location and importance of the ozone layer; Hazards/effects of ozone layer depletion; Control measures.
+
+
+DETAILED LESSON PLAN – JSS 1
+-----------------------------
+
+- **Date:** Monday, 10th November 2025
+- **Class:** JSS 1
+- **Duration:** 45 minutes
+- **Period:** First
+- **Topic:** Living and Non-living Things (I)
+- **Subtopic:** Meaning of Matter; States of Matter; Introduction to Living and Non-living Things and Types
+- **Reference Materials:** NERDC Basic Science and Technology for JSS 1; Illustrated Junior Science Dictionary; Teacher-made flashcards on living and non-living things
+- **Instructional Materials:** Samples of solids, liquids, and gases (stone, water in sealed bottle, balloon), pictures of plants, animals, rocks, and machines, classification cards
+- **Entry Behaviour:** Students have previously identified matter as anything that has mass and occupies space.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Define matter and mention its common states with examples.
+  2. Differentiate between living and non-living things using observable characteristics.
+  3. Classify common classroom objects into living and non-living groups.
+  4. State two reasons why plants and animals are considered living.
+  5. Compose a short note explaining why air and water are matter but non-living.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher displays a rock, water bottle, and inflated balloon and asks students what these items share (they all occupy space and have mass).
+
+**Step 2 – Presentation:** Teacher defines matter and reviews the states of matter (solid, liquid, gas) with the displayed examples.
+
+**Step 3 – Explanation:** Teacher introduces living and non-living things, highlighting life processes such as movement, respiration, sensitivity, growth, reproduction, excretion, and nutrition.
+
+**Step 4 – Application:** In groups, students sort picture cards into living and non-living categories, then state the state of matter each example belongs to.
+
+**Step 5 – Evaluation:** Teacher asks students to list characteristics of living things and to justify whether given objects are living or non-living.
+
+### Content Summary
+
+1. **Matter** is anything that has mass and occupies space; it can be solid, liquid, or gas.
+2. **Living things** show life processes (movement, respiration, sensitivity, growth, reproduction, excretion, nutrition).
+3. **Non-living things** do not perform life processes on their own; examples include rocks, water, and air.
+4. Objects around us can be classified as living or non-living while still being forms of matter.
+
+### Conclusion
+
+Teacher emphasises that understanding the characteristics of living things helps students classify the world correctly and appreciate life processes.
+
+### Student Lesson Notes
+
+- **Matter**: anything with **mass** and that **occupies space**, existing as **solid**, **liquid**, or **gas**.
+- **Living things**: plants and animals that perform **movement**, **breathing**, **response to stimuli**, **growth**, **reproduction**, **excretion**, and **feeding**.
+- **Non-living things**: objects that **do not carry out life processes**, e.g., rocks, benches, air, and water.
+- Practise sorting items at home into **living** and **non-living** and state their **state of matter** to build confidence.
+- Draw particle diagrams of solids, liquids, and gases to remember how matter behaves.
+
+
+- Create a study box in your notebook for **anything that has mass and occupies space** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **anything that has mass and occupies space** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Write two sentences that distinguish living things from non-living things and list five examples of each from your home or school.
+
+
+DETAILED LESSON PLAN – JSS 2
+-----------------------------
+
+- **Date:** Wednesday, 12th November 2025
+- **Class:** JSS 2
+- **Duration:** 45 minutes
+- **Period:** Second
+- **Topic:** Chemicals (I)
+- **Subtopic:** Meaning of Chemicals; Classes of Chemicals Based on Use; Classes of Chemicals Based on Hazardous Nature
+- **Reference Materials:** NERDC Basic Science and Technology for JSS 2; Safety Data Sheets; WHO Safety Guidelines for Schools
+- **Instructional Materials:** Labels from pharmaceutical, agricultural, and household products; hazard symbol cards; chart of hazard categories
+- **Entry Behaviour:** Students have observed that some household products carry safety warnings.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Define chemicals and provide everyday examples.
+  2. List classes of chemicals based on their uses (pharmaceutical, agricultural, industrial, laboratory).
+  3. Differentiate chemicals by hazardous nature (highly hazardous, moderately hazardous, non-hazardous).
+  4. Match hazard symbols to the appropriate category of chemical.
+  5. Suggest simple safety rules for handling household chemicals.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher displays different labelled containers and asks students what makes them “chemicals.”
+
+**Step 2 – Presentation:** Teacher defines chemicals as substances with definite composition used for various purposes and categorises them by use.
+
+**Step 3 – Explanation:** Teacher explains hazard levels and common hazard symbols, noting examples of highly hazardous, moderately hazardous, and non-hazardous substances.
+
+**Step 4 – Application:** Students sort sample labels or cards into groups based on use and hazard level, explaining their choices.
+
+**Step 5 – Evaluation:** Teacher asks quick oral questions on definitions, classes of chemicals, and hazard categories.
+
+### Content Summary
+
+1. **Chemicals** are substances with specific compositions used in medicine, agriculture, industry, and laboratories.
+2. By use: **pharmaceutical**, **agricultural**, **industrial**, **laboratory**, and household chemicals.
+3. By hazard: **highly hazardous** (e.g., strong acids), **moderately hazardous** (e.g., diluted bleach), **non-hazardous** (e.g., table salt).
+4. Hazard symbols warn users about proper handling and storage.
+
+### Conclusion
+
+Teacher reinforces that understanding chemical classes and hazards helps students use chemicals responsibly.
+
+### Student Lesson Notes
+
+- A **chemical** is any substance with a **definite composition**, used for specific purposes.
+- Chemicals can be grouped by **use** (medicine, farming, industry, lab, household) and by **hazard** (high, moderate, low/non-hazardous).
+- Learn common **hazard symbols** like corrosive, flammable, and toxic; they guide safe handling.
+- Handle household chemicals with care: **read labels**, **avoid mixing cleaners**, and **store properly**.
+
+
+- Create a study box in your notebook for **substance with definite composition** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **substance with definite composition** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+List four chemicals used in your home, state their use, and classify each as highly hazardous, moderately hazardous, or non-hazardous.
+
+
+DETAILED LESSON PLAN – JSS 3
+-----------------------------
+
+- **Date:** Friday, 14th November 2025
+- **Class:** JSS 3
+- **Duration:** 45 minutes
+- **Period:** Third
+- **Topic:** Environmental Hazards III
+- **Subtopic:** Ozone Layer Depletion
+- **Reference Materials:** NERDC Basic Science for JSS 3; Environmental Protection Agency pamphlets; Diagram of Earth’s atmosphere
+- **Instructional Materials:** Globe or atmosphere chart, posters of ozone layer structure, picture cards showing effects of depletion (melting ice, skin issues)
+- **Entry Behaviour:** Students have discussed greenhouse effect in previous lessons.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Define the ozone layer and locate it within the atmosphere.
+  2. State two importance of the ozone layer to life on Earth.
+  3. Identify at least three hazards of ozone layer depletion.
+  4. Suggest ways to reduce activities that lead to ozone layer depletion.
+  5. Explain how reducing chlorofluorocarbons (CFCs) protects the ozone layer.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher uses a globe or chart to show layers of the atmosphere and asks where the ozone layer might be found.
+
+**Step 2 – Presentation:** Teacher defines the ozone layer and its location in the stratosphere, highlighting its role in blocking harmful ultraviolet rays.
+
+**Step 3 – Explanation:** Teacher explains hazards of depletion such as increased UV radiation, skin problems, crop damage, and warming effects like melting ice.
+
+**Step 4 – Application:** Students discuss in groups how everyday actions (aerosol sprays, burning) can affect the ozone layer and propose solutions.
+
+**Step 5 – Evaluation:** Teacher prompts students to list hazards and control measures, including reducing CFCs and bush burning.
+
+### Content Summary
+
+1. The **ozone layer** is a region in the **stratosphere** that absorbs most ultraviolet (UV) rays from the sun.
+2. Importance: protects living things from harmful UV radiation and helps maintain climate balance.
+3. Hazards of depletion: **global warming**, **melting ice**, **greenhouse effect**, increased skin and eye problems, reduced crop yield.
+4. Control measures: **reduce use of CFCs**, **limit bush burning**, **service refrigerators properly**, and support environmental regulations.
+
+### Conclusion
+
+Teacher concludes that protecting the ozone layer is vital for health, agriculture, and climate stability.
+
+### Student Lesson Notes
+
+- The **ozone layer** lies in the **stratosphere** and shields Earth from most **UV radiation**.
+- When the ozone layer thins, we face **higher temperatures**, **melting ice**, **skin damage**, and **crop losses**.
+- Control measures include **reducing CFCs**, **avoiding unnecessary burning**, and **supporting environmental laws**.
+- Encourage family and friends to use **ozone-friendly products** and to dispose of old refrigerators responsibly.
+
+
+- Create a study box in your notebook for **stratosphere shield** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **stratosphere shield** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Write a paragraph explaining two hazards of ozone layer depletion and two ways students can help reduce it.
+
+
+
+WEEK 10 BASIC SCIENCE LESSON PLAN (17TH – 21ST NOVEMBER 2025)
+===========================================================
+
+WEEKLY OVERVIEW
+----------------
+
+- **JSS 1 – Living and Non-living Things (II):** Differences between plants and animals; Uses and importance of plants and animals; Classification of materials into living and non-living things.
+- **JSS 2 – Chemicals (II):** Safety measures when using chemicals; Control of chemical hazards; Proper labelling and storage; Use of protective equipment; Disposal of hazardous chemicals.
+- **JSS 3 – Drug and Substance Abuse:** Effects of drug abuse; Prevention of drug abuse; Activities of national drug control agencies; Meaning and dangers of misusing herbal medicine.
+
+
+DETAILED LESSON PLAN – JSS 1
+-----------------------------
+
+- **Date:** Monday, 17th November 2025
+- **Class:** JSS 1
+- **Duration:** 45 minutes
+- **Period:** First
+- **Topic:** Living and Non-living Things (II)
+- **Subtopic:** Differences between Plants and Animals; Uses and Importance of Plants and Animals; Classification of Materials into Living and Non-living Things
+- **Reference Materials:** NERDC Basic Science for JSS 1; Charts comparing plant and animal features; Local environment examples
+- **Instructional Materials:** Pictures of plants and animals, sample leaves and seeds, animal models, sorting worksheets
+- **Entry Behaviour:** Students can list characteristics of living things.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Differentiate between plants and animals using key features.
+  2. List at least four uses of plants and four uses of animals.
+  3. Classify given materials into living and non-living groups correctly.
+  4. Explain why certain products (wood, leather) come from living things.
+  5. Reflect on ways to care for plants and animals in their environment.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher displays pictures of plants and animals and asks students to note obvious differences.
+
+**Step 2 – Presentation:** Teacher compares plant features (chlorophyll, roots, photosynthesis) with animal features (movement, specialised senses).
+
+**Step 3 – Explanation:** Teacher discusses uses and importance of plants and animals such as food, shelter, medicine, clothing, and recreation.
+
+**Step 4 – Application:** Students classify classroom objects and common products into living, non-living, and “from living things” categories.
+
+**Step 5 – Evaluation:** Teacher asks students to state two differences between plants and animals and to justify the classification of selected materials.
+
+### Content Summary
+
+1. Plants make their own food by **photosynthesis**, have **roots**, and usually stay fixed; animals **move actively** and depend on plants or other animals for food.
+2. Uses of plants: **food**, **medicine**, **timber**, **fibre**; Uses of animals: **meat**, **milk**, **leather**, **labour**.
+3. Materials can be grouped into **living**, **non-living**, or **derived from living things**.
+
+### Conclusion
+
+Teacher notes that caring for plants and animals ensures continuous supply of food, medicine, and environmental balance.
+
+### Student Lesson Notes
+
+- **Plants vs. Animals:** plants have **chlorophyll**, make food, and are often fixed; animals **move**, **sense**, and **feed on other organisms**.
+- **Importance:** Plants give **oxygen**, **food**, and **materials**; animals provide **food**, **power**, **clothing**, and **companionship**.
+- Sort materials into **living**, **non-living**, and **from living things** (e.g., wood, leather).
+- Practise explaining why certain products come from living sources and how to use them responsibly.
+
+
+- Create a study box in your notebook for **plant and animal differences** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **plant and animal differences** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Prepare a two-column table showing five uses of plants and five uses of animals and indicate any products in your home that come from each.
+
+
+DETAILED LESSON PLAN – JSS 2
+-----------------------------
+
+- **Date:** Wednesday, 19th November 2025
+- **Class:** JSS 2
+- **Duration:** 45 minutes
+- **Period:** Second
+- **Topic:** Chemicals (II)
+- **Subtopic:** Safety Measures; Control of Chemical Hazards; Labelling; Safe Storage; Protective Equipment; Disposal of Hazardous Chemicals
+- **Reference Materials:** NERDC Basic Science for JSS 2; Safety Data Sheets; National safety guidelines for schools
+- **Instructional Materials:** Sample chemical labels, PPE (gloves, goggles), storage cabinet picture, waste bin with hazard label
+- **Entry Behaviour:** Students can classify chemicals by hazard level.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. State safety measures for handling chemicals in school and at home.
+  2. Explain the importance of proper labelling and storage of chemicals.
+  3. Identify appropriate protective equipment for common chemical tasks.
+  4. Describe safe disposal methods for hazardous chemicals.
+  5. Suggest ways to control chemical hazards in laboratories and homes.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher presents a wrongly labelled container and asks students to identify possible dangers.
+
+**Step 2 – Presentation:** Teacher lists safety measures such as reading labels, using PPE, and working in ventilated areas.
+
+**Step 3 – Explanation:** Teacher discusses control measures like proper storage, hazard communication, and spill management, including correct disposal.
+
+**Step 4 – Application:** Students practise reading mock labels, selecting correct PPE, and designing a simple storage plan for school chemicals.
+
+**Step 5 – Evaluation:** Teacher asks students to outline steps to take when a chemical is spilt in the laboratory and how to dispose of it safely.
+
+### Content Summary
+
+1. Safety measures: **read labels**, **wear PPE**, **avoid mixing unknown chemicals**, and **ensure ventilation**.
+2. Control hazards through **proper labelling**, **secure storage**, **spill response**, and **safe disposal**.
+3. PPE includes **gloves**, **goggles**, **aprons**, and **masks**; disposal must follow **hazard category guidelines**.
+
+### Conclusion
+
+Teacher concludes that careful handling, correct labelling, and safe disposal protect people and the environment from chemical harm.
+
+### Student Lesson Notes
+
+- Always **read labels**, use **protective gear**, and **store chemicals securely**.
+- **Label and date** all containers; keep incompatible chemicals apart.
+- Dispose of hazardous chemicals according to **school or community guidelines**; never pour them into sinks or drains.
+- Encourage peers to follow **safety rules** and report unsafe practices immediately.
+
+
+- Create a study box in your notebook for **chemical safety measures** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **chemical safety measures** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Design a safety poster showing five chemical safety rules, two required protective equipment, and one correct disposal method.
+
+
+DETAILED LESSON PLAN – JSS 3
+-----------------------------
+
+- **Date:** Friday, 21st November 2025
+- **Class:** JSS 3
+- **Duration:** 45 minutes
+- **Period:** Third
+- **Topic:** Drug and Substance Abuse
+- **Subtopic:** Effects and Prevention of Drug Abuse; Activities of National Drug Control Agencies; Dangers of Misusing Herbal Medicine
+- **Reference Materials:** NERDC Basic Science for JSS 3; NAFDAC pamphlets; WHO factsheets on drug misuse
+- **Instructional Materials:** Poster of drug control agencies, scenario cards on drug misuse, infographic on herbal medicines
+- **Entry Behaviour:** Students have discussed common environmental hazards and health effects.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. State at least four effects of drug and substance abuse on individuals and society.
+  2. Outline preventive measures against drug abuse for young people.
+  3. Identify roles of national drug control agencies such as NAFDAC.
+  4. Explain dangers of misusing herbal medicine.
+  5. Develop a personal pledge to stay drug-free.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher narrates a short story of a teenager facing problems due to drug abuse and asks students to identify warning signs.
+
+**Step 2 – Presentation:** Teacher lists effects of drug abuse on health, academics, family, and community.
+
+**Step 3 – Explanation:** Teacher explains preventive measures such as refusing peer pressure, seeking counselling, and participating in school clubs.
+
+**Step 4 – Application:** Students review the functions of agencies like **NAFDAC** and discuss how to verify approved drugs; they also evaluate risks of misusing herbal mixtures.
+
+**Step 5 – Evaluation:** Teacher asks students to mention two effects, two preventive measures, and one role of a drug control agency.
+
+### Content Summary
+
+1. Effects of drug abuse: **health problems**, **poor academic performance**, **addiction**, **crime**, and **broken relationships**.
+2. Prevention: **say no to peer pressure**, **seek guidance**, **join positive groups**, **follow medical advice only from professionals**.
+3. Agencies like **NAFDAC** regulate drugs, monitor quality, and run public awareness campaigns.
+4. Misusing herbal medicine can lead to **overdose**, **organ damage**, or **dangerous interactions** with other drugs.
+
+### Conclusion
+
+Teacher concludes that informed choices and support from family, school, and agencies help prevent drug abuse and protect health.
+
+### Student Lesson Notes
+
+- **Drug abuse** harms the **body**, **mind**, school work, and relationships.
+- **Prevent** abuse by **avoiding bad company**, **seeking help early**, and **following medical prescriptions** only.
+- **NAFDAC** and similar agencies **inspect, regulate, and educate** the public on safe drug use.
+- Herbal medicines must be **used responsibly** and **only as directed** to avoid harm.
+
+
+- Create a study box in your notebook for **drug abuse effects** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **drug abuse effects** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Write a one-page essay describing three dangers of drug abuse and two ways your community can support young people to stay drug-free.
+

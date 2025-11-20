@@ -1338,3 +1338,362 @@ Teacher highlights that proactive virus detection protects data, hardware, and u
 ### Assignment
 
 Create a weekly antivirus maintenance schedule that includes update times, scan types, and safety checks for a school computer laboratory.
+
+WEEK 9 INFORMATION TECHNOLOGY LESSON PLAN (10TH – 14TH NOVEMBER 2025)
+==================================================================
+
+WEEKLY OVERVIEW
+----------------
+
+- **JSS 1 – Data Processing (Stages of Data Processing):** Meaning of data processing; Stages of data processing (data gathering, input, processing, storage, output).
+- **JSS 2 – Computer Problem Solving Skills (I):** Meaning of computer program; Meaning of programming language; Identifying a computer program.
+- **JSS 3 – Internet (I):** Meaning of internet; Meaning of internet search engine; Uses of internet search engines.
+
+
+DETAILED LESSON PLAN – JSS 1
+-----------------------------
+
+- **Date:** Monday, 10th November 2025
+- **Class:** JSS 1
+- **Duration:** 45 minutes
+- **Period:** First
+- **Topic:** Data Processing (Stages of Data Processing)
+- **Subtopic:** Meaning of Data Processing; Stages – Data Gathering, Input, Processing, Storage, Output
+- **Reference Materials:** NERDC Information Technology for JSS 1; Computer Studies textbooks; Teacher-prepared process charts
+- **Instructional Materials:** Flowchart cards, sample data collection forms, laptop or projector showing a simple data flow, storage devices (flash drive)
+- **Entry Behaviour:** Students know that computers handle information.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Define data processing in simple terms.
+  2. List and explain the five stages of data processing.
+  3. Arrange the stages in correct order for a given task.
+  4. Identify examples of input, processing, and output devices.
+  5. Draw a simple flowchart showing data processing stages for a school activity.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher asks students how class test scores are recorded and reported.
+
+**Step 2 – Presentation:** Teacher defines data processing as converting raw facts (data) into meaningful information using steps.
+
+**Step 3 – Explanation:** Teacher explains each stage: **data gathering**, **input**, **processing**, **storage**, **output**, with everyday examples.
+
+**Step 4 – Application:** Students use flowchart cards to arrange the stages for “school attendance record” and match devices to each stage.
+
+**Step 5 – Evaluation:** Teacher quizzes students on the order of stages and asks them to give an example for each.
+
+### Content Summary
+
+1. **Data processing** converts **raw data** into **useful information**.
+2. Stages: **gathering** data, **input** into a device, **processing** by the computer, **storage**, and **output** of results.
+3. Devices: **keyboard/scanner** (input), **CPU** (processing), **flash/HDD** (storage), **monitor/printer** (output).
+
+### Conclusion
+
+Teacher emphasises that correct order of stages ensures accurate and timely information.
+
+### Student Lesson Notes
+
+- Data processing is turning **raw data** into **information** through **gathering, input, processing, storage, and output**.
+- Know which device is used at each stage and practise drawing mini flowcharts.
+- Use examples like **class attendance** or **library records** to explain the stages to a friend.
+
+
+- Create a study box in your notebook for **data processing stages** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **data processing stages** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Draw a flowchart showing the data processing stages for calculating students’ average scores in a subject.
+
+
+DETAILED LESSON PLAN – JSS 2
+-----------------------------
+
+- **Date:** Wednesday, 12th November 2025
+- **Class:** JSS 2
+- **Duration:** 45 minutes
+- **Period:** Second
+- **Topic:** Computer Problem Solving Skills (I)
+- **Subtopic:** Meaning of Computer Program; Meaning of Programming Language; Identifying a Computer Program
+- **Reference Materials:** NERDC Information Technology for JSS 2; Introductory programming guides; Teacher-made examples
+- **Instructional Materials:** Sample program printouts, screenshots of simple code, flashcards defining terms
+- **Entry Behaviour:** Students have used applications like word processors.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Define a computer program and give examples.
+  2. Explain what a programming language is and why it is needed.
+  3. Identify programs on the school computer and state their functions.
+  4. Distinguish between application programs and system programs in simple terms.
+  5. Share examples of tasks that require programming.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher asks students to name programs they have used on the computer and what those programs do.
+
+**Step 2 – Presentation:** Teacher defines a computer program as a set of instructions that tells the computer what to do, written in a programming language.
+
+**Step 3 – Explanation:** Teacher introduces the idea of programming languages (e.g., BASIC, Python) and why they translate human ideas for the computer.
+
+**Step 4 – Application:** Students review screenshots of simple programs and identify whether they are system utilities or applications.
+
+**Step 5 – Evaluation:** Teacher asks students to define program and programming language and to give two examples of programs they know.
+
+### Content Summary
+
+1. A **computer program** is a **set of instructions** that directs the computer to perform tasks.
+2. A **programming language** is the **language** used to write these instructions.
+3. Examples of programs: **word processor**, **browser**, **calculator**; programs can be **system** or **application**.
+
+### Conclusion
+
+Teacher concludes that understanding programs and languages is the first step toward problem solving with computers.
+
+### Student Lesson Notes
+
+- A **program** tells the computer **what to do**; a **programming language** helps us write those instructions.
+- Examples: **Notepad, Calculator, games, operating system tools**.
+- Think of tasks around you that could be **programmed** to save time.
+
+
+- Create a study box in your notebook for **set of instructions** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **set of instructions** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+List five programs installed on the school computer and write one function for each.
+
+
+DETAILED LESSON PLAN – JSS 3
+-----------------------------
+
+- **Date:** Friday, 14th November 2025
+- **Class:** JSS 3
+- **Duration:** 45 minutes
+- **Period:** Third
+- **Topic:** Internet (I)
+- **Subtopic:** Meaning of Internet; Meaning of Internet Search Engine; Uses of Internet Search Engines
+- **Reference Materials:** NERDC Information Technology for JSS 3; Internet literacy handouts; School acceptable use policy
+- **Instructional Materials:** Projector with internet simulation slides, screenshots of search engines, search query cards
+- **Entry Behaviour:** Students have heard of browsing the internet.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Define the internet and a search engine.
+  2. Mention at least three uses of internet search engines.
+  3. Identify examples of search engines.
+  4. Explain how search engines help find information.
+  5. Observe basic safety rules when searching online.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher asks students where they would look for information about a new topic.
+
+**Step 2 – Presentation:** Teacher defines the internet as a global network of connected computers and explains search engines as tools that help find information online.
+
+**Step 3 – Explanation:** Teacher lists uses of search engines such as research, images, maps, and news, showing screenshots of Google and Yahoo.
+
+**Step 4 – Application:** Students practice writing search queries on cards for different topics and discuss which results they expect.
+
+**Step 5 – Evaluation:** Teacher asks students to name search engines and state one use of each.
+
+### Content Summary
+
+1. The **internet** is a **global network** linking computers worldwide.
+2. A **search engine** helps users **find information** on the internet.
+3. Uses: **research**, **finding images/videos**, **maps**, **news updates**, **school assignments**.
+
+### Conclusion
+
+Teacher highlights that search engines make finding information fast but must be used responsibly.
+
+### Student Lesson Notes
+
+- The **internet** connects computers worldwide; a **search engine** helps you **locate information** quickly.
+- Examples: **Google**, **Yahoo**, **Ask.com**, **Mama.com**.
+- Use safe search habits: **type clear keywords**, **evaluate results**, and **avoid unsafe sites**.
+
+
+- Create a study box in your notebook for **internet search engine** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **internet search engine** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Write three search queries you would use to find information about climate change and explain why each query is useful.
+
+
+
+WEEK 10 INFORMATION TECHNOLOGY LESSON PLAN (17TH – 21ST NOVEMBER 2025)
+===================================================================
+
+WEEKLY OVERVIEW
+----------------
+
+- **JSS 1 – Data Processing (Computer as an Excellent Tool for Data Processing):** Features of a computer that make it excellent for data processing.
+- **JSS 2 – Computer Problem Solving Skills (II):** Examples of programming languages (COBOL, BASIC, LOGO, BEASE, ALGOL, FORTRAN); Explanation of what programming languages do.
+- **JSS 3 – Internet (II):** Specific uses of search engines; Examples of search engines (Google, Yahoo, Ask.com, Mama.com); How to search for information online; How to download information/materials into flash drives.
+
+
+DETAILED LESSON PLAN – JSS 1
+-----------------------------
+
+- **Date:** Monday, 17th November 2025
+- **Class:** JSS 1
+- **Duration:** 45 minutes
+- **Period:** First
+- **Topic:** Data Processing (Computer as an Excellent Tool for Data Processing)
+- **Subtopic:** Features of a Computer that Make It Excellent for Data Processing
+- **Reference Materials:** NERDC Information Technology for JSS 1; Computer hardware manuals; Teacher-made posters
+- **Instructional Materials:** Computer system, projector slides showing computer features, comparison chart between manual and computer processing
+- **Entry Behaviour:** Students know the stages of data processing.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. List features of a computer that aid data processing (speed, accuracy, storage, automation).
+  2. Compare computer processing with manual processing.
+  3. Explain why computers reduce errors in data processing tasks.
+  4. Identify examples of tasks improved by computerised processing.
+  5. Suggest ways to care for computers to maintain performance.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher asks students how long it would take to calculate class averages manually versus with a computer.
+
+**Step 2 – Presentation:** Teacher outlines features: **high speed**, **accuracy**, **large storage**, **automation**, **consistency**, **connectivity**.
+
+**Step 3 – Explanation:** Teacher compares manual vs. computer processing using a chart and demonstrates quick calculations on a laptop.
+
+**Step 4 – Application:** Students list school tasks that benefit from computer processing and explain which feature helps most.
+
+**Step 5 – Evaluation:** Teacher asks students to state two features and provide an example task for each.
+
+### Content Summary
+
+1. Computers process data with **high speed**, **accuracy**, and **large storage** capacity.
+2. They offer **automation**, **consistency**, and **connectivity**, making them excellent for repeated tasks.
+3. Proper **maintenance** keeps computers reliable for data processing.
+
+### Conclusion
+
+Teacher highlights that computers save time and reduce errors when processing data for school and daily life.
+
+### Student Lesson Notes
+
+- Computers are **fast**, **accurate**, and **store** large data, making them great for **processing tasks**.
+- They **automate** repeated work and **connect** to share information quickly.
+- Keep computers **clean**, **virus-free**, and **properly shut down** to maintain performance.
+
+
+- Create a study box in your notebook for **computer data advantages** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **computer data advantages** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Describe three ways a computer can help your school keep records better than paper methods.
+
+
+DETAILED LESSON PLAN – JSS 2
+-----------------------------
+
+- **Date:** Wednesday, 19th November 2025
+- **Class:** JSS 2
+- **Duration:** 45 minutes
+- **Period:** Second
+- **Topic:** Computer Problem Solving Skills (II)
+- **Subtopic:** Examples of Programming Languages; What Programming Languages Do
+- **Reference Materials:** NERDC Information Technology for JSS 2; Introductory programming texts; Language history charts
+- **Instructional Materials:** Flashcards with programming language names (COBOL, BASIC, LOGO, BEASE, ALGOL, FORTRAN); sample code snippets; timeline poster
+- **Entry Behaviour:** Students can define program and programming language.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Name at least six programming languages from the scheme.
+  2. State one use or feature of each language mentioned.
+  3. Explain that programming languages translate human instructions for the computer.
+  4. Identify simple tasks that can be solved using programs written in these languages.
+  5. Appreciate the variety of languages for different applications.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher displays flashcards of different programming languages and asks students which ones they have heard of.
+
+**Step 2 – Presentation:** Teacher briefly describes each language (e.g., COBOL for business, BASIC for beginners, LOGO for graphics/turtle, ALGOL for algorithms, FORTRAN for science, BEASE/BASIC variant for education).
+
+**Step 3 – Explanation:** Teacher explains that programming languages convert human ideas into instructions the computer executes.
+
+**Step 4 – Application:** Students match languages to their uses in a table and discuss which languages might suit school projects.
+
+**Step 5 – Evaluation:** Teacher asks students to list three languages and what they do.
+
+### Content Summary
+
+1. Examples of programming languages: **COBOL**, **BASIC**, **LOGO**, **BEASE (BASIC variant)**, **ALGOL**, **FORTRAN**.
+2. Programming languages are used to **write programs** that solve problems in business, science, education, and graphics.
+3. Different languages suit **different tasks**, showing why many languages exist.
+
+### Conclusion
+
+Teacher concludes that knowing various languages broadens students’ options for solving problems.
+
+### Student Lesson Notes
+
+- Programming languages like **COBOL, BASIC, LOGO, BEASE, ALGOL, FORTRAN** each serve **specific purposes**.
+- All languages **translate instructions** so the computer can execute them.
+- Choose a language based on the **task** (business, science, education, graphics).
+
+
+- Create a study box in your notebook for **programming language examples** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **programming language examples** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Create a table listing the six programming languages discussed and one common use for each.
+
+
+DETAILED LESSON PLAN – JSS 3
+-----------------------------
+
+- **Date:** Friday, 21st November 2025
+- **Class:** JSS 3
+- **Duration:** 45 minutes
+- **Period:** Third
+- **Topic:** Internet (II)
+- **Subtopic:** Specific Uses of Search Engines; Examples of Search Engines; Searching for Information Online; Downloading Information to Flash Drives
+- **Reference Materials:** NERDC Information Technology for JSS 3; Internet safety guides; School ICT policy
+- **Instructional Materials:** Computer with sample offline pages or screenshots, flash drive, step-by-step download chart, search query examples
+- **Entry Behaviour:** Students know what the internet and search engines are.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. List specific uses of search engines for school and daily life.
+  2. Name examples of search engines (Google, Yahoo, Ask.com, Mama.com).
+  3. Perform safe search queries to locate reliable information.
+  4. Outline steps to download information and save to a flash drive.
+  5. Observe digital safety and copyright considerations when downloading.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher asks students to suggest what information they would search for when preparing a class project.
+
+**Step 2 – Presentation:** Teacher lists search engine uses (research, images, videos, maps, translation) and provides examples of popular search engines.
+
+**Step 3 – Explanation:** Teacher demonstrates writing effective keywords and filtering results; then shows steps for downloading a file and saving to a flash drive.
+
+**Step 4 – Application:** Students practise forming search queries on paper and follow a guided download checklist (simulated if offline).
+
+**Step 5 – Evaluation:** Teacher asks students to mention two search engines, one specific use, and to outline the steps for saving a file to flash.
+
+### Content Summary
+
+1. Search engines like **Google**, **Yahoo**, **Ask.com**, **Mama.com** help users find **web pages, images, videos, and files**.
+2. Effective searching uses **clear keywords**, **filters**, and checks for **reliable sources**.
+3. Download steps: **click download link**, **choose save location**, **select flash drive**, **safely eject drive**; always respect **copyright and safety rules**.
+
+### Conclusion
+
+Teacher concludes that smart searching and proper downloading skills make internet research safe and productive.
+
+### Student Lesson Notes
+
+- Search engines serve **many purposes**: homework research, maps, news, images, videos.
+- Examples include **Google**, **Yahoo**, **Ask.com**, **Mama.com**.
+- To download safely: **find trusted source**, **save to flash drive**, and **eject properly** while respecting **copyright**.
+
+
+- Create a study box in your notebook for **safe searching and downloading** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **safe searching and downloading** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Write the steps you would follow to search for a PDF on first aid tips and save it to a flash drive. Mention two safety rules to observe.
+
