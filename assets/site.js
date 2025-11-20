@@ -36,6 +36,46 @@ const summaryBadgeEl = document.querySelector("#summary-badge");
 const alertEl = document.querySelector("#alert");
 const downloadButton = document.querySelector("#download-btn");
 
+const exams = {
+  jss1: { id: "jss1", name: "JSS1", file: "Exams/Jss1_Exam.md" },
+  jss2: { id: "jss2", name: "JSS2", file: "Exams/Jss2_Exam.md" },
+  jss3: { id: "jss3", name: "JSS3", file: "Exams/Jss3_Exam.md" }
+};
+
+const revisions = {
+  jss1: { id: "jss1", name: "JSS1", file: "Revision/Jss1_Revision.md" },
+  jss2: { id: "jss2", name: "JSS2", file: "Revision/Jss2_Revision.md" },
+  jss3: { id: "jss3", name: "JSS3", file: "Revision/Jss3_Revision.md" }
+};
+
+const examClassButtons = document.querySelector("#exam-class-buttons");
+const revisionClassButtons = document.querySelector("#revision-class-buttons");
+const examViewer = document.querySelector("#exam-viewer");
+const revisionViewer = document.querySelector("#revision-viewer");
+const examDownloadBtn = document.querySelector("#exam-download");
+const revisionDownloadBtn = document.querySelector("#revision-download");
+const examMarkdownLink = document.querySelector("#exam-markdown-link");
+const revisionMarkdownLink = document.querySelector("#revision-markdown-link");
+const studentTableBody = document.querySelector("#student-table-body");
+const saveScoresBtn = document.querySelector("#save-scores");
+const clearScoresBtn = document.querySelector("#clear-scores");
+
+const students = [
+  { id: "jss1-adeola", name: "Adeola Bello", classLevel: "JSS1" },
+  { id: "jss1-chioma", name: "Chioma Okafor", classLevel: "JSS1" },
+  { id: "jss1-kunle", name: "Kunle Adebayo", classLevel: "JSS1" },
+  { id: "jss1-sarah", name: "Sarah Musa", classLevel: "JSS1" },
+  { id: "jss2-ibrahim", name: "Ibrahim Adamu", classLevel: "JSS2" },
+  { id: "jss2-lola", name: "Lola Adesina", classLevel: "JSS2" },
+  { id: "jss2-gabriel", name: "Gabriel Eze", classLevel: "JSS2" },
+  { id: "jss2-ruth", name: "Ruth Johnson", classLevel: "JSS2" },
+  { id: "jss2-funmi", name: "Funmi Aluko", classLevel: "JSS2" },
+  { id: "jss2-segun", name: "Segun Bakare", classLevel: "JSS2" },
+  { id: "jss3-tomiwa", name: "Tomiwa Ajayi", classLevel: "JSS3" },
+  { id: "jss3-ifeoma", name: "Ifeoma Nnaji", classLevel: "JSS3" },
+  { id: "jss3-michael", name: "Michael Peters", classLevel: "JSS3" }
+];
+
 function renderSubjectCards(activeId) {
   subjectListEl.innerHTML = "";
   Object.values(subjects).forEach((subject) => {
@@ -60,6 +100,20 @@ function hexToAlpha(hex, opacity = 0.12) {
   const g = (bigint >> 8) & 255;
   const b = bigint & 255;
   return `rgba(${r}, ${g}, ${b}, ${opacity})`;
+}
+
+function renderClassPills(container, items, activeId, onSelect) {
+  if (!container) return;
+  container.innerHTML = "";
+
+  Object.values(items).forEach((entry) => {
+    const pill = document.createElement("button");
+    pill.className = `pill ${entry.id === activeId ? "active" : ""}`;
+    pill.type = "button";
+    pill.textContent = entry.name;
+    pill.addEventListener("click", () => onSelect(entry.id));
+    container.appendChild(pill);
+  });
 }
 
 function extractWeeks(markdown) {
@@ -129,6 +183,46 @@ function renderWeeks(weeks, subjectName) {
   downloadButton.onclick = () => handleDownload(subjectName);
 }
 
+async function loadExam(id) {
+  const exam = exams[id];
+  if (!exam) return;
+
+  renderClassPills(examClassButtons, exams, id, loadExam);
+  examMarkdownLink.href = exam.file;
+  examMarkdownLink.download = `${exam.name}_Exam.md`;
+  examDownloadBtn.textContent = `Download ${exam.name} Exam PDF`;
+
+  try {
+    const response = await fetch(encodeURI(exam.file));
+    if (!response.ok) throw new Error(`Unable to load ${exam.file}`);
+    const markdown = await response.text();
+    examViewer.innerHTML = marked.parse(markdown);
+    examDownloadBtn.onclick = () => downloadSectionAsPdf("exam-panel", `${exam.name.toLowerCase()}-exam.pdf`);
+  } catch (error) {
+    examViewer.innerHTML = `<div class="alert">${error.message}</div>`;
+  }
+}
+
+async function loadRevision(id) {
+  const revision = revisions[id];
+  if (!revision) return;
+
+  renderClassPills(revisionClassButtons, revisions, id, loadRevision);
+  revisionMarkdownLink.href = revision.file;
+  revisionMarkdownLink.download = `${revision.name}_Revision.md`;
+  revisionDownloadBtn.textContent = `Download ${revision.name} Revision PDF`;
+
+  try {
+    const response = await fetch(encodeURI(revision.file));
+    if (!response.ok) throw new Error(`Unable to load ${revision.file}`);
+    const markdown = await response.text();
+    revisionViewer.innerHTML = marked.parse(markdown);
+    revisionDownloadBtn.onclick = () => downloadSectionAsPdf("revision-panel", `${revision.name.toLowerCase()}-revision.pdf`);
+  } catch (error) {
+    revisionViewer.innerHTML = `<div class="alert">${error.message}</div>`;
+  }
+}
+
 function handleDownload(subjectName) {
   const target = document.querySelector("#printable");
   if (!target) return;
@@ -144,9 +238,108 @@ function handleDownload(subjectName) {
   html2pdf().set(opt).from(target).save();
 }
 
+function downloadSectionAsPdf(elementId, filename) {
+  const target = document.getElementById(elementId);
+  if (!target) return;
+
+  const opt = {
+    margin: 0.4,
+    filename,
+    image: { type: "jpeg", quality: 0.98 },
+    html2canvas: { scale: 2, useCORS: true },
+    jsPDF: { unit: "in", format: "letter", orientation: "portrait" }
+  };
+
+  html2pdf().set(opt).from(target).save();
+}
+
+function getStoredScores() {
+  const raw = localStorage.getItem("studentScores");
+  if (!raw) return {};
+
+  try {
+    return JSON.parse(raw);
+  } catch (error) {
+    return {};
+  }
+}
+
+function updateTotals() {
+  students.forEach((student) => {
+    const inputs = document.querySelectorAll(`[data-student="${student.id}"]`);
+    let total = 0;
+    let hasValue = false;
+
+    inputs.forEach((input) => {
+      const value = Number.parseFloat(input.value);
+      if (!Number.isNaN(value)) {
+        total += value;
+        hasValue = true;
+      }
+    });
+
+    const totalCell = document.getElementById(`${student.id}-total`);
+    if (totalCell) totalCell.textContent = hasValue ? total : "—";
+  });
+}
+
+function renderDashboard() {
+  if (!studentTableBody) return;
+  const stored = getStoredScores();
+
+  studentTableBody.innerHTML = "";
+
+  students.forEach((student) => {
+    const row = document.createElement("tr");
+    const saved = stored[student.id] || {};
+    row.innerHTML = `
+      <td>${student.name}</td>
+      <td>${student.classLevel}</td>
+      <td><input class="score-input" type="number" min="0" max="100" data-student="${student.id}" data-field="science" value="${saved.science ?? ""}" /></td>
+      <td><input class="score-input" type="number" min="0" max="100" data-student="${student.id}" data-field="tech" value="${saved.tech ?? ""}" /></td>
+      <td><input class="score-input" type="number" min="0" max="100" data-student="${student.id}" data-field="ict" value="${saved.ict ?? ""}" /></td>
+      <td><input class="score-input" type="number" min="0" max="100" data-student="${student.id}" data-field="phe" value="${saved.phe ?? ""}" /></td>
+      <td class="total-cell" id="${student.id}-total">—</td>
+    `;
+    row.querySelectorAll("input").forEach((input) => input.addEventListener("input", updateTotals));
+    studentTableBody.appendChild(row);
+  });
+
+  updateTotals();
+}
+
+function saveScores() {
+  const payload = {};
+
+  students.forEach((student) => {
+    const entry = {};
+    ["science", "tech", "ict", "phe"].forEach((field) => {
+      const input = document.querySelector(`[data-student="${student.id}"][data-field="${field}"]`);
+      if (input && input.value !== "") {
+        entry[field] = Number.parseFloat(input.value);
+      }
+    });
+
+    payload[student.id] = entry;
+  });
+
+  localStorage.setItem("studentScores", JSON.stringify(payload));
+}
+
+function clearScores() {
+  localStorage.removeItem("studentScores");
+  renderDashboard();
+}
+
 function init() {
   renderSubjectCards("science");
   loadSubject("science");
+  loadExam("jss1");
+  loadRevision("jss1");
+  renderDashboard();
+
+  if (saveScoresBtn) saveScoresBtn.addEventListener("click", saveScores);
+  if (clearScoresBtn) clearScoresBtn.addEventListener("click", clearScores);
 }
 
 document.addEventListener("DOMContentLoaded", init);
