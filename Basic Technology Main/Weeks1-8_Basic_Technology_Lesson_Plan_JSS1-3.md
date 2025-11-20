@@ -1331,3 +1331,364 @@ Teacher stresses that processing raw materials into useful products requires kno
 ### Assignment
 
 Explain in a half-page write-up how clay bricks are produced from raw clay, including at least five key steps and two safety precautions.
+
+WEEK 9 BASIC TECHNOLOGY LESSON PLAN (10TH – 14TH NOVEMBER 2025)
+============================================================
+
+WEEKLY OVERVIEW
+----------------
+
+- **JSS 1 – Workshop Safety:** Meaning of a workshop accident; Causes of workshop accidents.
+- **JSS 2 – Geometric Construction (I) – Circles:** Meaning, identification, and drawing of parts of a circle including diameter, radius, chord, sector, segment, quadrant, and circumference.
+- **JSS 3 – Processing of Materials II (Plastics & Rubber):** Examples of plastic and rubber products; Methods of processing plastics and rubber (injection moulding, compression moulding, vulcanization); Advantages and disadvantages of each method.
+
+
+DETAILED LESSON PLAN – JSS 1
+-----------------------------
+
+- **Date:** Monday, 10th November 2025
+- **Class:** JSS 1
+- **Duration:** 45 minutes
+- **Period:** First
+- **Topic:** Workshop Safety
+- **Subtopic:** Meaning of a Workshop Accident; Causes of Workshop Accidents
+- **Reference Materials:** NERDC Basic Technology for JSS 1; Workshop Safety Handbook; School safety policy
+- **Instructional Materials:** Pictures of workshop accidents, hazard sign cards, first aid box, PPE samples
+- **Entry Behaviour:** Students know basic workshop rules from previous lesson.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Define a workshop accident.
+  2. Mention at least five causes of workshop accidents.
+  3. Relate each cause to a preventive action.
+  4. Demonstrate correct handling of selected PPE to avoid accidents.
+  5. Suggest personal habits that reduce accident risks.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher displays pictures of minor workshop accidents and asks students to describe what went wrong.
+
+**Step 2 – Presentation:** Teacher defines a workshop accident as an unplanned event causing injury or damage during practical work.
+
+**Step 3 – Explanation:** Teacher lists causes such as improper tool use, lack of PPE, carelessness, slippery floors, poor lighting, and distractions.
+
+**Step 4 – Application:** Students match each cause to a preventive action (e.g., wearing goggles, cleaning spills, storing tools properly).
+
+**Step 5 – Evaluation:** Teacher asks students to explain why accidents happen and how to avoid them before practical sessions.
+
+### Content Summary
+
+1. A **workshop accident** is an unexpected event in the workshop that results in injury or damage.
+2. Causes include **carelessness**, **wrong tool use**, **lack of PPE**, **slippery floors**, **poor lighting**, and **distractions**.
+3. Preventive habits: **follow safety rules**, **inspect tools**, **wear PPE**, **keep floors dry**, **stay focused**.
+
+### Conclusion
+
+Teacher emphasises that preventing accidents starts with personal responsibility and awareness of hazards.
+
+### Student Lesson Notes
+
+- A **workshop accident** happens when **safety rules are ignored** or **hazards are not controlled**.
+- Common causes: **carelessness**, **unsafe tools**, **lack of PPE**, **spills**, **poor lighting**.
+- Prevent accidents by **keeping the workshop tidy**, **using tools correctly**, and **wearing PPE**.
+- Practise creating a quick safety checklist before every practical.
+
+
+- Create a study box in your notebook for **unplanned event causing injury** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **unplanned event causing injury** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Write down five causes of workshop accidents you have seen or heard about and state one way to prevent each.
+
+
+DETAILED LESSON PLAN – JSS 2
+-----------------------------
+
+- **Date:** Wednesday, 12th November 2025
+- **Class:** JSS 2
+- **Duration:** 45 minutes
+- **Period:** Second
+- **Topic:** Geometric Construction (I) – Circles
+- **Subtopic:** Meaning, Identification, and Drawing of Parts of a Circle (Diameter, Radius, Chord, Sector, Segment, Quadrant, Circumference)
+- **Reference Materials:** NERDC Basic Technology for JSS 2; Technical drawing textbooks; Geometry instruments manual
+- **Instructional Materials:** Compass, ruler, protractor, set squares, drawing paper, projector slides of circle parts
+- **Entry Behaviour:** Students can draw basic shapes and have used compasses.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Identify and define key parts of a circle.
+  2. Draw a circle with accurate radius and diameter using a compass and ruler.
+  3. Construct chords, sectors, segments, and quadrants on a given circle.
+  4. Label the circumference and explain its relationship with diameter.
+  5. Apply correct lettering and dimensioning to circle drawings.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher asks students to recall items shaped like circles and identify the line around them.
+
+**Step 2 – Presentation:** Teacher demonstrates drawing a circle with a compass, marking the centre, radius, and diameter.
+
+**Step 3 – Explanation:** Teacher defines chord, sector, segment, quadrant, and circumference with annotated diagrams.
+
+**Step 4 – Application:** Students draw their own circles, construct the parts, and label each feature following drawing standards.
+
+**Step 5 – Evaluation:** Teacher reviews drawings for accuracy and asks students to explain the difference between a chord and a diameter.
+
+### Content Summary
+
+1. Parts of a circle include **centre**, **radius**, **diameter**, **chord**, **sector**, **segment**, **quadrant**, and **circumference**.
+2. **Radius** is half of the diameter; **diameter** passes through the centre; **circumference** is the boundary line.
+3. Accurate construction requires **sharp compass points**, **steady lines**, and **clear labels**.
+
+### Conclusion
+
+Teacher notes that mastering circle parts prepares students for tangent construction and more complex geometric tasks.
+
+### Student Lesson Notes
+
+- Use a **compass and ruler** to draw circles with clear **radius** and **diameter**.
+- A **chord** connects two points on the circumference; a **sector** is a “slice,” and a **segment** is a “small cut” by a chord.
+- Keep drawings **neat** with **proper labels** and **dimensioning**.
+
+
+- Create a study box in your notebook for **circle parts** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **circle parts** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Draw a circle of 5 cm radius. Label the radius, diameter, a chord, a sector, a segment, a quadrant, and the circumference.
+
+
+DETAILED LESSON PLAN – JSS 3
+-----------------------------
+
+- **Date:** Friday, 14th November 2025
+- **Class:** JSS 3
+- **Duration:** 45 minutes
+- **Period:** Third
+- **Topic:** Processing of Materials II (Plastics & Rubber)
+- **Subtopic:** Examples of Products; Methods of Processing Plastics and Rubber (Injection Moulding, Compression Moulding, Vulcanization); Advantages and Disadvantages
+- **Reference Materials:** NERDC Basic Technology for JSS 3; Industrial technology brochures; Teacher-made process charts
+- **Instructional Materials:** Samples of plastic bottles, rubber soles, process diagrams, short video clips of moulding machines
+- **Entry Behaviour:** Students have studied basic processing of clay, ceramics, and glass.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. List examples of plastic and rubber products used daily.
+  2. Describe steps in injection moulding, compression moulding, and vulcanization.
+  3. Compare advantages and disadvantages of each processing method.
+  4. Identify safety and environmental considerations in processing plastics and rubber.
+  5. Suggest improvements to reduce waste during production.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher displays common plastic and rubber items and asks students to guess how they were made.
+
+**Step 2 – Presentation:** Teacher describes injection moulding, compression moulding, and vulcanization using process charts.
+
+**Step 3 – Explanation:** Teacher compares advantages (speed, uniformity, strength) and disadvantages (cost, energy use, pollution) of each method.
+
+**Step 4 – Application:** Students complete a comparison table listing products, processes, advantages, disadvantages, and safety measures.
+
+**Step 5 – Evaluation:** Teacher asks students to recommend which process suits specific products and to justify their choice.
+
+### Content Summary
+
+1. **Plastic products** (bottles, chairs) and **rubber products** (tyres, soles) are made through **injection moulding**, **compression moulding**, and **vulcanization**.
+2. Injection moulding is **fast** and **precise** but needs **expensive moulds**; compression moulding suits **thicker parts** but can be **slower**; vulcanization improves **elasticity and strength**.
+3. Safety requires **temperature control**, **protective gear**, and **environmental care** to reduce pollution.
+
+### Conclusion
+
+Teacher highlights that knowing processing methods helps students choose suitable techniques and manage safety in production.
+
+### Student Lesson Notes
+
+- **Injection moulding**: melts plastic then pushes it into a mould; **fast** and **accurate**.
+- **Compression moulding**: presses heated material in a mould; good for **thick or curved parts**.
+- **Vulcanization**: heating rubber with sulphur to make it **elastic and durable**.
+- Always think about **safety**, **energy use**, and **waste control** in production.
+
+
+- Create a study box in your notebook for **injection moulding** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **injection moulding** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Choose one plastic or rubber product and write two sentences on the processing method used, including one advantage and one disadvantage.
+
+
+
+WEEK 10 BASIC TECHNOLOGY LESSON PLAN (17TH – 21ST NOVEMBER 2025)
+==============================================================
+
+WEEKLY OVERVIEW
+----------------
+
+- **JSS 1 – Workshop Safety:** Types of workshop accidents; Preventive measures and ways of preventing accidents.
+- **JSS 2 – Geometric Construction (II) – Circles:** Construction of tangents (at a point on the circle and from a point outside the circle); Dividing a circle into equal parts.
+- **JSS 3 – Processing of Materials II (Continuation):** Uses of plastics and rubber; Advantages and disadvantages of rubber compression and injection moulding; How plastics and rubber industries operate.
+
+
+DETAILED LESSON PLAN – JSS 1
+-----------------------------
+
+- **Date:** Monday, 17th November 2025
+- **Class:** JSS 1
+- **Duration:** 45 minutes
+- **Period:** First
+- **Topic:** Workshop Safety
+- **Subtopic:** Types of Workshop Accidents; Preventive Measures
+- **Reference Materials:** NERDC Basic Technology for JSS 1; Safety posters; School emergency procedures
+- **Instructional Materials:** Accident scenario cards, PPE samples, warning signs, first aid items
+- **Entry Behaviour:** Students can state causes of workshop accidents.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Identify common types of workshop accidents (cuts, burns, electric shocks, slips, eye injuries).
+  2. Suggest preventive measures for each type of accident.
+  3. Demonstrate correct response actions such as reporting and first aid.
+  4. Develop a personal safety checklist for workshop sessions.
+  5. Participate in a short safety drill.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher presents accident scenario cards and asks students to name the type of accident shown.
+
+**Step 2 – Presentation:** Teacher explains types of accidents and links them to causes (sharp tools, hot surfaces, electricity, spills, flying particles).
+
+**Step 3 – Explanation:** Teacher outlines preventive measures: proper PPE, tool maintenance, clear walkways, and safe handling of electricity and hot equipment.
+
+**Step 4 – Application:** Students role-play responses to accidents (alerting teacher, using first aid box) and create a personal safety checklist.
+
+**Step 5 – Evaluation:** Teacher quizzes students on accident types and the correct preventive step for each.
+
+### Content Summary
+
+1. Workshop accidents include **cuts**, **burns**, **electric shocks**, **slips**, and **eye injuries**.
+2. Prevent accidents by **using PPE**, **keeping floors dry**, **maintaining tools**, and **following instructions**.
+3. Quick response involves **reporting**, **switching off power**, and **using first aid**.
+
+### Conclusion
+
+Teacher reminds students that preparation and vigilance reduce the likelihood of accidents during practicals.
+
+### Student Lesson Notes
+
+- Types: **cuts**, **burns**, **electric shocks**, **slips**, **eye injuries**.
+- Prevent by **wearing PPE**, **handling tools correctly**, **cleaning spills**, and **avoiding horseplay**.
+- In an accident, **inform the teacher**, **make the area safe**, and **apply first aid** if trained.
+
+
+- Create a study box in your notebook for **common workshop accidents** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **common workshop accidents** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Prepare a poster showing three types of workshop accidents and one preventive measure for each.
+
+
+DETAILED LESSON PLAN – JSS 2
+-----------------------------
+
+- **Date:** Wednesday, 19th November 2025
+- **Class:** JSS 2
+- **Duration:** 45 minutes
+- **Period:** Second
+- **Topic:** Geometric Construction (II) – Circles
+- **Subtopic:** Construction of Tangents (At a Point on the Circle; From a Point Outside the Circle); Dividing a Circle into Equal Parts
+- **Reference Materials:** NERDC Basic Technology for JSS 2; Technical drawing manuals; Geometry workbook
+- **Instructional Materials:** Compass, ruler, set squares, protractor, drawing paper, step-by-step construction slides
+- **Entry Behaviour:** Students can identify and label parts of a circle.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. Construct a tangent to a circle at a given point on the circumference.
+  2. Construct tangents from a point outside the circle.
+  3. Divide a circle into equal parts using chords and radii.
+  4. Apply accurate measurements and neat lettering in constructions.
+  5. Check constructions for correctness using geometric properties.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher reminds students that a tangent touches a circle at only one point and asks for real-life examples.
+
+**Step 2 – Presentation:** Teacher demonstrates constructing a tangent at a point on the circle using radius and perpendicular line methods.
+
+**Step 3 – Explanation:** Teacher shows how to draw tangents from an external point using two radii and arcs; then demonstrates dividing a circle into equal parts (2, 4, 6, 8 divisions) with chords and angle bisectors.
+
+**Step 4 – Application:** Students replicate the constructions on drawing paper, labelling all points and measurements.
+
+**Step 5 – Evaluation:** Teacher checks for accurate tangents and equal divisions, asking students to explain why tangents are perpendicular to radii.
+
+### Content Summary
+
+1. A **tangent** touches the circle at **one point** and is **perpendicular** to the radius at that point.
+2. Tangents from an external point use **two equal radii** to locate points of tangency.
+3. Dividing a circle uses **equal chords** or **angle divisions** to create **equal parts**.
+
+### Conclusion
+
+Teacher notes that tangent construction skills support engineering drawing and design tasks.
+
+### Student Lesson Notes
+
+- Tangent lines are **perpendicular** to the **radius** at the point of contact.
+- From an **external point**, two tangents of **equal length** can be constructed.
+- Use **accurate chords** and **angle bisectors** to split circles into equal sections.
+
+
+- Create a study box in your notebook for **circle tangents** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **circle tangents** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Construct tangents from a point 7 cm away from the centre of a circle with radius 4 cm. Show all construction lines and label equal parts of the circle.
+
+
+DETAILED LESSON PLAN – JSS 3
+-----------------------------
+
+- **Date:** Friday, 21st November 2025
+- **Class:** JSS 3
+- **Duration:** 45 minutes
+- **Period:** Third
+- **Topic:** Processing of Materials II (Continuation)
+- **Subtopic:** Uses of Plastics and Rubber; Advantages and Disadvantages of Rubber Compression and Injection Moulding; How Plastics and Rubber Industries Operate
+- **Reference Materials:** NERDC Basic Technology for JSS 3; Industry case studies; Sustainability reports
+- **Instructional Materials:** Product samples, factory workflow diagrams, videos showing moulding lines, cost–benefit charts
+- **Entry Behaviour:** Students can describe moulding and vulcanization processes.
+- **Behavioural Objectives:** By the end of the lesson, students will be able to:
+  1. List major uses of plastics and rubber in everyday life and industry.
+  2. Compare advantages and disadvantages of rubber compression and injection moulding.
+  3. Outline how plastics and rubber industries operate from raw materials to finished goods.
+  4. Highlight environmental and safety practices in these industries.
+  5. Suggest ways to improve sustainability in plastic and rubber production.
+
+### Lesson Presentation
+
+**Step 1 – Introduction:** Teacher displays diverse plastic and rubber products and asks students to group them by use (household, automotive, packaging, construction).
+
+**Step 2 – Presentation:** Teacher discusses uses of plastics and rubber, noting durability, flexibility, and insulation properties.
+
+**Step 3 – Explanation:** Teacher compares compression vs. injection moulding for rubber, highlighting cycle time, cost, product thickness, and precision.
+
+**Step 4 – Application:** Students map a simplified production flow from raw materials to finished goods, marking points for quality control and waste reduction.
+
+**Step 5 – Evaluation:** Teacher questions students on process choice for different products and on safety/environmental practices such as recycling and emission control.
+
+### Content Summary
+
+1. Plastics and rubber are used for **packaging**, **automotive parts**, **electrical insulation**, **household goods**, and **medical supplies**.
+2. **Compression moulding** handles **thick parts** with **lower tooling cost** but may be **slower**; **injection moulding** is **fast and precise** but needs **expensive equipment**.
+3. Industries operate through **raw material preparation**, **moulding**, **finishing**, **quality control**, and **recycling or waste management**.
+
+### Conclusion
+
+Teacher concludes that understanding industrial processes helps students appreciate product quality and the need for responsible manufacturing.
+
+### Student Lesson Notes
+
+- Plastics and rubber serve many sectors due to their **durability**, **flexibility**, and **insulation** qualities.
+- **Compression moulding** vs. **injection moulding**: choose based on **part thickness**, **cost**, and **precision** needs.
+- Good factories plan for **quality checks**, **worker safety**, and **recycling** to reduce pollution.
+
+
+- Create a study box in your notebook for **rubber moulding choices** with clear definitions, labelled sketches, and two everyday examples so you can explain it without looking at the textbook.
+- Add a short checklist that reminds you how to apply **rubber moulding choices** in class activities, projects, or safety routines, noting common mistakes to avoid.
+
+### Assignment
+
+Write a short report on one plastic or rubber industry in your area or country, describing its main products, production method, and one environmental practice.
+
