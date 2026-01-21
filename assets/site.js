@@ -3,7 +3,7 @@ const subjects = {
     id: "science",
     name: "Basic Science",
     scope: "JSS 1 - 3 | Weeks 1-10",
-    file: "Basic Science Main/Weeks1-8_Basic_Science_Lesson_Plan_JSS1-3.md",
+    file: "2nd Sem Basic Science/Weeks1-8_Basic_Science_Lesson_Plan_JSS1-3.md",
     color: "#22c55e",
     description:
       "Family Health, Living Things, Family Traits and more with structured weekly objectives and class activities."
@@ -12,7 +12,7 @@ const subjects = {
     id: "technology",
     name: "Basic Technology",
     scope: "JSS 1 - 3 | Weeks 1-10",
-    file: "Basic Technology Main/Weeks1-8_Basic_Technology_Lesson_Plan_JSS1-3.md",
+    file: "2nd Sem Basic Technology/Weeks1-8_Basic_Technology_Lesson_Plan_JSS1-3.md",
     color: "#38bdf8",
     description:
       "Crafted around drawing, energy conversion, technology and society, with clear behavioural objectives."
@@ -21,7 +21,7 @@ const subjects = {
     id: "ict",
     name: "Information Technology",
     scope: "JSS 1 - 3 | Weeks 1-10",
-    file: "Information Technology Main/Weeks1-8_Information_Technology_Lesson_Plan_JSS1-3.md",
+    file: "1st Sem Information Technology/Weeks1-8_Information_Technology_Lesson_Plan_JSS1-3.md",
     color: "#fbbf24",
     description:
       "Covers digital literacy, computer fundamentals and productivity tools with progressive lesson flows."
