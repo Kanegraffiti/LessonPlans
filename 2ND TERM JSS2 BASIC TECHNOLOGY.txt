@@ -1,0 +1,1490 @@
+SECOND TERM E-LEARNING NOTE
+
+SUBJECT: BASIC TECHNOLOGY CLASS: JSS 2
+
+SCHEME OF WORK
+
++:------+:-------------------------------------------------------------+
+| WEEK  | TOPIC                                                        |
++-------+--------------------------------------------------------------+
+| 1     | REVISION/CIRCLES                                             |
++-------+--------------------------------------------------------------+
+| 2     | QUADRILATERALS                                               |
++-------+--------------------------------------------------------------+
+| 3     | POLYGONS                                                     |
++-------+--------------------------------------------------------------+
+| 4&5   | AREA OF PLANE FIGURES                                        |
++-------+--------------------------------------------------------------+
+| 6&7   | WOODWORK MACHINES                                            |
++-------+--------------------------------------------------------------+
+| 8&9   | METALWORK MACHINES                                           |
++-------+--------------------------------------------------------------+
+| 10    | FRICTION                                                     |
++-------+--------------------------------------------------------------+
+| 11    | REVISION                                                     |
++-------+--------------------------------------------------------------+
+| 12    | EXAMINATION                                                  |
++-------+--------------------------------------------------------------+
+
+REFERENCE MATERIALS
+
+1.  MELROSE, Basic Science and Technology, Book 2
+
+2.  NERDC, Basic Technology for JSS, Book 2
+
+WEEK ONE CLASS: ______________
+
+TOPIC: REVISION/CIRCLES
+
+CONTENT
+
+- DEFINITION OF CIRCLE
+
+PARTS OF A CIRCLE
+
+A circle is a plane figure bounded by a curved line called the
+circumference. All the points on the circumference of a circle are
+equidistant from a point called the centre.
+
+parts of a circle
+
+1.  Diameter
+
+The diameter is a straight line drawn through the centre of a circle and
+meeting the circumference at both ends.
+
+2.  Radius
+
+The radius is a straight line drawn from the centre of a circle to any
+point on the circumference of the circle. The length of the radius is
+always used to draw the circle.
+
+3.  Segment
+
+The segment is an area of the circle bounded by an arc and a straight
+line called the chord.
+
+4.  Chord
+
+The chord is a straight line which joins any two given points on the
+circumference of a circle.
+
+5.  Sector
+
+The sector is part of the circle bounded by two radii and an arc.
+
+6.  Quadrant
+
+The quadrant is the part of the circle bounded by two radii which are at
+right angles to each other, bounded by an arc. The quadrant, as the
+name, is ¼ of the circle.
+
+7.  Tangent
+
+The tangent is usually formed outside the circle. When a straight line
+touched is formed. However, that line must be right angle to a radius.
+
+EVALUATION
+
+1.  Draw a circle 30mm and show the different parts.
+
+2.  Explain each part of a circle
+
+How to draw a circle given the radius
+
+Procedure
+
+- Draw the centre lines horizontal and the other vertical, to intersect
+  each other at E at 90⁰.
+
+- The point of intersection is the centre. With the compass at centre E,
+  pick the given radius into the compasses.
+
+- The point of intersection E, is the centre of the circle. Place the
+  pinpoint of the compasses on the centre and swing the pencil round
+  such that the pencil makes 360⁰ to give the circle.
+
+How to construct a circle through a three points which are not on a
+straight line.
+
+Procedure
+
+- Join the given points ABC with straight lines AB and BC.
+
+- Draw the perpendicular bisector of the two lines AB and BC to
+  intersect at point D.
+
+- The point of intersection D is the centre of the circle. With point D
+  as centre, set the pencil point of the compasses to any of the three
+  given point A, B or C
+
+- Swing your compass through the three points to produce the circle.
+
+How to construct a series of circles touching one another on the two
+converging lines
+
+Procedure
+
+- Copy the given converging lines AB and AC.
+
+- Bisect the angle between the converging lines BA and CA.
+
+- Draw a line from A to pass through D.
+
+- AE is the bisector, and the centre of the circles is located on the
+  bisector.
+
+- Draw the largest circle by placing the point of the compasses
+  somewhere on the bisector and adjust the pencil point, until the
+  required radius is obtained.
+
+- Draw a tangent FG to the circle at point of intersection between the
+  circumference of the circle and the bisector .
+
+- Bisect the angle IJA
+
+- Draw a line through point K to intersect main bisector AE at L.
+
+- Note that point L is the centre for smaller circle.
+
+- With centre L draw the smaller circle to touch the bigger circle
+  tangentially.
+
+How to find centre of a circle
+
+Procedure
+
+1.  Draw the given circle.
+
+2.  Draw any two chords AB and AC.
+
+3.  Bisect lines AB and AC. The bisecting lines will intersect at O.
+
+4.  O is the centre of the circle.
+
+EVALUATION
+
+1.  Draw a circle of diameter 80 mm and determine its centre.
+
+2.  Draw three circles of diameter 40mm touching each other
+
+READING ASSIGNMENT
+
+Read about QUADRILATERALS
+
+REFRENCE BOOK
+
+- MELROSE, Basic Science and Technology, book 2 page 81-83.
+
+- NERDC, Basic technology for JSS book 2, page 52-56.
+
+WEEKEND ASSIGNMENT
+
+1.  The part of the circle that is bounded by an arc and a chord is A.
+    segment
+
+  B. sector C. diameter D. tangent.
+
+2.  A straight line drawn through the centre, meeting the circumference
+    at both ends is called A. sector B. radius C. diameter D. tangent
+
+3.  A plane figure bounded by a curved line called circumference is
+    called-------
+
+  A. triangle B. circle C. quadrilaterals D. curved line
+
+4.  Any straight line drawn across the circle, meeting the circumference
+    at both ends is called A. chord B. tangent C. radius) D. diameter
+
+5.  Which of the following can be used to draw a circle? A.
+    protractor B. French curve C. compass D. template
+
+THEORY
+
+1.  Draw a circle of radius 35mm and divide it into 12 equal sizes.
+
+2.  Draw a circle and with shaded portion show (i) quadrant (ii)
+    sector (iii) segment inside the circle
+
+WEEK TWO DATE: ____________________
+
+TOPIC: QUADRILATERALS
+
+CONTENT
+
+- Types of Quadrilaterals
+
+- Construction of a rectangle given its diagonal and one side
+
+- Construction of a rhombus given its side and a diagonal
+
+1.  Construction of a rhomboid given its diagonal and one side.
+
+QUADRILATERALS 
+
+Quadrilaterals are plane figures bounded by four straight lines. The sum
+of angles in a quadrilateral is 360⁰.
+
+A straight line called the diagonal may join any two opposite angular points.
+
+Types of quadrilateral 
+
+[] []
+
+1.  Parallelogram: This is a quadrilateral with it’s opposite sides
+    equal and parallel.
+
+2.  Square: A square is a parallelogram, which has its entire sides
+    equal and each angle a right angle.
+
+3.  Rhombus: A rhombus is a parallelogram, which has its sides equal but
+    no angle is a right angle.
+
+4.  Rectangle: A rectangle is a parallelogram, which has each angle a
+    right angle.
+
+5.  Rhomboid: A rhomboid is a parallelogram, but no angle is right
+    angled.
+
+EVALUATION
+
+1. What is a quadrilateral?
+
+3. State the types of quadrilateral
+
+CONSTRUCTION OF QUADRILATERALS
+
+Construction of Squares
+
+A. To construct a square upon a given side.
+
+Procedure
+
+(i) Draw a line and mark off AB equal to the side of the square.
+
+(ii) At A, erect a perpendicular AC marking AC equal to AB.
+
+(iii) With center C and a radius equal to AB, strike an arc with center
+B and the same radius; strike another arc to intersect the previous one
+at D.
+
+(iv) Joint CD and BD to obtain the required square ABCD
+
+B. TO CONSTRUCT A SQUARE GIVEN THE LENGTH OF ITS DIAGONAL.
+
+Procedure
+
+(i) Draw a horizontal line and a vertical line, which intersect at O.
+
+(ii) With center O and a radius equal to half the length of the given
+diagonal, cut the horizontal line at A and B, and the vertical line at C
+and D.
+
+(iii) Join AD, DB, BC and CA to obtain the required square ADBC.
+
+Construction of Rectangles
+
+A. To construct a rectangle given its length and breadth
+
+Procedure
+
+(i) Draw a line and mark off AB equal to the length of the rectangle.
+
+(ii) At A, erect a perpendicular AC making AC equal to the breadth of
+the rectangle.
+
+(iii) With center C and a radius equal to AB, strike an arc. With center
+B and a radius equal to AC, strike another arc to intersect the previous
+one at D.
+
+(iv) Join CD and BD to obtain the required rectangle ABDC
+
+B. To construct a rectangle given its diagonal and one side.
+
+Procedure
+
+(i) Draw a line and mark off AB equal to the given diagonal.
+
+(ii) Bisect AB at C, and with center C draw a circle with AB as
+diameter.
+
+(iii) With center A and a radius equal to the given side of the
+rectangle, cut the circle on any side of AB at D. with center B and the
+same radius, cut the circle on the other side of AB at E.
+
+(iv) Join AE, EB, BD and DA to obtain the required rectangle AEBD.
+
+Construction of a Parallelogram
+
+To construct a parallelogram given the length of the two sides and one
+angle
+
+(i) Draw one side AB, say 10cm
+
+(ii) Construct the given angle AB1, i.e 120^(o)
+
+(iii) With center B and radius BC, i.e., 4cm, draw an arc to cut B1 at C
+
+(iv) With center A and radius BC, draw an arc
+
+(v) With center C and radius AB, draw an arc to cut the previous arc at
+    D.
+
+(vi) Join AD and DC
+
+Construction of a Trapezium
+
+To construct a trapezium given the parallel, the perpendicular distance
+between them and one angle
+
+(i) Draw one of the parallels AB=8cm
+
+(ii) Construct the given angle BA1=50^(o)
+
+(iii) Draw the parallel CD, i.e., 4.5cm
+
+(iv) Join D to B to complete the trapezium
+
+Construction of Rhombus
+
+A. To construct a rhombus given its side and a diagonal.
+
+Procedure
+
+(i) Draw a line and mark off AB equal to the given diagonal.
+
+(ii) With center A and a radius equal to the side, strike arcs above and
+below AB.
+
+(iii) With center B and the same radius, cut the previous arcs at C and
+D.
+
+(iv) Join AD, DB, BC and CA to obtain the required rhombus ADBC.
+
+B. To construct a rhomboid given a diagonal and two sides.
+
+Procedure
+
+(i) Draw AB equal to the given diagonal.
+
+(ii) With centers A and B and a radius equal to one of the sides, strike
+arcs above and below AB respectively.
+
+(iii) With center B and a radius equal to the other side, strike arcs to
+intersect the previous ones at C and D respectively.
+
+(v) Join AD, DB, BC and CA to obtain the required rhomboid ADBC.
+
+EVALUATION
+
+1.  Construct a parallelogram in which length of two sides equal 10cm
+    and one of the angle is 120^(o)
+
+2.  Construct a square given the length of its diagonal to be 5cm
+
+READING ASSIGNMENT
+
+Read about POLYGONS
+
+REFERENCE MATERIALS
+
+- MELROSE BASIC SCIENCE AND TECHNOLOGY BOOK 2, page 83-85
+
+- NERDC- BASIC TECHNOLOGY BOOK 2, page 57-61
+
+WEEKEND ASSIGNMENT
+
+1.  A plane figure bounded by four equal sides is called ______ A.
+    square B. rectangle C. trapezium D. kite
+
+2.  Opposite sides of a parallelogram are _______ A. diagonal B.
+    parallel C. vertex
+
+  D. straight
+
+3.  The diagonals in a rhombus bisect each other at A. 90⁰ B. 60⁰ C.
+    45⁰ D. 70⁰
+
+4.  A quadrilateral with only two parallel sides is called ____ A.
+    square B. rectangle C. trapezium D. kite
+
+5.  The diagonals in a trapezium bisect each other to give A. 90⁰ B.
+    equal opposite angles C. parallel opposite angles D. 45⁰
+
+THEORY
+
+1.  Construct (i) a square and (ii) rectangle with diagonal of 120mm
+
+2.  (i) Define Quadrilateral (ii) Construct a rectangle ABCD, AB=40mm
+    BC=70mm
+
+WEEK THREE DATE: _________________
+
+TOPIC: POLYGONS
+
+CONTENT
+
+- Definition
+
+- Types of polygon
+
+- Construction of different polygons
+
+What is a polygon?
+
+A polygon is a plane figure with five or more straight sides. A polygon
+can either be regular or irregular A polygon is said to be regular it
+all its sides are equal and its angles are equal. An irregular polygon
+has unequal sides.
+
+  []
+
+Types of polygons
+
+1. Pentagon: A pentagon is a polygon with five sides.
+
+2. Hexagon: A hexagon is a polygon with six sides
+
+3. Heptagon: A heptagon is a polygon with seven sides.
+
+4. Octagon: An octagon is a polygon with eight sides.
+
+5. Nonagon: A nonagon is a polygon with nine sides.
+
+6. Decagon: A decagon is a polygon with ten sides.
+
+EVALUATION
+
+1. What is a polygon?
+
+2. Explain different types of polygon.
+
+CONSTRUCTION OF POLYGONS
+
+Construction of a regular Hexagon given its side.
+
+A. Using 60^(o) set - square
+
+Procedure
+
+(i) Draw a horizontal line and mark off AB equal to the side of the
+hexagon.
+
+(ii) Through A, draw a line at 60^(o) and mark off AC equal to AB
+
+(iii) Through B, draw a line at 60^(o) and mark off BD equal to AB.
+
+(iv) Through C, draw a line at 60^(o) parallel to BD and mark off CE
+equal to AB.
+
+(v) Through D, draw a line at 60^(o) parallel to AC and mark off DF
+equal to AB.
+
+(vi) Join EF to complete the hexagon.
+
+B. Using compasses: - This method is called constant radius rule.
+
+Procedure
+
+(i) Draw a circle whose radius is equal to the side of the hexagon. Draw
+    the horizontal diameter AB.
+
+(ii) With center A and the same radius, cut the circle above AB at C and
+     below AB at D
+
+(iii) With center B and the same radius, cut the circle above AB at E
+      and below AB at F.
+
+(iv) Join AD, DF, FB, BE, EC and CA to obtain the hexagon.
+
+Constructing a regular hexagon given the distance across flats.
+
+Procedure
+
+(i) Draw a circle whose diameter is equal to the distance across flats.
+Draw the vertical diameter AB.
+
+(ii) Draw diameter CD and EF at 30^(o).
+
+(iii) Through A and B, draw horizontal tangents.
+
+(iv) Through C, D, E, F, in turn, draw tangents at 60^(o). The figure
+that is formed by the intersection of the tangents is the required
+hexagon.
+
+This is the procedure when describing a regular hexagon about a given
+circle.
+
+To construct a regular Octagon given its sides
+
+Procedure
+
+(i) Draw a horizontal line mark off AB equal to the given side.
+
+(ii) Through A and B, draw lines at 45^(o) and mark off AC and BD equal
+to AB.
+
+(iii) Through C and D, draw vertical lines and mark off CE and DF equal
+to AB.
+
+(iv) Through E and F, draw lines at 45^(o) and mark off EG and FH equal
+to AB.
+
+(v) Join GH to complete the octagon.
+
+To construct a rectangular octagon given the distance across flats.
+
+Procedure
+
+(i) Draw a circle whose diameter is equal to the distance across flats.
+Draw a horizontal diameter AB and a vertical diameter CD.
+
+(ii) Draw diameters EF and GH at 45^(o)
+
+(iii) Draw vertical tangents through A and B and horizontal tangents
+through C and D.
+
+(iv) Through E, F, G, H, in turn draw tangents at 45^(o). the figure
+formed by the intersection of the tangents is the required octagon.
+
+This is the procedure when describing a regular octagon about a given
+circle.
+
+General methods for constructing a regular polygon on a given base.
+
+A. The External Rule – 360^(o)
+
+N
+
+Procedure
+
+(i) Obtain the external angle of the required polygon by dividing
+360^(o) by the number of side (N) of the polygon, i.e. external angle =
+^(360o)/_(N)
+
+(ii) Draw a horizontal line and mark off AB equal to the given base.
+
+(iii) Through A, draw a line at 360^(o)/N and mark off a length equal to
+AB. Also at B, draw a line at 360^(o)/ N and mark off a length equal to
+AB.
+
+(iv) Continue the process until you have obtained the polygon of N sides
+where N = 5, 6, 7, 8, 9, 10…… Suppose that at N = 5, then external angle
+= 360^(o)/5= 72^(o)
+
+B. THE TWO–TRIANGLE RULE.
+
+Procedure
+
+(i) Draw a horizontal line and mark off AB equal to the given base.
+
+(ii) Bisect AB and produce its bisector as long as it is convenient.
+
+(iii) On AB as base, draw an isosceles triangle with base angle 45^(o)
+and an equilateral triangle so that the apexes of the two triangles lie
+on the bisector of AB. Denote the apex of the isosceles triangle as F.
+
+(iv) Bisect FD to obtain point e.
+
+(v) Along the bisector of AB, from point f, step off length de (or if)
+to obtain points G, H, L, J, e.t.c. The points D, E, F, G, H, L, J, are
+the centers of the circumscribing circles for a square, regular
+pentagon, hexagon and decagon respectively.
+
+(vi) Suppose you want to draw a polygon of 8 sides (octagon).
+
+  With center h and radius HA (or HB) draw a circle. Take length AB and
+  step it off on the circle to obtain the points C, D, E, F, G, H, I.
+  Join the points to obtain the required regular nonagon. Note that D =
+  4; E = 5;F = 6;G = 7;H = 8;L = 9;J = 10.
+
+Conclusion
+
+  A polygon may be regular or irregular. When it is regular, all its
+  sides are equal, and its angles are also equal. Polygons include
+  pentagons, hexagons, heptagons, octagons, nonagons, and decagons,
+  which have five, six, seven, eight, nine, and ten sides respectively.
+
+Evaluation 
+
+1.  Construct a hexagon using the 60⁰ by 30⁰ set-square
+
+2.  State the formula for generally constructing a polygon
+
+READING ASSIGNMENT
+
+Read about AREAS OF PLANE FIGURES
+
+REFERENCE MATERIALS
+
+- MELROSE BASIC SCIENCE AND TECHNOLOGY BOOK 2, page 86-89
+
+- NERDC- BASIC TECHNOLOGY BOOK 2, page 61-66
+
+WEEKEND ASSIGNMENT
+
+1.  Which of the following is not a polygon? A. Circle B. Triangle C.
+    Decagon
+
+  D. Heptagon.
+
+2.  Two angular points are joined by a _______ A. diagonal B. vertex C.
+    horizon
+
+  D. pinnacle
+
+3.  A polygon is a plane figure with _____or more straight sides. A.
+    Five B. three
+
+  C. four D. two
+
+4.  A regular polygon has __________ of its sides and angles equal A.
+    five B. all C. three D. four
+
+5.  An Octagon is a polygon with _________ sides A. 5 B. 6 C. 7 D. 8
+
+THEORY
+
+1. A. Define polygon
+
+B. What are regular polygons?
+
+2. Construct (i) a square of side 60mm (ii) a regular hexagon of side
+80mm.
+
+WEEK FOUR AND FIVE DATE: _____________
+
+TOPIC: AREA OF PLANE FIGURE
+
+INTTRODUCTION
+
+Plane figures are flat two-dimensional shapes. The can be made of
+straight lines, curved lines or both straight and curved lines. Examples
+of plane figures are: triangle, square, parallelogram, circle, rectangle
+etc.
+
+AREA OF PLANE FIGURES
+
+When a plane figure is drawn, it occupies a certain amount of space. At
+times, it is important to know the amount of space of a figure occupies,
+when it is drawn. This way, it will be possible to draw a different
+shape that has the same amount of space with it.
+
+Therefore, area of a plane figure can be defined as the space it
+occupies.
+
+Area of a triangle
+
+b
+
+h h
+
+h
+
+Area = ½ of (b x h) where b=base and h= vertical height
+
+Note: The area of any plane figure (polygon) can be reduced to a
+combination of areas of rectangles (Or squares) and triangles each of
+which can be computed and the total area together.
+
+Area of a rectangle
+
+l
+
+b
+
+Area= l x b where l= length and b= breadth
+
+Area of a square
+
+a
+
+a
+
+Area= a x a= a² where a= length of side
+
+Area of a parallelogram
+
+  b
+
+h
+
+Area= b x h where b= base and h= vertical height
+
+Area of a circle
+
+Area= πr² where r= radius
+
+Evaluation
+
+1.  Define the area of plane shape.
+
+2.  State the area of (i) triangle (ii) rectangle
+
+THEOREMS
+
+In construction regular plane figure of equal areas, some geometrical
+laws, generally called theorems, are applied. For instance, the
+following are will be relevant to this topic:
+
+1.  Triangles on the same base and between the same parallels are equal
+    in area.
+
+2.  Triangles on equal bases and between the same parallels are equal in
+    area.
+
+3.  Parallelograms on the same base and between the same parallels are
+    equal in area.
+
+4.  Parallelograms on equal base and between the same parallel are equal
+    in area.
+
+5.  A triangle on the same parallels with a parallelogram is half the
+    area of the parallelogram.
+
+6.  if a triangle and a parallelogram are on equal bases and between the
+    same parallels, the triangle is half the area of the parallelogram
+
+Evaluation
+
+1.  State 6 theorems of area of plane shape
+
+2.  Sketch diagrams that demonstrate the theorems of plane shape.
+
+CONSTRUCTION OF SIMILAR AREA OF PLANE SHAPES
+
+Constructing a triangle equal in area to a given rectangle
+
+Procedure
+
+1.  Draw the rectangle ABCD
+
+2.  Project line CD and mark off DE, using the distance equal to CD.
+
+3.  Draw a horizontal line from point F to line BA parallel to BC.
+
+4.  Locate point G anywhere on line EF.
+
+5.  Join point G to B and C respectively, to obtain the triangle equal
+    in area to rectangle ABCD. Triangle BCG is equal to the given
+    rectangle.
+
+Constructing a rectangle equal in area to a given triangle
+
+Procedure
+
+1.  Draw the given triangle ABC.
+
+2.  Draw a line through A, parallel to BC.
+
+3.  Bisect line BC perpendicular at D and to meet the line through at D
+    and to meet the line through A at E.
+
+4.  Draw a perpendicular to BC at B meet the line through A at F.
+
+5.  FBDE is the rectangle required
+
+Evaluation
+
+1.  Construct a triangle equal in area to a rectangle AB=50mm, BC=60mm.
+
+2.  Construct a rectangle equal in area to a triangle ABC, AB= 40mm,
+    AC=70mm and BC=60mm
+
+Constructing a triangle equal in area to any regular polygon
+
+Procedure
+
+1.  Draw the regular polygon (hexagon) ABCDEFG
+
+2.  Draw the diagonals to intersect at the centre of the polygon O.
+
+3.  Draw HI equal in length to the length of side x number of sides. In
+    this exercise, GH is equal to six times, the length of the side of
+    the hexagon. (HI= 6 x y mm)
+
+4.  Join O to G and H, GOH is required triangle
+
+Constructing a triangle equal in area to a given circle
+
+Procedure
+
+1.  Draw the given circle of diameter AB and centre O.
+
+2.  Divide the radius OA into 7 equal parts
+
+3.  Draw a perpendicular line at A equal in length to 3 1/7
+
+4.  Join C to B.ACB is the required triangle
+
+Reducing an irregular quadrilateral to half its original area
+
+Procedure
+
+1.  Draw the given irregular quadrilateral ABCD
+
+2.  Draw a diagonal BD
+
+3.  Bisect AB perpendicular at E
+
+4.  With centre E and radius EA, draw an arc to meet the bisector at F.
+
+5.  With centre B and radius BF, draw an arc, which meets the bisector
+    at F.
+
+6.  From G and GH parallel to AD, also draw HI parallel to DC.
+
+7.  GBIH is required reduced irregular quadrilateral.
+
+Evaluation
+
+1.  Construct a triangle equal in area to any regular hexagon 50mm.
+
+2.  Draw a triangle equal in area to a given circle of radius 40mm.
+
+READING ASSIGNMENT
+
+Read more about AREA OF PLANE FIGURES
+
+REFERENCE MATERIALS
+
+- MELROSE BASIC SCIENCEBASIC TECHNOLOGY BOOK 2, page 86-92
+
+- NERDC- BASIC TECHNOLOGY BOOK 2, page 61-63
+
+WEEKEND ASSIGNMENT 
+
+1.  The space which a plane shape occupies is known as _______ A.
+    triangle
+
+  B. rectangle C. parallelogram D. area
+
+2.  The units of area are as follows except A. mm² B. cm² C. kg² D. m²
+
+3.  Triangles on the same base and between the same parallels are equal
+    in area
+
+  A. True B. False C. None of the above D. All of the above
+
+4.  A triangle on the same base and between the same parallels with a
+    parallelogram. A. True B. False C. None of the above D. All of the
+    above
+
+5.  The area of a triangle is ____A. ½ B x H B. B x H C. B² x H D. B x
+    H²
+
+THEORY
+
+1.  State 6 theorems of area of plane shape
+
+2.  Construct a right-angled triangle, which has the same area with an
+    equilateral triangle of side 60mm.
+
+WEEK SIX AND SEVEN DATE: ____________
+
+TOPIC: WOODWORK MACHINES
+
+CONTENT
+
+- Introduction
+
+- Woodwork Machines
+
+- Circular Sawing Machine
+
+- Surface Planing
+
+- Thicknessing Machine
+
+- Drill Press Machine
+
+- Wood Lathe
+
+- Band Saw
+
+INTRODUCTION
+
+Wood work machine are machines used for processing wood and making the
+wood ready for use. These machines are used for heavy woodwork operation
+and also for mass production.
+
+In the past, nearly all-sawing operations were carried out by hand: a
+lot of energy was put into it and it was more time consuming. In modern
+days, various machines through improved technology are now available.
+
+Evaluation
+
+1.  State the reasons for using wood working machines.
+
+2.  Mention two manual wood working tools
+
+WOODWORK MACHINES
+
+Woodwork machines include the following:
+
+1.  Circular sawing machine
+
+2.  Surface planing
+
+3.  Thicknessing machine
+
+4.  Drill Press machine
+
+5.  Wood lathe
+
+6.  Band saw
+
+Circular Sawing Machine: This is a woodworking machine used to re-saw or
+prepares timber into suitable sizes for articles of joinery, furniture
+e.t.c. Circular saws include the ripsaw and cross cut saw. Other special
+purpose saw and are fitted onto the machine as their uses arises include
+upper saw, hollow ground saw, ground-off saw, wobble saw or drunken saw,
+novelty saw, planer saw.
+
+There are other sawing machines that can do the same job as circular
+sawing machine does a hand feed bench type with tilting arbor, and rise
+and fall attachment would be most suitable.
+
+[]
+
+2. Band Sawing machine: This is a wood working machine having a
+compensating arrangement of a band saw that allows the upper pulley to
+move up and down and adjust to the changes in the saw and keep the
+tension of the blade constant.
+
+[]
+
+3. Surface Planing Machine: This is a woodworking machine that enables
+the sawn timber to be planed to remove marks thus ensuring a flat
+surface.Planing is the most laborious operations in woodworking. The
+introduction of the planing machines enables construction of pieces to
+be planed to the required thickness joining edge to edge.
+
+Surface planing machine is used for truing up the edges, removing the
+marks and for removing the “wind or twist” on the face of the wood. It
+can also handle chamfering, beveling, tapering and tenoning.
+
+[]
+
+3.  Thicknessing Machine: This is a woodworking machine that is used
+    exclusively for planing wood to a specific thickness after surface
+    planing operation.
+
+In order to achieve a perfect operation, the front table is pulled
+backwards from the cutter block to allow the wood chips fly out.
+
+  []
+
+4.  The Drill Press: This another wood working machine, which can also
+    be used as machine tools, used for performing various operations
+    such as boring, sanding and mortising.
+
+  []
+
+5.  Wood Lathe Machine: This is a wood working machine, which can be
+    used for metal working operations, employed where a number of
+    turning will be made.
+
+Generally, turning can be made on the lathe in two ways i.e. between
+centres and the faceplate- both inside and outside. The lathe bed must
+be sturdy. The headstock runs on double bearing which may be directly
+driven with about four speeds
+
+Evaluation
+
+1.  State six woodwork machine
+
+2.  Differentiate between surface planing machine and Thicknessing
+    machine
+
+3.  Draw and label the drill press.
+
+Reading Assignment
+
+Read more about WOODWORK MACHINES
+
+Reference Materials
+
+- MELROSE BASIC SCIENCEBASIC TECHNOLOGY BOOK 2, page 93-98
+
+- NERDC- BASIC TECHNOLOGY BOOK 3, page 61-66
+
+WEEKEND ASSIGNMENT
+
+1.  Which of the following is not a wood working machine A. Circular
+    sawing machine B. Surface planing machine C. Milling machine D.
+    Thicknessing
+
+2.  A machine that is used to resaw or prepare timber into suitable
+    sizes for articles of joinery and furniture is known as A. Circular
+    sawing machine B. Surface planing machine C. Milling machine D.
+    Thicknessing
+
+3.  A machine that is used exclusively for planing wood to a specific
+    thickness after surface planing operation is called __ A. Circular
+    sawing machine B. Surface planing machine C. Milling machine D.
+    Thicknessing
+
+4.  A wood working machine, which can also be used as machine tools,
+    used for performing various operations such as boring, sanding and
+    mortising is known as A. Drill press B. Surface planing machine C.
+    Milling machine D. Thicknessing
+
+5.  The largest wood working machine is ___ A. Drill press B. Wood lathe
+    machine
+
+  C. Milling machine D. Thicknessing
+
+THEORY
+
+1.  Explain the functions of six woodwork machines
+
+2.  Draw and label drill press.
+
+WEEK EIGHT AND NINE DATE: ____________
+
+TOPIC: METALWORK MACHINES
+
+CONTENT
+
+- Definition
+
+- Shaping machine
+
+- Planing machine
+
+- Milling machine
+
+- Grinding machine
+
+- The drill press
+
+- The lathe machine
+
+Definition
+
+Metalwork machines are machines used for metal work operations. The
+various types of metalwork machines include the following:
+
+1.  Shaping machine
+
+2.  Planing machine
+
+3.  Milling machine
+
+4.  Grinding machine
+
+5.  The drill press
+
+6.  The lathe machine
+
+Evaluation
+
+1.  Define machine tools
+
+2.  State 6 machine tools
+
+1. The milling machine
+
+A milling machine is a machine tool used to machine solid materials.
+Milling machines are often classed in two basic forms, horizontal and
+vertical, which refers to the orientation of the main spindle. Both
+types range in size from small, bench-mounted devices to room-sized
+machines. Unlike a drill press, which holds the workpiece stationary as
+the drill moves axially to penetrate the material, milling machines also
+move the workpiece radially against the rotating milling cutter, which
+cuts on its sides as well as its tip. Workpiece and cutter movement are
+precisely controlled to less than 0.001 in (0.025 mm), usually by means
+of precision ground slides and leadscrews or analogous technology.
+Milling machines may be manually operated, mechanically automated, or
+digitally automated via computer numerical control (CNC).
+
+Milling machines can perform a vast number of operations, from simple
+(e.g., slot and keyway cutting, planing, drilling) to complex (e.g.,
+contouring, diesinking). Cutting fluid is often pumped to the cutting
+site to cool and lubricate the cut and to wash away the resulting swarf.
+
+[]
+
+2. Planing machine (Planer)
+
+Metal-cutting machine tool in which the work piece is firmly attached to
+a horizontal table that moves back and forth under a single-point
+cutting tool. The tool-holding device is mounted on a cross rail so that
+the tool can be moved across the table in small sideward movements.
+Since the cutting tool can be moved at almost any angle, a wide variety
+of grooves and surfaces can be generated. Mechanical planers, or
+surfacers, are also used to smooth wood to an even thickness. Planers
+perform the same operations as shapers but can machine work pieces up to
+50 ft (15 m) long.
+
+A machine for the shaping of long, flat, or flat contoured surfaces by
+reciprocating the work piece under a stationary single-point tool or
+tools.
+
+[]
+
+3.  Milling machine
+
+This is a machine tool that rotates a circular tool with numerous
+cutting edges arranged symmetrically about its axis, called a milling
+cutter. The metal work piece is usually held in a vise clamped to a
+table that can move in three perpendicular directions. Cutters of many
+shapes and sizes are available for a wide variety of milling operations.
+Milling machines cut flat surfaces, grooves, shoulders, inclined
+surfaces, dovetails, and T-slots. Various form-tooth cutters are used
+for cutting concave forms and convex grooves, for rounding corners, and
+for cutting gear teeth.
+
+A machine for the removal of metal by feeding a work piece through the
+periphery of a rotating circular cutter. It is known as miller.
+
+[]
+
+4.  The drill press
+
+This is m machine tool for producing holes in hard substances. The drill
+is held in a rotating spindle and is fed into the work piece, which is
+usually clamped in a vise supported on a table. The drill may be gripped
+in a chuck with three jaws that move radially in unison, or it may have
+a tapered shank that fits into a tapered hole in the spindle. Means are
+provided for varying the spindle speed and (on some machines) for
+automatically feeding the drill into the work piece. See also boring
+machine. A drilling machine, in which a vertical drill, moves into the
+work, which is stationary.
+
+5.  The lathe machine
+
+Lathe (lāth), machine tool for holding and turning metal, wood, plastic,
+or other material against a cutting tool to form a cylindrical product
+or part. It also drills, bores, polishes, grinds, makes threads, and
+performs other operations. Its principal parts are the headstock
+(attached to the bed or base of the machine), which holds one end of the
+material in a rotating spur; the tailstock, which holds the other end,
+moves along the bed, and can be clamped in position at any point; the
+cutting tool; and the power feed, comprising the drive and its motive
+parts.
+
+Machine tool that performs turning operations in which unwanted material
+is removed from a work piece rotated against a cutting tool. Lathes are
+among the oldest and most important machine tools, used in France from
+1569 and important in the Industrial Revolution in England, when they
+were adapted for metal cutting. Lathes (usually called engine lathes)
+today has a power-driven, variable-speed horizontal spindle to which the
+work holding device is attached. Operations include turning straight or
+tapered cylindrical shapes, grooves, shoulders, and screw threads and
+facing flat surfaces on the ends of cylindrical parts. Internal
+cylindrical operations include most of the common hole-machining
+operations, such as drilling, boring, reaming, counter boring,
+countersinking, and threading with a single-point tool or tap. See also
+boring machine.
+
+Lathe^(:) A machine for shaping, boring, facing, or cutting a screw
+thread in metal, wood, etc., in which the work piece is turned about a
+horizontal axis against a fixed tool
+
+The lathe machine is regarded as the father of all machine tools because
+apart from being used for turning cylindrical surface (external and
+internal) it can perform other operations which are peculiar to other
+machines.
+
+Thus, it is possible to carry out the following operations on the lathe
+machine:
+
+- Turning (production of cylindrical of flat such as plumb bulb, centre
+  punch)
+
+- Facing (production of flat surfaces)
+
+- Screw cutting (external and internal)
+
+- Grinding (external and internal)
+
+- Slotting
+
+- Taper turning (production of conical surface )
+
+Parts of the lathe machine
+
+1.  Bed: This provides a plane surface for mounting and moving
+    accessories at a constant level.
+
+2.  Head stock: This holds the main spindle and houses the arrangement
+    for driving and speed variation
+
+3.  Main spindle: This rotates the work and transmits movement to
+    saddle.
+
+4.  Tailstock: It is used to support work being turned between centres.
+
+5.  Saddle and cross slide: These are used for mounting the tool for
+    cylindrical work.
+
+6.  Lead screw: Moves the saddle at rates relative to the rotation of
+    the work.
+
+7.  Compound slide: This permit movement of the tools at angles other
+    than a right angle (e.g. for conical work)
+
+8.  Centres: These support work drilled at end centres
+
+9.  Steadies: These support work to prevent bending. They can be either
+    of fixed type bolted to the end of the bed, or of the traveling type
+    bolted to the saddle which prevents vibration during machining of
+    long and slender shafts.
+
+Wood holding methods
+
+Work holding methods on a lathe machine include:
+
+- Catch and center: This method is used when matching ordinary work
+  between centres. Matching between centres is used when chuck matching
+  is impossible.
+
+- Face plate: The pace plate has slots for clamping or holding jobs with
+  T-bolts Chuck: A chuck holds cylindrical work which is to be done in
+  setting. It may be of the three-jaw, self-centering, chuck which grips
+  irregular jobs more efficiently than three-jaw chuck.
+
+6.  SHAPER
+
+[]
+
+A shaper is analogous to a planer, but smaller, and with the cutter
+riding a ram that moves above a stationary workpiece, rather than the
+entire workpiece moving beneath the cutter. The ram is moved back and
+forth typically by a crank inside the column; hydraulically actuated
+shapers also exist.
+
+Operation
+
+Shaper linkage. Note the drive arm revolves less for the return stroke
+than for the cutting stroke, resulting in a quicker return stroke and
+more powerful cutting stroke.
+
+A shaper operates by moving a hardened cutting tool backwards and
+forwards across the workpiece. On the return stroke of the ram the tool
+is lifted clear of the workpiece, reducing the cutting action to one
+direction only.
+
+The workpiece mounts on a rigid, box-shaped table in front of the
+machine. The height of the table can be adjusted to suit this workpiece,
+and the table can traverse sideways underneath the reciprocating tool,
+which is mounted on the ram. Table motion may be controlled manually,
+but is usually advanced by an automatic feed mechanism acting on the
+feedscrew. The ram slides back and forth above the work. At the front
+end of the ram is a vertical tool slide that may be adjusted to either
+side of the vertical plane along the stroke axis. This tool-slide holds
+the clapper box and toolpost, from which the tool can be positioned to
+cut a straight, flat surface on the top of the workpiece. The tool-slide
+permits feeding the tool downwards to deepen a cut. This adjustability,
+coupled with the use of specialized cutters and toolholders, enable the
+operator to cut internal and external gear tooth profiles, splines,
+dovetails, and keyways.
+
+The ram is adjustable for stroke and, due to the geometry of the
+linkage, it moves faster on the return (non-cutting) stroke than on the
+forward, cutting stroke. This action is via a slotted link or whitworth
+link.
+
+USES
+
+The most common use is to machine straight, flat surfaces, but with
+ingenuity and some accessories a wide range of work can be done. Other
+examples of its use are:
+
+Evaluation
+
+1. State the function of the following:
+
+- Shaping machine
+
+- Planing machine
+
+- Milling machine
+
+2. State the function of the following:
+
+- Grinding machine
+
+- The drill press
+
+- The lathe machine
+
+Reading Assignment
+
+Read more about METALWORK MACHINES
+
+Reference Materials
+
+1.  MELROSE BASIC SCIENCEBASIC TECHNOLOGY BOOK 2, page 106-113
+
+2.  NERDC, Introductory Technology for JSS, book 3, pages 84 - 112
+
+WEEKEND ASSIGNMENT
+
+1.  Which of the following is a machine tool A. Circular sawing
+    machine B. Surface planing machine C. Milling machine D.
+    Thicknessing machine
+
+2.  Which of the following is used to rotates the work and transmits
+    movement to saddle of a lathe A. the bed B. the headstock C. the
+    saddle cross slide D. main spindle
+
+3.  Which of the following provides a plane surface for mounting and
+    moving accessories at a constant level on a lathe machine A. the
+    bed B. the headstock C. the saddle cross slide D. main spindle
+
+4.  Which of the following permits movement of tool at angle other than
+    right angle ( e.g. for conical work) A. the compound slide B. the
+    head stock C. the slide cross slide D. main spindle
+
+5.  The following are work holding methods except A. catch and
+    carrier B. face plate C. saddle D. chuck
+
+Theory
+
+1. State the function of the following:
+
+- Shaping machine
+
+- Planing machine
+
+- Milling machine
+
+2. State the function of the following:
+
+- Grinding machine
+
+- The drill press
+
+- The lathe machine
+
+WEEK TEN DATE: ___________________
+
+TOPIC: FRICTION
+
+CONTENT
+
+- Meaning of Friction
+
+- Advantages and Disadvantages of Friction
+
+- How to Reduce Friction
+
+MEANING OF FRICTION
+
+When a body slides over the surface of another body, there is opposing
+force acting opposite to the direction of motion. This opposing force is
+called FRICTION. Friction is therefore the force that opposes the
+relative motion between two surfaces that are in contact. Friction is
+required in most of the things we do. For instance, to be able to run,
+friction is required between the shoe and the ground. Also, a car must
+maintain friction between its tyres and the road to be able to move
+forward. It is also important to note the following:
+
+i.  The rougher the surfaces rubbing against each other, the more the
+    friction
+
+ii. The smoother the surfaces rubbing against each other, the less the
+    friction
+
+ADVANTAGES OF FRICTION
+
+1.  With the help of friction it is possible to walk freely.
+
+2.  Without friction the brake of a motor car cannot work.
+
+3.  Buildup of friction between the bolts and nuts help them to stay
+    tightened.
+
+4.  A ladder positioned against a vertical wall will not slide due to
+    friction between the ladder and the wall
+
+DISADVANTAGES OF FRICTION
+
+1.  It reduces the efficiency of machines
+
+2.  It causes wear and tear in machines
+
+3.  It reduces motion
+
+4.  It causes the heating of engines
+
+EVALUATION
+
+1.  What is friction?
+
+2.  State two advantages and two disadvantages of friction.
+
+APPLICATIONS OF FRICTION
+
+1.  Friction between the matchbox and the matchstick creates light
+
+2.  In sharpening a knife with a file, friction is also employed
+
+3.  In sharpening a pencil, friction is required between the sharpener
+    blade and the pencil for sharpening to take place.
+
+4.  Materials used for making floors in homes and offices must be of
+    high friction to provide a firm grip for the feet.
+
+HOW TO REDUCE FRICTION
+
+1.  Lubricating: This involves the use of oily substance such as oil,
+    grease and other material, that makes surfaces smooth and slippery,
+    thereby reducing heat, wear, friction and vibration caused when two
+    or more surfaces rub together.
+
+2.  Polishing: Friction between two surfaces in contact can be reduced
+    by polishing them
+
+3.  Streamlining: It helps to reduce friction due to the shape of an
+    object
+
+4.  Use of belt drives and pulley
+
+EVALUATION
+
+1.  State four methods of reducing friction
+
+2.  List four applications of friction
+
+READING ASSIGNMENT
+
+Read more about METALWORK MACHINES
+
+REFERENCE MATERIALS;
+
+- MELROSE BASIC SCIENCEBASIC TECHNOLOGY BOOK 1, page 77-79
+
+- NERDC, Introductory Technology for JSS, book 3, pages 146 – 148
+
+WEEKEND ASSIGNMENT
+
+1.  Lubricant oil and grease in engines are used to reduce………… A.
+    Tension
+
+  B. Friction C. Gravity D. Magnetic
+
+2.  A force that can slow moving objects is called ………….. A. Gravity B.
+    Magnetic force C. Contact force D. Friction
+
+3.  ………. helps to reduce friction due to the shape of an object A.
+    Polishing
+
+  B. Streamlining C. Lubricating D. driving
+
+4.  Materials used for making floors in homes and offices must be of A.
+    Low friction B. equal friction C. unequal friction D. high friction
+
+5.  Which of the following is not a method of reducing friction A.
+    Heating
+
+  B. Lubricating C. Streamlining D. Polishing.
+
+THEORY
+
+1.  List four applications of friction
+
+2.  State two advantages and two disadvantages of friction

@@ -1,0 +1,1771 @@
+NAME:…………………………..……………………………………….CLASS:…..……..………………
+
+SECOND TERM: E-LEARNING NOTES
+
+JS 3 (BASIC 9)
+
+SUBJECT: BASIC TECHNOLOGY
+
+SCHEME OF WORK
+
+WEEK TOPIC
+
+1. Revision of first term work
+
+2. Mechanical energy transmission system. (a) Friction (b) effects of
+friction (c) advantages and disadvantages of friction (d) methods of
+reducing friction (e) belt and chain drive (f) comparison with the gear
+drive
+
+3. Mechanical energy transmission system.Gear. (i) Gears and gearing
+systems and related calculations. (ii) types of gears; internal gear,
+external gear,… (iii) uses of gears; power transmission, changing of
+direction, for selecting speed(iv) gear ratios and speed ratio (V)
+friction between meshed gears.
+
+4. Mechanical energy transmission system. Motion (i) linear motion (ii)
+lever arrangement to produce linear motion (iii) uses of slides and slot
+in mechanical system (iv) Rotary motion, types of rotary motion – oneway
+rotary motion and the reversible rotary motion. (v) Conversion of rotary
+motion to linear motion
+
+5. Mechanical energy transmission system. Airflow. (i) Speed and
+pressure relationship in air flow. (ii) Variation of air pressure and
+air speed and their applications. Pneumatics; (i) simple hydraulics and
+pneumatics devices; simple force pump, double acting pump,… (ii)
+Compressed air devices, hydraulic jacks, simple garden sprinkler,
+reaction turbine, water wheel
+
+6. Simple electrical wiring: (a) electrical circuit: series and parallel
+circuits (b) wiring tools and materials; pliers, hammer, screw driver,
+clips, wooden blocks, cables, etc. (c) accessories: switches, lamp
+holders, etc
+
+7. Building (a) foundation (i) definition and function of foundation:
+support and weight of walls, roofs and inhabitants (ii) foundation
+types: strip, stepped, raft etc. (iii) types and properties of soil (iv)
+hand tools and plant for excavation: diggers, shovels, excavator, etc.
+(b) walls; (i) materials for making walls: grass, zinc, curtain, bricks,
+etc. (ii) types of walls: walls grass, zinc, curtain bricks etc. (iii)
+materials for bonding
+
+8. Building (c) floors: (i) floor: basement, ground floor, first floor,
+etc. (ii) DPC (d) doors, windows and openings (i) Doors: flush door,
+glazed, sliding, revolving, etc. (ii) windows: louver, sliding,
+casement, etc (iii) lintel
+
+9. Building (e) Roofs (i) types of roof: flat roof, double pitched,
+lean-to Gable, etc (ii) roofing materials: grass, zinc, aluminium, etc.
+(f) simple blue print reading (I) sanitary wares: sink, bath, showers,
+etc. soak-away, septic tank, socket, windows, doors, room, etc.
+
+10. Practical projects.
+
+WEEK ONE: Revision of last terms’ work
+
+WEEK TWO
+
+CLASS: Basic 9
+
+TOPIC: Mechanical Energy Transmission system
+
+Period one: Friction
+
+Content; -Definition of friction
+
+- Nature/characteristics of friction
+
+- Types of frictional force
+
+- Effect of friction
+
+- Advantages of friction
+
+- Disadvantages of friction
+
+- Methods of reducing friction
+
+Definition of friction
+
+Friction can be defined as a force which opposes motion.
+
+It is a force which stops/prevents motion. It acts whenever there is
+motion or tendency for something to move. i.e friction (or frictional
+force) is absent if there is no motion or if there is no force intending
+to cause motion.It stops your car when the brake is applied. It prevents
+your foot from slipping backward when you walk.
+
+Friction can also be defined as a force of attraction between the
+molecules of two bodies in contact which prevents relative motion
+between the two bodies.
+
+[]
+
+friction is preventing this box from moving.
+
+Nature/characteristics of friction
+
+- It always opposes motion
+
+- It depends on the nature of surfaces in contact. Friction between
+  rough surfaces is greater than the frictional force between smooth
+  surfaces.
+
+- It does not depend on the relative speed between the two surfaces.
+
+- It is directly proportional to the perpendicular force (normal
+  reaction) between the two surfaces.(R is the perpendicular force
+  between the two surfaces in contact)
+
+  R
+
+  Fα R
+
+  F = µR
+
+  F – Frictional force, R – normal reaction, µ - coefficient of friction
+  W
+
+Note that R = W for bodies on horizontal surfaces
+
+Questions: A crate slid down an inclined plane such that the frictional
+force opposing its motion is 40N. If the normal reaction of the plane on
+the crate is 50N, calculate the coefficient of dynamic friction.
+
+Solution: Frictional force F = 40N
+
+Normal reaction R = 50N
+
+Coefficient of friction µ= ?
+
+F=µR
+
+40 = µ x 50 (dividing both sides by 50)
+
+⁴⁰/₅₀ = µ
+
+µ = 0.8
+
+Types of friction
+
+There are two types of frictional force
+
+1.  Static friction. This occurs between two bodies that are not moving
+    or at rest.
+
+2.  Dynamic friction. This occurs between two bodies in relative motion.
+
+Effects of friction
+
+Friction can best be imagined whenever there is motion or likelihood of
+motion. Friction exists in all machines or systems with moving parts.
+Friction also applies in many day to day phenomena such as; walking on a
+pavement, pulling the rope of a pulley system, dragging a crate on the
+floor, using a grinding stone for blending, loosing or tightening a nut
+and bolt,… . Effects of friction can be classified as desirable or
+undesirable.
+
+Advantages of friction (or desirable effects of friction)
+
+I.  Locomotion: when we walk, friction between our shoes and the ground
+    prevents our shoes from slipping backward.
+
+II. Enhances fastening: friction between the bolt and the nut enhances
+    their fastening ability. The friction between nails and wood also
+    help the nail to hold woods together in firm position.
+
+III. Blending: friction between the grinding stones helps in grinding
+     pepper, tomatoes,this is also true of the friction between the two
+     rough discs of the grinding machine.
+
+IV. Stops motion: friction between the car tyre and the road helps to
+    stop the motion of a moving car when the brake is applied.
+
+V.  Production of electric charge: when certain materials are robbed
+    against each other, static electric charges is produced. This
+    principle is applied in the Van de Graff generator.
+
+VI. Use of Ladder: when a ladder to be used to climb over a wall rest on
+    the wall, friction between the foot of the ladder and floor prevent
+    the foot of the ladder from slipping.
+
+VII. Making of fire: matches sticks are ignited when they are robbed
+     against the side of the matches’ box.Fire can also be made by
+     striking two stones together.
+
+Disadvantages of friction (or undesirable effects of friction)
+
+- Wearing: The thread pattern under your footwear soon wear out after a
+  prolong use due to friction. This is also true of the thread on the
+  tyre of cars and other automobile.
+
+- Tearing/cutting: you can easily cut a piece of rope or cloth by
+  robbing it repeatedly against the edge of the wall.
+
+- Reduces efficiency of machines: all machines have efficiency less than
+  100% due to friction between their moving parts. Friction causes waste
+  of useful energy,thereforeit reduces the output of the machine.
+
+- Generation of undesirable heat: moving machine parts/machine itself
+  soon becomes hot due friction and this may necessitate cooling of
+  machine parts.
+
+Methods of reducing friction
+
+Due to the disadvantages of friction mentioned above, it is often
+necessary to reduce friction in machines. This is possible through any
+of the following methods:
+
+1.  Lubrication: this is the use of certain substances (called
+    lubricants) to reduce the effects of friction. Examples of
+    lubricants includes, grease, oil,… many of which are petroleum
+    products.
+
+2.  Use of rollers
+
+3.  Use of ball bearing
+
+4.  Use of belt/chain drive
+
+Period two: Belt and Chain drive
+
+Content:
+
+- Drives
+
+- Belt drive
+
+- Types of belt drive
+
+- Belt tensioning
+
+- Application of belt drive
+
+- Chain drive
+
+- Application of chain drive
+
+- Difference between chain drive and gear drive
+
+Drives: Drivesare devices used to transmit rotary motion from one shaft
+to another.
+
+The drive mechanism is used in transmitting power from one location to
+another
+
+There are three types of drives:
+
+1.  Belt and pulley drive
+
+2.  Chain drives
+
+3.  Gear drives
+
+Belt drive
+
+This is a device used to transfer power/motion from one shaft to another
+shaft parallel to it and at some distance away. Belt drives are often
+used in place of chain drive when slip is not so important to be taken
+into consideration. Hence, belt cannot provide positive drive because
+slip occurs from time to time.
+
+Types of belt drive
+
+There are two types of belt drive based on the shape of the belt:
+
+1.  Straight (flat) belt
+
+2.  V- shaped belt
+
+Belt can be lapped over the groove pulley in two styles. This includes:
+
+i.  Straight belt lap: Here the two pulleys join by the belt rotate in
+    the same direction.
+
+ii. Cross belt lap: Here the two pulleys join by the belt rotate in
+    opposite
+
+_(Straight belt lap cross belt lap)
+
+Belt tensioning
+
+Sometimes, a belt in use is slack and may be slipping over the pulley.
+Such belts that are not taut do not transmit motion/power effectively
+thereby wasting energy. This could be prevented by tensioning the belt
+drive.
+
+To tension a belt, another pulley (wheel called the idler) mounted on a
+separate shaft is used.
+
+Idler
+
+Application of belt drive
+
+1.  They are used to couple a diesel engine to an alternator to generate
+    electricity
+
+2.  They are used in cassava grinding machines
+
+3.  They are used for the radiator of cars.
+
+4.  They are used for tape recorders/ video cassette players
+
+5.  They are used in the engines of automobiles (Volkswagens –tortoise
+    car)
+
+6.  They are used in block making machines
+
+Chain drives
+
+They are used for transferring power/motion from one shaft to another
+just as in the case for belt drive. Chain is always used in conjunction
+with a sprocket for transmitting power. A sprocket is a toothed wheel or
+a wheel with many contours round its circumference. The number of teeth
+on the sprockets determines the speed of rotation of the driven
+sprocket.
+
+One advantage of the chain and sprocket drive over the belt drive is
+that it has a firmer grip on the area of lap than the belt drive. Chain
+drives do not allow slip unlike belt drive. Also, power is transmitted
+positively in chain driveand not by friction as in the case of belt
+drives.
+
+In chain drive, the driver and the driven sprocket rotate in the same
+direction just as in the caseofstraight belt lap. Both the chain drive
+and the belt drives are used to transmit power and motion between two
+shafts at some distance apart.
+
+Applications of chain drive.
+
+1.  The motorcycle chain drive
+
+2.  The bicycle chain and sprocket drive.
+
+3.  Mechanical saw for slicing wood.
+
+[C:\Users\KOLAWOLE S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\t761186a.bmp]
+
+  Differences between chain drive and the gear drive
+
++-----------------------------------+----------------------------------+
+| Chain drive                       | Gear drive                       |
++===================================+==================================+
+| 1.  Power is transmitted between  | Power is transmitted between     |
+|     two shafts at some distance   | very close shafts such that the  |
+|     apart                         | teeth on the wheels mesh         |
+|                                   | together.                        |
++-----------------------------------+----------------------------------+
+| 2.  Power is transmitted          | Friction occurs between the      |
+|     positively i.e power          | meshed teeth of the gears.       |
+|     transmission do not engages   |                                  |
+|     friction                      |                                  |
++-----------------------------------+----------------------------------+
+| 3.  Chain drives are used to      | Gear drives could be used to     |
+|     transmit motion only between  | transmit motion between parallel |
+|     two parallel shafts.          | as well as inclined shafts.      |
++-----------------------------------+----------------------------------+
+| 4.  The driven and the driver     | The driven and the driver wheel  |
+|     sprocket rotate in the same   | rotate in opposite direction.    |
+|     direction                     |                                  |
++-----------------------------------+----------------------------------+
+
+Practical
+
+The teacher should allow the students opportunity to inspect the
+following
+
+i.  Bicycle chain and sprocket drive
+
+ii. Interior of a radio cassette player with the belt in action or the
+    belt of the car radiator in action
+
+iii. Ball bearing for reducing friction.
+
+The students are to make note and discuss among themselves their various
+observations.
+
+EVALUATION
+
+1.  A force which opposes motion is called --- (a) tension (b)
+    elastic (c) friction (d) pull
+
+2.  A process of applying a substance to machine parts in order to
+    reduce friction is called --- (a) lubrication (b) elimination (c)
+    banking (d) friction control
+
+3.  --- is a type of friction which occurs between two bodies in
+    relative motion. (a) moving friction (b) static friction (c)
+    lubricating friction (d) dynamic friction
+
+4.  Which of these drives involves positive transfer of motion? (a) gear
+    drive (b) belt drive (c) chain drive (d) friction drive
+
+5.  Block moulding machine is an application of the --- (a) belt
+    drive (b) gear drive (c) chain drive (d) sprocket drive
+
+6.  There are --- types of drives. (a) 1 (b)2 (c) 3 (d) 4
+
+  Assignment
+
+i.  State two differences and two similarities between the belt drive
+    and the chain drive
+
+ii. Mention two advantages of chain drive over the gear drive.
+
+  WEEKEND ASSIGNMENT
+
+1.  Define the following terms
+
+i.  Gear drive
+
+ii. Gear ratio
+
+2.  List five types of gears.
+
+WEEK: 3
+
+TOPIC: GEAR DRIVE
+
+CONTENT:
+
+- Gear drive
+
+- Seizure
+
+- Types of gears
+
+- Use of gear drive
+
+- Gear ratio
+
+- Speed ratio
+
+- Changing direction of drive
+
+Gear drive
+
+This isa device used to transmit motion between parallel or inclined
+shafts that are close to each other (such that the tooth on the wheel
+mounted on the shafts mesh together). When two gears are in mesh, they
+are called GEAR TRAIN. Friction always occurs between the meshed teeth
+of the gear train. Constant lubrication is therefore necessary to
+prevent wearing. The teeth on each gears in mesh must be uniformly
+spaced around the gear (that is symmetrical) for them to mesh properly
+and to prevent damage of the tooth. Improperly meshed gears can also
+lead to seizure of the gear train.
+
+Seizure is the total movement stoppage of the gear train.
+
+Unlike the belt and the chain drive, the driver and the driven gear move
+in different direction. To make the driver and the driven gear move in
+the same direction, another gear (called the IDLER) is inserted between
+the two (driver and the driven gear).
+
+[C:\Users\KOLAWOLE S.KOLAWOLES\Documents\My Received Files\100_1442.JPG]
+
+Types of gears
+
+1.  Spur gear: this has teeth parallel to the shaft of the gear.
+
+2.  Helical gear: this has teeth inclined to the shaft of the gear.
+
+3.  Worm gears: these are gears formed when a spur gear mesh with a
+    screw.
+
+4.  Rack and pinion: these are gears that run on a flat toothed rack.
+
+5.  Planetary gears: these consist of a number of spur gear meshed with
+    one another and another gear with internal gear.
+
+6.  Bevel gears: these are gears used when power is to be transmitted
+    between inclined shafts
+
+[C:\Users\KOLAWOLE S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\Content.Word\100_1469.jpg][C:\Users\KOLAWOLE
+S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+Files\Content.Word\100_1470.jpg][C:\Users\KOLAWOLE
+S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+Files\Content.Word\100_1443.jpg]
+
+Uses of gear drive
+
+1.  To transmit motion between two inclined or parallel shafts.
+
+2.  To change direction of motion.
+
+3.  For speed selection.
+
+Gear ratio
+
+This can be defined as the ratio of the number of teeth on the driver
+gear to that on the driven gear
+
+$G = \frac{T_{1}}{T_{2}}$ T­­­­­­­­­­­­­₁is number of teeth on driver gear
+
+T₂is number of teeth on driven gear
+
+Speed ratio
+
+This can be defined as the ratio of the speed of the driven gear to the
+speed of the driver gear.
+
+$\mathbf{S =}\frac{\mathbf{S}_{\mathbf{2}}}{\mathbf{S}_{\mathbf{1}}}$ S₁
+speed of the driver gear
+
+S₂is speed of the driven gear
+
+The gear ratio and the speed ratio of a gear train are equal. The speed
+of rotation of the driven gear depends on the number of teeth on the
+driven and the driver gear.Where a large increase in speed is desired
+(like in the case of motor car), a compound gear train is used.
+
+[C:\Users\KOLAWOLE S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\Content.Word\100_1441.jpg]Compound gear
+
+The speed of the driven gear S₂ is given as
+
+$$\mathbf{S}_{\mathbf{2\ }}\mathbf{=}\mathbf{S}_{\mathbf{1\ }}\mathbf{\times \ }\frac{\mathbf{T}_{\mathbf{1}}}{\mathbf{T}_{\mathbf{2}}}$$
+
+Where each symbols has it usual meaning.
+
+Changing the direction of drive,
+
+Chain drives cannot be used for changing the direction of rotationof
+drives. Belt drive cannot be used to change direction of rotation of
+drive except when belt is crossed. Gears can be used for changing the
+direction of motion. The bevelled gear is often used for changing
+direction of motion between two perpendicular/inclined shafts.
+
+[C:\Users\KOLAWOLE S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\Content.Word\100_1443.jpg]
+
+EVALUATION
+
+1.  Which of these drives can be used to change the direction of
+    rotation? (a) straight lap belt (b) chain drive (c) gear drive (d)
+    none of the above
+
+2.  A gear with tooth parallel to the shaft is called ---(a) helical
+    gear (b) planetary gear (c) worm gear (d) spur gear
+
+3.  The ratio of the speed of driver gear to the speed of the driven
+    gear is --- (a) gear ratio (b) speed ratio (c) velocity ratio (d)
+    none of the above
+
+Answers
+
+1.  (c) 2. (d) 3. (d)
+
+PERIOD TWO
+
+CONTENT
+
+  CALCULATIONS ON GEAR AND SPEED RATIO
+
+Question 1: the number of teeth on the driver and the driven gear is 12
+and 16 respectively. If the speed of the driver gear is 100rev/min,
+calculate (i) the gear ratio (ii) speed of the driven gear
+
+Solution
+
+Number of teeth on the driver gear T₁ = 12
+
+Number of teeth on the driven gear T₂ = 16
+
+(i) Gear ratio G = ?$G = \frac{T_{1}}{T_{2}}$
+
+$$G\  = \ \frac{12}{16\ }\  = \ \frac{3}{4}$$
+
+Gear ratio G =$\frac{3}{4}$
+
+(ii) Speed of the driver gear S₁ = 100rpm
+
+Speed of the driven gear S₂=
+?$S_{2} = \ S_{1\ } \times \ \frac{T_{1}}{T_{2}}$
+
+$$S_{2}\  = 100\  \times \frac{12}{16} = 75rpm$$
+
+Speed of the driven gear S₂ = 75 rpm
+
+Question 2: A gear train is such that the number of teeth on the driver
+gear is 20 while that on the driven is 8. If the speed of the driver
+gear is 150rev/min. calculate the speed of the driven gear.
+
+Solution
+
+Number of teeth of the driver gear T₁ = 20
+
+Number of teeth on the driven gear T₂ = 8
+
+Speed of the driver gear S₁ = 150rpm
+
+Speed of the driven gear S₂= ?
+
+$$S_{2} = S_{1} \times \frac{T_{1}}{T_{2}}$$
+
+$$S_{2} = 150\  \times \ \frac{20}{8}\  = 375rpm\ $$
+
+Speed of the driven gear S₂ = 375rpm
+
+Question 3: in a compound gear train, the effective gear ratio is
+$\frac{16}{5}$ . if the speed of the driver gear is 100rev/min,
+calculate the speed of the driven gear.
+
+Solution
+
+Speed of the driver gear S₁ = 100rpm
+
+Gear ratio $G\  = \ \frac{T_{1}}{T_{2}} = \ \frac{16}{5}$
+
+Speed of driven gear S₂= ?
+
+$$S_{2} = \ S_{1} \times \frac{T_{1}}{T_{2}}$$
+
+$$S_{2} = 100\  \times \ \frac{16}{5} = 320rpm$$
+
+Speed of the driven gear S₂= 320rpm
+
+Question 4: A gear train has a gear ratio of $\frac{5}{2}$ and a driven
+gear rotating at a speed of 180revolution per minute. What would have
+been the speed of the driver gear?
+
+Solution
+
+Speed of the driven gear S₂ = 180rpm
+
+Gear ratio $G\  = \ \frac{5}{2}$
+
+Speed of the driver gear S₁= ?
+
+$$S_{2} = \ S_{1} \times \frac{T_{1}}{T_{2}}$$
+
+$$180\  = \ S_{1} \times \frac{5}{2}$$
+
+$$180\  = \frac{S_{1} \times 5}{2}$$
+
+180  × 2 = S₁  × 5
+
+$$S_{1} = \frac{180\  \times 2}{5}\  = 72\ rpm$$
+
+Speed f the driver gear S₁ = 72rpm
+
+Practical
+
+The teacher should guide the students on how to use a hard cardboard to
+construct gear with uniform tooth with the aid of the construction
+tools.
+
+Using hard cardboard gear of different radii and their centres with nail
+at different portion on a wood, the students should demonstrate the
+operation of compound gear.
+
+Evaluation question
+
+1.  Which of these gears is a combination of a spur gear and a
+    screw? (a) bevel gears (b) helical gear (c) spur gear (d) worm gear
+
+2.  A condition in which the movement of a gear system is halted due to
+    a spoil is known as ---- (a) slip (b) seizure (c) reverse (d) bevel
+
+3.  The friction between the teeth of meshed gears can be reduced BY (a)
+    avoiding the use of gear (b) exposing gear to air (c)Lubrication
+    (d)aeration
+
+4.  The major use of drive is to (a) transmit motion (b) change
+    direction of motion (c) reduce speed (d) avoid friction
+
+5.  The ratio of the number of teeth on the driven gear to the number of
+    teeth on the driver gear is called (a) speed ratio (b) gear
+    proportion (c) gear ratio (d) none of the above
+
+6.  The gear ratio of a gear train is $\frac{7}{4}$and the speed of the
+    driver gear is 80rpm. What is the speed of the driven gear? (a)
+    70rpm (b) 140rpm (c) 150rpm (d) 210rpm
+
+ASSIGNMENT
+
+1.  Consult your textbook and make a list of ten types of gear.
+
+2.  List five applications of the gear drives
+
+READING ASSIGNMENT: Read your Basic Technology textbook by Olawehinmi,
+pages 160 - 169 and answer the following questions.
+
+1.  Define motion.
+
+2.  Write a short note on the following (i) linear motion (ii) rotary
+    motion.
+
+WEEK 4
+
+TOPIC MOTION
+
+CONTENT:
+
+- Motion
+
+- Linear motion
+
+- Rotary motion
+
+MOTION
+
+This can be defined as thechange in position of objects. This is a
+common phenomenon in nature. The moon moves, we human move from one
+place to another… . It is also a common practice for various component
+of a mechanical system to move relatively to one another; examples
+include: the needle of a sewing machine at work, the tyre of a moving
+car etc
+
+Mechanical systems are commonly engaged in basically TWO types of
+motion.
+
+1.  Linear motion
+
+2.  Rotary motion
+
+Linear motion:
+
+This can be defined as change in position in a straight line. Like the
+motion of the needle of the sewing machine or motion of a crane being
+hauled up using a pulley. There are different types/parts of a
+mechanical system that exhibit this type of motion. They include;
+
+1.  Lever: It helps us to do work easily. Examples are the crowbar, the
+    door knob etc. It often has a pivot (or a point of support) about
+    which the lever turns. This point is called fulcrum.An example is a
+    crowbar.
+
+2.  Linkages; this is an assembly of metallic bars in which each bar is
+    connected to at least two other bars in an elbow/sliding joint. They
+    are often used for converting linear motion to rotary motion and
+    vice versa or for converting a linear motion to another linear
+    motion but in the opposite direction.Application of linkage include,
+    bicycle brake, crank and slide
+
+[C:\Users\KOLAWOLE S.KOLAWOLES\Documents\My Received
+Files\100_1430.JPG][C:\Users\KOLAWOLE
+S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+Files\Content.Word\100_1475.jpg]
+
+  Rotary motion:
+
+  This can be defined as change in position aroundfixed axis.Like the
+  motion of the blade of a ceiling fan or the tyre of a moving car.
+  There are two types of rotary motion:
+
+i.  One way rotary motion: This allows continuousrotation and can only
+    be brought to rest by the application of a brake.Examples include
+    the clock mechanism, the circular mechanical saws for cutting wood,
+    shaft of cars… .
+
+  Note that in some of these motions, reversibility may be required (
+  e.g shaft of a moving car, trains or crane) while for others
+  reversibility may be dangerous and need to be prohibited (e.g circular
+  saw for cutting wood, clock mechanism) and their motions can be
+  controlled by the ratchet wheel
+
+  [C:\Users\KOLAWOLE S.KOLAWOLES\Documents\My Received
+  Files\100_1431.JPG]
+
+ii. Non return rotary motion: This allows intermittent rotation but only
+    in one direction. i.e the motion can stop and continue at intervals
+    in the same direction.
+
+  EVALUATION
+
+I.  State one difference between the one-way rotary motion and the
+    non-return rotary motion.
+
+II. Mention three mechanical systems in linear motion.
+
+III. List some applications of the linkage system.
+
+  Sub topic 2
+
+- Control of rotary motion
+
+- Conversion of rotary to linear motion
+
+  Control of rotary motion
+
+  Thisinvolves the use of devices for initiating and arresting the flow
+  of motion. These devices include;
+
+1.  Brakes
+
+2.  Clutch
+
+3.  Ratchet
+
+  Brakes; These are devices used to slow down or bring to a complete
+  stop a moving body. Brakes are used for removing kinetic energy form
+  moving bodies. There are different types of brakes
+
+i.  Disc brake; used for light vehicles
+
+ii. Drum brakes; used for heavy vehicles
+
+iii. External block brakes; used for cranes and winches
+
+iv. Internal shoe brake; used for motorcycles and other small
+    automobiles.
+
+  [C:\Users\KOLAWOLE
+  S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+  Files\Content.Word\100_1478.jpg]Disc brake[C:\Users\KOLAWOLE
+  S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+  Files\Content.Word\100_1475.jpg]bicycle brake
+
+  Clutches;these are devices used for connecting and disconnecting two
+  moving parts. Types of clutches include;
+
+i.  Friction clutch
+
+ii. Dog clutch
+
+[C:\Users\KOLAWOLE S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\Content.Word\100_1479.jpg][C:\Users\KOLAWOLE
+S.KOLAWOLES\Desktop\100_1480.JPG]
+
+  Conversion of rotary to linear motion.
+
+  The following devices are used in the conversion of rotary motion to
+  linear motion and vice versa;
+
+1.  Rack and pinion (e.g kerosene stove, kerosene lantern)
+
+2.  Crank and slider
+
+3.  Bench vice
+
+4.  G-clamp
+
+5.  Screw jack
+
+6.  Connecting rod and piston (motorcycles)
+
+7.  Reverse linkage and the push – pull linkage
+
+  [C:\Users\KOLAWOLE S.KOLAWOLES\Documents\My Received
+  Files\100_1440.JPG][C:\Users\KOLAWOLE S.KOLAWOLES\Documents\My
+  Received Files\100_1429.JPG]
+
+[C:\Users\KOLAWOLE S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\Content.Word\100_1439.jpg][C:\Users\KOLAWOLE
+S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+Files\Content.Word\100_1439.jpg]
+
+Ratchet
+
+  These are devices that transmit motion intermittently or allow motion
+  only in one direction.
+
+  [C:\Users\KOLAWOLE S.KOLAWOLES\Documents\My Received
+  Files\100_1431.JPG]
+
+  Evaluation
+
+1.  Which of these devices is used for removing the kinetic energy in
+    moving bodies? (a) clutch (b) brake (c) linkage (d) ratchet
+
+2.  --- is a type of motion along a straight line. (a) linear motion (b)
+    rotary motion (c) random motion (d) relative motion
+
+3.  Which of these brakes is suitable for heavy vehicles? (a) internal
+    shoe brake (b) disc brakes (c) drum brake system (d) external shoe
+    brake.
+
+4.  --- is applied in raising the oil wick of kerosene stove. (a) rack
+    and pinion (b) cranks and piston (c) cranks and connecting rods (d)
+    screw
+
+ASSIGNMENT
+
+1.  Making a list of three mechanism that applies the following
+
+i.  Rack and pinion
+
+ii. Crank and connecting rod (piston)
+
+WEEKEND READING ASSIGNMENT
+
+Read your Basic Technology textbook written by Olawehinmi and answer the
+following questions:
+
+1.  Write a short note on each of the following
+
+i.  Aerodynamics
+
+ii. Streamlinedbodies
+
+iii. Pneumatics
+
+WEEK: 5
+
+TOPIC: AIR FLOW
+
+CONTENT
+
+- Air flow
+
+- Bernoulli’s principle
+
+- Aerodynamics
+
+  Air flow
+
+  This refers to air molecules in motion. Flow is an exclusive property
+  of all fluids (liquids and gases). However unlike liquids, air does
+  not necessarily need a channel or container for it to flow.
+  Breeze/wind is formed when molecules of air are set in
+  motion.Molecules of air can be set in motion by any of the following
+  processes:
+
+i.  Blowing air
+
+ii. Using the bellows (often used by blacksmith)
+
+iii. Using pumps
+
+iv. Using fan
+
+  When liquids flow through channels, agents such as gravity or a
+  mechanical device is necessary to sustain the flow. Liquid (water)
+  flow could either be laminar (streamline) or turbulent.
+
+  In laminar flow, all the portions of the water move gently in a path
+  parallel to the confining channel.
+
+  Turbulent flow is a force flow; water particles do not move in a
+  straight line. An example of this is the water flow in drainage during
+  a heavy downpour.
+
+  Moving air molecules possess energy. This energy can be applied in the
+  following processes;
+
+- Action of the wind mill
+
+[C:\Users\KOLAWOLE S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\Content.Word\100_1457.jpg]
+
+- Movement offlag attached to flag pole.
+
+- Destructive action of the hurricane
+
+  When air moves over the surface of an object at high speed, the
+  pressure on the surface is greatly reduced (i.e the faster air
+  molecules move over a surface the lesser the pressure acting on the
+  surface). This principle is called the Bernoulli’s principle. This
+  principle is used for explaining the lift force experienced by
+  helicopters and aeroplanes when they are in air. To demonstrate this
+  principle, you may try blowing air between two papers; you’ll observe
+  that the papers move toward each other instead of going apart. This is
+  because increase in the speed of air between the papers result in
+  decrease in the pressure between the papers.
+
+  [C:\Users\KOLAWOLE
+  S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+  Files\Content.Word\100_1454.jpg]
+
+  A science that studies the force on object moving through air is
+  called Aerodynamics.
+
+  Aeroplanes’ wings are designed to have a streamline shape which allows
+  the air above it to move faster than the air under it. The pressure
+  under the aeroplane is therefore greater than that above the aeroplane
+  thereby resulting in net pressure acting under the aeroplane as well
+  as a lift force on the plane. The streamline shape of the aircraft
+  also minimises the frictional drag force opposing the motion of the
+  plane.
+
+  [C:\Users\KOLAWOLE
+  S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+  Files\Content.Word\100_1499.jpg]
+
+  The drag force acts on the aeroplane in a direction perpendicular to
+  the lift force. Summarily, four forces act on a body moving through
+  air: L
+
+i.  The weight(W) of the body which act downward
+
+ii. The lift force(L) which act upwardTD
+
+iii. The drag force(D) which opposes the motion of the bodies
+
+iv. The thrust(T) of body itself moving it forwardW[C:\Users\KOLAWOLE
+    S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+    Files\Content.Word\100_1498.jpg]
+
+  Other applications of the Bernoulli’s principle include;
+
+I.  Balloon
+
+II. Kite[C:\Users\KOLAWOLE
+    S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+    Files\Content.Word\100_1499.jpg]
+
+  Evaluation
+
+1.  state the Bernoulli’s principle
+
+2.  List the types of water flow.
+
+  SUB TOPIC 2: PNEUMATIC DEVICES
+
+  CONTENTS:
+
+- Water wheel
+
+- Turbines
+
+- Air compressor
+
+- Hydraulic lift
+
+- Water sprinkler
+
+  Pneumatic devices.
+
+  These are devices that use compressed air to do useful work. Some of
+  these devices also use liquids to transmit energy. They include:
+
+i.  Pumps and turbines
+
+ii. Air hammer
+
+iii. Compressionpump
+
+iv. Garden sprinkler
+
+v.  Water wheel
+
+vi. Hydraulic jack
+
+vii. Paint sprayer
+
+  Water wheel
+
+  This is a simple mechanical device which converts water power into
+  rotary motion. It is sometimes also called gravity wheel. Falling
+  water is used to turn the axle of the water wheel.
+
+  []water wheel
+
+  Turbines
+
+  This is a rotary machine which converts the energy of moving water,
+  steam or hot gas into mechanical energy.
+
+  []turbines
+
+Air Compressor
+
++-----------------------------------------------------------------------+
+| Air Compressor, also air pump is a machine that decreases the volume  |
+| and increases the pressure of a quantity of air by mechanical means.  |
+| Air thus compressed possesses great potential energy, because when    |
+| the external pressure is removed, the air expands rapidly. The        |
+| controlled expansive force of compressed air is used in many ways and |
+| provides the motive force for air motors and tools, including         |
+| pneumatic hammer, air drills, sandblasting machines, and paint        |
+| sprayers.                                                             |
+|                                                                       |
+| [C:\Users\KOLAWOLE                                                    |
+| S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet        |
+| Files\T046234A.bmp]                                                   |
++=======================================================================+
+
+  [C:\Users\KOLAWOLE
+  S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary Internet
+  Files\Content.Word\100_1455.jpg]
+
+  Hydraulic lift
+
+  This applies the Pascal’s principle of transmissibility of pressure to
+  generate a huge force by applying a small effort.
+
+  []
+
+A small force can be used to lift a heavy car using the hydraulic lift.
+Many other hydraulic systems (e.g hydraulic press, hydraulic water pump,
+hydraulic jack…) also apply this principle.
+
+Garden sprinkler
+
+This applies the Newton’s third law of motion which states that for
+every action there is an equal but opposing reaction. When water is
+ejected from the nozzle of the sprinkler, the forward thrust of the
+water result in a backward push on the nozzle thereby making the
+sprinkler turn about it axis watering several portion of the garden and
+not just on a single spot.
+
+[C:\Users\KOLAWOLE S.KOLAWOLES\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\Content.Word\100_1497.jpg]
+
+EVALUATION
+
+1.  What are pneumatic devices?
+
+2.  Mention five types of pneumatic device.
+
+Assignment
+
+Students should consult their textbooks and make abrief note on the air
+hammer.
+
+WEEK: SIX
+
+DATE:
+
+TOPIC: SIMPLE ELECTRICAL WIRING
+
+SUB-TOPICS: ELECTRICAL CIRCUIT
+
+- Meaning of electrical circuit and types
+
+- Wiring tools and materials
+
+Content Development (NOTES FOR FIRST LESSON/PERIOD ONE)
+
+Sub-Topic 1: Meaning of electrical circuit and types.
+
+An electric circuit is a system that consists of the load, source of
+electricity, the key or switch and the connecting wires.
+
+There are two types of electrical circuits (i) Series circuit (ii)
+parallel circuit.
+
+Series circuit: In this arrangement, the load(resistors) are connected
+end to end. The same current flows through all appliances. If one stops
+functioning, the others stop.
+
+Series circuit
+
+Parallel circuit: In this arrangement, the load(resistors) are connected
+side by side in parallel order. The same voltage is used. A fault which
+may occur in one electrical path will not affect the others.
+
+Parallel circuit
+
+Evaluation
+
+- What is Electrical circuit?
+
+- Differentiate between series circuit and parallel circuit.
+
+Content Development (NOTES FOR SECOND LESSON/PERIOD TWO)
+
+Wiring tools and materials.
+
+Electrical wiring is an arrangement whereby electrical loads are
+connected to the mains supply. A good wiring protects the user from
+electric shock and prevents fire outbreak.
+
+Wiring tools are tools used for wiring and installation of circuits in
+homes, offices and other building structures and equipment.
+
++------------+---------------------------------------------------------+
+| Wiring     | Uses                                                    |
+| tool       |                                                         |
++============+=========================================================+
+| Pliers     | Used for cutting cables and twisting together wire ends |
++------------+---------------------------------------------------------+
+| Screw      | Used for tightening screws to wooden blocks and fixing  |
+| driver     | electrical accessories in position                      |
++------------+---------------------------------------------------------+
+| Clips      | They are used to fasten electrical cables to the wall   |
+|            | or ceiling.                                             |
++------------+---------------------------------------------------------+
+| Hammer     | It is used to drive nails through clips into the wall.  |
++------------+---------------------------------------------------------+
+| Mallet     | It is used to straighten out hunches in wires during    |
+|            | surface wiring.                                         |
++------------+---------------------------------------------------------+
+| Drilling   | It is an electrically power machine used for making     |
+| machine    | holes in walls or wooden blocks.                        |
++------------+---------------------------------------------------------+
+| Screws and | They are used to hold the cable and electrical          |
+| nails      | accessories in position.                                |
+|            |                                                         |
+| Tester     | It is used to check where live current flows in the     |
+|            | circuit.                                                |
+| Cable      |                                                         |
+|            | It is the insulated wire that provides electrical       |
+|            | connection between the electrical load and the supply   |
+|            | point.                                                  |
++------------+---------------------------------------------------------+
+
+Electrical accessories are devices other than lighting fittings
+associated with the wiring and current utilizing appliances of an
+installation. Accessories are rated for the maximum voltage or current
+they are designed to withstand without undue over-heating or failure.
+These include switches, lamp holders, ceiling roses, joint boxes, fuse
+boxes, socket plugs, connectors, adaptors etc.
+
+Switches: These are used to control the flow of current through a
+particular point.
+
+Lamp holders: They are used to hold light bulbs when fixed to the
+ceiling or wall.
+
+Wall socket and plugs: They are located on the walls for the drawing of
+current by appliances
+
+Diagram
+
+[C:\Users\Anicho\Documents\My Received Files\100_1446.JPG]
+
+Evaluation
+
+1. Mention four tools used in electrical wiring and their uses.
+
+2. Mention three electrical accessories and their uses.
+
+Weekend Assignment
+
+Draw four wiring tools and three electrical accessories.
+
+Reading Assignment
+
+The students should read about Simple Electrical wiring, NERDC Basic
+Technology for Junior Secondary School 3.
+
+WEEK: SEVEN
+
+DATE:
+
+TOPIC: BUILDING
+
+SUB-TOPICS:
+
+- Definition and function of foundation
+
+- Types and materials for making walls
+
+Content Development (NOTES FOR FIRST LESSON/PERIOD ONE)
+
+sub-Topic I: Definition and function of foundation
+
+Foundation.
+
+The term foundation is the expanded base of a column in addition to the
+ground or sub-soil which supports the base. The ground or sub soil on
+which the building stands is the natural foundation, while the expanded
+base which is constructed of concrete or mansory materials like rocks,
+stones, bricks is called artificial foundation. The choice of foundation
+depends on the type of building to be constructed, the load imposed on
+the building and the type and nature of the soil.
+
+Functions of foundation:
+
+1. To receive the weight of the building.
+
+2. To distribute the weight of the building to the ground effectively.
+
+3. To hold the building firmly to the ground against external forces
+like wind, storms.
+
+4. To transmit the weight of the building to the sub-soil or ground.
+
+5. To sustain the dead load of the building.
+
+Types of foundation:
+
+1. Strip foundation: This consists of a continuous strip of concrete
+laid on the trench after excavation. It is usually 225mm thick and used
+for bungalows, fences etc and on a moderately hard soil.
+
+[C:\Users\Anicho\AppData\Local\Microsoft\Windows\Temporary Internet
+Files\Content.Word\100_1458.jpg]
+
+2. Pad foundation: This type of foundation is an isolated foundation
+used to support columns. The size of the pad foundation could be reduced
+by providing steel reinforcement towards the bottom of the foundation
+running in both directions. It is used for storey building.
+
+[C:\Users\Anicho\AppData\Local\Microsoft\Windows\Temporary Internet
+Files\Content.Word\100_1459.jpg]
+
+3. Raft foundation: This is used where the load bearing capacity of the
+soil is weak. It is used on sandy, swampy or marshy ground. It consists
+of reinforcement slab up to 300mm thick. It covers the whole area of the
+building and usually extends beyond it.
+
+[C:\Users\Anicho\AppData\Local\Microsoft\Windows\Temporary Internet
+Files\Content.Word\100_1461.jpg]
+
+4. Piled foundation: This is used for multistory buildings, for supports
+in bridges and water logged areas to support the structures. The imposed
+load is transmitted to suitable materials in a lower stratum by the use
+of piles.
+
+[C:\Users\Anicho\AppData\Local\Microsoft\Windows\Temporary Internet
+Files\Content.Word\100_1460.jpg]
+
+TYPES OF SOIL AND THEIR PROPERTIES
+
+  ------------------------------------------------------------------------
+  S/N   TYPE OF SOIL PROPERTIES
+  ----- ------------ -----------------------------------------------------
+  1     Sand         The particles are gritly to finger, loose, easily
+                     break when dry
+
+  2     Clay         Easily moulded, brittle and tough when dry, sticky
+                     when wet.
+
+  3     Gravel       It is loose, easily removed by shovel and homogenous
+
+  4     Silt         Dries quickly, moderately plastic, soft and firm,
+                     homogenous
+  ------------------------------------------------------------------------
+
+Excavation for foundation: This is the process of digging the ground to
+the required depth not less than 750mm. There are two basic methods of
+excavation.
+
+1. Manual method: This involves the use of digger, shovel, wheelbarrow
+
+[C:\Users\Anicho\Documents\My Received Files\100_1463.JPG]
+
+[C:\Users\Anicho\Documents\My Received Files\100_1462.JPG]
+
+2. Mechanical method: This involves the use of mechanically operated
+machine e.g excavation tractor, mechanical shovel, ditcher etc
+
+EVALUATION
+
+1. What is foundation?
+
+2. Mention three reasons why it is necessary to construct foundation.
+
+3. Under what conditions are the different types of foundation used?
+
+Content Development (NOTES FOR SECOND LESSON/PERIOD TWO)
+
+Sub-Topic II: Types and materials for making walls.
+
+Wall: It is a structural member in building(450mm) used mainly for the
+enclosure or division of a space within a building. It canbe external
+wall or load bearing wall built right from the foundation to the roof
+level, it carries the weight of itself and some other elements e.g roof.
+
+It can be internal cross walls, they are the non-load bearing
+wall(150mm), it carries only the weight of itself.
+
+Function of a wall:
+
+i. To carry the load and other elements in the building structure.
+
+ii. To divide a space as partition and as a compartment wall.
+
+iii. To protect the structure against weather.
+
+iv. For privacy
+
+v. For security purpose
+
+Walling Materials: They include stone, clay and mud, Timber, Bricks,
+sand creates blocks etc.
+
+Types of walls: There are many types of walls, depending on the
+materials used and the method of construction.
+
+i. Block wall ii. Partition wall iii. Sleeper wall iv. Timber wall v.
+Foundation wall vi. Glass wall vii. Retaining wall viii. Cavity wall ix.
+Reinforced concrete walls x. Stone wall xi. Bamboo wall xii. Clay or mud
+wall xiii.Masonry wall.
+
+WALL FINISHES: They are materials used to protect the surface of a wall
+from weather element. The common wall finishing are Plastering,
+rendering and painting.
+
+Plastering: This is the type of finishing that is given to the internal
+wall of a building. Cement and sand are mixed with water in ratio 1:3
+with the help of hand Trowel. Two or three layers of plastering are
+recommended on the surface of a masonry wall.
+
+Rendering: This is the type of finishing that is given to the external
+wall of a building. This can be done using
+
+i. Mixture of cement, sand and water and applied to the surface of the
+wall with hand trowel.
+
+ii. Pebble dash: This is done by throwing about 10mm size of gravel on
+the surface of the external wall.
+
+iii. Spattered dash finish: This is done by spraying about ratio 1:6
+(cement and sand ratio) mixture containing colored pigment on the
+surface of the wall.
+
+Painting: This is a liquid coating applied on the surface of a building
+wall for the purpose of decoration and protection from the elements of
+weather.
+
+BONDING: This refers to the arrangement of bricks or blocks in a way
+that a brick or block rests on at least 2 others so that continuous
+vertical joint which reduces strength and stability in walls is
+eliminated.
+
+EVALUATION:
+
+- Mention three functions of a wall.
+
+- Mention four materials for walling
+
+- List five types of wall.
+
+WEEKEND ASSIGNMENT:
+
+Within your locality get the different types of soil.
+
+READING ASSIGNMENT:
+
+The students should read about Building foundation NERDC Basic
+Technology for Junior Secondary School 3
+
+WEEK: EIGHT
+
+DATE:
+
+TOPIC: BUILDING
+
+SUB-TOPICS:
+
+- Floors
+
+- Doors, windows and Openings
+
+Content Development (NOTES FOR FIRST LESSON/PERIOD ONE)
+
+Sub-Topic 1: FLOOR
+
+  Floors
+
+  Floors are the horizontal components of buildings that support all
+  imposed load. Floors normally satisfy a number of requirements
+  depending on their location.
+
+  Types of Floors.
+
+  a. Solid Floors: Solid floors usually consist of concrete, which may
+  simply be finished with a smooth surface or laid with tiles (plastic
+  and linoleum floor tiles), which are not normally laid down in the
+  specifications.
+
+  b. Suspended Floors: These consist of wood, which are nailed over
+  solid lengths of timber, the ends of which are supported by the many
+  walls of the building. These solid timbers are known as joists, and
+  they vary according to the type of house.
+
+  Suspended timber ground floors are susceptible to dry rot, because of
+  lack of ventilation. This situation of fungus attack could be overcome
+  by providing air bricks in the external walls at suitable distances
+  around the perimeter of the building.
+
+  Types of floor based on method of construction:
+
+  1. The Basement floor: This is the floor below ground level and is
+  used mostly for car parks.
+
+  2. The Ground floor: This is floor on ground level.
+
+  3. The Upper floor: This is the floor above the ground level.
+
+  Damp proof course (D.P.C): It is a layer of material capable of
+  preventing the penetration of moisture which is embedded in the walls
+  just below the exposed surface through which water can percolate. A
+  properly placed D.P.C will prevent blistering of paint, rotting of
+  timber and bulging of plaster.
+
+  General floor finishes.
+
+  a. Cement screed: this is a mixture of cement and sand and is common
+  for most ordinary dwelling houses. Carpet or linoleum is usually used
+  on such floors. They can also be painted.
+
+  b. Floor tiles: A variety of tiles made of wood, ceramics and
+  thermoplastics are available for floor finishes.
+
+  c. Terrazzo : This is a very good but costly finish and is used for
+  high class jobs.
+
+  d. Timber: Timber is also used and requires to be polished.
+
+  [C:\Users\Anicho\AppData\Local\Microsoft\Windows\Temporary Internet
+  Files\Content.Word\100_1481.jpg]
+
+  Evaluation
+
+- Name the various types of floors
+
+- What is D.P.C?
+
+- Of what importance is D.P.C in building?
+
+Content Development (NOTES FOR SECOND LESSON/PERIOD TWO)
+
+Sub-Topic 2: Doors, Windows and Openings.
+
+  A door is a solid flat barrier that closes the opening entrance to a
+  building or a room. The principal function of a door to a building is
+  to prevent unrestricted access to an enclosed space. In other words,
+  entrances and exits into and from buildings, rooms, etc are possible
+  only through doors.
+
+  Functions of doors
+
+- They provide inlets and out-lets to the building and its various
+  compartments or rooms.
+
+- They provide security to the building. Unwanted elements (e.g
+  mosquitoes, wild animals, thieves etc) can be shut off.
+
+- Doors contribute to the beauty of the building.
+
+  Types of doors: Interior doors and exterior doors.
+
+  Interior doors: there are four types of doors generally used as
+  interior doors, they are:
+
+  Panel door ii. Flush door iii. French door iv. Louvre door
+
+  Exterior doors: Usually exterior doors are of solid core construction.
+  They may be wooden or glass doors, they may be panel or flush doors.
+
+  Sliding door: these are space saving doors which are used for closets
+  in bedrooms, etc their installation usually requires the making of
+  special panels by the craftsman, with the manufacturers providing the
+  tracks and other necessary hardwares.
+
+  Revolving doors: these are usually traffic control doors within a
+  building. The door normalizes inward and outward movements with its
+  four leaves revolving on a pivot, thereby allowing a person in and out
+  in turns.
+
+  Folding door or Roller shutter door: these are doors which are easily
+  installed, as they take little space. These types of doors are mostly
+  made of metals.
+
+  Diagram
+
+  [C:\Users\Anicho\Documents\My Received Files\100_1447.JPG]
+
+  Door sizes
+
+  Door can be made to any specified size depending on the use and choice
+  of the designer or owner. Some standard sizes include:
+
+  826 x 2049mm. Usually used as external doors.
+
+  726 x 2040mm. Suitable for most internal doors.
+
+  626 x 2040mm. Usually used for cupboards and cloakrooms.
+
+  526 x 2040mm.Usually used for small cupboards.
+
+  The normal thickness of the above door size is usually 40mm.
+
+  Door frames
+
+  A door-set consists of a door plus the frame. It is the frame which
+  holds the door in position so that it can open or close. The frame is
+  normally fixed in position either during the construction of the wall
+  or thereafter. A frame consists of three members, these are two posts
+  which are secured at the top to a cross-piece called the head. The
+  head usually has horns which are some 50 to 100 mm projections of the
+  head beyond the posts. The horns assist in making the frame secure
+  when it is built into the wall. In order that the door may be well
+  received by the frame, a 13 to 16mm deep recess or rebate is formed
+  round the frame.
+
+  Mounting of doors.
+
+  Doors are mounted on frames which are already positioned on the walls
+  by the use of hardwares such as hinges and fittings such as bolts and
+  locks. It also includes door handles or knobs.
+
+  Window: A window is an opening in wall, designed for the purpose of
+  admitting light and air into an enclosed space. Occupants of a
+  building can also have an outside view through the window. Majority of
+  today’s designs emphasize windows as decorative structures, as
+  portrayed by their shapes and sizes, which are better installed into
+  frames.
+
+  Types of windows:
+
+  i. Casement window ii. Louvered window iii. Double hung window iv.
+  French window v. Hopper window vi. Sliding window
+
+  Diagram
+
+  Lintel: A lintel is a horizontal beam supporting a wall over an
+  opening of relatively short span. The lintel spans an opening to carry
+  the load above the opening and to transmit the same load to the wall
+  on either side of the opening. A lintel could be of concrete, wood or
+  metal.
+
+  Functions of Lintel
+
+(i) Lintel is used to support wall block/bricks set above the openings.
+    Such as doors and windows.
+
+(ii) Lintel is also used to support the roof.
+
+(iii) Lintel such as arch and vaults are designed to beautify the
+      building structure.
+
+  Diagram
+
+  [C:\Users\Anicho\Documents\My Received Files\100_1452.JPG]
+
+  EVALUATION
+
+- What are the main functions of doors?
+
+- What are the main functions of windows.
+
+- What is a lintel?
+
+- List 3 functions of a lintel?
+
+- Why is a door frame necessary?
+
+  WEEKEND ASSIGNMENT
+
+  1. Visit a construction site and identify the lintel.
+
+  2. Move round the school building and identify the various types of
+  doors and windows used.
+
+  READING ASSIGNMENT
+
+  Read about Doors and windows in NERDC Basic Technology for Junior
+  Secondary school 3.
+
+WEEK: EIGHT
+
+DATE:
+
+TOPIC: BUILDING
+
+SUB-TOPICS:
+
+- Roofing
+
+- Simple Blue Print reading
+
+Content Development (NOTES FOR FIRST LESSON/PERIOD ONE)
+
+Sub-Topic I: Roof
+
+Roof is the top feature in a building structure which provides covering
+for the entire building and protect any internal decoration or fittings
+from the weather thereby rendering the house habitable. The roof of a
+building is supported by frame work of Ridges, Trusses, purling,
+Rafters, Eaves.
+
+Roofs perform specific functions which include:
+
+- Weather Resistance: The roof must be water proof and shield the house
+  from the direct rays of the sun.
+
+- Strength: The roof must be strong enough to be able to carry its own
+  weight and the superimposed weight of wind, and foot traffic for a
+  considerable length of time without failing.
+
+Types of common roof
+
+a.  Hipped roof: the hip roof has four slanting surfaces from a peak
+    known as ridge. The construction has a shortening effect on the
+    length of the building visually. The hip roof is widely used for
+    most houses in Nigeria.
+
+b.  Pitched roof: This is often called gable roof. This type of roof is
+    very common because it can be constructed easily. A typical
+    characteristic of pitched roof is a cavity wall at the gable end,
+    and vent between the fascia and soffit which prevents the rafter
+    timbers from disintegration.
+
+c.  Shed roof: this is the simplest form of roof construction, having
+    only one slope usually to the rear of the building. The overhang of
+    the roof is usually greater at the front and the design has added
+    simplicity and attractiveness to modern building construction.
+
+d.  Butterfly roof: this is double shed roof which slopes inwards with
+    the low points to the centre of the building. It has a wide
+    overhanging at the front and at the back which protects the walls
+    from rains. It is mostly used where a large span is to be covered.
+
+e.  Monitor roof: the roof has two surfaces on either side of the house,
+    with the lower one and vents or lightning spaces fixed vertically
+    between them. It is commonly used for large factory buildings or
+    warehouses.
+
+f.  Half Monitor roof: this roof has two surfaces only. One surface is
+    lowered on one side while the other is raised a little above the
+    lower one in the centre. The gap between the upper and lower central
+    edges of the roof along the length is usually fitted with
+    ventilation devices for roof members.
+
+g.  Combination roof: this roof has two surfaces sloping away more on
+    one side than on the other. The greater slope is usually on top of
+    the rooms while the smaller slope usually covers the veranda portion
+    of the house. It is mostly used in school building construction.
+
+h.  Arched roof: this type of roof is usually used for large span
+    construction work. The top is rounded and most economical in timber
+    consumption. It could be made in the workshop and ready for fixing
+    on the site.
+
+i.  Mansard roof: Mansard roof has double slopes on each side. Although
+    not common nowadays, mansard roof allows the use of the space in the
+    roof area. The lower part of the roof which is fitted with dormer
+    windows has a steep pitch, while the upper part has a slope of about
+    30˚.
+
+diagram
+
+Diagram
+
+[C:\Users\Anicho\AppData\Local\Microsoft\Windows\Temporary Internet
+Files\Content.Word\100_1448.jpg]
+
+Roofing materials: grass, zinc, corrugated aluminium sheets, wood,
+steel, concrete or clay, slates, plain tiles, corrugated iron sheets,
+corrugated asbestos cement sheets.
+
+Diagram
+
+[C:\Users\Anicho\Documents\My Received Files\100_1449.JPG]
+
+Evaluation:
+
+i. What is a roof?
+
+ii. Mention five types of roof.
+
+iii. Mention six roofing materials.
+
+Content Development (NOTES FOR SECOND LESSON/PERIOD TWO)
+
+Sub-Topic II: Simple blue print reading.
+
+  []
+
+EVALUATION
+
+- What is blue print drawing?
+
+- Draw the building symbols for sink, bath, showers, socket, door
+
+READING ASSIGNMENT:
+
+The students should read about Simple blue print in NERDC Basic
+Technology for Junior Secondary School 2.
+
+WEEKEND ASSIGNMENT
+
+- Move round the school premises and identify the type of roof used and
+  the roofing materials.

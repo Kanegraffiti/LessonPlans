@@ -1,0 +1,1473 @@
+SECOND TERM E-LEARNING NOTE
+
+SUBJECT: COMPUTER STUDIES CLASS: JSS1
+
+SCHEME OF WORK
+
+WEEK TOPIC
+
+1. Introduction to Computer Monitor
+
+2. The System Unit
+
+3. Computer Ethics
+
+4. Word processing I
+
+5. Word processingII
+
+6. Data processing I
+
+7. Data Processing II
+
+8. Features of a Computer
+
+9. The keyboard and its sections I
+
+10. The Keyboard and its Sections II
+
+11. Revision
+
+12.Examination
+
+REFERENCE
+
+A Handbook on Computer Studies (Practical Guide for Schools and Colleges
+By: NiyiAdekolegan, Computer Studies Stella Chiemeke, Modern computer
+studies by Victoria Dinehin.
+
+WEEK ONE Date: ………………
+
+TOPIC: COMPUTER AND MONITOR
+
+REF. BOOK: Welcome to Computer Studies. By BoyeJokotoye
+
+CONTENT:
+
+THE MONITOR
+
+The monitor is an output device used to display information. The monitor
+is also called Visual Display Unit (VDU). It is similar to ordinary
+television screen. The output on a monitor is called softcopy. This
+output is available to the user only for as long as another output has
+not replaced it. Thus, the output in the monitor is temporary.
+
+A monitor is one of the most common output devices which is used to
+display information (either data or result) on the screen.
+
+TYPES OF MONITOR
+
+There are two types of monitors.
+
+1. Monochrome monitor.
+
+2. Coloured Monitor.
+
+MONOCHROME MONITOR
+
+Monochrome monitors are very similar to black and white television sets.
+They display their output in just one colour. Monochrome monitors are of
+two types, Monochrome Text Monitor which can only display text and
+number character in single colour and Monochrome Graphics Monitor which
+can display texts as well as graphics such as charts, maps, diagrams and
+other pictures all in one colour.
+
+COLOURED MONITOR
+
+Coloured monitor can display text and pictures in more than one colour.
+Different types of colour monitors have been developed. These are:
+
+1. CGA (Colour Graphic Adapter) which can display only 16 colours.
+
+2. EGA (Enhanced Graphic Adapter) which displays 64 colours.
+
+3. VGA (Video Graphic Adapter). This can display 262,144 colours.
+
+4. SVGA (Super Video Graphic Adapter). This can display more than
+262,144 colours.
+
+CATHODE RAY TUBE MONITORS
+
+These are the most common type of monitors for office and the home. They
+make use of Cathode Ray Tube (CRT).
+
+LCD MONITORS
+
+Liquid Crystal Display (LCD) monitors were developed because of the
+bulky nature of CRTs. Unlike the technology used in CRTs, the technology
+for portable monitors involves liquid crystals. LCD monitors are thinner
+than CRTS.
+
+EVALUATION
+
+1.  What is a Monitor?
+
+2.  Mention the two types of monitor.
+
+CONCLUSION
+
+We have learnt that the monitor is an output device used to display
+information. We have also known the differences between the Cathode Ray
+Tube (CRT) and Liquid Crystal Display (LCD) monitors.
+
+There are two types of monitors i.e. Monochrome and Colour monitors. We
+have learnt that monochrome monitors can only display information in one
+colour while colour monitors can display information in more than one
+colour.
+
+GENERAL EVALUATION
+
+1a. What is a monitor?
+
+1b. Give the full meaning of the following:
+
+(i) VDU
+
+(ii) LCD
+
+  (iii) CRT
+
+2a. Mention the two types of monitors.
+
+2b. Write out the full meaning of each of the following:
+
+(i) CGA (ii) EGA (iii) VGA (iv) SVGA
+
+READING ASSIGNMENT
+
+A Handbook on Computer Studies (Practical Guide for Schools and
+Colleges.
+
+By: NiyiAdekolegan. Chapter Ten, pages 63-64; 68 – 69.
+
+Computer Studies Stella Chiemeke book 1 pgs 69.
+
+Modern computer studies by Victoria Dinehinpg 41-43
+
+WEEKEND ASSIGNMENT
+
+OBJECTIVES
+
+1. ………… is an output device that shows information.
+
+(a) Keyboard (b) Monitor (c) CPU (d) ALU
+
+2. Another name for monitor is ……………(a) CPU (b) VDU (c) DVU (D) MEMORY
+
+3. ………….. monitor can display information only in one colour.
+
+(a) Colour (b) Black and White (c) Monochrome (d) colour
+
+4. …………. monitor can display information in different colours.
+
+(a) Monochrome (b) Black and White (c) Colour (d) all of the above
+
+5. Which of the monitor can display 16 colours? (a) CGA (b) EGA (c) SVGA
+(d) EGA
+
+THEORY
+
+1. Mention any TWO types of coloured monitor you know.
+
+2. Write short notes on: (a) Monochrome monitor.(b) Coloured monitor.
+
+WEEKTWO Date:……………….
+
+TOPIC:THE SYSTEM UNIT
+
+REF. BOOK: Early Learning of Computer Studies for Junior Secondary
+Schools.
+
+By: YomiSoyombo
+
+CONTENT:
+
+THE SYSTEM UNIT
+
+A System unit also known as a base unit, is electronic circuitry housed
+within the computer cabinet. It is the part of the micro computer that
+contains the Central Processing Unit (CPU).
+
+THE INTERNAL FEATURES OF THE SYSTEM UNIT
+
+Is the main body of a personal computer, typically consisting of a
+plastic/metal enclosure containing thefollowing:
+
+i.  Motherboard,
+
+ii. power supply,
+
+iii. cooling fans,
+
+iv. internal disk drives,
+
+v.  the memory modules and
+
+vi. expansion cards that are plugged into the motherboard such as video
+    and network cards.
+
+CENTRAL PROCESSING UNIT
+
+The CPU is a processing device found inside the system unit. It is
+mounted on the motherboard which is also inside the system unit. The
+function of a CPU is to perform the processing of data received from the
+input devices. The major components of the CPU are as follows:
+
+1.  Arithmetic and Logic Unit (ALU)
+
+2.  Control Unit
+
+3.  Memory Unit
+
+The system units of micro computers are of different shapes. These
+include the following:
+
+(i) Notebook
+
+(ii) Palmtop
+
+(iii) Desktop
+
+(iv) Tower
+
+(v) Slim line etc.
+
+NOTEBOOK
+
+This is a micro computer that is small and light enough to be moved
+easily from one place to another. It can fit into most briefcases. They
+are the most popular computers today.
+
+PALMTOP
+
+These are also known as Personal Digital Assistants (PDA) and are much
+smaller than laptops. This device combines pen input, writing
+recognition, personal organizational tools and communication
+capabilities in a very small package.
+
+DESKTOP
+
+These are small enough to fit on top or along the side of a desk and yet
+are too big to carry around.
+
+TOWER
+
+Tower casing system unit is a little bit taller than the desktop, hence,
+it is placed under the table or on the floor.
+
+SLIM LINE
+
+This is a system unit that stands independently beside the monitor and
+the keyboard.
+
+EVALUATION
+
+1.  What is system unit?
+
+2.  List and explain the different shapes of the system unit.
+
+THE EXTERNAL FEATURES OF SYSTEM UNITS
+
+The external parts of system units include:
+
+1. The power button
+
+2. Reset button
+
+3. The key lock
+
+4. The Drives
+
+5. The Ports
+
+POWER BUTTON
+
+The power button is pressed to put the system ON or OFF. It is used to
+start the system from scratch.
+
+RESET BUTTON
+
+Reset button is used to initialize the system. The button is pressed to
+restart the system.
+
+THE KEY LOCK
+
+The key lock is used to PUT ON and OFF the computer. When the key lock
+is in OFF mode, the system cannot accept data. For the system to accept
+data, the key lock must be on.
+
+THE DRIVES
+
+The disk drive is a part or device on which disks are loaded and run. It
+enables us to use compact disks and diskettes. A computer has more than
+one drive e.g. A: - Floppy disk drive, C: - Hard disk drive,D: - Compact
+disk drive etc.
+
+THE PORTS
+
+These are sockets on the outside of the system unit into which you can
+plug a terminal or some other input/output devices. They are the areas
+where peripheral devices are connected to the system unit. Ports are
+used to connect the keyboard, the mouse, the monitor, the printer, etc.
+
+CONCLUSION
+
+External features of the system unit include the power button, reset
+button, key lock, drives, ports etc and their various functions.
+
+We have also learnt that the system unit houses the Central Processing
+Unit (CPU) and comes in different shapes and sizes e.g. notebook,
+palmtop, desktop, etc.
+
+GENERAL EVALUATION
+
+1a. What is a System Unit?
+
+1b. List any three system units casing.
+
+2a. Mention any THREE external features of a system unit.
+
+2b. State what each of these drives represents. (i) A: …………….(ii) C:
+…………….
+
+READING ASSIGNMENT
+
+A Handbook on Computer Studies Book 1 (Practical Guide for Schools and
+Colleges.
+
+By: NiyiAdekolegan. Chapter Eight, pages 55 – 56; 69 – 70..
+
+Computer Studies Stella Chiemeke book 1 pg 73.
+
+Modern Computer Studies by Victoria Dinehinpg50
+
+WEEKEND ASSIGNMENT
+
+OBJECTIVE
+
+1. ………………. is used to start the computer from the scratch.
+
+(a) Power button (b) Ports (c) Reset button (d) none of the above
+
+2. The ____ is used to restart the computer. (a) reset button (b) key
+lock (c) drive (d) power button
+
+3. A: drive represents ____ drive. (a) floppy disk (b) hard disk (c)
+compact disk (d) ports
+
+4. We can connect other peripheral devices to the system unit through
+the ………..
+
+(a) drives (b) ports (c) key lock (d) power button
+
+5. For the computer to accept data, the ……….. must be on.
+
+(a) drives (b) key lock (c) ports (d) none of the above
+
+THEORY
+
+1a. What is a System Unit?
+
+1b. List any THREE system unit casings.
+
+2a. List any THREE internal and external features each of a system unit.
+
+2b. State what each of the following drives represents.
+
+A: ……………………
+
+D: ……………………
+
+WEEKTHREE Date: ………………
+
+TOPIC: COMPUTER ETHICS
+
+Introduction
+
+Computers functions best when used in the right environment. The right
+environment can be refers to as the computer room/laboratory. Computer
+room is a room specially created for keeping computers and other
+peripheral devices.
+
+COMPUTER ROOM REQUIREMENT
+
+- Computer system
+
+- Furniture
+
+- Tiles
+
+- Electricity source
+
+- Stabilizer
+
+- Air conditioners/fans
+
+- Mouse and mouse pad
+
+- Uninterruptible Power Supply(UPS).
+
+- Printer
+
+- Speaker
+
+- Window Blind
+
+- Fire extinguisher
+
+- Surge protector
+
+- Dusk cover
+
+- Printer paper
+
+WAYS OF MAINTAINING THE COMPUTER ROOM
+
+1.  A dust-free environment should be maintained in the computer room
+
+2.  The computer room should be appropriately ventilated.
+
+3.  The computer room should have appropriate lighting system.
+
+4.  The computer room should be well furnished.
+
+5.  All the computers in the computer room should be covered.
+
+6.  There should be strong security around the computer room.
+
+EVALUATION
+
+1.  What is computer Ethics
+
+2.  Mention five ways of maintaining the computer room
+
+Laboratory Rules and Regulations
+
+1.  Pupils are prohibited to enter the lab unless authorized by the
+    teacher.
+
+2.  Scan flash drive before using them.
+
+3.  Report all problems related to the systems to the teacher.
+
+4.  Do not attempt to repair or tamper with lab equipment.
+
+5.  Be responsible when using equipment, software and facilities in the
+    lab.
+
+6.  Do not move any equipment from it original position.
+
+7.  Do not remove or load any software into the computer.
+
+8.  All electrical appliances should be switched off at the end of each
+    day activities.
+
+9.  Always cover the computer system after use.
+
+10. Noise should be discouraged in the computer room.
+
+GENERAL EVALUATION
+
+1.  What is Computer Ethics?
+
+2.  Mention at least Ten Computer Room Requirements.
+
+3.  State five ways of maintaining the computer room.
+
+4.  State seven rules and regulations of the computer room.
+
+READING ASSIGMENT
+
+Computer studies for Junior Secondary Education JSS1 By HiitPlc pages
+68 - 69
+
+WEEKEND ASSIGNMENT
+
+1.  ………. is a room specially created for keeping computers and other
+    peripheral devices. (a) clinic (b) Computer room (c) laundry (d)
+    Store house
+
+2.  Which of the following is not a computer room equipment? (a)
+    spoon (b) fire extinguisher (c) dust cover (d) printer
+
+3.  There should be ……… around the computer room. (a) strong
+    security (b) slack security (c) loose security (d) all of the above
+
+4.  Noise should be discouraged in the computer room. (a) True (b) False
+
+5.  The Computer system should be covered with …….. after use. (a) dust
+    cover (b) rag (c) window blind (d) none of the above
+
+THEORY
+
+1.  What is computer ethics?
+
+2.  Mention five rules that must be observed in the computer laboratory.
+
+3.  List five ways of maintaining the computer room.
+
+4.  Mention Ten things that are required in the Computer room.
+
+WEEK FOUR Date:……………….
+
+TOPIC: WORD PROCESSING I
+
+Reference Book– Welcome to Computer Studies ByBoyeJokotoye
+
+CONTENT
+
+Definition
+
+Uses of word processor
+
+Loading and exiting word processor
+
+Creating,saving and retrieve files
+
+INTRODUCTION TO WORD PROCESSING PACKAGES
+
+A word processing package enables you to type in and manipulate text. It
+helps you to enter, store, format, copy and print text. It is a software
+that turns the computer into a sophisticated typewriter.
+
+With any type of word processing software, you can produce any kind of
+document, large or small, whether personal letter, business report,
+school report sheet, circular etc. and save the document for future
+reference.
+
+The word processing software allows you to determine how you want the
+finished page to look i.e. page size, line, width, margin etc. Once you
+are satisfied that everything look all right, you can print out any
+number of copies on paper.
+
+FUNCTIONS OF WORD PROCESSING
+
+1. Text correcting/Editing
+
+2. Inserting paragraph
+
+3. Deletion of sentence, words, paragraphs etc.
+
+4. Correction of wring spelling
+
+5. Inclusion of graphics
+
+Examples of word processor: word perfect,word Star,MS-word,loco Script,
+Ami-Pro,Word Craft,notepad, WordPad.
+
+Starting Microsoft word: Click the start button to bring the start menu;
+click program; click on Microsoft word
+
+Create a new document: Click on file ,clicknew, start typing
+
+Saving a document:click on file, click save, make a choice of location
+to save in, type the name you want to save it as, click command button
+‘save’
+
+Opening an existing document: click on file, clickopen, click on the
+document- saved- in location or other storage devices.
+
+EVALUATION
+
+1.  Define Word Processing Package?
+
+2.  State four uses of word processing.
+
+3.  List five examples of word processing packages.
+
+FEATURES OF WORD PROCESSING PACKAGES
+
+1. WORD WRAP - Instead of pressing ‘Enter key’ at the end of every line
+while typing, word wrap automatically moves the insertion point to the
+next line when you reach the end of the current line and allows you to
+continue typing without having to press the ‘Enter key’ to start a new
+line.
+
+2. EDITING OF DOCUMENT– Once you have finished typing your document, you
+can then use WORD basic editing techniques. These include inserting
+text, deleting text, moving paragraphs from one position to another,
+etc.
+
+3. DELETING TEXT– Word processing features allows for deletion, that is,
+the removal of unwanted text. Some can be deleted using ‘delete key’
+while you can also press ‘back space key’ to delete text depending on
+where you place the cursor before deletion.
+
+4. INSERTING TEXT– The process of adding text in-between existing text;
+it could be a character or a full statement.
+
+5. PAGE FORMATING– This is the standard setting of page format.
+Information in page formatting include the length of each line, number
+of lines per page, the size of the margin and line spacing.
+
+6. SPELLING CHECKER– This is a program to detect and correct wrongly
+spelt words. Spelling programs read word processing files and compare
+each word to the computer dictionary. It then underlines any wrongly
+spelt word and gives suggested spelling options.
+
+7. SAVE AUTO RECOVER– When you are working, you can sometimes forget to
+save regularly, which could mean you lose your work hence, you saved in
+the event of power outage. Microsoft Word provides an automatic save
+feature that you can set to ensure that your documents are saved
+regularly. However, this depends on the specific time interval in
+minutes set by you.
+
+8. NON-PRINTING CHARACTER– Microsoft Word provides a feature called
+Non-Printing Characters that has certain landmarks you might find
+helpful as you create your document. These keys include ‘ENTER key’,
+‘TAB key’ and ‘SPACEBAR key’. They are called non-printing character
+because though they appear on the screen, they will not appear in the
+printed document.
+
+ADVANTAGES OF USING WORD PROCESSING PACKAGES
+
+1. The use of computer allows for neat jobs.
+
+2. It makes typing pleasurable.
+
+3. There is room for corrections such that it does not leave any scar on
+the document.
+
+4. With the use of computer, text could be formatted to suit the user’s
+taste.
+
+5. It allows Mail Merging operation thereby relieving the secretary of
+the problem of having to type a particular document a number of times.
+
+6. It allows the production of as many copies of the document as the
+owner will need and each appears as the original.
+
+7. It has the capability of storing text for as long as it will be
+needed.
+
+8. Document can be enhanced with graphics (pictures)
+
+GENERAL EVALUATION
+
+1.  Define word processing.
+
+2.  List and explain five features of Word Processing
+
+3.  State what word processing can be used for.
+
+READING ASSIGNMENT
+
+Computer studies Stella Chiemeke book 1 pgs 73-77.83-89
+
+Modern Computer Studies by Victoria Dinehinpg 47-53
+
+A Handbook On Computer By: Kolawole S. Owolabi
+
+WEEKEND ASSIGNMENT
+
+1. …………package enables you to type in and manipulate text.
+
+(a) Word processing (b) Spreadsheet (c) Corel Draw (d) database
+
+2. Which of these CANNOT be done with word processing package?
+
+(a) sleeping (b) typing (c) printing (d) sorting
+
+3. One of these is NOT a function of word processing.
+
+(a) Title bar (b) Text correction (c) Deletion of pages (d) duplicating
+
+4. Word processing can be used to produce any kind of document except
+
+(a) letter writing (b) journalism (c) memo (d) graph
+
+5. One of these is an example of word processing package.
+
+(a) Microsoft Word (b) Microsoft Excel (c) Corel Draw (d) Graphics
+
+THEORY
+
+1.  List the functions of Word Processing packages.
+
+Briefly explain the following: (i) Word wrap (ii) Editing of document
+(iii) Spelling checker (iv) Non-printing character
+
+2. Mention any FIVE examples of Word Processing packages.
+
+WEEK FIVE Date:……………….
+
+TOPIC: WORD PROCESSING II (PRACTICAL)
+
+ADVANTAGES OF USING WORD PROCESSING PACKAGES
+
+1. The use of computer allows for neat jobs.
+
+2. It makes typing pleasurable.
+
+3. There is room for corrections such that it does not leave any scar on
+the document.
+
+4. With the use of computer, text could be formatted to suit the user’s
+taste.
+
+5. It allows Mail Merging operation thereby relieving the secretary of
+the problem of having to type a particular document a number of times.
+
+6. It allows the production of as many copies of the document as the
+owner will need and each appears as the original.
+
+7. It has the capability of storing text for as long as it will be
+needed.
+
+8. Document can be enhanced with graphics (pictures)
+
+Steps in loading Microsoft Word
+
+1.  Click the start button to bring the stsart menu.
+
+2.  From the pull down menu, click on Microsoft word.
+
+Steps in creating a New Document
+
+1.  Click on the office button.
+
+2.  Click on New.
+
+3.  Click on create
+
+4.  Start typing your work.
+
+Steps for Saving a Document
+
+1.  Click on the office button.
+
+2.  Click on Save.
+
+3.  Make a choice of location to save in, type the name you want to save
+    it with and click on save.
+
+4.  click command button ‘save’
+
+EVALUATION
+
+1.  State the steps in loading Microsoft word.
+
+2.  Highlight the steps in saving a document.
+
+Steps in opening an existing
+
+1.  From the office button, click open.
+
+2.  Click on the document.
+
+3.  Click on open.
+
+4.  click on the document- saved- in location or other storage devices.
+
+Steps for Printing a document
+
+1.  Click on the office button.
+
+2.  Click on Print.
+
+3.  Select print options such as printer’s name, page range numbers of
+    copy, print what, orientation and page seize.
+
+4.  Click on ok or press enter key.
+
+Steps for Closing a document in Microsoft Word
+
+1.  From the title bar, click on X button and the document window
+    closes.
+
+2.  To close and exist from Word: From the office button, choose exit.
+
+GENERAL EVALUATION
+
+1.  State the steps in opening an existing document.
+
+2.  State the steps in printing a document
+
+3.  State the steps in closing a document.
+
+READING ASSIGMENT
+
+Computer studies Stella Chiemeke book 1 pgs 73-77.83-89
+
+Modern Computer Studies by Victoria Dinehinpg 47-53
+
+WEEKEND ASSIGNMENT
+
+1.  Word processing can be used to produce any kind of document.(a)
+    Yes (b) No (c) None of the above (d) All of the Above
+
+2. One of these is an example of word processing package.
+
+(a) Microsoft Word (b) Microsoft Excel (c) Corel Draw (d) None
+
+3. …………package enables you to type in and manipulate text.
+
+(a) Word processing (b) Spreadsheet (c) Corel Draw (d) Excel
+
+4. Which of these CANNOT be done with word processing package?
+
+(a) sleeping (b) typing (c) printing (d) Excel
+
+5. One of these is NOT a function of word processing.
+
+(a) Title bar (b) Text correction (c) Deletion of pages (d) Query
+
+THEORY
+
+1.  State the steps in opening an existing document.
+
+2.  State the steps in printing a document
+
+3.  State the steps in closing a document.
+
+WEEKSIX Date:……………….
+
+TOPIC: DATA PROCESSINGI
+
+Reference Book – Early Learning of Computer Studies By: YomiSoyombo
+
+DATA PROCESSING
+
+Data processing is the process of converting data into meaningful
+information. It involves collection of data or gathering of data. Data
+processing often refers to the use of computers in commercial
+applications as distinct from engineering applications. It is also an
+act of collecting data, assembling them and making them available to the
+processor in a machine form that the computer can work on.
+
+DATA COLLECTION STAGES
+
+Data collection stage is bringing data to a central point. It means
+gathering of data from its point of origin to be processed.
+
+The stages include the following:
+
+1. DATA CREATION– This is the process of getting data from source. The
+document of which data is first recorded is called Source Document.
+
+2. DATA TRANSMISSION– This refers to sending and receiving of data via
+telecommunication network. That is, the movement of data from one
+location to another for processing.
+
+3. DATA PREPARATION– This is a pre-processing of ‘raw’ data from the
+source document to machine sensible form.
+
+4. DATA VERIFICATION– This is the process of checking input data to make
+sure it was entered correctly.
+
+5. SORTING– This is a re-arrangement of data in some specified sequence
+required for processing.
+
+6. MEDIA CONVERSION– It is a transfer of data from one medium to
+another. Data is often prepared in one medium and converted to another
+medium.
+
+7. VALIDATION– Validation is a process of checking input data to make
+sure that it is logically correct. It enables us to correct error that
+escapes verification.
+
+8. INPUT/PROCESSING– This is the act of passing data in a machine
+sensible form to processing stage. The data is submitted to the
+processor for processing.
+
+EVALUATION
+
+1. What is data processing?
+
+2. List and explain any TWO data collection stages.
+
+STAGES IN DATA PROCESSING
+
+The repetitive nature of data processing can be well described as a
+processing cycle. It is simply a sequence of procedures or steps
+required to perform a given task repetitively.
+
+Stages in data processing refer to various stages which data passes
+through before it becomes information. The stages include:
+
+1. ORIGINATION OF DATA
+
+  This can be described as the creating and gathering of data from
+  elements such as source documents.
+
+2. PREPARATION
+
+  This step is associated with the transcription, sorting and
+  arrangement of data before entry into a computer.
+
+3. INPUT DATA
+
+  This is the process of entering data into the computer. It is the
+  entry of data through the input devices e.g. keyboard.
+
+4. PROCESSING OF DATA
+
+  It concerns all exercises of data processing such as calculating,
+  sorting and classifying.
+
+5. OUTPUT OF DATA
+
+  The desired end of the processing of data will finally be reached and
+  produced. The output in soft copy or hard copy will take the shape of
+  written reports, graphical representation, drawing, etc.
+
+6. STORAGE OF DATA
+
+  This is the process of saving the result of the processed data in a
+  manner that will permit easy retrieval.
+
+STAGES IN DATA PROCESSING DIAGRAM
+
+ORIGINATION OF DATA
+
+PREPARATION OF DATA
+
+INPUT DATA
+
+PROCESSING OF DATA
+
+STORAGE OF DATA
+
+OUTPUT OF DATA
+
+GENERAL EVALUATION
+
+1.  Explain the stages in data processing activities.
+
+2.  List and explain each stages in data processing.
+
+READING ASSIGNMENT
+
+Computer studies Stella Chiemeke book 1 pgs33-38.
+
+Modern Computer Studies by Victoria Dinehinpg18-19
+
+WEEKEND ASSIGNMENT
+
+1. When data is fully processed it becomes ……………….
+
+(a) information (b) word (c) sentence (d) Raw
+
+2. The process of converting data into meaningful information is
+called………..(a) data processing (b) data creation (c) sorting (d) None
+
+3. The document of which data is first recorded is called ………………
+
+(a) source document (b) object document (c) real document (d) code
+
+4. The process of getting data from source is called ……………….
+
+(a) data creating (b) data preparation (c) data validation (d) data
+collation
+
+5. Sending and receiving of data via telecommunication network is called
+……………..
+
+(a) data transmission (b) data processing (c) validation (d) Output
+
+THEORY
+
+1. What is data processing?
+
+2. With the aid of a diagram, explain in detail the stages in data
+processing concept.
+
+WEEK SEVEN Date:……………….
+
+TOPIC: DATA PROCESSING II
+
+COMPUTER PROCESSING MODES
+
+There are different basic types of processing; namely:
+
+1.  Batch processing
+
+2.  Real time processing
+
+3.  Time sharing processing
+
+4.  Demand processing
+
+Batch processing: In Batch processing, data are gathered over a period
+of time and the batch of transactions is processed together. It employs
+sequentially processing technique which consists of processing the first
+record of the file sequence, then the second record in that order.
+Examples of batch systems includepayroll system, stock control, sales
+ledger etc.
+
+Advantages of batch processing
+
+1.  It is economical and efficient for applications such as preparation
+    of customer bills
+
+2.  It saves time
+
+Disadvantage
+
+1.  It may not be necessary or useful for all situations
+
+EVALUATION
+
+1.  Explain computer processing modes.
+
+2.  State the four modes of data processing
+
+Real time processing: With real time processing, data are processed one
+– by one within the same time – frame and the reports are produced
+quickly enough to influence decision in the ongoing process. It is
+appropriate for some banking applications, air line reservation system
+etc.
+
+Interactive Processing: The system displays questions and prompt
+messages on VDU,screen and the users provides appropriate response
+through the keyboard e.g Purchasing, inventory etc.
+
+On-Line Processing: This involves obtaining input data directly from the
+point where it is needed. Application areas include banking, Stock
+exchange etc.
+
+TransactionProcessing: The transactions are processed randomly one by
+one as they supplied to the system e.g. real time banking.
+
+Advantages of using computer for data Processing
+
+1.  Increased accuracy.
+
+2.  Efficient storage.
+
+3.  Quick access to information.
+
+4.  Ability to handle repetive tasks.
+
+GENERAL EVALUATION
+
+1.  State the modes of computer processing
+
+2.  Mention the application areas of each processing mode.
+
+READING ASSIGNMENT
+
+Computer studies for Junior Secondary Education JSS1 By HiitPlcpages 22
+– 24.
+
+WEEKEND ASSIGNMENT
+
+1.  In ……. processing, data are gathered over a period of time and the
+    batch of transactions is processed together.(a) batch (b)
+    transaction (c) real time (d) on line
+
+  2. The …….. system displays questions and prompt messages on
+  VDU,.screen and the users provides appropriate response through the
+  keyboard (a) batch (b) interactive
+
+  (c)transaction (d) real time
+
+3. The …………..are processed randomly one by one as they supplied to the
+system.
+
+  (a) real time (b) online (c) transaction (d) none of the above
+
+4. ………. processing involves obtaining input data directly from the point
+where it is needed (a) online (b) transaction (c) real time (d) batch
+(b) purchasing (c)inventory
+
+  (d) all of the above
+
+5.  …….. is an application area of on- line processing (a) banking
+
+THEORY
+
+1.  State the modes of computer processing.
+
+2.  Mention the application areas of each processing mode.
+
+WEEK EIGHT Date:……………….
+
+TOPIC: FEATURES OF A COMPUTER
+
+TYPES OF MICRO COMPUTER
+
+Micro computer is the smallest and the cheapest class of computers built
+for special purposes, e.g. for use in clocks, cameras etc. Micro
+computer contains between ten thousand and two million bytes of internal
+memory locations, a micro processor and can allow few input/output
+devices to be attached to it. Micro computer is often referred to as
+desktop computer because it can conveniently fit on desktop.
+
+Another name for micro computer is PERSONAL COMPUTER (PC).
+
+TYPES OF MICRO COMPUTER
+
+1. Laptop
+
+2. Palmtop
+
+3. Notebook
+
+4. Desktop
+
+5. Tower etc.
+
+EVALUATION
+
+1.  What is microcomputer?
+
+2.  Mention five types of micro computer.
+
+REASONS WHY MICRO COMPUTERS ARE WIDELY USED
+
+1. It is very cheap.
+
+2. It has a small size.
+
+3. It is built for special purposes.
+
+4. It does not require special environment for its use.
+
+5. Micro computers can be used anywhere.
+
+FEATURES OF COMPUTER AS EXCELLENT TOOL FOR DATA PROCESSING
+
+1.  Increased Accuracy
+
+2.  Efficient Storage Facilities.
+
+3.  Fast Access to Information.
+
+4.  Handles Repetitive Tasks
+
+5.  Decision Making Capability
+
+CONCLUSION
+
+We have learnt that micro computers are the smallest and cheapest class
+of computers. There are various types of micro computers which are
+laptop, palmtop, notebook, desktop etc. We have also known why micro
+computers are widely used and the features of computer that makes it an
+excellent tool for data processing.
+
+GENERAL EVALUATION
+
+1. List any THREE types of micro computer.
+
+2. State any TWO reasons why micro computer is widely used.
+
+3. State five features of a micro computer that makes it an excellent
+tool for data processing.
+
+READING ASSIGNMENT
+
+A Handbook on Computer Studies (Practical Guide for Schools and
+Colleges.
+
+By: NiyiAdekolegan. Chapter Nine, pages 62 – 64.
+
+Modern computer studies by Victoria Dinehinpg20
+
+WEEKEND ASSIGNMENT
+
+OBJECTIVE
+
+1. ……….. is the smallest computer in terms of size.
+
+(a) Micro computer (b) Big computer (c) Super computer (d) Mainframe
+
+2. Which of the following is an example of a micro computer?
+
+(a) Laptop (b) Tabletop (c) Knee top (d) Super
+
+3. ……….. is another name for micro computer.
+
+(a) Personal computer (b) Super computer (c) Desktop (d) Mini computer
+
+4. Micro computers can be used anywhere. (a) True (b)False
+
+5. The computers that sit on desks in homes, offices etc. are called
+…………computers.
+
+(a) desktop (b) mobile (c) digital (d) Hybrid
+
+THEORY
+
+1. List any FOUR types of micro computer.
+
+2. State any TWO reasons why micro computer is widely used.
+
+3. State five features of a micro computer that makes it an excellent
+tool for data
+
+WEEK NINE Date:……………….
+
+TOPIC: THE KEYBOARD AND TYPES OF KEYBOARD
+
+CONTENT:
+
+Definition of the Keyboard
+
+The keyboard is an input device that is used to send data into the
+computer. Its cable must be connected to a port of the system unit
+before it can operate. It is similar to an ordinary typewriter keyboard.
+The keyboard is used mainly to enter alphabets from A – Z, numeric
+digits 0 – 9 and special signs and punctuation marks such as ( ), +, %,
+!etc.
+
+This device converts numbers, letters, and special characters that
+people understand into electrical signals. These signals are sent to and
+processed by the CPU. It is the most important input device.
+
+TYPES OF KEYBOARD
+
+There are two types of keyboard. These are:
+
+1. Standard keyboard
+
+2. Enhanced keyboard
+
+STANDARD KEYBOARD
+
+This is a keyboard that has between 84 – 89 keys. It has 10 function
+keys and 4 arrow keys.
+
+ENHANCED KEYBOARD
+
+This keyboard has between 101 – 104 keys. It has 12 function keys and 8
+arrow keys.
+
+DIFFERENT TYPES OF KEYBOARD
+
+1.  Multimedia keyboard.
+
+2.  Programming keyboard.
+
+3.  Cordless keyboard.
+
+SECTIONS OF THE KEYBOARD
+
+The keyboard is divided into sections namely:
+
+(i) The numeric keys
+
+(ii) The alphabetic keys
+
+(iii) Function keys
+
+(iv) Arrow keys
+
+(v) Special keys
+
+THE NUMERIC KEYS
+
+This is used for fast entering of numeric data. It is located on the
+right side of the keyboard and contains numbers 0-9. The numeric key is
+active when Num Lock Key is on.
+
+ALPHABETIC KEYS
+
+These are keys with letters A-Z. The alphabetic keys are 26 in number.
+
+FUNCTION KEYS
+
+These are the keys labeled F1 – F12 and are essentially used to perform
+special functions on the computer. They serve different purposes
+depending on which application is being used. Function keys are used in
+conjunction with other keys.
+
+ARROW KEYS
+
+They are navigation keys used to control the cursor either up or down,
+right or left on the screen.
+
+SPECIAL KEYS
+
+They are used to perform special functions. They include:
+
+(a) Shift key (b) Control key (Ctrl) (c) Alternate key (Alt) (d) Caps
+lock key (e) Enter key (f) Backspace key (g) Tab key (h) Space bar key
+which is the longest key on the keyboard (i) Insert key (j) Delete key,
+etc.
+
+CONCLUSION
+
+The keyboard is an input device used to send data into the computer. We
+have learnt that there are two types of keyboard which are Standard
+Keyboard and Enhanced Keyboard.
+
+There are also five sections on the keyboard which are: Numeric keys,
+Alphabetic keys, Function keys, Arrow keys and Special keys.
+
+EVALUATION
+
+1a. What is a keyboard?
+
+1b. List the TWO types of keyboard.
+
+2a. Mention any THREE sections of the keyboard.
+
+2b. List any FIVE special keys on the keyboard.
+
+READING ASSIGNMENT
+
+A Handbook on Computer Studies (Practical Guide for Schools and
+Colleges.
+
+By: NiyiAdekolegan. Chapter Eight, pages 55– 61.
+
+Computer Studies Stella Chiemeke book 1 pg 62; pgs 73-77.
+
+Modern Computer Studies by Victoria Dinehinpg 33-37; pg 47-53
+
+WEEKEND ASSIGNMENT
+
+OBJECTIVE
+
+1. ………… keyboard has 10 function keys.
+
+(a) Standard (b) Enhanced (c) Windows (d) All of the Above
+
+2. The function keys are labelled………. on the keyboard.
+
+(a) Function (b) F1 – F12 (c) 0 – 9 (d) F1 – F15
+
+3. The keys with A – Z on the keyboard are called …………
+
+(a) Numeric keys (b) Alphabet keys (c) Arrow keys (d) Page
+
+4. ………… is the longest key on the keyboard.
+
+(a) Space bar key (b) Delete key (c) Enter key (d) Shift Key
+
+5. ……….. keys are used to control the cursor. (a) Arrow (b) Function (c)
+Alphabet
+
+(d) Symbol
+
+THEORY
+
+1a. What is a keyboard?
+
+1b, Write short notes on: (a)Standard keyboard(b) Enhanced keyboard
+
+2a. Mention any TWO sections of the keyboard.
+
+2b. List any THREE special keys on the keyboard.
+
+WEEK: TEN Date:……………….
+
+TOPIC: THE KEYBOARD AND TYPES OF KEYBOARD II
+
+CONTROL KEYS:they are used in line with other keys to instruct the
+computer to perform specific tasks. They are ctrl, del Esc and Alt.
+
+CURSOR- CONTROL KEYS: otherwise known as curdor manipulations keys allow
+the user to move the cursor to the left, right, up one line and down one
+line.
+
+APPLICATION (TASK MENU): This perform the same function as right
+clicking the mouse.
+
+CTRL: This ia sometimes used in conjuction with one or two other keys to
+give command to the computer e.g. ctrl s, ctrl
+
+DEL: Stand for Delete, it is used to cancel the character to the right
+of the cursor and it can be used to delete selected text or object.
+
+WINDOWS LOGO KEYS: They are used to activate the start menu from which
+programs can be launched.
+
+ALT: This key can be used in combination with other keys e.g. ALT + F4
+
+HOME: Moves the cursor to the beginning of a line.
+
+END: Moves the cursor to the end of a line or screen display.
+
+PAGE UP: Moves the page on the screen.
+
+PAGE DOWN: Moves the page down on the screen
+
+PRINT SCREEN: Copies the entire content of a computer screen of the
+clipboard.
+
+TAP KEY:The key is marked with double arrows facing opposite directions.
+It shiftthe cursor eight spaces to the right at each press.
+
+THE SPACE BAR: This is the longest key and it is used for producing
+spaces.
+
+SHIFT KEY: It is used to enter both upper and lower case characters.
+
+ENTER/ RETURN KEY: They enter or return key moves the cursor down.
+
+BACK SPACE KEY: This key deletes the character to the left.
+
+CAPS LOCK KEY: It is a toggle key that needs to be depressed in order to
+get out of capitalization.
+
+DIRECTION KEYS: To move the cursor right, left, up, down without
+deleting any characters.
+
+EVALUATION
+
+1.  Explain the function of the following keyboard section keys (a)
+    Print screen (b) shift key
+
+(c) home key (d) alt (e) space bar key
+
+2.  Explain task menu.
+
+FEATURES OF KEYBOARD
+
+1.  Rollover Capability: The keyboard has rollover capability i. e
+    several keys can be pressed almost simultaneously and they will be
+    registered in sequence.
+
+2.  Auto-Repeat Capability: Most of the keys on the keyboard have
+    auto-repeat capability. When a key with this feature is held down,
+    it will repeat until it is release or another key is pressed.
+
+Uses of keyboard
+
+1.  It is used to enter text, number and punctuation mark.
+
+2.  It can be used to shut down the computer system in the absence of
+    the mouse.
+
+3.  CTRL + ALT + DEL can be used to restart computer during warm
+    booting.
+
+GENERAL EVALUATION
+
+1.  Explain the two features of keyboard.
+
+2.  Mention three uses of the keyboard.
+
+Computer studies for Junior Secondary Education JSS 1 By HiitPlc pages
+41 - 43
+
+WEEKEND ASSIGNMENT
+
+1.  The ……… key is the longest key and it is used for producing
+    spaces.(a) delete(b) space bar (c) home (d) print
+
+2.  The ……… is used to enter both upper and lower case characters.(a)
+    End key (b) ctrl key (c) shift key (d) page up
+
+3.  To enter or return key moves the cursor down use ……… key (a)
+    enter (b) home (c) left arrow (d) shift
+
+4.  . …. key deletes the character to the left.(a) back space (b)
+    shift (c) home (d) Alt
+
+5.  The keyboard features where several keys can be pressed almost
+    simultaneously and they will be registered in sequence is
+    called(a)page down (b) Auto repeat (c) Rollover Capability (d) Ctrl
+    +Alt Del
+
+THEORY
+
+1.  Explain the function of the following keyboard section keys
+
+(a) Print screen (b) shift key (c) home key (d) alt (e) space bar key
+
+2.  Explain the following features of the keyboard
+
+(a) Rollover Capability (b) Auto Repeat Capability

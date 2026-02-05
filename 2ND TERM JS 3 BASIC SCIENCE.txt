@@ -1,0 +1,1988 @@
+NAME:-------------------------------------------------------CLASS-----------------------
+
+SECOND TERM E-LEARNING NOTES
+
+JS 3 (BASIC 9)
+
+SUBJECT: BASIC SCIENCE
+
+SCHEME OF WORK FOR SECOND TERM
+
+WEEK TOPIC
+
+1.  Revision of first term’s work
+
+2.  Non-Living Things - Atomic Structure; Elements; Compounds; Mixtures
+
+3.  Chemical Symbols, Formulae and Equations.
+
+4.  Resources from Living Things; Plant resources ; Animal resources
+
+5.  Resources from Non- Living things; Soil; Solid minerals
+
+6.  Skill Acquisition
+
+7.  Ethical Issues in science and Development
+
+8.  Light Energy
+
+9.  Magnetism
+
+10. Revision
+
+11. Examination
+
+WEEK 1:
+
+Activity: REVISION OF FIRST TERMS WORK
+
+WEEK 2
+
+DATE………………
+
+TOPIC: ATOMIC STRUCTURE
+
+CONTENT
+
+1.  Meaning of Atom; Concept of Electrons, Protons and Neutrons
+
+2.  Simple atomic model; Properties of atoms
+
+3.  Concept of Elements, Molecules, Compounds and Mixtures
+
+Sub-Topic 1: Meaning of Atom; Concept of Electrons, Protons and Neutrons
+
+MEANING OF ATOM
+
+Matter (solid, liquid or gas) is made up of tiny particles called atoms.
+
+An atom is the smallest particle of matter which can take part in a
+chemical reaction.
+
+An English Chemist called John Dalton (1766 - 1844) put forward some
+statements about the atom in1803 and 1808 which are referred to as
+Dalton’s atomic theory. These helped to explain some observations about
+the structure and behavior of atoms. However with advancement in science
+and the contribution of more scientists like J.J Thomson in 1897, Robert
+Millikan in1909-1916 and Earnest Rutherford in 1911, the theory has been
+modified. Presently, scientists agree that:
+
+1.  An atom is made up of a number of small particles namely, the
+    electron, the proton and the neutron. None of these can exist on its
+    own naturally.
+
+2.  An atom is the smallest particle of matter that can take part in a
+    chemical reaction.
+
+3.  In nuclear reactions atoms can be created or destroyed.
+
+4.  Some atoms of the same element have different masses for example in
+    those elements that have isotopes.
+
+5.  Most inorganic compounds are formed by the joining of atoms of two
+    or more elements in a definite whole number ratio, but for large
+    organic molecules such as proteins, fats and starches which involve
+    the joining of thousands of atoms, this theory does not hold.
+
+CONCEPT OF ELECTRONS, PROTONS AND NEUTRONS
+
+An atom is made up of three fundamental particles; the electrons,
+protons and neutrons. Structurally, an atom consists of a small dense,
+centrally placed nucleus which is surrounded by electrons. The nucleus
+is made up of the protons and the neutrons. The protons and neutrons are
+collectively called the nucleons. Most of the atom is empty space. Most
+of the mass is concentrated in the nucleus.
+
+ELECTRONS: These are tiny particles situated at a comparatively great
+distance from the centre of the atom. They travel rapidly and
+continuously in orbits around the nucleus. An electron has a negative
+charge and a very negligible mass of about 9.1 × 10⁻²⁸g, this is about
+1800 times lighter than the hydrogen atom.
+
+PROTONS: These are tiny, positively charged particles found in the
+nucleus of an atom. The positive charge is equal in magnitude to the
+negative charge on the electron. Thus, an atom with the same number of
+electrons and protons is electrically neutral. The mass of the proton is
+1 × 10⁻²⁴g, which is about 1800 times larger than that of the electron.
+
+NEUTRONS: These are tiny particles found in the nucleus of an atom. They
+have no electric charge i.e. they are neutral. Neutrons have about the
+same mass as a proton.
+
+  -----------------------------------------------------------------------
+  Sub- atomic Particle    Unit of electric charge Relative mass
+  ----------------------- ----------------------- -----------------------
+  Proton                  + 1                     1.00
+
+  Electron                - 1                     1/1840
+
+  Neutron                 none                    1.00
+  -----------------------------------------------------------------------
+
+EVALUATION
+
+1.  What is an atom?
+
+2.  Name the fundamental particles of an atom
+
+3.  State the charges on these particles and their relative masses.
+
+4.  Who was the first chemist to propound theories about atoms?
+
+Sub-Topic 2: SIMPLE ATOMIC MODEL
+
+Ernest Rutherford in 1909 proposed a model of the atom. His model showed
+a small dense, positively charged nucleus surrounded by relatively empty
+space and electrons continuously orbiting the nucleus at a great
+distance from it. However in the light of further experimental results,
+other models of the atom have been proposed.
+
+The electrons occupy different orbits or shells called K,L,M,N, shells
+or 1,2,3,4, shells round the nucleus. These shells may also have sub
+shells designated s, p d, subshells.
+
+Examples are;
+
+(i) Hydrogen
+
+Electron on K shell
+
+Nucleus
+
+(ii) Sodium
+
+M shell
+
+L shell
+
+K shell
+
+STRUCTURE OF MATTER
+
+[C:\Users\JAMES COMFORT O\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\t978594a.bmp]
+
+Structure of Matter
+
+Modern physics has revealed successively deeper layers of structure in
+ordinary matter. Matter is composed, on a tiny scale, of particles
+called atoms. Atoms are in turn made up of minuscule nuclei surrounded
+by a cloud of particles called electrons. Nuclei are composed of
+particles called protons and neutrons, which are themselves made up of
+even smaller particles called quarks. Quarks are believed to be
+fundamental, meaning that they cannot be broken up into smaller
+particle.
+
+PROPERTIES OF ATOMS
+
+Atoms have several properties that help distinguish one type of atom
+from another and determine how atoms change under certain conditions.
+These properties include;
+
+(i) The Atomic number: The number of protons in the nucleus of an atom
+    is called its atomic number (Z). All atoms of the same element have
+    the same number of protons and so have the same atomic number. Atoms
+    are normally electrically neutral so the atomic number also shows
+    how many electrons an atom has. However, an atom may lose or gain an
+    electron to become a charged particle called an ion. When an atom
+    loses an electron it forms a positively charged ion called a cation.
+    When an atom gains an electron it forms a negatively charged ion
+    called an anion. The number of electrons thus determines many of the
+    chemical and physical properties of an atom.
+
+(ii) The Mass number: The sum of the protons and neutrons in the nucleus
+     of an atom is called the mass number of the atom (A). The number of
+     neutrons is denoted by N.
+
+  The relationship between the number of neutrons and protons is given
+  by; A=Z - N
+
+(iii) The Atomic Mass and Weight: Scientists use a device called a mass
+      spectrometer to measure atomic mass. The mass of an atom is
+      measured in terms of a unit called the atomic mass unit (amu). An
+      amu is defined as exactly 1/12 the mass of an atom of carbon with
+      six protons and six electrons.
+
+  An element’s atomic weight represents the mass of one mole of its
+  atoms. A mole is the mass of a very large number of atoms. A mole of
+  atoms of any element contains 6.02 × 10²³ atoms. This is also called
+  the molar mass.
+
+(iv) Isotopes: Atoms of the same element that differ in mass number (A)
+     are called isotopes. They have the same atomic number (Z). These
+     elements have the same number of protons in their nucleus but
+     different numbers of neutrons. For example, hydrogen has three
+     isotopes ¹H; ²H; ³H called Protium, Deuterium and Tritium
+     respectively.
+
+HYDROGEN ISOTOPES
+
+[]
+
+EVALUATION
+
+1.  Draw a simple atomic model of Helium atom with two electrons, two
+    protons and two neutrons.
+
+2.  Briefly describe the three types of hydrogen atoms that exist.
+
+3.  Write the (a) mass number (b) atomic number of Sodium atom.
+
+Sub-Topic 3: Concept of Elements, Molecules, Compounds and Mixtures
+
+ELEMENT: A substance that is made up of only one type of atoms is called
+an element. An element cannot be broken down into anything else.
+Examples are magnesium, copper, zinc, gold, iron, oxygen, carbon,
+chlorine, etc.
+
+MOLECULE: The smallest unit of a substance which can exist on its own
+and retain the properties of the substance is called a molecule. A
+molecule may be made up of one atom only e.g. Argon (Ar) or a
+combination of atoms e.g. Oxygen (O₂).
+
+COMPOUND: A substance formed by the chemical combination of the atoms of
+different elements is a compound. Examples are Sodium chloride (salt),
+water, kaolin, carbon (iv), oxide, sand, etc.
+
+MIXTURE: A substance formed when elements or compounds are mixed without
+any chemical reaction occurring is called a mixture. Examples are crude
+oil, soil, cup of tea, air, palm oil, solution of salt and water, etc.
+The components of a mixture can be separated by physical means like
+evaporation, magnetization, filtration, Sublimation, etc.
+
+PROPERTIES OF ELEMENTS, COMPOUNDS AND MIXTURES
+
+1.  ELEMENTS:
+
+(a) Chemical Properties:
+
+(i) Some elements are very reactive e.g. Sodium, Potassium, Chlorine,
+    Oxygen, etc. Sodium metal readily gets ignited on exposure to air.
+
+(ii) Some elements are moderately reactive e.g. when iron is exposed to
+     moist air it gradually begins to rust.
+
+(iii) Some elements are virtually unreactive e.g. Gold does not rust
+      when exposed to moisture.
+
+  (b) Physical Properties
+
+  (i) Some elements have light density e.g. Hydrogen gas while some are
+  heavy e.g.
+
+  Gold, Lead, etc.
+
+  (ii) Some elements are colourless e.g. Oxygen, Hydrogen and Nitrogen
+  while some are
+
+  coloured e.g. Chlorine, Bromine, etc.
+
+(iv) Solid, non-metallic elements are brittle and have a dull surface
+     e.g. Phosphorus and Sulphur while the metallic elements are
+     malleable and have a shiny surface e.g. Iron and Aluminium
+
+(v) All metals exist as solids at room temperature except Mercury which
+    is a liquid.
+
+2.  COMPOUNDS:
+
+(a) Physical Properties:
+
+(i) Most compounds formed from the chemical combination of metals and
+    non-metals are soluble in water but not in organic solvents like
+    kerosene.
+
+(ii) Compounds formed from the chemical combination of non-metals are
+     soluble in organic solvents like kerosene and petrol.
+
+(iii) Compounds have definite melting and boiling points.
+
+(b) Chemical Properties
+
+(i) Some chemicals react chemically with acids to form a new compound
+e.g. sodium
+
+hydroxide and hydrochloric acid react chemically to form sodium chloride
+and
+
+water.
+
+(ii) Some compounds decompose on heating e.g. calcium trioxocarbonate
+(iv) on
+
+heating produces calcium oxide and carbon (iv) oxide.
+
+3.  MIXTURES: Physical Properties:
+
+(i) Mixtures can be separated by physical means.
+
+(ii) Mixtures do not have definite boiling or melting points.
+
+(iii) The colour of individual constituents is visible.
+
+USES OF SOME ELEMENTS, COMPOUNDS AND MIXTURES
+
+USES OF ELEMENTS
+
+(a) Gold is used in making jewelry and coins. It is also used in art
+work and dentistry. Radioisotopes of gold are used in biological
+research and in treatment of cancer.
+
+(b) Iron is used for production of galvanized sheet metal and
+electromagnets. Iron compounds are used for medicinal purposes in the
+treatment of anemia and also in tonics.
+
+USES OF COMPOUNDS
+
+(a) Kaolin is used in the manufacture of fine porcelain and china ware;
+pottery, stoneware and bricks; as a filler for pigments and manufacture
+of paper.
+
+(b) Salt is used as a seasoning; as preservative for meats; in dyeing
+and in manufacture of soap and glass. Table salt is combined with small
+quantities of iodide to prevent occurrence of goiter. Industrially salt
+is a source of chlorine and sodium. Chlorine is used in manufacture of
+hydrochloric acid, chloroform and bleaching powder. Sodium is used for
+sodium carbonate, baking soda and sodium hydroxide.
+
+USES OF MIXTURES
+
+(a) Crude oil is used as fuel (petrol, kerosene, diesel, gas, etc.) and
+raw material in the chemical industry. Derivatives are used in
+manufacture of medicine, fertilizers, plastics, paints, building
+materials and for generating electricity.
+
+(b) Coal is used as fuel. It is used by electric power plants to produce
+electricity. Industrially it can be converted to coke and mixed with
+iron ore and limestone to produce iron. The coal gases given off during
+the process of coke formation are used to manufacture solvents,
+fertilizers, medicine, pesticides, etc.
+
+EVALUATION
+
+1.  Define the following terms and give two examples of each (a)
+    element (b) molecule (c) compound (d) mixture
+
+2.  Mention two things each example can be used for.
+
+3.  Enumerate three differences between elements, compounds and mixtures
+
+WEEKEND ASSIGNMENT
+
+1.  Complete the missing information below
+
++-----------+-----------+-----------+-----------+-----------+-----------+
+| Element   | Atomic    | Atomic    | Number of | Number of | Number of |
+|           |           |           |           |           |           |
+|           | number    | mass      | electrons | protons   | neutrons  |
++:==========+:==========+:==========+:==========+:==========+:==========+
+| Hydrogen  |           |           |           |           |           |
++-----------+-----------+-----------+-----------+-----------+-----------+
+| Carbon    |           |           |           |           |           |
++-----------+-----------+-----------+-----------+-----------+-----------+
+| Oxygen    |           |           |           |           |           |
++-----------+-----------+-----------+-----------+-----------+-----------+
+| Chlorine  |           |           |           |           |           |
++-----------+-----------+-----------+-----------+-----------+-----------+
+| Sodium    |           |           |           |           |           |
++-----------+-----------+-----------+-----------+-----------+-----------+
+
+2.  Air is a mixture of gases, mention three of the gases and state two
+    uses of each
+
+3.  Collect twelve (12) materials from your environment and classify
+    them into elements, compounds and mixtures.
+
+READING ASSIGNMENT
+
+Functional Basic Science for JJS Book 3; by Onyirioha, C. U et al. (pgs
+70-80)
+
+WEEK 3
+
+DATE………………
+
+TOPIC: CHEMICAL SYMBOLS, FORMULAE AND EQUATIONS
+
+CONTENT
+
+1.  Meaning of chemical symbols;Groups of chemical symbols
+
+2.  Chemical Formulae and Equations
+
+Sub-Topic 1: MEANING OF CHEMICAL SYMBOLS
+
+A chemical symbol is an abbreviated form of the name of an element. It
+represents one atom of the element.
+
+GROUPS OF CHEMICAL SYMBOLS
+
+There are four groups of symbols namely;
+
+(i) Symbols which are the first letter of the name of the element. These
+    symbols are written in capital letters.
+
+  -----------------------------------------------------------------------
+  NAME OF ELEMENT                            SYMBOL
+  ------------------------------------------ ----------------------------
+  Hydrogen                                   H
+
+  Carbon                                     C
+
+  Nitrogen                                   N
+
+  Oxygen                                     O
+
+  Sulphur                                    S
+
+  Phosphorus                                 P
+
+  Iodine                                     I
+
+  Fluorine                                   F
+  -----------------------------------------------------------------------
+
+(ii) Symbols which are the first two letters in the name of the element.
+     The first letter of the symbol is a capital letter while the second
+     letter is a small letter.
+
+  -----------------------------------------------------------------------
+  NAME OF ELEMENT                            SYMBOL
+  ------------------------------------------ ----------------------------
+  Helium                                     He
+
+  Lithium                                    Li
+
+  Beryllium                                  Be
+
+  Neon                                       Ne
+
+  Aluminium                                  Al
+
+  Calcium                                    Ca
+
+  Barium                                     Ba
+
+  Cobalt                                     Co
+
+  Bromine                                    Br
+  -----------------------------------------------------------------------
+
+(iii) Symbols which are the first letter and another letter in the name
+      of the element.
+
+  -----------------------------------------------------------------------
+  NAME OF ELEMENT                            SYMBOL
+  ------------------------------------------ ----------------------------
+  Magnesium                                  Mg
+
+  Chlorine                                   Cl
+
+  Manganese                                  Mn
+
+  Zinc                                       Zn
+
+  Cadmium                                    Cd
+
+  Platinum                                   Pt
+  -----------------------------------------------------------------------
+
+(iv) Symbols of elements derived from the Latin name of the element.
+
+  -----------------------------------------------------------------------
+  ENGLISH NAME OF ELEMENT      LATIN NAME                  SYMBOL
+  ---------------------------- --------------------------- --------------
+  Sodium                       Natrium                     Na
+
+  Iron                         Ferrum                      Fe
+
+  Copper                       Cuprum                      Cu
+
+  Potassium                    Kalium                      K
+
+  Silver                       Argentum                    Ag
+
+  Gold                         Aurum                       Au
+
+  Lead                         Plumbum                     Pb
+
+  Mercury                      Hydrargyrum                 Hg
+  -----------------------------------------------------------------------
+
+CONCEPT OF THE PERIODIC TABLE
+
+The most important classification of chemical substances is the
+arrangement of the elements in the Periodic Table/Chart. A Russian
+scientist called Mendeleev (1869) was the first to construct a periodic
+table. He arranged elements in order of increasing relative atomic mass.
+However, scientists have discovered that elements vary regularly with
+their atomic number. Each element in the periodic table is represented
+by a chemical symbol which makes it easy to identify them. Elements that
+share a column in the table have similar properties. The first twenty
+elements in the periodic table are;
+
+1. Hydrogen
+
+2. Helium
+
+3. Lithium
+
+4. Beryllium
+
+5. Boron
+
+6. Carbon
+
+7. Nitrogen
+
+8. Oxygen
+
+9. Fluorine
+
+10. Neon
+
+11. Sodium
+
+12. Magnesium
+
+13. Aluminum
+
+14. Silicon
+
+15. Phosphorus
+
+16. Sulphur
+
+17. Chlorine
+
+18. Argon
+
+19. Potassium
+
+20. Calcium
+
+EVALUATION
+
+1.  What is a chemical symbol?
+
+2.  Enumerate the four groups of chemical symbols and give three
+    examples of each.
+
+3. The periodic table shows the classification of elements in what
+order?
+
+4. Mention the first twenty elements in the periodic table.
+
+Sub-Topic 2: CHEMICAL FORMULAE AND EQUATIONS
+
+CHEMICAL FORMULAE: A chemical formula is the representation of a
+substance using symbols and numbers. A chemical formula represents a
+molecule of a substance(an element or compound) and gives information
+about the types of atoms present in the substance and their
+number/proportion.
+
+Every element and every compound has itsown formula e.g. the chemical
+formula for one molecule of water is H₂O. This means that one molecule
+of water consists of two atoms of hydrogen and one atom of oxygen.
+
+[]
+
+Other examples are;
+
+  -----------------------------------------------------------------------
+  Name of substance                   Chemical Formula
+  ----------------------------------- -----------------------------------
+  Oxygen(molecule)                    O₂
+
+  Hydrogen(molecule)                  H₂
+
+  Carbondioxide(compound)             CO₂
+
+  Ammonia(compound)                   NH₃
+
+  Magnesium oxide(compound)           MgO
+
+  Tetraoxosulphate(vi) acid(compound) H₂SO₄
+
+  Phosphorus(molecule)                P₄
+  -----------------------------------------------------------------------
+
+Chemical formulae are written in a particular way to obey certain rules.
+Each element in the substance is written in capital letter and its
+proportion/number in the substance is written as a subscript. A
+subscript applies to the symbol before it e.g. in the formula NH_(3,)
+the subscript(3) refers to H(hydrogen) only.
+
+Combining Powers (Valency) of Elements
+
+When atoms of different elements combine during a chemical reaction, the
+atom that loses electrons becomes positively charged (cation). The atoms
+that gain electrons become negatively charged (anion). The number of
+electrons lost or gained by an atom is it’s combining power/ valency.
+This is in order to attain the nearest noble gas electronic
+configuration that is, a neutral state.
+
+Metals show positively charged combining power. Non-metals such as
+chlorine have negative combining power. However, some elements exhibit
+more than one type of combining power.
+
+Examples;
+
+  -----------------------------------------------------------------------
+  ELEMENT                 SYMBOL                  VALENCY
+  ----------------------- ----------------------- -----------------------
+  Fluorine                F                       -1
+
+  Chlorine                Cl                      -1
+
+  Iodine                  I                       -1
+
+  Oxygen                  O                       -2 ,-1
+
+  Nitrogen                N                       3 , 5
+
+  Sodium                  Na                      1
+
+  Calcium                 Ca                      2
+
+  Zinc                    Zn                      2
+
+  Copper                  Cu                      1 , 2
+
+  Iron                    Fe                      2 , 3
+  -----------------------------------------------------------------------
+
+To write the chemical formula of an ionic compound superscripts are used
+for the ions, this makes the total positive charges equal the total
+negative charges. For example Sodium chloride is formed from a
+combination of a positively charged Sodium ion, Na⁺ and a negatively
+charged Chlorine ion, Cl⁻ , thus the chemical formula of Sodium chloride
+is Na⁺Cl⁻ simply written as NaCl. Other examples are;
+
+1.  Magnesium Sulphide Mg²⁺S⁻ (MgS)
+
+2.  Magnesium Chloride Mg²⁺Cl⁻ (MgCl)
+
+3.  Sodium Sulphide Na⁺S²⁻(Na₂S)
+
+4.  Aluminium Sulphide Al³⁺S²⁻ (Al₂S₃)
+
+A group of atoms carrying either positive or negative charge is called a
+radical(polyatomic ions)e.g. SO₄²⁻, OH⁻, NO₃⁻. The combining powers of
+such radicals are the net number of positive or negative charges they
+carry. The chemical formula for such polyatomic ions is written in
+brackets and the superscript/subscript is placed outside the bracket.
+Examples;
+
+1.  Trioxonitrate (v) ion (NO₃)⁻
+
+2.  Tetraoxosulphate (vi) ion (SO₄)²⁻
+
+3.  Trioxocarbonate (iv) ion (CO₃)²⁻
+
+4.  Sodium trioxonitrate (v) Na⁺NO₃⁻= NaNO3
+
+5.  Aluminium tetraoxosulphate(vi) Al³⁺⁽SO₄)²⁻ =Al₂(SO₄)₃
+
+CHEMICAL EQUATIONS: A chemical equation is a condensed statement of
+facts about a chemical reaction. A chemical reaction takes place
+whenever a substance undergoes chemical change. A chemical equation is
+thus used to represent the changes in bonding and changes in energy that
+take place in the reaction.
+
+Chemical reactions involve reactants and products. The reactants are the
+substances that existed before the chemical reaction took place. The
+products are the substances formed as a result of the reaction. For
+example, hydrogen gas reacts with oxygen gas to produce water (liquid).
+This statement can be written as;
+
+Hydrogen gas + Oxygen gas → Water
+
+The reactants which are hydrogen gas and oxygen gas are written on the
+left of the arrow while the product which is water is written on the
+right of the arrow. This statement can be written with chemical formulae
+thus;
+
+H_(2 (g)) + O_(2 (g)) → H₂O _((l))
+
+During a chemical reaction atoms may be re-arranged to form new
+substances but they are never created or destroyed. The equation above
+is referred to as an unbalanced equation this is because the number of
+Oxygen atoms on the right is not the same as the number on the left. To
+balance chemical equations coefficients are used. A coefficient is a
+number written in front of a formula to balance the equation.
+Coefficients indicate the smallest number of molecules of a substance
+that may take part in a reaction. So to balance the equation above a
+coefficient of 2 is introduced;
+
+2 H₂ + O₂ → 2H₂O
+
+The balanced equation reads, two molecules of hydrogen react with one
+molecule of oxygen to produce two molecules of water. The coefficient
+multiplies all the atoms in the reaction so; four atoms of Hydrogen
+react with two atoms of Oxygen to produce four atoms of Hydrogen and two
+atoms of Oxygen, a balanced reaction. Since the number of atoms in the
+reactants equal the number of atoms in the products, the arrow may be
+replaced with equality sign and written as;
+
+2 H₂ + O₂= 2H₂O
+
+The major steps in writing a balanced equation are;
+
+1.  Know all the reactants and products
+
+2.  Write a word equation.
+
+3.  Write an unbalanced formula equation.
+
+4.  Check the number of each type of atom on the left and right sides of
+    the arrow.
+
+5.  Write coefficients to balance the formula equation.
+
+Other examples are;
+
+1.  When Calcium trioxocarbonate(iv) is heated it decomposes and forms
+    Calcium Oxide and Carbondioxide
+
+CaCO₃ → CaO + CO₂
+
+2.  Tin reacts with Oxygen to form Tin oxide
+
+Sn + O₂ → SnO₂
+
+EVALUATION
+
+1.  Write the formula for each of the following:
+
+(a) Water
+
+(b) Zinc chloride
+
+(c) Calcium hydroxide
+
+(d) Aluminium trioxocarbonate(iv)
+
+2.  Write and balance each of the following equations
+
+(a) Sodium reacts with chlorine gas to produce Sodium chloride
+
+(b) Cl₂ + NaBr → Br₂ + NaCl
+
+WEEKEND ASSIGNMENT
+
+1.  Make a model of the periodic table
+
+2.  Write out the chemical equations for and the names of the following;
+
+(a) a compound that contains one carbon atom and four hydrogen atoms.
+
+(b) a compound that contains one atom of Calcium, one atom of Carbon and
+    three atoms of Oxygen.
+
+3.  Calculate the total number of atoms in four molecules of water.
+
+4.  Balance the following equations
+
+(a) Cl₂ + Na → NaCl
+
+(b) Cu + H₂SO₄ → CuSO₄ + H₂O + SO₂
+
+READING ASSIGNMENT
+
+Functional Basic Science for JJS Book 3; by Onyirioha, C. U et al. (pgs
+70-80)
+
+.
+
+WEEK 4
+
+DATE………………
+
+TOPIC: RESOURCES FROM LIVING THINGS
+
+CONTENT
+
+1.  Resources from plants
+
+2.  Resources from animals
+
+3.  Economic importance of resources to self and society.
+
+RESOURCES FROM LIVING THINGS
+
+Resources are useful things or materials we derive from living things or
+non-living things. These
+
+living things are plants and animals.
+
+Sub-Topic 1: RESOURCES FROM PLANTS
+
+There are crops that we grow for their leaves, fruits, stems and roots.
+We can identify four major types of plant resources. These are: food
+crops, crops for textiles, wood crops, and medicinal plants.
+
+Food Crops
+
+1.  Leafy Vegetables: These are plants grown for their leaves. These are
+    either cooked or eaten fresh as salads. They provide us with
+    minerals (calcium and iron) and vitamins (particularly vitamins A
+    and C) which our bodies need. Examples include lettuce, cabbage,
+    bitter leaf, pumpkin leaf,Talinum, and other plants used for ‘leafy
+    soups.
+
+[]
+
+2.  Fruits: Examples are peppers, tomatoes, okra, mangoes, bananas,
+    pawpaw, dates, oranges, lemons, pineapples and guavas. They provide
+    the body with mineral salts and vitamins.
+
+[] [] []
+
+[][]
+
+3.  Seeds: Examples of seeds include beans, maize, millet, sorghum,
+    rice, barley, and wheat. We eat many of them as cooked foods. They
+    provide us with starch, fat, and protein. We use barley for brewing
+    beer, and wheat to make flour used in baking bread and cakes. We
+    also use sorghum, and maize to make some local drinks.
+
+[]
+
+4.  Underground Crops: These include stem tubers or swollen stems such
+    as yam, cocoyam, and Irish potato; root tubers such as cassava,
+    sweet potato, carrot, radish; and bulbs like onions. They are called
+    underground crops because they grow under the ground. They provide
+    us mainly with starch.
+
+[C:\Users\JAMES COMFORT O\Documents\My Received
+Files\Photo0035.jpg][C:\Users\JAMES COMFORT O\Documents\My Received
+Files\Photo0043.jpg]
+
+Cassava Yam
+
+5.  Oil Plants: These are oil palm, groundnut, cotton, coconut, and
+    olive. We produce cooking oils from their seeds or fruits. The oil
+    is also used for other things like margarine, soap and body cream.
+
+[] Oil palm Nuts (in bunches)
+
+[]
+
+Coconut
+
+Crops for Textiles
+
+These are crops that we use to make cloth, ropes, baskets, and dyes.
+
+1.  Cloth: The fibre produced by cotton plants, found around the seeds
+    is used for making cloth.
+
+2.  Ropes: Materials for sacks and nets are made from different kinds of
+    plants like sisal, sorrel plant, guinea-hemp and jute. We also
+    obtain fibres from the Baobab, Bauhinia, and Greutvia.
+
+3.  Baskets: Palm leaves provide materials for making hats, bags,
+    baskets, and other things.
+
+4.  Dyes: We obtain dyes from many plants e.g. Indigo plant, logwood,
+    weld, safflower, Brazil wood, cola-nuts, etc.
+
+[C:\Users\JAMES COMFORT O\Documents\My Received Files\Photo0042.jpg]
+COTTON
+
+Wood Crops
+
+Some trees provide hardwood which is used for buildings and furniture,
+e.g. Mahogany, Ebony, Iroko, Obeche and Camphor. Some trees provide
+softwood which is used for wood pulp and paper, as well as for
+buildings. Also leaves of some plants are used for roofs, fences, and
+for making furniture. Palm leaves are used for roofing and fencing.
+
+Plants provide us with firewood which is a source of energy.
+
+Medicinal Plants
+
+The bark, roots and leaves of some plants are used as medicines;
+
+1.  against many diseases like fever
+
+2.  to heal wounds
+
+3.  to stop frequent stools
+
+4.  to cure indigestion
+
+Examples of such plants include; lemon grass, Neem, Aloe vera, bitter
+leaf, ginger, etc.
+
+CASH CROPS
+
+These are crops produced mainly for sale, particularly to people in
+other countries of the world. They include fibre crops, oil crops, and
+some food crops.
+
+Some very well-known cash crops are; fibre crops, such as cotton; oil
+crops such as groundnuts and oil palm; wood crops such as mahogany and
+ebony.
+
+Other cash crops are rubber, coffee, tea, cola, coconut, cocoa, sugar
+cane, tobacco, beni-seed, and shea-butter.
+
+[C:\Users\JAMES COMFORT O\Documents\My Received Files\Photo0031.jpg]
+
+[]
+
+Cocoa Plant
+
+EVALUATION
+
+1.  List four groups of resources obtained from plants.
+
+2.  Give three examples from each group and state their uses.
+
+3.  Discuss four major cash crops grown in Nigeria.
+
+Sub-Topic 2: RESOURCES FROM ANIMALS
+
+Animals that commonly provide us with food are of three main types;
+
+(i) Livestock Animals: This group consists of animals like cows, goats,
+    sheep and pigs. They provide us with meat, milk and butter. In
+    addition, they provide hides and skins which we use for leather
+    goods (bags, shoes, purses, belts, drums, garments). The word ‘hide’
+    refers to skin of large animals like cattle (also horses and
+    camels); and ‘skin’ refers to the skin of smaller animals like
+    goats, sheep, rabbits, pigs. We use animal bones and horns for
+    furniture, glue, and some other things. Their faeces are used as
+    manure to improve the growth of plants (food crops).
+
+[] []
+
+Sheep Pig
+
+[]
+
+Goat
+
+(ii) Poultry Animals: This group consists of poultry birds – chicken,
+     guinea fowl, duck, goose, pigeon, turkey etc. They provide us with
+     meat and eggs. We also use their feathers in pillows and for
+     decoration. Their droppings are used as manure on farms and garden.
+
+[] []
+
+Duck Turkey
+
+[]
+
+Geese
+
+(iii) Aquatic Animals: The third group consists of animals that live in
+      water; fish, prawns, crayfish and crabs (some crabs also live on
+      land). We use them for food. They provide us with proteins,
+      minerals and vitamins.
+
+[] []
+
+Fish Prawn
+
+[]
+
+Crab
+
+Apart from providing us with food, animals also provide other useful
+things already listed, animals provide glue (from their bones), wool and
+fur (from their coats) and ivory (from elephants’ tusks) used in making
+some kinds of furniture.
+
+EVALUATION
+
+1.  Enumerate three types of animals and mention the resources they
+    provide for us.
+
+2.  Mention other ways by which resources from animals can be used.
+
+SUB-TOPIC 3: ECONOMIC IMPORTANCE OF RESOURCES TO SELF AND SOCIETY
+
+Plants and animal resources are economically important to man and the
+society. They are sources of;
+
+(i) Food for man and livestock e.g. vegetables, fruits, seeds, tubers,
+    meat, eggs, butter, etc.
+
+(ii) Raw materials for industries e.g. rubber, cocoa, ginger, groundnut,
+     cotton, Mahogany, etc.
+
+(iii) Family and national income, that is from the local sale or export
+      of the resources.
+
+(iv) Manure; which help to replenish soil fertility.
+
+(v) Fuel e.g. firewood, charcoal, biogas, etc.
+
+(vi) Medicine e.g. Penicillin
+
+(vii) Herbicides etc.
+
+Plant and animal resources can also have harmful/ negative implications
+on man and his environment. This could arise from;
+
+(i) Pollution e.g. stench from refuse dumps and sewage; gases from
+    burning fuels; etc.
+
+(ii) Contamination of food or water thereby causing ill health in plants
+     and animals.
+
+(iii) Their being used as biological weapons e.g. Anthrax dust.
+
+(iv) Over consumption of foodstuff which may cause health problems like
+     obesity, bedwetting, diabetes, heart and circulatory diseases.
+
+EVALUATION
+
+Discuss briefly the economic importance of resources from living things
+to your society.
+
+WEEKEND ASSIGNMENT
+
+1.  (a) Mention five plants and five animals people in your community
+    make use of.
+
+(c) In what ways do people use such plants and animals?
+
+READING ASSIGNMENT
+
+Functional Basic Science for JJS Book 3; by Onyirioha, C. U et al. (pgs
+81-95)
+
+WEEK 5
+
+DATE………………
+
+TOPIC: RESOURCES FROM NON-LIVING THINGS
+
+CONTENT
+
+1.  Soil – Formation/ Composition; Types; Uses.
+
+2.  Solid Minerals – Examples; Importance and uses.
+
+3.  Distribution of solid minerals in Nigeria.
+
+SUB-TOPIC 1: FORMATION OF SOIL
+
+Soil is formed from rocks over thousands of years through a process
+known as weathering. Weathering is a chemical, physical, or biological
+means of breaking down rock into the small particles that eventually
+make up the soil.
+
+Soil is composed of;
+
+(i) The products of weathering which are inorganic in nature. They
+    include stone, gravel, clay, sand, silt. In these particles are
+    minerals such as magnesium, iron, phosphorus etc.
+
+(ii) Organic materials such as dead plants and animals, parts of plants,
+     and animal waste.
+
+(iii) Water, air, and soil organisms (e.g. earthworm, termites,
+      bacteria, fungi etc.).
+
+The inorganic particles determine to a large extent the properties of
+soil type.
+
+TYPES OF SOIL
+
+Soils are composed of a mixture of particles. These particles are sand,
+silt and clay which all have varying amount of humus. Humus is formed by
+the action of soil organisms on dead plants and animals as well as on
+animal wastes. Humus among other functions it performs in the soil helps
+the inorganic particles of the soil to stick together in crumbs.
+Therefore, the amount of humus in the soil also determines the
+properties of a soil type.
+
+There are three major types of soil:
+
+1.  Sandy soil: This consists of fine and large particles irregularly
+    arranged. It has a loose structure.
+
+2.  Loamy soil: This consists of a small amount of sand and clay
+    particles combined with decaying organic matter formed from plant
+    and animal tissue.
+
+3.  Clayey soil: This is made up of very fine particles with very little
+    space in between them.
+
+Properties of Sandy Soil
+
+(a) It is very porous.
+
+(b) Water drains away quickly.
+
+(c) It is coarse and easy to work (e.g. during tillage).
+
+(d) Requires fertilizer to grow crops well.
+
+[C:\Users\JAMES COMFORT O\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\t001725c.bmp]
+
+Sandy soil
+
+Properties of Clayey Soil
+
+(a) It is a fine-grained and heavy soil.
+
+(b) Water drains away poorly. They water log easily.
+
+(c) Difficult to work on.
+
+(d) Hardens and cracks during dry season.
+
+(e) Needs careful management to grow crops.
+
+[]
+
+Clayey soil
+
+Properties of Loamy Soil
+
+(a) It is a mixture of sand and clay particles.
+
+(b) Has good crumb structure which drains well yet retains sufficient
+    water for crop growth.
+
+(c) It has plenty of nutrients and is therefore good for agricultural
+    purposes.
+
+[]
+
+Loamy soil
+
+USES OF SOIL
+
+The importance of soil to man cannot be over-emphasized. Soil is used
+for;
+
+(a) Cultivating crops
+
+(b) Grazing of animals (livestock)
+
+(c) Building of houses
+
+(d) Making pottery (pots, flower vases, artifacts, etc.)
+
+(e) Serves as home for soil organisms.
+
+(f) Provides materials for building houses.
+
+(g) Provides surface for construction of roads, buildings and other
+    activities of man
+
+EVALUATION
+
+1.  Mention three components of soil.
+
+2.  Name three differences between the three main types of soil.
+
+3.  State five uses of soil.
+
+Sub-Topic 2: SOLID MINERALS
+
+Solid minerals are naturally occurring chemical elements or compounds
+which are found in rocks or in the soil, examples are gold, salt, tin
+etc.Minerals can exist as solids or non-solids or a combination of both.
+All rocks are made up of minerals. Rocks which contain a high
+concentration of the mineral of a particular metal, from which it can be
+profitably mined is called the ore of that metal e.g. iron ore, copper
+ore, etc.
+
+Solid minerals have been found deposited in some parts of Nigeria in
+commercial quantities and they are of valuable use to man. Due to their
+importance, the federal government established the Ministry of Solid
+Minerals to handle all matters concerning solid minerals.
+
+Man utilizes some of these minerals in their natural/crude form while
+some of them have been combined with other materials i.e. processed to
+form products which are useful to man.
+
+There are about 34 minerals resources found in Nigeria. They include
+columbite, gold, zinc, diamond, gypsum, limestone, tin, copper, etc.
+
+Scientific study of minerals is called mineralogy and the scientist who
+studies mineralogy is called a mineralogist.
+
+Below is a table showing some mineral resources found in Nigeria, their
+location and uses.
+
+Table Showing Mineral Resources Found In Nigeria and Their Uses
+
++----------------+-------------------+---------------+-------------------+
+| Mineral        | Location          | Importance    | Uses              |
++================+===================+===============+===================+
+| Limestone      | 1. Nkalagu in     | Found to be   | 1. Making of      |
+|                | Ebonyi State.     | of great      | cement            |
+| [Calcium       |                   | importance to | andconcrete used  |
+| trioxcarbonate | 2. Ewekoro near   | man and the   | in building       |
+|                | Abeokuta and      | economy of    | houses.           |
+| (iv), (CaCO₃)] | Shagamu in Ogun   | the nation.   |                   |
+|                | State.            |               | 2. Used in the    |
+|                |                   |               | manufacture of    |
+|                | 3. Sokoto         |               | sodium            |
+|                |                   |               | trioxocarbaonate  |
+|                | 4. Jakura near    |               | (iv)              |
+|                | Lokoja in Kogi    |               | Na₂CO_(3,)this is |
+|                | State             |               | very important in |
+|                |                   |               | the manufacture   |
+|                | 5. Ukpilla in Edo |               | of glass,         |
+|                | State             |               | production of     |
+|                |                   |               | soap, and         |
+|                | 6. Ashaka in      |               | softening of hard |
+|                | Bauchi State      |               | water.            |
+|                |                   |               |                   |
+|                |                   |               | 3. Part of raw    |
+|                |                   |               | materials in the  |
+|                |                   |               | production of     |
+|                |                   |               | iron.             |
+|                |                   |               |                   |
+|                |                   |               | 4. Used in the    |
+|                |                   |               | manufacture of    |
+|                |                   |               | quicklime         |
+|                |                   |               | (CaO),this is     |
+|                |                   |               | used in           |
+|                |                   |               | agriculture to    |
+|                |                   |               | remove acidity.   |
++----------------+-------------------+---------------+-------------------+
+| Gold (Au)      | 1. Ilesha in Osun | Found to be   | 1. Used for       |
+|                | state.            | of great      | making jewelry.   |
+|                |                   | importance to |                   |
+|                | 2. Gusau in       | man and to    | 2. Used as a      |
+|                | Zamfara State.    | the economy   | basis of          |
+|                |                   | of the        | international     |
+|                |                   | nation.       | monetary          |
+|                |                   |               | transactions.     |
++----------------+-------------------+---------------+-------------------+
+| Copper         | 1. Benin City in  | It is of      | 1. Mixed with tin |
+|                | Edo State         | great         | to produce        |
+|                |                   | Importance to | bronze; which is  |
+|                | 2. Igbo-Ukure in  | man and to    | used to produce   |
+|                | Anambra State.    | the economy   | tools and         |
+|                |                   | of the        | weapons.          |
+|                |                   | nation.       |                   |
+|                |                   |               | 2. Mixed with     |
+|                |                   |               | bronze to make    |
+|                |                   |               | coins.            |
+|                |                   |               |                   |
+|                |                   |               | 3. Used in making |
+|                |                   |               | ornaments, pots.  |
+|                |                   |               |                   |
+|                |                   |               | 4. Used for       |
+|                |                   |               | making electrical |
+|                |                   |               | wires and cables. |
+|                |                   |               |                   |
+|                |                   |               | 5. For making     |
+|                |                   |               | water pipes and   |
+|                |                   |               | cylinders.        |
++----------------+-------------------+---------------+-------------------+
+| Tin (Sn)       | 1. Jos in Plateau | Generally of  | 1. Used in        |
+|                | State.            | great         | coating iron as a |
+|                |                   | importance to | protection        |
+|                | 2. Bauchi in      | man and the   | against           |
+|                | Bauchi State.     | economy of a  | corrosion.        |
+|                |                   | nation.       |                   |
+|                |                   |               | 2. Used in making |
+|                |                   |               | tin cans for food |
+|                |                   |               | storage.          |
++----------------+-------------------+---------------+-------------------+
+| Salt           | 1. Abakaliki in   | Generally of  | 1. Serves dietary |
+|                | Ebonyi State.     | great         | purposes.         |
+|                |                   | importance to |                   |
+|                | 2. Along Nigeria  | man and the   | 2. Used in food   |
+|                | Coast             | economy of a  | preservation.     |
+|                |                   | nation.       |                   |
+|                | Lines from sea    |               | 3. Used in the    |
+|                | water that has    |               | manufacture of    |
+|                | evaporated        |               | other importance  |
+|                |                   |               | products e.g.     |
+|                | 3. Along Benue    |               | sodium, chlorine, |
+|                | river basins.     |               | sodium hydroxide  |
+|                |                   |               | acid, bleaches    |
+|                |                   |               | etc.              |
++----------------+-------------------+---------------+-------------------+
+| Lead (Pb)      | 1. Ogoja in Cross | Generally of  | 1. Serves as      |
+|                | River State       | great         | covering for      |
+|                |                   | importance to | underground water |
+|                | 2. Abakaliki in   | man and the   | pipes.            |
+|                | Ebonyi State      | economy of a  |                   |
+|                |                   | nation.       | 2. Serves as      |
+|                | 3. Along Benue    |               | shielding for     |
+|                | River in Taraba   |               | X-rays.           |
+|                | State.            |               |                   |
+|                |                   |               | 3. Used in car    |
+|                |                   |               | batteries         |
++----------------+-------------------+---------------+-------------------+
+| Coal           | 1. Udi hill in    | Generally of  | 1. Source of fuel |
+|                | Enugu state       | great         | for cooking and   |
+|                |                   | importance to | driving           |
+|                | 2. Okaba in Benue | man and the   | automobiles       |
+|                | State.            | economy of a  | (locomotive       |
+|                |                   | nation.       | engines)          |
+|                |                   |               |                   |
+|                |                   |               | 2.Destructive     |
+|                |                   |               | distillation of   |
+|                |                   |               | coal yields       |
+|                |                   |               | industrial        |
+|                |                   |               | products like;    |
+|                |                   |               |                   |
+|                |                   |               | Coke: which is    |
+|                |                   |               | used in the       |
+|                |                   |               | production of     |
+|                |                   |               | iron;             |
+|                |                   |               |                   |
+|                |                   |               | Benzene used in   |
+|                |                   |               | making plastics,  |
+|                |                   |               | dyes, explosives; |
+|                |                   |               |                   |
+|                |                   |               | Phenol for making |
+|                |                   |               | drugs,            |
+|                |                   |               | antiseptics etc.  |
++----------------+-------------------+---------------+-------------------+
+
+EVALUATION
+
+1.  What is a solid mineral?
+
+2.  Name five solid minerals found in Nigeria and state two
+    uses/importance of each.
+
+Sub-Topic 3: DISTRIBUTION OF SOLID MINERALS IN NIGERIA
+
+The map below shows the distribution of some important solid minerals in
+Nigeria.
+
+[C:\Users\JAMES COMFORT O\Desktop\04092012762-001.jpg]KEY TO SYMBOLS
+
+  -----------------------------------------------------------------------
+  Solid Mineral                                   Symbol
+  ----------------------------------------------- -----------------------
+  Coal                                            ▲
+
+  Gold                                            
+
+  Limestone                                       
+
+  Lead                                            
+
+  Tin                                             
+
+  Zinc                                            
+
+  Iron                                            ∆
+
+  Magnesium                                       ■
+  -----------------------------------------------------------------------
+
+EVALUATION
+
+Nigeria is divided into six geo-political zones. Mention three solid
+minerals found in your zone
+
+and state their locations.
+
+WEEKEND ASSIGNMENT
+
+1.  In which soil type would you expect a plant to grow best and why?
+
+2.  Draw a map of Nigeria and insert the locations of the minerals
+    discussed in class.
+
+READING ASSIGNMENT
+
+Functional Basic Science for JJS Book 3; by Onyirioha, C. U et al. (Pgs
+96-107)
+
+WEEK 6
+
+Topic: SKILL ACQUISTION
+
+CONTENT:
+
+1. Meaning of Skill Acquisition.
+
+2. Reasons for Skill Acquisition
+
+3. Types of Skills
+
+4. Importance of skill acquisition, improve quality of life, appreciate
+human capabilities.
+
+TOPIC: SKILL ACQUISTION
+
+Skill is the ability to do something well. Skills that can be acquired
+to earn a living include: knowledge of computer operations,
+hairdressing, tailoring, auto repair, pottery, bread making, etc.
+
+Sub –Topic1: Meaning of Skill Acquisition
+
+Skill acquisition is the art of learning to do something in order to
+earn a living and or to
+
+Survive. There are different types of professional e.g. Fine artists,
+mechanics,
+
+Potter, vulcanizes, from whom one can learn trades in order to earn a
+living.
+
+[pix201105042303023[1].jpg (360×240)]
+
+Learning to read and write is a skill you acquire at school. Therefore,
+skill acquisition
+
+Involves learning to do something well. It helps to improve quality of
+life and appreciate
+
+human capability.
+
+Reasons for Skill Acquisition
+
+There are many reasons why one will want to acquire a skill. Some of
+these may include:
+
+1. Taking risks
+
+2. Decision Making.
+
+3. Managing emergency situation
+
+4. Survival strategy
+
+5. Leaning to live together.
+
+Sub-Topic2: Types of skills
+
+There are different types of skills. Skills are learnt in:
+
+1. Farming: This is the skill acquired for crop and animal husbandry.
+People farm in order to survive. Crop husbandry involves planting crops
+such as maize, cassava, yam, plantain, etc. Animal husbandry involves
+fish farming, poultry farming, snail farming, etc.
+
+2. Basic computer literacy: learning to operate a computer is a skill.
+
+[]
+
+3. Photography: This is the art, process or job of taking photographs or
+filming an object by
+
+different types of camera
+
+[]
+
+4. Internet browsing- e-mail operation: Internet browsing is the act of
+looking for information
+
+On the internet using a computer. E-mail is electronic mailing system.
+It is a fast means of
+
+Sending and receiving mails on the Internet through a computer
+
+[]
+
+5. Fax (facsimile): Fax machine short form for facsimile machine is a
+device that can send or
+
+receive pictures and text over a telephone line.
+
+[http://static.ddmcdn.com/gif/fax-machine-copierfax.jpg]
+
+A MODERN FAX MACHINE
+
+5.  Desktop publishing and networking
+
+Importance of skill acquisition
+
+Skills enable us to;
+
+1. Secure employment;
+
+2. Improve our quality of life;
+
+3. Enjoy our lives, e.g. photography, soccer;
+
+4. Save lives, e.g. first aid;
+
+5. Provide services to other people, e.g. carpentry, welding;
+
+6. Communicate with other people, e.g. computer literacy; and
+
+7. Improve our knowledge.
+
+Evaluation
+
+1. Explain what is meant by skill acquisition.
+
+2. Give two reasons why we need to acquire skills.
+
+3. List three types of skills.
+
+Weekend Assignment:
+
+1. What is skill?
+
+2. List any 3 skills you may wish to acquire in your order of preference
+and state why.
+
+Week 7:
+
+Topic: ETHICAL ISSUES IN SCIENCE AND DEVELOPMENT
+
+CONTENT:
+
+1. Meaning of right and wrong application of science.
+
+2. Implications of the application of science to the development of the
+society.
+
+Introduction:
+
+Science is the study of structure and behavior of the physical and
+natural world and phenomenon through a systematic observation and
+experiment. This study has opened and widened the knowledge and capacity
+of man beyond his imagination.
+
+Sub-Topic1: Meaning of Right and Wrong Applications of Science
+
+THE RIGHT APPLICATIONS OF SCIENCE
+
+The application of any knowledge gained from science that will directly
+or
+
+Indirectly benefit mankind is described as the right application. There
+are many applications of science that have benefited mankind in all
+areas of his existences. Some of these applications are in the areas of:
+
+1. Health and medicine: Through the scientific study of human health,
+science has discovered and produced drugs for the cure of many diseases.
+Some of the deadly diseases that caused death of men, women and children
+in the olden days like smallpox, malaria, tetanus, etc.
+
+[]
+
+2. Transportation: in the olden days, before the great advances in
+science, people trekked from one place to another carrying heavy load on
+their heads. With the invention of bicycles, cars, Lorries, ships, aero
+planes, etc., transportation of goods and services has become easier,
+faster and more comfortable.
+
+[] []
+
+OLD MEANS OF TRANSPORTATION
+
+[] [][]
+
+MODERN TRANSPORTATION METHODS
+
+3. Agriculture: food is now produced in very large quantities with
+minimal lab our through the use of modern farming equipment like
+tractors, ridgers, combine harvesters, etc. the yield of crops per given
+area has tremendously increased through the use of scientifically
+improved seedlings and seeds, fertilizers, pesticides, etc.
+
+4. Communication: Scientific advances have greatly improved the ease and
+speed of communication. Transfer of information between people separated
+by wide distance is achieved through the use of telephone, GSM,
+internet, etc.
+
+[]
+
+5. Security: as a result of scientific inventions, human lives and
+properties have become more secure than in the olden days. Scientific
+equipment like smoke detector, weather satellite, seismic detectors,
+etc. , can give us advance warning of impending dangers like fire,
+hurricane, drought, earthquake, volcanic eruptions, etc. this will
+enable us act on time to stop the danger or reduce its effect. With
+scientific equipment, we can defend ourselves against attacks from
+dangerous animals and from fellow human beings.
+
+Sub-Topic 2: Wrong applications of science
+
+When science is wrongly applied, it causes problems, miseries,
+destructions and even deaths. Individuals and nations should take care
+on how science is applied. Its wrong application has far reaching
+devastating consequences.
+
+Wrong applications of science are:
+
+1.  Health and medicine: the manufacture and release into the market of
+    fake and substandard drugs have led to loss of many lives. Some
+    medicines become poison when wrongly taken hence; many drugs carry
+    the label ‘keep out of reach of children’.
+
+2.  Transportation: Roads accidents occur due to poor maintenance of
+    roads and vehicles.
+
+air disasters also occur due to poor maintenance and ageing of
+aircrafts. This mishaps lead to loss of lives and property.
+
+3.  Agriculture: Some of the chemicals used in agriculture like
+    pesticides are poisonous.
+
+When they are washed into rivers and streams they poison the water and
+destroy aquatic lives.
+
+[C:\Users\mr.augustine\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\t014494a.bmp]
+
+Sprayer
+
+4.  Communication: through the use of internet, computer, phone, etc.
+    fraud and
+
+Pornography, terrorism, and other criminal activities are easily and
+rapidly carried out.
+
+5.  Security: mankind can be wiped off the earth at the press of a
+    button. This is what
+
+the discovery of atomic energy and manufacture of atomic brought about
+by the use of
+
+biological warfare weapons such as the release of anthrax dust into the
+atmosphere. Its
+
+effects are far reaching.
+
+IMPLICATIONS OF SCIENCE TO THE DEVELOPMENT OF THE SOCIETY
+
+Science has both positive and negative implications to the development
+of the society. The usefulness of science to the society and the danger
+it poses depends on the person using or manipulating it and the use to
+which it is put.
+
+The results of science include chemical, biological and nuclear weapons,
+which are some of the most destructive weapons that have ever been made
+in the world.
+
+Evaluation
+
+1.  List 3 good scientific practices.
+
+2.  Mention three bad scientific practices.
+
+3.  What are the reasons for good and bad scientific practices?
+
+Weekend Assignment
+
+1.  State 2 ways science can contribute to national development
+
+2.  Do you know that one careless action you may take can affect the
+    well-being of others and your physical environment? State 2
+    practical things you can do personally to show that you care for the
+    welfare of others.
+
+Week 8: Light Energy
+
+CONTENT: 1.Review of the concepts of (I) reflection (ii) refraction of
+light
+
+2. Apparent depth and its dangers to swimmers.
+
+3. Vision
+
+4. Dispersion and rainbow.
+
+TOPIC: Light Energy
+
+Light is a form of energy. It enables us to see things when it is
+reflected from objects into
+
+our eyes.
+
+Sub-Topic1: Review of the concepts of reflection
+
+Reflection is the sending back of rays of light after striking a
+reflecting surface. Reflection from a surface depends on how smooth or
+rough the surface is. A reflection from a smooth surface like a mirror
+is regular while that from rough surfaces like walls and stones is
+irregular or diffuse.
+
+[]
+
+[C:\Users\mr.augustine\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\T046290A.bmp]
+
+There are two basic laws of reflection. These are:
+
+i.  The incident ray, the normal ray and the reflected ray at the point
+    of incidence, all lie on the same plane.
+
+ii. The angle of incidence is equal to the angle of reflection
+
+APPLICATIONS OF REFLECTION IN SOME OPTICAL INSTRUMENTS
+
+For example:
+
+i.  The plane mirror is used as a dressing mirror because it shows a
+    reflection of our image.
+
+ii. The simple periscope contains two plane mirrors facing each other,
+    and inclined at an angle of 45⁰ to the horizontal. It is used to
+    view beyond obstacles e.g. in submarines, simple periscopes are used
+    to view ships on the ocean.
+
+iii. The sextant: this is used for finding the angle of elevation of the
+     sun; it also consists of two mirrors.
+
+iv. The kaleidoscope: This is used for producing different color patters
+    when turned. It makes use of plane mirrors inclined at 60⁰ to each
+    other.
+
+Sub-Topic 2: Refraction of light
+
+The change in direction of light as it passes from one medium to another
+is known as refraction. For instance, light which bounces back from an
+object that is placed underwater travels first through water and then
+the air, before it gets to the eyes of the observer? At some angles, the
+object partially submerged will appear to bend where it enters the
+water; this is because light from that part underwater is refracted.
+
+[]
+
+Light always travels at different speeds through different materials,
+hence it changes speed at the boundary between two materials. When a
+beam of light falls on boundary at an angle, light on the side of the
+beam which gets there first, is fired to speed up or slow down, after
+which the light from the other side’s touches the new materials. It
+makes the beam to bend or be refracted at the boundary.
+
+Apparent Depth
+
+The concept of apparent depth can be explained through the phenomenon of
+refraction.
+
+When a coin is dropped into a cup of water and of water and viewed
+directly from above, it appears to be nearer the water surface.
+
+The distance between the level where the coins is and the surface of the
+water is the real depth; while the distance between the level where the
+coin appears to be and the surface of the water is the apparent depth.
+Other areas where we have apparent depth include:
+
+i.  The depth of a swimming pool always appears shallower than it is in
+    reality. This could be dangerous to a swimmer who would think that
+    the pool is not deep and could get drowned if he is not a good
+    swimmer.
+
+ii. A thick glass slab e.g. a rectangular glass block, appears not to be
+    as thick as it actually is, when viewed directly from above.
+
+Sub-Topic 3: VISION
+
+Vision is the ability to see. The eye is the organ with which we see.
+
+[]
+
+  The eye consists of the following parts:
+
+i.  Eye lens: The eye lens is used for focusing light entering the eye
+    onto the retina. It produces real but inverted images of objects on
+    the retina.
+
+ii. Retina: This is the light sensitive area at the back of the eye
+    where inverted images are formed. The optical nerves begin at the
+    retina. []
+
+  The working of the eye
+
+iii. Cornea: this is the tick protective transparent layer in front of
+     the eye. It begins the refraction of light entering the eye.
+
+iv. The pupil: This is a circular opening (hole) in the eye which
+    permits light to enter the eye. In dim light, the opening increases
+    to allow more light to enter but in bright, the opening decreases to
+    reduce the amount of light entering the eye.
+
+v.  Iris: this is the colored circular part in front of the eye lens. it
+    controls or regulates the amount of light entering the eye by
+    increasing or decreasing the size of the pupil.
+
+vi. Ciliary muscles: These are attached to the eye lens and are used to
+    vary its thickness and consequently its focal length. This enables
+    the eye to focus objects at different distances on the retina.
+
+vii. The optic nerves: The optic nerves transmit light impulses from the
+     retina to the brain for interpretation.
+
+viii. The aqueous humour: This is a transparent liquid between the eye
+      lens and cornea. It helps in the refraction of light.
+
+ix. The vitreous humour: This is a transparent jelly – like liquid
+    between the eye lens and
+
+  the retina. It also helps in refraction of light and in maintaining
+  the shape of the eye.
+
+DISPERSION OF LIGHT
+
+Dispersion of light is the seperation of white light into its component
+colours.
+
+White light comprises seven different colours, these colours are Red,
+Orange, Yellow, Green, Blue, Indigo and Violet. It can be easily
+remebered by forming an acronym with the first letter of each colour
+(ROYGBIV). It is in these order it appear when separated.
+
+[] [C:\Users\mr.augustine\AppData\Local\Microsoft\Windows\Temporary
+Internet Files\T046298A.bmp]
+
+The seven colours of ROYGBIV are known as the spectrum of white light.
+When white light travels from air or vacuum into a denser medium, the
+speed of its component colors varies. This results in dispersion i.e.
+separation of component colours of white light. Dispersion of white
+light can be obtained by shinning a beam of white light throught a
+triangular prism before a white screen.
+
+DISPERSION AND RINBOW
+
+When sunlight rays get into a raindrops, the light bends or refracts in
+a manner to form the spectrum of colors. The red light is refracted the
+least and violet light is refracted the most.All other colors fall in
+between the red and violet colors thereby forming the rainbow.
+
+  []
+
+  Rainbow formation
+
+Evaluation
+
+i.  Explain reflection and refraction.
+
+ii. What is meant by apparent depth?
+
+iii. What is the danger of apparent depth to swimmers?
+
+Weekend Assignment
+
+i.  How would you explain the process of seeing an object?
+
+ii. Draw and label the eye.
+
+Week 9
+
+TOPIC: Magnetism
+
+CONTENTS:
+
+i. meaning of magnet
+
+ii. Loadstone
+
+iii. Laws of Magnetism
+
+iv. Magnetic poles and magnetic fields
+
+v.  Care for magnets
+
+Sub-Topic 1: Meaning of magnet
+
+When a magnet is put in a container filled with office pins or needles,
+by the time you bring the magnet out of the container; most of the pins
+or needles would have clung to it.
+
+It shows that a magnet can attract needles and some other materials like
+cobalt, nickel, iron etc.
+
+All the materials which can be attracted by magnet are called magnetic
+materials. The ability of a magnet to attract magnetic materials is
+called magnetism.
+
+[]
+
+A magnet
+
+Lodestone
+
+Lodestone also called magnetite is a black oxide of iron ore (Fe₃0₄).it
+has the ability to attract small pieces of iron and other pieces of
+magnetic materials. It is the original magnet,and large deposits of this
+substance were first discovered in Magnesia, in Asia, from where the
+name magnet was formed.
+
+Law of magnetism
+
+The law of magnetism states that like poles of a magnet repel each
+other, while unlike poles attracts each other. []
+
+It implies that north and south poles of a magnet attract each other
+while the north pole of a magnet repels the north pole of another
+magnet. Similarly, the south pole of a magnet repels the south pole of
+another magnet.
+
+Sub-Topic2: Magnetic poles and magnetic fields
+
+If a bar magnet is tied in the middle and suspended in the air, when the
+bar magnet is made to swig freely, after some time it comes to rest in
+the north- south direction. If there is attraction, then the pole of the
+magnet beside the north-seeking pole of the standard magnet is the
+south-seeking pole.
+
+[]
+
+Poles of a magnet
+
+Magnetic Field
+
+Magnetic fieid refers to the region around a magnet where the effects of
+the force due to the magnet can be felt by magnetic materials.
+
+Magnetic materials are substances that can be attracted by magnets
+e.g.iron, steel, nickel, cobalt and certain alloys of iron. Maginets do
+not attract non-magnetic materials.Examples of non – magnetic materials
+include: rubber, glass, wood, etc.
+
+A magnet has the ability to attract magnetic materials to itself over a
+distance with no contact between them. Therefore, the space around a
+magnet where this attraction is possible is the magnetic field. The
+magnet field around a magnet is made up of fild lnes.
+
+[]
+
+MAGNETIC FIELD
+
+Care of magnets
+
+1.  Magnets should not be allowed to drop from a height onto a hard
+    surface. This can weaken their magnetic properties.
+
+2.  Magnets should not be hammered. This can also weaken its quality.
+
+3.  Heating to a high temperature removes the magnetic qualities of
+    permanent magnets and spoils the steel.
+
+4.  Magnets should be stored away properly after use.
+
+Evaluation
+
+1. (a) Describe the lodestone.
+
+(b) Mention any 2 qualities of lodestone.
+
+2. (a) What is magnetic force?
+
+(b) State the law of magnetism.
+
+(c) List two methods of caring for a magnet.
+
+Weekend Assignment
+
+Explain how to show the magnetic fields around a magnet.
+
+Week 10. Revision
+
+Week 11. Examination
+
+Week 12. Examination
+
+BASIC SCIENCE TEXT BOOKS:
+
+1.  Functional Basic Science for JJS Book 3; by Onyirioha, C. U et al.

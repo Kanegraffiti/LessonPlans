@@ -1,0 +1,728 @@
+NAME:…………………………………………………………...........CLASS:………………………………
+
+SECOND TERM: E-LEARNING NOTES
+
+JS 2(BASIC 8)
+
+SUBJECT: COMPUTER STUDIES
+
+SCHEME OF WORK
+
+WEEK TOPIC
+
+1. Revision of first terms work
+
+2. Programming Language: (a) Meaning of computer program (b) Computer
+Programming Language i. Meaning ii. Examples (Logo, BASIC, etc)
+
+3 & 4 BASIC: (a) Basic Language: i. Meaning of BASIC ii. BASIC character
+set
+
+  (b) Key BASIC Statement: i. Line number ii. Remark (REM) iii.
+  Assignment (LET, INPUT, DATA). iv. Output Statement v. Print vi.
+  Program Terminator (END, STOP) (c) Simple BASIC Statements.
+
+5&6 Graphic Packages 1: (a) Meaning of graphic package (b) Examples of
+graphic package: paint, Corel Draw, Instant Artist, Harvard graphics,
+Photo shops, log graphic etc (c) Features of graphic packages: Tool bar,
+Menu bar, Printable area, Colour Palette. etc.
+
+7&8 Graphic packages II: The Paint: (i) The Paint Environment -
+identification of features of the paint environment. (ii) Paint tools
+and their functions
+
+9. Graphic Packages II: (iii) Using Paint to draw and colour simple
+objects. (Practical work)
+
+10. Revision
+
+11. Examination
+
+WEEK 1
+
+Activity: Revision of first terms work
+
+WEEK 2
+
+Date: __________
+
+Topic: Programming Language: Meaning of Computer program, computer
+programming language - meaning, examples
+
+CONTENT: i. Meaning of computer program
+
+ii. Computer programming language – meaning, example (Logo, BASIC etc)
+
+Meaning of computer program
+
+A set of instructions to the computer to perform a specific task written
+in a specific programming language is called computer program.
+
+Meaning of programming language
+
+A programming language is the language in which a computer programmer
+writes the instructions which a computer should follow in solving a
+given problem.
+
+A programmer is someone who writes instructions for computer to perform
+a specific task. Programming is the act of writing instructions for
+computer to perform a specific task. A computer person that writes a set
+of instructions for the computer to obey is referred to as computer
+programmer.
+
+The three main categories of programming languages are:
+
+1. Machine language
+
+2. Low level language
+
+3. High level language
+
+Machine Language
+
+A language in which the computer performs the instructions immediately
+without any further transaction is called machine language. The machine
+language is the computer primary language. It is the only language that
+the computer understands and does not require interpretation. It is
+usually written in the forms of Os and Is. Machine language is referred
+to as the first generation programming language because it was the
+earliest computer programming language.
+
+Low Level Language
+
+Low level language is machine dependent language written in symbolic
+codes but human being understands it better than machine language. It
+must be translated to machine language before execution. They are very
+difficult to use and cannot be used interchangeably on different types
+of computer. However, they also produce the fastest programs.
+
+High level language
+
+High level language is the programming language written by the
+programmer in form of English language for better understanding. It uses
+symbols and words to give instructions to the computer. High level
+language must also be translated into machine for language execution. It
+is less machine dependent unlike machine language.
+
+Sub-Topic: Types of high level language
+
+There are five types of high level language. They are:
+
+1. Scientific language
+
+2. Multi-purpose language
+
+3. Commercial language
+
+4. Command language for operating system
+
+5. Special purpose programming language.
+
+Scientific Language
+
+This is the language that is used for scientific and engineering
+purposes. Examples include FORTRAN – Formula Translator, BASIC –
+Beginner All-purpose Symbolic Instruction Codes. It combines the
+features of the extensive arithmetic computational ability and the
+ability to handle mathematical expression.
+
+Multi-Purpose
+
+This types of high level programming language can cope with a number of
+different types of application areas. Examples of multi-purpose language
+are Visual BASIC, C++, Java etc.
+
+Commercial Language
+
+This type of program was first developed by the American Government
+Defensive Department to create a common administrative language for
+internal and external use. The prominent language is COBOL (Common
+Business Oriented Language).
+
+Command for Operating System
+
+This program language is used to control the operating system. An
+example is DOS Commands (Disk Operating System commands.)
+
+Special Purpose Language
+
+This is programming language designed for a specific assignment. It is
+tailored towards a particular problem. E.g. Structural Query Language.
+
+Evaluation
+
+1. What is Computer program?
+
+2. Who is a programmer?
+
+3. State differences between Machine language and High level language.
+
+Reading Assignment
+
+Read the next week topic i.e. BASIC Programming, from ‘A hand book on
+computer studies, by Niyi Adekolegan. Chapter seven, page 61-71
+
+Weekend Assignment
+
+1. The full meaning of FORTRAN is (a) Formation of Transport
+
+  (b) Formula Translator (c) Form of Test (d) Formular Transportation
+
+2. ______ is someone who writes instructions for computer to perform a
+specific task. (a) Instructor (c) Engineering (c) Programmer (d)
+Educator
+
+3. _______ is the programming language written by the programmer in form
+of English language for better understanding. (a) High level language
+(b) Low level language (c) Machine language (d) Small level language
+
+4. ______ is machine dependent language written in symbolic codes. (a)
+High level language (b) Low level language (c) Machine language (d)
+Small level language
+
+5. _______ is only language that the computer understands and does not
+require interpretation. . (a) Low level language (b) High level language
+
+(c) Small level language (d) Machine language
+
+WEEK 3 & 4
+
+Date: __________
+
+Topic: BASIC Programming: (a) BASIC Language (b) Key BASIC Statement (c)
+Simple BASIC
+
+Statements.
+
+CONTENT: (a) Basic Language: i. Meaning of BASIC ii. BASIC character set
+
+  (b) Key BASIC Statement: i. Line number ii. Remark (REM) iii.
+  Assignment (LET, INPUT, DATA). iv. Output Statement v. Print vi.
+  Program Terminator (END, STOP) (c) Simple BASIC Statements.
+
+Meaning of BASIC
+
+BASIC stands for Beginner All-purpose Symbolic Instruction Code. It is
+not only simple but also a very powerful high level programming
+language. It consists of statements written in English words and
+mathematical notation. It is written in a human understandable form. Its
+syntax is close to the natural way of solving some human problems.
+
+Rules for BASIC programming
+
+1. All expressions must be written in capital letters.
+
+2. First character must be alphabet
+
+3. BASIC statement or keyword must start with a line number.
+
+4. Each line must contain only one BASIC program statement.
+
+5. There must not be full stop at the end of a statement.
+
+6. The start/begin statement must be the first entry in a program.
+
+7. End/Stop statement must be the last entry in a program.
+
+Element of BASIC
+
+1. Character Set: This refers to any letter, number, sign or symbol and
+punctuation mark in any language used for representation of information.
+Character set are: Numbers 0 - 9, Alphabets A - Z, Special characters or
+symbols +, -, *, /, <, &, :, ; etc
+
+2. Data Constants & Data Variables
+
+i. Data Constant (or constants)
+
+  These are data that do not change during the course of computation or
+  program execution.
+
+ii. Data Variables (variables)
+
+They are data that can change in constant numerals versus variable
+numerals.
+
+Constant data Variables data
+
+10 A = 1 10 Input A
+
+20 B = 2 20 Input B
+
+30 Sum = A + B 30 Sum = A + B
+
+40 PRINT SUM, A, B 40 PRINT SUM, A, B
+
+50 END 50 END
+
+3. Reserved or Keyword:
+
+  This is also referred to as a BASIC statement. It is an instruction
+  which has special meaning to the computer or BASIC interpreter.
+  Examples: REM, LET, INPUT, READ, PRINT, GOTO, FOR…., NEXT etc.
+
+Sub-Topic 2: Key BASIC Statement
+
+i. LINE numbers
+
+In BASIC we need a line number for each basic statement. Numbers are
+positive whole numbers from 1 to 99,999. A line number is always in
+integer form and this are done to give room for correction when
+necessary. It is presented in the format below:
+
+10 ……………………..
+
+20 ……………………..
+
+30 ……………………..
+
+40 …………………….. etc.
+
+ii. REM Statement (Remark)
+
+REM statements stand for remark. The statement allows you to add comment
+and explanatory notes to your program. This may as well include date and
+what the program is all about. Computer does not execute REM; it is just
+a remark that aids the programmer to remember certain thing about the
+program.
+
+Examples: REM PROGRAMM TO SAY HELLO
+
+REM TO CALCULATE AREA OF A TRIANGLE
+
+Sub-Topic 3: Key BASIC Statement (Cont.)
+
+iii. ASSIGNMENT Statement
+
+Assignments consists of the following: INPUT, LET and DATA
+
+INPUT Statement
+
+This allows you to type in data from the keyboard while the program is
+running. This program will be able to produce the required result with
+given data. The input statements have the general format.
+
+10 INPUT A
+
+20 INPUT B
+
+30 INPUT C
+
+Example: 10 INPUTm “YOUR NAME” =$
+
+10 INPUT “m YOURSURNAME”, =$
+
+LET Statement
+
+The LET statement permits the programmer to assign numbers and formulas
+to a variable name.
+
+Example: 10 LET AREA = ½ (b*h)
+
+20 LET JS=”How do you do”
+
+30 LET ANN=50
+
+DATA Statement
+
+The statement (Read and Data) goes hand in hand. Data statement is used
+to enter data into a program before running the program or before
+program execution occurs. The data to be entered into the program is
+read from DATA statement.
+
+E.g. 10 READ A, B, C, D
+
+20 DATA 3, 5, 10, 15
+
+iv. OUTPUT Statement
+
+The result of the processed data is displayed by output statement. The
+PRINT statement: bring out the processed data. The print statement has
+the general format.
+
+Example: 20 PRINT D, E, C OR
+
+20 PRINT A, $, C
+
+v. PROGRAM TERMINATOR (END, STOP)
+
+END Statement: this always indicates the end of a BASIC program. When
+the computer comes across the end statement in a program, the computer
+automatically ends. End should always be the last statement in the
+program to indicate the physical end of the program.
+
+STOP indicates when the logical executions of a program should cease.
+
+Example: 40 STOP
+
+Sub-Topic 4: Simple BASIC Statements
+
+Structure of BASIC program
+
+- One instruction or statement per line
+
+- Each line must begin with a line number
+
+- Line numbers are unsigned positive integers
+
+- Line number should increase in steps of 10 to allow for insertion of
+  extra lines during program modification.
+
+Example 1: Write a BASIC program to find the average of three numbers.
+
+Solution:
+
+5 REM FIND AVERAGE
+
+10 READ A
+
+15 READ B
+
+20 READ C
+
+25 SUM=A+B+C
+
+30 AVE=SUM/3
+
+35 PRINT AVE
+
+40 DATA 5, 10, 15
+
+45 END
+
+Example 2: Write a BASIC program to calculate the volume of a box.
+
+Solution:
+
+10 REM FIND THE VOLUME OF A BOX
+
+20 READ L,B,H
+
+30 READ V=L*B*H
+
+40 DATA 3,5,10
+
+50 PRINT V
+
+60 END
+
+Evaluation
+
+1. Write a BASIC program to find the average of five numbers.
+
+2. Write short nonnte on program terminator.
+
+3. Explain the following: Character set, constants and variables
+
+Reading Assignment
+
+Read the next week topic i.e. Graphic Package – Corel Draw – practice on
+the use of the tools. ‘A hand book on computer studies, by Niyi
+Adekolegan. Chapter Eleven, page 99-107
+
+Weekend Assignment
+
+1. _____ this always indicates the end of a BASIC program. (a) Start
+statement (b) Constant (c) End statement (d) Line statement
+
+2. _____ statement is used to enter data into a program before running
+the program or before program execution occurs. (a) Data statement (b)
+Line statement (c) End statement (d) Let statement
+
+3. ____allows you to type in data from the keyboard while the program is
+running. (a) Let statement (b) Data statement (c) Input statement
+
+  (d) Output statement
+
+4. ____allows you to add comment and explanatory notes to your program.
+
+  (a) Input statement (b) Data statement (c) Rem Statement (d) Output
+  statement
+
+5. ____ consists of statements written in English words and mathematical
+notation. (a) BASIC (b) FORTRAN (c) Programming (d) Constants
+
+Theory
+
+1. List five rules for BASIC programming.
+
+WEEK 5 & 6
+
+Date: __________
+
+TOPIC: Graphic Packages 1:
+
+CONTENT: (a) Meaning of graphic package
+
+  (b) Examples of graphic package: paint, Corel Draw, Instant Artist,
+  Harvard graphics, Photo shops, log graphic etc
+
+  (c) Features of graphic packages: Tool bar, Menu bar, Printable area,
+  Colour Palette. etc.
+
+  (d) Practical Design
+
+Meaning of graphic package
+
+A package is software written to perform a particular task. A graphics
+use lines, shapes, colours and patterns to show information. Apart from
+being able to draw lines and other geometric shapes, it is also possible
+to do full art works and painting in full colours of any kind of
+objects. Graphic images can be created using computers.
+
+Examples of Graphic Packages
+
+All these can be produced with art illustration graphic software. They
+are:
+
+i. Paint
+
+ii. Corel Draw
+
+iii. Instant Artist
+
+iv. Harvard graphics
+
+v. Photo shops
+
+vi. Logo graphics
+
+Corel Draw
+
+This can be defined as a high-quality graphic designed and developed for
+automating artistic functions. Corel draw was developed by Corel
+Corporation founded in June 1985. This corporation has a network of over
+100 distributors in more than 40 countries.
+
+Corel Draw Version
+
+There are many versions of Corel Draw ranges from Corel 5, 6, 7, 8, 9,
+10, 11, 12, 14, 15 and 16. The uses of all the versions are similar only
+with little modifications and improvement to the advantage of the user.
+However, the teaching will be based on Corel Draw 11 versions.
+
+Loading Corel Draw 11
+
+- Click start in the task bar
+
+- Click all programs
+
+- Click Corel graphic suite 11
+
+- Click CorelDRAW 11
+
+OR
+
+Double click Corel Draw ICON
+
+Sub-topic 2: The Features of Corel Draw
+
+[]
+
+1. Title Bar: It displays application name and file name at the top of
+the package.
+
+2. Menu Bar: It displays the various command use to work on the program.
+
+3. Page Layout: This is a workspace for user’s work. It is otherwise
+known as printable page.
+
+4. Standard Tool Bar: This bar contains icon and commands for performing
+operations on documents.
+
+5. Status Bar: It displays detailed information about programs selected.
+
+6. Ruler: This is used for measuring objects in order to obtain accurate
+size. There are two types: horizontal and vertical.
+
+7. Properties Bar: It displays detailed information about graphic/text
+selected.
+
+8. Scroll Bar: They are used for scrolling page layout/work in the
+desired direction (Horizontal and Vertical)
+
+9. Colour Palette: It displays various colours used for colouring any
+selected object/text.
+
+10. Tool Box: This contains the tools used to create, fill, and modify
+your drawing.
+
+(Show the workspace of Corel DRAW with features; also explain the
+tools/command in the tool box)
+
+Sub-topic 3: Practical: Using the toolbox to design ‘Nigerian Flag’.
+
+Sub-Topic 4: Practical: Using the toolbox to design ‘MTN Logo’.
+
+[]
+
+Evaluation
+
+1. Explain Corel Draw.
+
+2. What is Package?
+
+3. List examples of Corel draw.
+
+Weekend Assignment
+
+Design the following:
+
+i. DLHS Logo
+
+ii. A man paddling a canoe on the sea.
+
+WEEK 7 & 8
+
+Date: __________
+
+Topic: Graphic Packages II: The Paint
+
+CONTENT: (i) The Paint Environment - identification of features of the
+paint environment.
+
+  (ii) Paint tools and their functions.
+
+The Paint Environment
+
+Paint is a program you can use to create drawings on a blank canvas or
+top of other pictures. The program features a tool bar on the left side
+of the window.
+
+Loading Paint
+
+- Click on the start icon in the button in the bottom left corner of the
+  screen.
+
+- Click the programs option.
+
+- Click on Accessories to see sub menus.
+
+- Click on the paint environment.
+
+[]
+
+Features of Paint Environment
+
+1. Title bar
+
+2. Tool box
+
+3. Workspace
+
+4. Restore Button
+
+5. Minimize Button
+
+6. Close Button
+
+Sub-Topic 2: Using the tools
+
+Find the tool bar on the screen. The icons on this bar stand for the
+different things you can do.
+
+The small pictures on the toolbar are called icons. Icon is a graphical
+representation of a symbol. [C:\Users\Austin\Desktop\DSC_0000094.jpg]
+
+No.1 is called freeform tool, is used to select any irregular part of an
+object or picture.
+
+No.2 is used for selection of a square or rectangular part of the
+object.
+
+No.3 is called eraser. It allows you to rub out the lines and shapes you
+have drawn.
+
+No.4 Is used to fill the entire picture or an enclosed shape with
+colour.
+
+No.5 is used to set the current foreground colour or background colour.
+
+No.6 is called magnifier and is used to zoom in on a section of your
+object.
+
+No.7 is called pencil and is used to draw thin freehand lines.
+
+No.8 is called brush and the function is to paint thick or shaped free
+form line and curve.
+
+No.9 is called Air brush and the function is to create an airbrush
+effect in the object or picture.
+
+No. 10 Is known as text tool and is used to entre text in the object or
+picture.
+
+No.11 is used to draw a straight line.
+
+No. 12 is used to draw a smooth, curved line.
+
+No.13 is used to draw rectangular shapes.
+
+No.14 is called polygon and the function is to make a shape with any
+number of sides.
+
+No.15 is used to make eclipse and circles.
+
+No.16 is used to draw rectangular shapes with rounded edges.
+
+Sub-Topic 3: Practical steps on how to draw a house
+
+Steps:
+
+i. Go to paint environment and select any object you want to draw e.g. a
+house.
+
+ii. You first make use of the rectangle; you place it and then draw
+another rectangle below the drawn rectangle already.
+
+iii. After that, you will still make use of a square or a rectangular to
+create a window.
+
+iv. Moreover, you use a rounded rectangle or a curve for the door and
+then either a dot or a circle for the door knob and you are through with
+the construction of the house.
+
+v. Nevertheless, if you insist on painting brush and the colour of your
+desired choice. And if there is any error, you click on eraser and
+select on the size of eraser you think would be okay for your amendment.
+
+Sub-Topic 4: Practical steps on how to draw a television
+
+Steps:
+
+i. Go to paint and then click on a rounded rectangle and you place it on
+the page.
+
+ii. You click on the same rounded rectangle but this time around, you
+thicken it to bring out its beauty, you place it inside the one you have
+already placed
+
+iii. Moreover, as for the creation of the antenna, you click on line,
+you draw on top of the rounded rectangle, and as for the picture viewed
+in the television, you click on clip art and select your image then you
+are through.
+
+Evaluation
+
+1. List the features of paint.
+
+2. What is pencil and brush use for?
+
+Weekend Assignment
+
+1. Design a cup.
+
+2. Design Nigeria flag.
+
+WEEK 9
+
+Date: __________
+
+TOPIC: Graphic Packages II: (Cont.)
+
+CONTENT: (iii) Using Paint to draw and colour simple objects. (Practical
+work)
+
+Sub-Topic 1: (Practical work)
+
+Sub-Topic 2: (Practical work)
