@@ -1,0 +1,163 @@
+CONTACT 1
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 1st Period
+Subject: Basic Technology
+Topic: Mechanical Energy Transmission System
+Subtopic: Meaning and types of transmission systems
+Reference Materials:
+- NERDC Basic Technology Curriculum for Upper Basic Education (JSS3)
+- State Scheme of Work for Second Term Basic Technology
+- Approved Basic Technology textbooks for Junior Secondary Schools
+Instructional Materials:
+- Charts of belt drive, chain drive, and gear drive
+- Bicycle parts for demonstration
+- Whiteboard and marker
+- Improvised pulley model
+Previous Knowledge:
+- Learners have learnt concept of energy and simple machines.
+Entry Behaviour:
+- Learners can identify rotating parts on a bicycle.
+Behavioural Objectives:
+By the end of the lesson, learners should be able to:
+- define mechanical energy transmission.
+- list at least four transmission systems.
+- explain functions of transmission systems in machines.
+- identify common examples in home/workshop equipment.
+- state safety precautions during operation.
+Lesson Presentations:
+Step 1: Introduction/Set Induction
+- Teacher displays a bicycle and asks how motion moves from pedal to wheel.
+- Teacher links learners’ responses to transmission systems.
+Step 2: Presentation/Teaching Steps
+- Teacher defines mechanical energy transmission system.
+- Teacher explains types: belt drive, chain drive, gear drive, and friction drive.
+- Teacher discusses where each is used.
+- Teacher highlights basic operational safety.
+Step 3: Learners’ Activities
+- Learners identify transmission types from diagrams.
+- Learners discuss in groups where they have seen each type.
+- Learners copy board notes.
+Step 4: Summary/Board Summary
+- Meaning of mechanical energy transmission.
+- Types and applications.
+- Safety rules.
+Lesson Content:
+Mechanical Energy Transmission
+- Transfer of motion/power from one part of a machine to another.
+
+Types
+- Belt drive: uses belt and pulleys.
+- Chain drive: uses chain and sprockets.
+- Gear drive: uses meshing gears.
+- Friction drive: uses contact between rotating surfaces.
+
+Uses
+- Bicycle movement.
+- Industrial machines.
+- Vehicle and workshop systems.
+
+Safety Precautions
+- Keep guards in place.
+- Avoid loose clothing around moving parts.
+- Lubricate and maintain systems regularly.
+Evaluation:
+1. Define mechanical energy transmission.
+2. List four types of transmission systems.
+3. State one use each of belt and chain drives.
+4. Mention three safety precautions.
+5. Why is maintenance important in transmission systems?
+Conclusion:
+- Teacher concludes that transmission systems are essential for moving power efficiently in machines.
+Assignment:
+1. Write and explain four mechanical transmission systems.
+2. Draw and label a simple belt drive arrangement.
+3. List three machines in your environment and state their transmission type.
+
+CONTACT 2
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 2nd Period
+Subject: Basic Technology
+Topic: Mechanical Energy Transmission System
+Subtopic: Belt and chain drives (construction, advantages, and limitations)
+Reference Materials:
+- NERDC Basic Technology Curriculum for Upper Basic Education (JSS3)
+- State Scheme of Work for Second Term Basic Technology
+- Approved Basic Technology textbooks for Junior Secondary Schools
+Instructional Materials:
+- Real bicycle chain and sprocket
+- Belt and pulley samples
+- Diagram chart for labelled components
+- Whiteboard and marker
+Previous Knowledge:
+- Learners can define mechanical transmission and list its types.
+Entry Behaviour:
+- Learners can identify belt and chain on common machines.
+Behavioural Objectives:
+By the end of the lesson, learners should be able to:
+- describe parts of belt drive and chain drive.
+- differentiate belt drive from chain drive.
+- state at least three advantages of each system.
+- identify limitations of each system.
+- recommend suitable system for given applications.
+Lesson Presentations:
+Step 1: Introduction/Set Induction
+- Teacher recaps Contact 1 and displays belt and chain samples.
+- Learners observe and state visible differences.
+Step 2: Presentation/Teaching Steps
+- Teacher explains components of belt drive: driver pulley, driven pulley, belt.
+- Teacher explains components of chain drive: chain, driver sprocket, driven sprocket.
+- Teacher discusses advantages and disadvantages of both systems.
+- Teacher presents practical examples and selection considerations.
+Step 3: Learners’ Activities
+- Learners label diagrams in groups.
+- Learners complete comparison table.
+- Learners respond to application questions.
+Step 4: Summary/Board Summary
+- Components of belt and chain drives.
+- Advantages and limitations.
+- Selection for use.
+Lesson Content:
+Belt Drive
+- Components: belt, driver pulley, driven pulley.
+- Advantages: smooth operation, simple design, low cost.
+- Limitations: slipping may occur; less suitable for very heavy loads.
+
+Chain Drive
+- Components: chain, driver sprocket, driven sprocket.
+- Advantages: positive drive with little slip; suitable for heavy loads.
+- Limitations: noisier, requires lubrication and maintenance.
+
+Comparison
+- Belt drive is quieter; chain drive is stronger and more reliable for high load.
+Evaluation:
+1. List the parts of a belt drive.
+2. List the parts of a chain drive.
+3. State two advantages of belt drive.
+4. State two limitations of chain drive.
+5. Differentiate belt drive from chain drive.
+6. Which system is better for heavy load and why?
+7. Draw and label one transmission system of your choice.
+Conclusion:
+- Teacher emphasizes proper understanding of transmission systems for safe machine operation and maintenance.
+Assignment:
+1. Write and explain differences between belt drive and chain drive.
+2. Draw and label belt drive and chain drive systems.
+3. Suggest a suitable transmission system for bicycle, generator, and factory conveyor with reasons.
+4. Explain three safety rules for handling moving transmission parts.
+
+QC REPORT:
+Detected Class: JSS3 (Basic 9)
+Detected Subject: Basic Technology
+Detected Topic: Mechanical Energy Transmission System
+Major Improvements Made:
+- Structured the content into two complete contacts with full required fields.
+- Added practical classroom activities and safety emphasis.
+- Improved technical clarity and removed weak/incomplete phrasing.
+- Aligned evaluation and assignments with behavioural objectives.
+Assumptions Made:
+- Week one topic was selected as the lesson target.
+- Date was not provided, so blank line was used.

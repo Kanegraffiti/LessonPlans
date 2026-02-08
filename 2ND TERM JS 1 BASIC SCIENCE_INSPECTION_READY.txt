@@ -1,0 +1,172 @@
+CONTACT 1
+Date: __________________
+Class: JSS1 (Basic 7)
+Duration: 40 minutes
+Period: 1st Period
+Subject: Basic Science
+Topic: Disease Prevention
+Subtopic: Water-borne diseases and sources of clean water
+Reference Materials:
+- NERDC Basic Science Curriculum for Upper Basic Education (JSS1)
+- State Scheme of Work for Second Term Basic Science
+- Approved Basic Science textbooks for Junior Secondary Schools
+Instructional Materials:
+- Chart showing common water-borne diseases
+- Pictures of clean and dirty water sources
+- Whiteboard, marker, and chalkboard illustrations
+- Real objects: covered water container, water filter cloth
+Previous Knowledge:
+- Learners have discussed personal hygiene and environmental sanitation.
+Entry Behaviour:
+- Learners can mention common illnesses found in their communities.
+Behavioural Objectives:
+By the end of the lesson, learners should be able to:
+- define water-borne diseases correctly.
+- list at least four examples of water-borne diseases.
+- identify at least four sources of clean water.
+- describe at least three symptoms of cholera or typhoid.
+- explain simple ways of preventing water-borne diseases.
+Lesson Presentations:
+Step 1: Introduction/Set Induction
+- Teacher displays two containers of water (clean and dirty) and asks learners which one is safe for drinking.
+- Teacher links responses to the need for disease prevention.
+Step 2: Presentation/Teaching Steps
+- Teacher explains the meaning of water-borne diseases.
+- Teacher discusses cholera, dysentery, diarrhoea, and typhoid with causes and symptoms.
+- Teacher guides learners to identify safe sources of water: pipe-borne water, deep well water, rain water, and spring water.
+- Teacher explains preventive measures: boiling water, proper storage, and hygienic food handling.
+Step 3: Learners’ Activities
+- Learners mention diseases they know that are linked to dirty water.
+- Learners work in pairs to classify water sources as safe/unsafe.
+- Learners copy key points and ask questions.
+Step 4: Summary/Board Summary
+- Meaning of water-borne diseases.
+- Examples: cholera, dysentery, diarrhoea, typhoid.
+- Sources of clean water.
+- Basic preventive measures.
+Lesson Content:
+Meaning of Water-borne Diseases
+- Water-borne diseases are diseases spread through contaminated water.
+
+Examples and Symptoms
+- Cholera: severe stooling, vomiting, dehydration.
+- Dysentery: stool with blood/mucus, stomach pain.
+- Diarrhoea: frequent watery stooling, weakness.
+- Typhoid: fever, headache, abdominal discomfort.
+
+Sources of Clean Water
+- Pipe-borne water.
+- Deep well water.
+- Rain water collected hygienically.
+- Spring water from protected source.
+
+Prevention of Water-borne Diseases
+- Boil drinking water.
+- Store water in clean, covered containers.
+- Wash hands before eating and after toilet use.
+- Keep food and surroundings clean.
+Evaluation:
+1. Define water-borne disease.
+2. List four water-borne diseases.
+3. State two symptoms of cholera.
+4. Mention four sources of clean water.
+5. Explain two ways of preventing typhoid.
+6. Why should drinking water be boiled?
+Conclusion:
+- Teacher reinforces that safe water and hygiene prevent many common diseases.
+Assignment:
+1. Write and explain five ways to keep household drinking water safe.
+2. List four water-borne diseases and one symptom for each.
+3. Draw and label two safe methods of storing drinking water.
+
+CONTACT 2
+Date: __________________
+Class: JSS1 (Basic 7)
+Duration: 40 minutes
+Period: 2nd Period
+Subject: Basic Science
+Topic: Disease Prevention
+Subtopic: Water treatment processes and immunization
+Reference Materials:
+- NERDC Basic Science Curriculum for Upper Basic Education (JSS1)
+- State Scheme of Work for Second Term Basic Science
+- Approved Basic Science textbooks for Junior Secondary Schools
+Instructional Materials:
+- Water treatment flow chart
+- Sample alum, filter cloth, and transparent container
+- Immunization schedule chart
+- Whiteboard and marker
+Previous Knowledge:
+- Learners already know common water-borne diseases and sources of clean water.
+Entry Behaviour:
+- Learners can mention at least one method used at home to make water safer.
+Behavioural Objectives:
+By the end of the lesson, learners should be able to:
+- explain at least four water treatment processes.
+- differentiate filtration from chlorination.
+- state at least four advantages of treated pipe-borne water.
+- define immunization correctly.
+- identify at least four diseases prevented by immunization.
+Lesson Presentations:
+Step 1: Introduction/Set Induction
+- Teacher revises Contact 1 through short oral questions.
+- Teacher presents cloudy water and asks how it can be made safe.
+Step 2: Presentation/Teaching Steps
+- Teacher explains filtration, chlorination, distillation, flocculation, and desalination.
+- Teacher discusses advantages of treated pipe-borne water.
+- Teacher introduces immunization as protection against specific diseases.
+- Teacher gives examples of vaccine-preventable diseases.
+Step 3: Learners’ Activities
+- Learners observe a simple filtration demonstration.
+- Learners complete a table: process and purpose.
+- Learners discuss why children should complete immunization schedules.
+Step 4: Summary/Board Summary
+- Water treatment methods and uses.
+- Benefits of treated water.
+- Meaning and importance of immunization.
+Lesson Content:
+Water Treatment Processes
+- Filtration: removes visible particles and dirt.
+- Chlorination: chlorine kills harmful microorganisms.
+- Distillation: evaporates and condenses water to get purer water.
+- Flocculation: alum helps tiny particles clump together for removal.
+- Desalination: removes salt from sea water.
+
+Advantages of Treated Pipe-borne Water
+- Cleaner and safer for drinking.
+- Reduced spread of water-borne diseases.
+- Convenient domestic supply.
+- Better taste and less suspended matter.
+
+Immunization
+- Immunization is the process of building body resistance against diseases using vaccines.
+- Diseases prevented include polio, measles, tetanus, tuberculosis, and whooping cough.
+- Importance: protects child health and reduces disease outbreak.
+Evaluation:
+1. What is filtration?
+2. Differentiate between chlorination and distillation.
+3. State two uses of alum in water treatment.
+4. Mention four advantages of pipe-borne water.
+5. Define immunization.
+6. List four diseases that vaccines help prevent.
+7. Explain why immunization is important in childhood.
+Conclusion:
+- Teacher concludes that water treatment and immunization are major tools for disease prevention.
+Assignment:
+1. Write and explain four water treatment methods.
+2. Draw and label a simple home water filtration setup.
+3. List five diseases prevented through immunization.
+4. State three reasons parents should follow immunization schedules.
+
+QC REPORT:
+Detected Class: JSS1 (Basic 7)
+Detected Subject: Basic Science
+Detected Topic: Disease Prevention
+Major Improvements Made:
+- Reorganized the lesson into inspection-ready format with complete mandatory fields.
+- Split one weekly lesson into Contact 1 and Contact 2 with clear pedagogy.
+- Corrected grammar and standardized scientific terms.
+- Added measurable behavioural objectives, structured evaluation, and assignment tasks.
+Assumptions Made:
+- Date was not provided, so blank line was used.
+- Week 1 content was treated as the intended lesson for rewriting.
