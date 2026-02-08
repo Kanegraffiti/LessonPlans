@@ -1,0 +1,165 @@
+CONTACT 1
+Date: __________________
+Class: JSS2 (Basic 8)
+Duration: 40 minutes
+Period: 1st Period
+Subject: Basic Technology
+Topic: Circles
+Subtopic: Meaning and parts of a circle
+Reference Materials:
+- NERDC Basic Technology Curriculum for Upper Basic Education (JSS2)
+- State Scheme of Work for Second Term Basic Technology
+- Approved Basic Technology textbooks for Junior Secondary Schools
+Instructional Materials:
+- Compass, ruler, pencil, protractor
+- Circle charts showing labelled parts
+- Drawing board and plain sheets
+- Whiteboard and marker
+Previous Knowledge:
+- Learners can draw simple lines and angles.
+Entry Behaviour:
+- Learners have seen circular objects like wheels and plates.
+Behavioural Objectives:
+By the end of the lesson, learners should be able to:
+- define circle correctly.
+- identify and define major parts of a circle.
+- draw a circle of given radius using compass.
+- differentiate between chord and diameter.
+- locate quadrant, sector, and segment in a drawn circle.
+Lesson Presentations:
+Step 1: Introduction/Set Induction
+- Teacher displays circular objects and asks learners to describe their shape.
+- Teacher introduces the topic as circles in technical drawing.
+Step 2: Presentation/Teaching Steps
+- Teacher defines a circle.
+- Teacher explains parts: centre, radius, diameter, chord, sector, segment, quadrant, tangent.
+- Teacher demonstrates drawing a circle of given radius.
+- Teacher points out differences among parts.
+Step 3: Learners’ Activities
+- Learners draw circles and label parts in pairs.
+- Learners answer oral questions on definitions.
+- Learners identify parts on teacher’s diagram.
+Step 4: Summary/Board Summary
+- Definition of circle.
+- Parts and meanings.
+- Steps for drawing circle of given radius.
+Lesson Content:
+Circle
+- A circle is a plane figure bounded by a curved line called circumference.
+
+Parts of a Circle
+- Centre: fixed point equidistant from all points on circumference.
+- Radius: line from centre to circumference.
+- Diameter: line through centre touching circumference at both ends.
+- Chord: line joining any two points on circumference.
+- Sector: region bounded by two radii and an arc.
+- Segment: region bounded by a chord and an arc.
+- Quadrant: one-quarter of a circle.
+- Tangent: straight line touching the circle at one point.
+
+Drawing a Circle
+- Mark centre point.
+- Set compass to required radius.
+- Rotate compass fully to form the circle.
+Evaluation:
+1. Define a circle.
+2. Differentiate radius and diameter.
+3. What is a chord?
+4. Define sector and segment.
+5. Draw and label a circle showing six parts.
+6. Why must compass setting remain fixed while drawing a circle?
+Conclusion:
+- Teacher concludes that accurate understanding of circle parts is necessary for technical constructions.
+Assignment:
+1. Write and explain the parts of a circle.
+2. Draw and label a circle showing centre, radius, diameter, chord, sector, and tangent.
+3. Explain two differences between sector and segment.
+
+CONTACT 2
+Date: __________________
+Class: JSS2 (Basic 8)
+Duration: 40 minutes
+Period: 2nd Period
+Subject: Basic Technology
+Topic: Circles
+Subtopic: Constructions involving circles
+Reference Materials:
+- NERDC Basic Technology Curriculum for Upper Basic Education (JSS2)
+- State Scheme of Work for Second Term Basic Technology
+- Approved Basic Technology textbooks for Junior Secondary Schools
+Instructional Materials:
+- Compass, ruler, pencil
+- Drawing board and plain sheets
+- Construction procedure chart
+- Whiteboard and marker
+Previous Knowledge:
+- Learners can define and label parts of a circle.
+Entry Behaviour:
+- Learners can draw a circle of given radius.
+Behavioural Objectives:
+By the end of the lesson, learners should be able to:
+- construct a circle through three given points.
+- locate centre of a given circle using chords.
+- construct touching circles on converging lines.
+- follow construction steps accurately.
+- present neat and labelled technical drawings.
+Lesson Presentations:
+Step 1: Introduction/Set Induction
+- Teacher revises previous contact by asking learners to draw and label circle parts.
+- Teacher presents a practical challenge: finding centre of a drawn circle.
+Step 2: Presentation/Teaching Steps
+- Teacher demonstrates construction through three non-collinear points.
+- Teacher demonstrates method of finding centre using perpendicular bisectors of two chords.
+- Teacher demonstrates simple touching circles on converging lines.
+- Teacher emphasizes drawing accuracy and neatness.
+Step 3: Learners’ Activities
+- Learners carry out guided constructions individually.
+- Learners compare results in groups and correct errors.
+- Learners label all construction lines neatly.
+Step 4: Summary/Board Summary
+- Construction through three points.
+- Method of locating circle centre.
+- Steps for touching circles.
+Lesson Content:
+Construction Through Three Points
+- Join points with straight lines.
+- Draw perpendicular bisectors of two sides.
+- Intersection of bisectors gives centre.
+- Use centre and radius to draw circle through the three points.
+
+Finding Centre of a Given Circle
+- Draw two chords in the circle.
+- Construct perpendicular bisector of each chord.
+- Intersection point is the centre.
+
+Touching Circles on Converging Lines
+- Draw converging lines.
+- Bisect included angle to locate possible centres.
+- Construct larger circle, then smaller touching circle using geometric steps.
+Evaluation:
+1. State steps for constructing a circle through three points.
+2. How do you find centre of a given circle?
+3. Why are perpendicular bisectors important in circle construction?
+4. Draw and label a circle through points A, B, and C.
+5. Construct and label two touching circles.
+6. Mention two common errors in circle construction.
+Conclusion:
+- Teacher concludes that careful geometric construction improves technical drawing precision.
+Assignment:
+1. Write and explain the procedure for finding the centre of a circle.
+2. Draw and label a circle through three points not on a straight line.
+3. Construct two touching circles and label all key points.
+4. Explain why neatness is important in technical construction.
+
+QC REPORT:
+Detected Class: JSS2 (Basic 8)
+Detected Subject: Basic Technology
+Detected Topic: Revision/Circles
+Major Improvements Made:
+- Converted topic into full two-contact inspection-ready lesson note.
+- Organized construction procedures into clear, teachable steps.
+- Added measurable objectives, objective-based evaluation, and practical assignments.
+- Standardized language quality and formatting.
+Assumptions Made:
+- Week One topic (Revision/Circles) was treated as Circles for instructional focus.
+- Date was not provided, so blank line was used.

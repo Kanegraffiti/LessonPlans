@@ -1,0 +1,165 @@
+CONTACT 1
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 1st Period
+Subject: Computer Science
+Topic: Spreadsheet Packages I
+Subtopic: Meaning, features, and uses of spreadsheet
+Reference Materials:
+- NERDC Computer Studies/Computer Science Curriculum for Upper Basic Education (JSS3)
+- State Scheme of Work for Second Term Computer Science
+- Approved Computer Science textbooks for Junior Secondary Schools
+Instructional Materials:
+- Computer system with spreadsheet software (e.g., Microsoft Excel)
+- Projector/chart showing spreadsheet interface
+- Whiteboard and marker
+- Sample worksheet printout
+Previous Knowledge:
+- Learners have basic computer operation skills and keyboard use.
+Entry Behaviour:
+- Learners can identify some application software packages.
+Behavioural Objectives:
+By the end of the lesson, learners should be able to:
+- define spreadsheet package.
+- identify major parts of spreadsheet window.
+- state at least five uses of spreadsheet.
+- differentiate workbook from worksheet.
+- enter simple data into rows and columns.
+Lesson Presentations:
+Step 1: Introduction/Set Induction
+- Teacher asks learners how class scores can be arranged and totaled quickly.
+- Teacher introduces spreadsheet as a tool for organizing and calculating data.
+Step 2: Presentation/Teaching Steps
+- Teacher defines spreadsheet package.
+- Teacher explains key features: rows, columns, cells, formula bar, name box, worksheet tabs.
+- Teacher distinguishes workbook and worksheet.
+- Teacher demonstrates basic data entry.
+Step 3: Learners’ Activities
+- Learners identify features on a displayed interface.
+- Learners open spreadsheet and enter sample names and scores.
+- Learners answer oral questions based on demonstration.
+Step 4: Summary/Board Summary
+- Meaning of spreadsheet.
+- Features and terms.
+- Uses in school, office, and business.
+Lesson Content:
+Spreadsheet Package
+- A spreadsheet package is software used to arrange data in tabular form and perform calculations.
+
+Main Features
+- Row: horizontal arrangement (numbered).
+- Column: vertical arrangement (lettered).
+- Cell: intersection of row and column.
+- Formula bar: displays data/formula in active cell.
+- Worksheet: a single sheet.
+- Workbook: collection of worksheets.
+
+Uses of Spreadsheet
+- Recording students’ scores.
+- Preparing budgets.
+- Calculating totals and averages.
+- Producing tables and charts.
+- Data analysis and reporting.
+Evaluation:
+1. Define spreadsheet package.
+2. What is a cell?
+3. Differentiate workbook and worksheet.
+4. List five uses of spreadsheet.
+5. Identify row and column from a sample cell reference (e.g., B4).
+6. Mention two parts of spreadsheet window.
+Conclusion:
+- Teacher concludes that spreadsheet packages make data handling and calculations faster and more accurate.
+Assignment:
+1. Write and explain the meaning of spreadsheet package.
+2. Draw and label a simple spreadsheet showing rows, columns, and cells.
+3. List five areas where spreadsheet is used in everyday life.
+
+CONTACT 2
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 2nd Period
+Subject: Computer Science
+Topic: Spreadsheet Packages I
+Subtopic: Basic operations and simple formula application
+Reference Materials:
+- NERDC Computer Studies/Computer Science Curriculum for Upper Basic Education (JSS3)
+- State Scheme of Work for Second Term Computer Science
+- Approved Computer Science textbooks for Junior Secondary Schools
+Instructional Materials:
+- Computer system with spreadsheet software
+- Prepared practice worksheet
+- Projector/chart for formula examples
+- Whiteboard and marker
+Previous Knowledge:
+- Learners can identify spreadsheet features and enter data.
+Entry Behaviour:
+- Learners can type values into cells.
+Behavioural Objectives:
+By the end of the lesson, learners should be able to:
+- perform basic editing (insert, delete, and correct data).
+- use simple formulas for addition and average.
+- apply AutoSum to compute totals.
+- save worksheet with a correct file name.
+- interpret simple spreadsheet results.
+Lesson Presentations:
+Step 1: Introduction/Set Induction
+- Teacher reviews key terms from Contact 1.
+- Teacher presents a score table and asks how to obtain total and average.
+Step 2: Presentation/Teaching Steps
+- Teacher demonstrates data correction and cell editing.
+- Teacher teaches simple formulas: =B2+C2 and =AVERAGE(B2:B6).
+- Teacher demonstrates AutoSum and saving procedure.
+- Teacher explains error checking for wrong entries.
+Step 3: Learners’ Activities
+- Learners enter data and compute totals in guided practice.
+- Learners apply average formula to sample scores.
+- Learners save files using class naming format.
+Step 4: Summary/Board Summary
+- Basic operations in spreadsheet.
+- Formula writing rules (start with =).
+- Saving and checking work.
+Lesson Content:
+Basic Spreadsheet Operations
+- Entering and editing data.
+- Deleting wrong data.
+- Adjusting column width.
+
+Simple Formulas
+- Addition: =B2+C2
+- Total with AutoSum: SUM range function.
+- Average: =AVERAGE(B2:B6)
+
+Saving Spreadsheet Work
+- Click File > Save As.
+- Choose folder and enter meaningful file name.
+- Save regularly to avoid data loss.
+Evaluation:
+1. What symbol begins a spreadsheet formula?
+2. Write a formula to add values in cells D2 and E2.
+3. Which function is used to find average?
+4. State two steps for saving a spreadsheet file.
+5. Correct this formula: B2+C2.
+6. Explain one importance of AutoSum.
+7. Calculate total of 15, 20, and 25 using spreadsheet method.
+Conclusion:
+- Teacher reinforces that spreadsheet formulas improve speed and accuracy of calculations.
+Assignment:
+1. Write and explain three basic spreadsheet operations.
+2. Draw and label a worksheet used to record five students’ scores.
+3. Enter five scores and calculate total and average (practical).
+4. Explain common errors learners make when entering formulas.
+
+QC REPORT:
+Detected Class: JSS3 (Basic 9)
+Detected Subject: Computer Science
+Detected Topic: Spreadsheet Packages I
+Major Improvements Made:
+- Rebuilt the lesson into complete two-contact inspection-ready format.
+- Added practical spreadsheet activities suitable for JSS3 level.
+- Improved objective-based evaluation and assignment tasks.
+- Corrected structure, language quality, and consistency.
+Assumptions Made:
+- Week 1 topic was chosen as the intended lesson target.
+- Date was not provided, so blank line was used.
