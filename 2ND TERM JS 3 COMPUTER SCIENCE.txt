@@ -1,1136 +1,242 @@
-NAME____________________________________CLASS: _______
+SECOND SEMESTER LESSON PLAN – JSS3 COMPUTER SCIENCE (WEEKS 1–8)
 
-SECOND TERM E-LEARNING NOTES
-
-JS 3 (BASIC 9)
-
-SUBJECT: COMPUTER SCIENCE
-
-SCHEME OF WORK
-
-WEEK TOPIC
-
-1 Revision of First term work
-
-2. Spreadsheet Packages:
-
-  First Period: (a) Meaning (b) Examples of spreadsheet package: (i)
-  Excel (ii) LOTUS 1,2,3 (iii) Statview etc.
-
-Second Period: (b) Uses of spreadsheet packages: (i) preparation of
-daily sales (ii) Budget
-
-  (iii) Examination result, etc.
-
-3. Spreadsheet packages cont.
-
-  First & second
-
-  period: (a) Spreadsheet features and terminologies (i) Row (ii) Column
-  (iii)) Cell
-
-  (iv) Worksheet (v) Chart (vi) Data range etc.
-
-  (b) Loading and exiting spreadsheet packages.
-
-4. Worksheets
-
-  First Period: (a) Starting Excel worksheet: i.e. (i) opening a
-  worksheet (ii) Data entry (iii) Editing (iv) saving (v) Retrieving
-  worksheet
-
-Second Period: (b) Formatting worksheet, i.e. (text, cell and column,
-naming, etc)
-
-5. Worksheets cont.
-
-  First period: (c) Excel calculations: (i) Addition (ii) Subtraction
-  (iii) Average (iv) Counting (v) Multiplication (vi) Division, etc
-
-Second: (d) Printing of worksheets
-
-6. Practical on excel calculation.
-
-7. Graphs:
-
-  First period: (a) Creating Graphs. (i) Line graph (ii) Histograms
-  (iii) Pie-charts (iv) Legends, etc.
-
-Second Period: (b) Editing graphs
-
-8. Graphs cont.
-
-F & S period: (c) Formatting graphs: (i) Line graph (ii) Histograms
-(iii) Pie-charts (iv) Legends
-
-9. Practical on Excel graphs.
-
-10. Revision
-
-WEEK 1. Revision of First term work
+WEEK 1
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 1st Period
+Topic: Computer Networks
+Subtopic: Meaning and types of networks
+Reference Materials:
+- NERDC Computer Studies Curriculum
+Instructional Materials:
+- Network topology charts
+Previous Knowledge:
+- Learners know basic computer components.
+Entry Behaviour:
+- Learners mention places where computers are connected.
+Behavioural Objectives:
+- Define computer network.
+- List at least three network types.
+Lesson Presentations:
+- Teacher introduces LAN, MAN, and WAN.
+Lesson Content:
+- Network is interconnection of computers for sharing resources.
+Diagram:
+PC1 -- Switch -- PC2
+             \
+              PC3
+Evaluation:
+- Define LAN and WAN.
+Conclusion:
+- Networks enable communication and resource sharing.
+Assignment:
+- State two advantages of a computer network.
 
 WEEK 2
-
-TOPIC: SPREADSHEET PACKAGES I
-
-Content: - Meaning and Definition of Spreadsheet Package
-
-- USES OF SPREADSHEET PACKAGES
-
-Sub-Topic 1: Meaning and Definition of Spreadsheet Package
-
-A Package can be defined as software written to perform a particular
-task. Therefore, a Spreadsheet Package is a program that enables the
-computer user to carry out calculation-related tasks. Spreadsheets are
-majorly used for organizing and analyzing numeric data. They were
-designed to replace the pencil, calculator and the writing pad.
-
-It is widely used in diverse range of discipline like Engineering,
-Mathematics, Science, Accounting, etc.
-
-Examples of Spreadsheet Package.
-
-- Lotus 1-2-3
-
-- Microsoft Excel
-
-- STATVIEW
-
-- Quattro pro
-
-- Easy Calc
-
-- GS-Calc
-
-- Super-Calc
-
-- Visical
-
-NOTE: For the purpose of this lesson, our focus shall be on Microsoft
-Excel because it is user-friendly, flexible and contains more advanced
-features.
-
-Sub-topic 2:
-
-USES OF SPREADSHEET PACKAGES
-
-- For Statistical analysis
-
-- For Mathematical purposes
-
-- Regression analysis
-
-- Budget management and control
-
-- Preparation of daily sales report
-
-- Stock / Inventory control analysis
-
-- Preparation of examination results
-
-- Accounting purpose
-
-- Financial projection and analysis
-
-- Preparation of Payroll, etc
-
-EVALUATION:
-
-1. What do you understand by Spreadsheet Package?
-
-2. (a) Give FIVE examples of Spreadsheet Package
-
-(b) State SEVEN uses of Spreadsheet Package
-
-WEEKEND ASSIGNMENT
-
-1. ............................. is a package that is majorly used for
-organizing and analyzing numeric data.
-
-  (a) Word-processing (b) Graphics (c) Spreadsheet (d) Mavis Beacon
-
-2. Which of the following is NOT an example of spreadsheet package?
-
-(a) MS Excel (b) GS-Calc (c) Adobe PageMaker (d) STATVEIW
-
-3. Which of the following is a major function of spreadsheet packages?
-
-  (a) for financial projection and analysis (b) for compiling the names
-  of staff in an organisation (c) for preparing official documents (d)
-  for artistic display
-
-4. The Spreadsheet package is referred to as a/an
-................................. program
-
-(a) System (b) Application (c) Calculation (d) Analysis
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 2nd Period
+Topic: Internet Services
+Subtopic: WWW, email, and search engines
+Reference Materials:
+- Approved Computer Studies textbook
+Instructional Materials:
+- Browser screenshots
+Previous Knowledge:
+- Learners have visited websites.
+Entry Behaviour:
+- Learners mention common online platforms.
+Behavioural Objectives:
+- Explain basic internet services.
+Lesson Presentations:
+- Teacher demonstrates web navigation steps.
+Lesson Content:
+- WWW provides web pages; email enables messaging; search engines locate information.
+Evaluation:
+- Mention three internet services.
+Conclusion:
+- Internet services support learning and communication.
+Assignment:
+- Write five safe internet practices.
 
 WEEK 3
-
-TOPIC: SPREADSHEET PACKAGES II
-
-CONTENT: - Spreadsheet Features and Terminologies
-
-- Loading and Exiting Spreadsheet Packages
-
-Sub-Topic 1:
-
-Spreadsheet Features and Terminologies
-
-To fully understand and use a spreadsheet package, one must be used to
-some terminologies. These terminologies include;
-
-- Row
-
-- Column
-
-- Cell
-
-- Active Cell
-
-- Worksheets
-
-- Workbook
-
-- Chart
-
-- Data Range
-
-- Fill handle
-
-- Moving border
-
-ROWS:
-
-A Row is a horizontal line of cells which runs from left to right in a
-worksheet. They can be identified by the numbers at the left hand side
-of the sheet numbered from 1 to 1,048,576
-
-COLUMNS:
-
-A Column is a vertical line of cells in a worksheet usually identified
-by letters across the top of the sheet. There are about 16,384 columns
-in Excel 2007.
-
-CELL:
-
-A Cell is the intersection of a row and a column. The highlighted
-rectangle on the cell is the cursor but is known as ‘cell pointer’ which
-enable users to move around the sheet. They can be identified by the
-combination of column header (e.g ‘A’) and the row header (e.g ‘1’) to
-give cell A1.
-
-ACTIVE CELL:
-
-The active cell is the cell that contains the cell pointer, while the
-active worksheet is the worksheet where the cell pointer is currently
-located.
-
-WORKSHEET:
-
-The worksheet (also known as spreadsheet) is the working area of the
-package where entering of data and calculations are handled. It consists
-of rows, columns, cells and a cell pointer where data are actually
-entered and manipulated.
-
-WORKBOOK:
-
-This can be simply defined as a collection of worksheets. Each workbook
-contains many worksheets just like a normal single book with a number of
-pages.
-
-CHART:
-
-A Chart is a graphical representation of data that enables you to
-understand the data at a glance. Examples of Charts includes Column
-(histogram), Pie chart, Bar Chart, Line Chart, Surface, Doughnut, etc.
-
-DATA RANGE:
-
-A group of highlighted cells in a worksheet is referred to as a Range.
-
-FILL HANDLE:
-
-This is a small black square at the corner of selected cells. The cursor
-changes to a black cross when moved to it.
-
-MOVING BORDER:
-
-This is an animated border that appears around a selected cell that has
-been cut or copied. Press the ESC key to cancel a moving border.
-
-The features of a typical Microsoft environment is presented below;
-
-[]
-
-NOTE: Educators should please ensure that the Excel environment is
-carefully treated with the participation of the students.
-
-Sub-topic 2:
-
-LOADING AND EXITING SPREADSHEET PACKAGES
-
-Loading the Spreadsheet Package
-
-To load a spreadsheet package, take the following steps:
-
-- Click on the START button
-
-- Point to ALL PROGRAMS
-
-- Point to Microsoft Office
-
-- Click on Microsoft Excel
-
-METHOD II
-
-Double-click the Microsoft Excel icon on the desktop. The spreadsheet
-package opens. The active cell is cell A1 and the active worksheet is
-sheet1.
-
-Exiting the Spreadsheet package
-
-To exit a spreadsheet package, take any of the following steps:
-
-- Click on the File menu and select Exit.
-
-- Click on the Close button on the title bar
-
-- Press ALT+F4.
-
-EVALUATION:
-
-1. Briefly explain the following terminologies:
-
-(i) Row (ii) Column (iii) Cell (v) Workbook (vi) Data Range
-
-2. Highlight the steps required to load and exit Microsoft Excel
-
-WEEKEND ASSIGNMENT:
-
-1. Which of the following is NOT a spreadsheet terminology?
-
-(a) Fields (b) Cell (c) Workbook (d) Moving border
-
-2. Which of the following key combinations can be used to exit a
-spreadsheet package?
-
-(a) CTRL+F4 (b) Pgdn+F4 (c) DEL+F4 (d) ALT+F4
-
-3. In Spreadsheet package, a group of highlighted cells in a worksheet
-is referred to as a .............
-
-(a) Limit (b) Range (c) Boundary (d) worksheet
-
-4. To cancel a moving border, simply press the .......................
-key
-
-(a) TAB (b) END (c) ALT (d) ESC
-
-5. ................ is a graphical representation of data that enables
-you to understand the data at a glance. (a) Row (b) Active cell (c)
-Chart (d) Column
-
-6. ............... is a small black square at the corner of selected
-cells.
-
-(a) Cell pointer (b) Fill handle (c) Border (d) Marker
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 3rd Period
+Topic: Web Design Basics
+Subtopic: Structure of an HTML page
+Reference Materials:
+- HTML learner guide
+Instructional Materials:
+- Projector and sample HTML file
+Previous Knowledge:
+- Learners know text editor usage.
+Entry Behaviour:
+- Learners can create and save text files.
+Behavioural Objectives:
+- Identify basic HTML tags.
+- Create a simple web page.
+Lesson Presentations:
+- Teacher codes a sample page live.
+Lesson Content:
+- Essential tags: <html>, <head>, <title>, <body>, <h1>, <p>.
+Diagram:
+<html>
+  <head>...</head>
+  <body>Content</body>
+</html>
+Evaluation:
+- Write a simple HTML document structure.
+Conclusion:
+- HTML provides structure for web pages.
+Assignment:
+- Create a page titled “My School”.
 
 WEEK 4
-
-TOPIC: WORKSHEET I
-
-Sub-Topic 1: Definition of a Worksheet:
-
-A Worksheet can be defined as the working area of the program where
-entering of data and calculations are handled. It consists of rows,
-columns, cells and a cell pointer.
-
-Starting Excel worksheet: This entails the following
-
-(i) opening a worksheet (ii) Data entry (iii) Editing (iv) saving (v)
-Retrieving worksheet
-
-Opening a worksheet:
-
-To create a new worksheet, follow the steps below:
-
-- Open Microsoft Excel from the Start button
-
-- Click on Office button to display a sub menu
-
-- Select New
-
-- Click on Create
-
-- A new workbook will be displayed.
-
-Method II:
-
-- Open Microsoft Excel
-
-- Press Ctrl + N
-
-Data Entry:
-
-There are three types of data that can be entered into an excel
-worksheet. These are Labels, Numbers and Formula.
-
-Labels are made up of texts that are entered into the active worksheet.
-Examples are letters of alphabets (A-Z)
-
-Numbers / values consists of numerals 0 – 9
-
-Formulas are mathematical expressions which return calculated value.
-
-A typical example of data entry is shown below;
-
-[]
-
-Fig. 4.1: Entering data into the worksheet.
-
-NOTE: Educators should please ensure that students practise the act of
-entering data into the worksheet by entering the data shown in fig. 4.1
-above.
-
-Editing the Worksheet
-
-Editing a worksheet means to either insert data, delete existing ones or
-to make corrections to the already existing data. Fig. 4.2 below shows
-the edited version of fig. 4.1
-
-[]
-
-Fig. 4.2: Editing Worksheet
-
-NOTE: Educators should please ensure that the students edit the previous
-excel sheet (fig 4.1) to give the excel sheet shown above (fig 4.2)
-
-Saving a Worksheet
-
-To save a worksheet for the first time, follow the steps below;
-
-- Click on the Microsoft office Button
-
-- Click on Save
-
-- When the dialog box appears, in the save in box click on the arrow, a
-  drop down menu appears.
-
-- Select a location to save e.g My Document
-
-- Type a file name in the File name box.
-
-- Click on Save
-
-  Save in Box Arrow for Drop Down
-
-  []
-
-File Name Box Save Button
-
-Fig 4.3: Save As Dialog Box
-
-Subsequently, just press ctrl + S to continue saving the worksheet.
-
-NOTE: Educators should please show the students other methods of saving
-a worksheet
-
-Retrieving a Worksheet
-
-To retrieve an existing or saved worksheet, follow the steps below;
-
-- Load the spreadsheet package (Microsoft Excel in this case)
-
-- Click on the File menu or the Microsoft Office button
-
-- Click on Open, the open dialog box will be displayed
-
-- Click on the arrow beside the Look in box
-
-- Select My Document from the drop down menu
-
-- Click on the File Name
-
-- Click on Open
-
-Sub-Topic 2:
-
-Formatting Worksheet:
-
-The general arrangement of data is known as ‘Formatting’. The contents
-of selected cells can be formatted using the formatting tool bar.
-Formatting changes the way numbers and text are displayed in a
-worksheet.
-
-Changing Fonts:
-
-NOTE: Educators should practically demonstrate the methods of changing
-font sizes, style, colour, attributes(bold, italics and underline),
-alignment(left, right, center), style, etc.
-
-Formatting values in a range:
-
-The number entered in the worksheet can be formatted to have currency
-symbols like the dollar ($). To follow numbers in a worksheet follow the
-under listed steps;
-
-- Highlight the number(s) in the desired range
-
-- Click on the arrow beside the number on the ribbon bar
-
-- When the dialog box appears, click on the number tab
-
-- Select Currency
-
-- Click on the arrow beside the symbol to get a drop down menu
-
-- Select the required symbol e.g dollar sign with 2 decimal places
-
-- Click on OK
-
-[]
-
-Fig. 4.4: The Format cells dialog box
-
-NOTE: Educators should please guide the students to format the cells in
-fig. 4.2 above using the steps described above.
-
-Adjusting the Column Width:
-
-To adjust the column width so as to accommodate the contents of the
-cell, follow the steps below;
-
-- Click on the cell to be adjusted
-
-- Position the cell pointer on the column tab,
-
-- The cell pointer changes to a cross
-
-- Click and drag to the right to increase the column width
-
-- Release the mouse button
-
-NOTE: When the hash sign (#) is displayed inside a cell that contains
-data, it means the content of the cell is more than what the cell can
-accommodate. The column widths of that cell need to be adjusted.
-
-Renaming the Worksheets
-
-When MS Excel is opened, the sheets are named Sheet 1, Sheet 2, etc. To
-rename a worksheet:
-
-- Right click on the sheet tab to be renamed
-
-- Select Rename
-
-- Type the name you wish to give to the sheet
-
-- Press the Enter key
-
-  []
-
-Fig. 4.4: Renaming the worksheet.
-
-Inserting Rows or Columns:
-
-To shift existing rows or columns to create blank rows or columns,
-follow the steps below;
-
-- Select the current row or column where the new row or column would be
-  inserted
-
-- Click on Insert menu
-
-- Click on rows or columns
-
-EVALUATION:
-
-1. (a) Define a Worksheet.
-
-(b) State the THREE types of data that can be entered into a worksheet.
-
-2. Highlight the steps required to do the following;
-
-(a) Open a worksheet (b) Save a worksheet (c) Retrieve a worksheet
-
-(d) Rename a worksheet
-
-WEEKEND ASSIGNMENT:
-
-1. .................... can be defined as the working area of the
-program where entering of data and calculations are handled.
-
-(a) Worksheet (b) Workbook (c) Workcell (d) row
-
-2. Which of the following cannot be found in a worksheet?
-
-  (a) Cell pointer (b) Column (c) Animations (d) Row
-
-3. .................... are mathematical expressions which return
-calculated value.
-
-(a) MS Excel (b) Formula (c) Equation (d) Function
-
-4. To save a workbook for future reference, a ......................
-must be given to it.
-
-(a) File name (b) File title (c) Reference name (d) Reference title
-
-5. ..................... changes the way numbers and text are displayed
-in a worksheet.
-
-(a) Arrangement (b) Decoration (c) Formatting (d) Highlighting
-
-6. ................... sign is displayed when the content of the cell is
-more than what the cell can accommodate. (a) ₦ (b) Σ (c) £ (d) #
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 4th Period
+Topic: Data Security
+Subtopic: Threats and protection measures
+Reference Materials:
+- Cyber safety handbook
+Instructional Materials:
+- Posters on malware and password rules
+Previous Knowledge:
+- Learners know computer files can be lost.
+Entry Behaviour:
+- Learners mention ways devices are misused.
+Behavioural Objectives:
+- Define malware.
+- State data protection methods.
+Lesson Presentations:
+- Teacher discusses virus, phishing, and ransomware.
+Lesson Content:
+- Protect data using strong passwords, antivirus, updates, and backups.
+Evaluation:
+- Mention four data security practices.
+Conclusion:
+- Good security habits protect data and privacy.
+Assignment:
+- Design a 5-rule cyber safety poster.
 
 WEEK 5
-
-TOPIC: WORKSHEET II
-
-Sub-Topic 1: EXCEL CALCULATIONS:
-
-The basic and most powerful feature of Microsoft Excel is the ability to
-accept formula into the worksheet. A Formula is an instruction that is
-entered to tell Excel how to Add, Subtract, Multiply, Divide, or
-otherwise perform calculation by using the content of other cells.
-
-It is advisable to construct formula that makes reference to cells in
-the worksheet so that the result can be instantly generated even the
-values are changed.
-
-When working on Excel calculations, the following guidelines should be
-noted;
-
-(i) To enter a formula, first select the cell that will contain the
-formula.
-
-(ii) All formula must begin with equal (=) sign tells Excel to treat the
-cells contents as a formula.
-
-(iii) The formula should not be more than 1024 characters.
-
-(iv) The function name (e.g. SUM, AVERAGE) which is preceded by equal
-(=) sign must be selected and followed by the desired argument, i.e.
-=SUM(A5:F5). In this case, SUM is the function name and A5:F5 is the
-argument.
-
-Addition: Using the SUM Function
-
-The SUM function is used to add together a range of data or numbers. To
-sum up the values of a range of data:
-
-- Open the worksheet containing data (as previously done in fig 4.2
-  above).
-
-- Position the cell pointer on the desired cell i.e. the cell where the
-  result should be displayed.
-
-- Type equal sign, Select the function (i.e. SUM) and state the range of
-  cells.
-
-- MS Excel will highlight the range specified.
-
-- Press the Enter key.
-
-- The result is displayed.
-
-  []
-
-Fig 5.1: summing up a range of values
-
-NOTE: Educators should kindly ensure that each student follow the steps
-above and should also endeavour to explain alternative methods using the
-‘AUTOSUM’ symbol (Σ), and Addition sign(+).
-
-Subtraction: Using the IMSUB Function
-
-The IMSUB function is used to find the difference of two numbers. To
-find the difference of a range of data;
-
-- Open the worksheet containing data (as previously done in fig 4.2
-  above).
-
-- Position the cell pointer on the desired cell i.e. the cell where the
-  result should be displayed.
-
-- Type equal sign, Select the function (i.e. IMSUB) and state the range
-  of cells, usually two cells.
-
-- MS Excel will highlight the range specified.
-
-- Press the Enter key.
-
-- The result is displayed.
-
-NOTE: Educators should kindly explain alternative methods using the
-Subtraction sign (-)
-
-Average: It is also possible to use the spreadsheet package to find the
-average of certain values or group of numbers. To find average:
-
-- Position the cell pointer in the desired cell where result is to be
-  displayed
-
-- Type “=AVERAGE (DATA RANGE)” in the formula bar
-
-- Press the ENTER KEY
-
-- The result is displayed in the cell
-
-Count:
-
-The count function is used to ascertain the number of cells within a
-specified range that contains values. To use the count function;
-
-- Position the cell pointer in the desired cell
-
-- Click on AutoSum (Σ) and select “Count”
-
-- Press the ENTER KEY.
-
-Multiplication:
-
-The multiplication function is solely for multiplication of numbers just
-like in arithmetic. To multiply a range of data;
-
-- Position the cell pointer on the desired cell i.e. the cell where the
-  result should be displayed.
-
-- Type equal sign, Select the function (i.e. PRODUCT) and state the
-  range of cells.
-
-- MS Excel will highlight the range specified.
-
-- Press the Enter key.
-
-- The result is displayed.
-
-Also, the symbol (*) can be used.
-
-Division:
-
-To divide a range of values;
-
-- Position the cell pointer on the desired cell i.e. the cell where the
-  result should be displayed.
-
-- Type equal sign, Select the function (i.e. QUOTIENT to display the
-  integer portion of a division) and state the range of cells.
-
-- MS Excel will highlight the range specified.
-
-- Press the Enter key.
-
-- The result is displayed.
-
-Also, the symbol (/) can be used to display the exact result.
-
-NOTE: Educators should please endeavour to expose the students to some
-other functions embedded in the worksheet program.
-
-Sub-topic 2:
-
-Printing of Worksheet
-
-After the spreadsheet have been formatted and properly calculated the
-next thing is to get the worksheet printed. To print your worksheet,
-take the following steps:
-
-- Highlight the range to be printed
-
-- Click on the Office button and select Print
-
-- Select the name of the printer from the Printer Name box
-
-- Enter the number of copies to print
-
-- Click on Preview button and select Page Set Up. Set all the necessary
-  parameters like margins, page layout, paper size and grid lines (if
-  necessary).
-
-- Click on OK
-
-- Click on Print.
-
-  EVALUATION
-
-  1. State THREE guidelines that must be followed when performing excel
-  calculations
-
-  2. Highlight the major steps required to carry out the following
-  calculations;
-
-  (a) Addition (b) Subtraction (c) Count (d) Average (e) Division
-
-  WEEKEND ASSIGNMENT
-
-  1. Which of the following signs can be used for multiplication in MS
-  Excel?
-
-  (a) + (b) X (c) & (d) *
-
-  2. In Excel, the expression C4:F20 is usually referred to as a/an
-  .......................
-
-  (a) Function (b) Function Name (c) Argument (d) Expression
-
-  3. In Excel, the function IMSUB is used for .......................
-
-  (a) Addition (b) Subtraction (c) Multiplication (d) Division
-
-  4. The .................. function is used to ascertain the number of
-  cells within a specified range containing values.
-
-  (a) MAXIMUM (b) COUNT (c) SORT (d) AVERAGE
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 5th Period
+Topic: Spreadsheet Applications
+Subtopic: Formulas and functions
+Reference Materials:
+- Spreadsheet workbook
+Instructional Materials:
+- Sample worksheet
+Previous Knowledge:
+- Learners can enter data in cells.
+Entry Behaviour:
+- Learners identify row, column, and cell.
+Behavioural Objectives:
+- Use SUM and AVERAGE functions.
+Lesson Presentations:
+- Teacher demonstrates formula entry.
+Lesson Content:
+- Formulas start with '=' and can reference cell addresses.
+Diagram:
+A1: 20
+A2: 30
+A3: =SUM(A1:A2)  -> 50
+Evaluation:
+- Compute total of values in B1:B5.
+Conclusion:
+- Functions automate calculations.
+Assignment:
+- Create a score sheet and calculate average.
 
 WEEK 6
-
-DATE:………………………………….
-
-Activity: PRACTICAL ON EXCEL CALCULATION
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 6th Period
+Topic: Database Concepts
+Subtopic: Fields, records, and tables
+Reference Materials:
+- Computer studies curriculum
+Instructional Materials:
+- Sample student database table
+Previous Knowledge:
+- Learners know data and information difference.
+Entry Behaviour:
+- Learners fill class attendance sheets.
+Behavioural Objectives:
+- Define field, record, and table.
+Lesson Presentations:
+- Teacher maps paper register to database table.
+Lesson Content:
+- Field = single data item; record = full row; table = collection of records.
+Evaluation:
+- Differentiate record and field.
+Conclusion:
+- Databases organize data for easy retrieval.
+Assignment:
+- Draw a table for library records with five fields.
 
 WEEK 7
-
-DATE: ……………………..
-
-TOPIC: GRAPH
-
-CONTENT: - Creating Graph
-
-Sub-Topic 1: CREATING GRAPH
-
-GRAPH: A graph is a diagram showing the relationship that exist among
-variables, quantities (varies data), usually of two, each measured along
-one of a pair of axes at right angles. It may not be possible to plot a
-graph without value. The excel spreadsheet provides the values that are
-plotted.
-
-Creating graph
-
-To create a graph, you can either use the chart wizard or press the F11
-key
-
-Types of Chart
-
-1.  Line graph
-
-2.  Histograms
-
-3.  Pie-charts
-
-4.  Legends
-
-1. Line graph: Line graphs are often used to plot changes in data over
-time, such as monthly temperature changes or daily changes in stock
-market prices. Line graphs have a vertical axis and a horizontal axis.
-If you are plotting changes in data over time, time is plotted along the
-horizontal or x-axis and your other data, such as rainfall amounts is
-plotted as individual points along the vertical or y-axis
-
-[]
-
-2. Histograms: A histogram consists of tabular frequencies, shown as
-adjacent rectangles, erected over discrete intervals (bins), with an
-area equal to the frequency of the observations in the interval. The
-height of a rectangle is also equal to the frequency density of the
-interval.
-
-Sub-Topic 2: PIE CHART and LEGEND
-
-3. PIE-CHART: Pie-charts, or circle graphs as they are sometimes known,
-are a little different from the other two types of graphs discussed.
-
-For one, pie charts do not use horizontal and vertical axes to plot
-points like the others. They also differ in that they are used to chart
-only one variable at a time. As a result, it can only be used to show
-percentages. The circle of pie charts represents 100%. The circle is
-subdivided into slices representing data values. The size of each slice
-shows what part of the 100% it represents.
-
-4. LEGEND: A legend is used to identify each series in a chart. Its
-contains on sample of the marker colour and pattern of each series.
-
-EVALUATION
-
-1.  What do you understand by the term chart
-
-2.  List the various types of chart you are familiar with in MS-Excel
-
-ASSIGNMENT
-
-1.  Construct the following
-
-i)  Histogram
-
-ii) Pie chart
-
-iii) Bar chart
-
-  -------------------------------------------------------------------------
-  Subject      English      Maths        Computer   Technology   science
-  ------------ ------------ ------------ ---------- ------------ ----------
-  Scores       50           70           75         60           45
-
-  -------------------------------------------------------------------------
-
-2. The table below gives the age of a group of pupils in a school
-
-  ---------------------------------------------------------------------------
-  Age (yr)           13   14           15           16           17
-  ------------------ ---- ------------ ------------ ------------ ------------
-  Number of pupils   1    4            2            2            1
-
-  ---------------------------------------------------------------------------
-
-Draw a bar chart to show the information in the table
-
-3. Represent the information in the table below on a line graph
-
-  --------------------------------------------------------------------------
-  Subject        English     Maths        Computer    Basic Sci.  Music
-  -------------- ----------- ------------ ----------- ----------- ----------
-  Time allotted  100         120          100         100         100
-
-  --------------------------------------------------------------------------
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 7th Period
+Topic: Computer Ethics
+Subtopic: Responsible use of ICT
+Reference Materials:
+- School ICT policy
+Instructional Materials:
+- Ethics scenario cards
+Previous Knowledge:
+- Learners use digital tools for assignments.
+Entry Behaviour:
+- Learners discuss acceptable and unacceptable online behavior.
+Behavioural Objectives:
+- Explain computer ethics.
+- List ethical ICT practices.
+Lesson Presentations:
+- Teacher leads scenario-based discussion.
+Lesson Content:
+- Respect privacy, avoid plagiarism, avoid cyberbullying, and use software legally.
+Evaluation:
+- State four ethical rules in computer use.
+Conclusion:
+- Ethics ensures safe and responsible technology use.
+Assignment:
+- Write short notes on plagiarism and copyright.
 
 WEEK 8
-
-DATE: ………………..
-
-TOPIC: - FORMATTING GRAPHS
-
-CONTENT: - Changing Chart Type
-
-SUB-TOPIC 1
-
-CHANGING CHART TYPE
-
-After creating a chart, you can change it to the type you want. The type
-you choose depends on how you want to present your data.
-
-- Select the chart
-
-- Within the chart, click the right mouse button OR
-
-- Click on insert on menu bar
-
-- Click on change Chart type
-
-- Under Chart Type, list click to select the desired chart type (e.g,
-  Column, Bar, Line, etc)
-
-Under Chart sub-type list, click to select the chart sub-typed desired.
-You can view the chart sample by pressing it and hold to view sample
-button.
-
-- Click on OK when satisfied
-
-Changing from histogram to pie chart using the same data
-
-  ADDING AND EDITING CHARTS
-
-  Once you have created a chart, you can add more chart data series or
-  copy additional chart data series from a worksheet or another chart.
-  Microsoft Excel offers a variety of ways to edit your chart data
-
-  You can change a chart data series by:
-
-- Adding a chart data series to a chart
-
-- Adding or removing more data point to the existing chart data series.
-
-- Plotting the data by rows or by columns.
-
-To add or edit a chart data series with chart wizard tool
-
-- Select the chart you want to edit
-
-- Click the chart wizard tool
-
-- Follow the instruction on the screen
-
-The chart is automatically updated to reflect the new data
-
-Adding more data to the present data gives us
-
-Sub-Topic 2: FORMATTING A CHART
-
-FORMATTING A CHART
-
-You can change the font of chart text, change the horizontal and
-vertical alignment and rotate text to a vertical orientation. You can
-also change the pattern and color of the text area. The text is
-displayed in the front of the area pattern so that it is always visible.
-Microsoft Excel automatically formats the charts title and axes title as
-bold.
-
-To format chart text with the standard tool bar
-
-- To format all the text in a chart, select the chart by choosing select
-  chart from the chart menu. To format a single piece of attached or
-  unattached text, click the text to select it. To format tick-mark
-  labels for an axis, click the axis to select it.
-
-To format text that appears in a legend, click the legend; click the
-legend to select it.
-
-- Click one of the formatting or alignment tools to format the text
-
-  EVALUATION
-
-1.  List the steps involved in formatting chart text
-
-2.  State the steps in adding or editing chart
-
-  WEEKEND ASSIGNMENT:
-
-  Objective Test:
-
-1.  Which of the following is not a type of graph (a) Line graph (b) Pie
-    Chart (c) Histogram (d) Bigram
-
-2.  ……………………….. is a circle divided into sections (a) Bar Chart (b)
-    Histogram (c) Pictogram (d) Pie- chart
-
-Essay Test:
-
-1. Construct a bar chart for the data below
-
-  ---------------------------------------------------------------------------
-  No. of         5     3     8     7     2     8     6     10    1     4
-  students                                                             
-  -------------- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------
-  Performances   10    20    30    40    50    60    70    80    90    100
-  in Comp.                                                             
-  studies Exam                                                         
-
-  ---------------------------------------------------------------------------
-
-2. Change the above bar chart to line graph
-
-WEEK 9
-
-DATE…………….
-
-TOPIC: COMPUTER GAMES
-
-CONTENT: Computer Games
-
-Sub-Topic 1: COMPUTER GAMES
-
-Computer game is also called PC game, is a video game played on personal
-computer, rather than on a video game console OR Computer games are
-software programs used for relaxation and to learn some skills.
-
-Video game is an electronic or computerized game played by manipulating
-images on a video display television screen. Examples of computer game
-include;
-
-1.  Spider Solitaire 2. Packman 3. Space commander 4. Digger 5.
-    Pinball 6. Chess 7. Heart
-
-Some computer games are supplied by Microsoft windows while some are
-downloaded from internet. Computer games can be played using the
-following input devices:
-
-i)  Keyboard (through the arrow keys)
-
-ii) Joystick
-
-iii) Mouse
-
-iv) Game pad
-
-Reasons for playing Computer games
-
-1.  For the purpose of entertainment
-
-2.  For educational purpose
-
-3.  For teaching purpose
-
-4.  To develops some skills
-
-Types of games:
-
-There are many types of computer games. These have been classified into
-three categories:
-
-1.  Recreational games
-
-2.  Skill enhancement
-
-3.  Entertainment games
-
-Sub-Topic 2: Recreational Games; Advantages/Disadvantages of Computer
-Games.
-
-RECREATIONAL GAMES
-
-These are games played at leisure time for relaxation after working for
-long period of time e.g. Free cell, Casino, heart
-
-Skill Enhancement games
-
-They are games designed for skill enhancement and recycling, Quizzing,
-puzzles, Mathematics games
-
-Entertainment Games
-
-These are types of games played to entertain friends and visitors e.g
-Musical games, Mimicking and guessing
-
-ADVANTAGES OF COMPUTER GAMES
-
-1.  It helps to stimulate (encourage) children and adult interest in
-    learning these of computers.
-
-2.  Computer games helps to develop habit of concentration e. Test Drive
-    Game
-
-3.  It can be used to manage or reduce stress condition
-
-4.  Computer games are used for teaching and learning of different
-    subjects, e.g Music, mathematics, English, Speed and accuracy e.t.c
-
-5.  Computer games enhanced the physical well being of the player
-
-6.  Computer games are useful for recreation, skill acquisition and
-    entertainment.
-
-DISADVANTAGES OF COMPUTER GAMES
-
-1.  It wastes valuable time
-
-2.  It jeopardizes the opportunity for doing other good things
-
-Evaluation
-
-1.  What is computer game
-
-2.  Name three input devices used to play computer games
-
-Weekend Assignment
-
-1.  All the following are computer games except……… (a) Chess (b)
-    Trojan (c) Packman (d) Pinball
-
-2.  Computer games can be played using all the following except
-    ………….. (a) Computer Keyboard (b) Mouse (c) Joystick (d) Digger
-
-3.  Which of the following is not a reason for playing computer game
-
-(a) For fraudulent purposes (b) For entertainment (c) For educational
-    purpose (d) For teaching purposes
-
-4.  ………….. is a computer software used for relaxation to learn skill (a)
-    Anti virus (b) Computer (c) Games (d) Game pad
-
-Essay
-
-1.  Mention two reasons for playing game
-
-2.  State four disadvantages of playing computer game.
-
-WEEKS 10-13: REVISION AND EXAMINATION
+Date: __________________
+Class: JSS3 (Basic 9)
+Duration: 40 minutes
+Period: 8th Period
+Topic: Term Revision
+Subtopic: Networks, web, security, spreadsheets, and ethics
+Reference Materials:
+- Teacher notes and learner notebooks
+Instructional Materials:
+- Quiz board and practical tasks
+Previous Knowledge:
+- Learners completed Weeks 1–7 topics.
+Entry Behaviour:
+- Learners answer oral recap questions.
+Behavioural Objectives:
+- Demonstrate mastery of key term concepts.
+Lesson Presentations:
+- Teacher conducts quiz and practical recap.
+Lesson Content:
+- Integrated review of all major concepts taught.
+Evaluation:
+- Complete revision worksheet and practical task.
+Conclusion:
+- Consistent practice strengthens digital competence.
+Assignment:
+- Prepare for end-of-term computer practical and theory.
